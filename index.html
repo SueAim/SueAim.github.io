@@ -67,8 +67,25 @@ button:focus-visible,[tabindex]:focus-visible,input:focus-visible{outline:3px so
 .seg.ac button[aria-pressed="true"]{background:var(--fg);color:var(--bg)}
 .range{display:flex;align-items:center;gap:8px;font-size:12.5px;color:var(--muted);font-weight:600}
 .range input{width:100px;accent-color:var(--accent)}
-.stage{grid-area:stage;position:relative;min-height:0;background:var(--scene-bg);overflow:hidden;touch-action:none}
+.stagewrap{grid-area:stage;min-height:0;display:grid;grid-template-columns:minmax(0,1fr)}
+.stage{position:relative;min-height:0;background:var(--scene-bg);overflow:hidden;touch-action:none}
 .stage canvas{display:block;width:100%;height:100%}
+/* scroll rails: the 3D stage swallows every finger-drag and wheel, so on stacked (phone / portrait tablet / narrow window)
+   layouts the strips at its left and right edges stay ordinary page scrollers — swipe or wheel on them, drag the thumb,
+   or tap ▲ / ▼ QUIZ. Hidden in the side-by-side layout, where the page itself does not scroll. */
+.rail{display:none}
+.stagewrap.rails{grid-template-columns:auto minmax(0,1fr) auto}
+.stagewrap.rails .rail{display:flex;flex-direction:column;align-items:stretch;width:calc(28px + var(--rail-inset,0px));padding-inline:0;background:var(--bg2);touch-action:pan-y;user-select:none;-webkit-user-select:none;overscroll-behavior:contain;position:relative;z-index:1}
+.rail.left{--rail-inset:env(safe-area-inset-left,0px);padding-left:env(safe-area-inset-left,0px);border-right:1px solid var(--line)}
+.rail.right{--rail-inset:env(safe-area-inset-right,0px);padding-right:env(safe-area-inset-right,0px);border-left:1px solid var(--line)}
+.rail button{border:0;background:transparent;color:var(--fg);cursor:pointer;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;padding:6px 0;min-height:44px;font-size:15px;line-height:1;touch-action:manipulation}
+.rail button:hover{color:var(--accent)}
+.rail button i{font-style:normal;font-family:var(--f-panel);font-weight:700;font-size:9.5px;letter-spacing:.08em;color:var(--accent);writing-mode:vertical-rl;text-orientation:upright;line-height:1}
+.rail .track{flex:1;min-height:60px;position:relative;width:10px;margin:2px auto;border-radius:999px;background:color-mix(in srgb,var(--line) 75%,transparent);cursor:pointer}
+.rail .thumb{position:absolute;left:-5px;right:-5px;top:0;height:44px;border-radius:999px;background:var(--accent);color:var(--accent-ink);display:grid;place-items:center;font-size:13px;font-weight:700;line-height:1;touch-action:none;cursor:grab;box-shadow:0 2px 8px rgba(0,0,0,.3);will-change:transform}
+.rail .thumb.drag{cursor:grabbing;filter:brightness(1.1)}
+.rail .thumb::before{content:"⇕"}
+@media (hover:hover){ .rail .track:hover .thumb{filter:brightness(1.08)} }
 .labels{position:absolute;inset:0;pointer-events:none;overflow:hidden}
 .leaders{position:absolute;inset:0;width:100%;height:100%;pointer-events:none}
 .callout{position:absolute;left:0;top:0;pointer-events:auto;cursor:pointer;display:flex;align-items:center;gap:8px;padding:3px 11px 3px 4px;border-radius:999px;background:var(--co,#fff);color:var(--ink2,#111);font-weight:700;font-size:12.5px;letter-spacing:.02em;white-space:nowrap;box-shadow:0 4px 14px rgba(0,0,0,.35);border:2px solid rgba(255,255,255,.55);transition:opacity .25s;will-change:transform}
@@ -231,7 +248,7 @@ button:focus-visible,[tabindex]:focus-visible,input:focus-visible{outline:3px so
 #pane-quiz.running .qset,#pane-quiz.running>p{display:none}
 .qhud.slim{max-width:min(360px,calc(100% - 8px));padding:8px 12px;gap:4px}
 .qhud.slim .q{font-size:13.5px} .qhud.slim .fb{font-size:12px}
-.qhud.slim .qacts.right{justify-content:flex-end;margin-top:2px}
+.qhud .qacts.right{justify-content:flex-end;margin-top:2px}
 .qhud.slim .qacts.right:not(:has(button:not([hidden]))){display:none}
 .qhud .choices button{padding:6px 8px;font-size:12.5px;line-height:1.3;background:var(--panel2)}
 .qhud .qfig{padding:5px;border-radius:8px} .qhud .qfig img{max-height:84px} .qhud .qfig.grid img{max-height:60px} .qhud .qfig.grid figure{grid-template-rows:60px auto}
@@ -245,11 +262,13 @@ button:focus-visible,[tabindex]:focus-visible,input:focus-visible{outline:3px so
 .btn.sec{background:var(--panel2);color:var(--fg);border:1px solid var(--line2)}
 .foot{font-size:11.5px;color:var(--faint);border-top:1px solid var(--line);padding-top:10px}
 .foot a{color:var(--muted)}
+.stackedonly{display:none}
 @media (max-width: 920px){
   html,body{height:auto}
+  .stackedonly{display:inline-block}
   .app{height:auto;grid-template-columns:minmax(0,1fr);grid-template-rows:auto auto auto;grid-template-areas:"top" "stage" "panel"}
   .stage{height:min(64vh,560px);min-height:400px}
-  .panel{border-left:0;border-top:1px solid var(--line)}
+  .panel{border-left:0;border-top:1px solid var(--line);min-height:100vh;min-height:100svh} /* a full screen of its own, so ▼ QUIZ can scroll the aircraft right off the top */
   .tabpane{overflow:visible;padding-left:max(16px,env(safe-area-inset-left,0px))}
   .tabs{padding-left:max(10px,env(safe-area-inset-left,0px))}
   .card{max-height:min(100%, calc(64vh - 110px))}
@@ -292,6 +311,12 @@ button:focus-visible,[tabindex]:focus-visible,input:focus-visible{outline:3px so
     </div>
   </header>
 
+  <div class="stagewrap" id="stagewrap">
+  <div class="rail left" aria-label="Page scroll bar (swipe here to scroll past the aircraft)">
+    <button type="button" class="railup" aria-label="Scroll to the top of the page" title="Top">▲</button>
+    <div class="track" aria-hidden="true"><div class="thumb"></div></div>
+    <button type="button" class="raildn" aria-label="Scroll down to the Quiz tab" title="Quiz">▼<i>QUIZ</i></button>
+  </div>
   <section class="stage" id="stage" aria-label="3D aircraft model">
     <canvas id="c"></canvas>
     <svg class="leaders" id="leaders" aria-hidden="true"></svg>
@@ -319,6 +344,12 @@ button:focus-visible,[tabindex]:focus-visible,input:focus-visible{outline:3px so
       <div id="quizSlot"></div>
     </div>
   </section>
+  <div class="rail right" aria-label="Page scroll bar (swipe here to scroll past the aircraft)">
+    <button type="button" class="railup" aria-label="Scroll to the top of the page" title="Top">▲</button>
+    <div class="track" aria-hidden="true"><div class="thumb"></div></div>
+    <button type="button" class="raildn" aria-label="Scroll down to the Quiz tab" title="Quiz">▼<i>QUIZ</i></button>
+  </div>
+  </div>
 
   <aside class="panel">
     <div class="tabs" role="tablist">
@@ -1885,6 +1916,9 @@ const state = {ac:'learjet', callouts:'all', selected:null, selectedMarker:null,
 
 /* ================= THREE SCENE ================= */
 const stage = $('#stage'), canvas = $('#c');
+const stackedMQ = matchMedia('(max-width: 920px)');   // phone / portrait tablet / narrow window: header, model and tabs stack and the page scrolls
+function scrollToModel(){ if(!stackedMQ.matches) return; const r = stage.getBoundingClientRect(); if(r.top >= 0 && r.bottom <= innerHeight) return; window.scrollTo({top: Math.max(0, r.top + scrollY - 2), behavior:'smooth'}); }
+function scrollToQuizTab(){ if(!stackedMQ.matches) return; const r = $('.panel').getBoundingClientRect(); if(r.top >= 0 && r.top < innerHeight*0.45) return; window.scrollTo({top: r.top + scrollY, behavior:'smooth'}); }
 let renderer; try { renderer = new THREE.WebGLRenderer({canvas, antialias:true, alpha:false, powerPreference:'high-performance'}); }
 catch(err){ stage.insertAdjacentHTML('beforeend', '<div class="nogl">This page needs WebGL for the 3D model. Please use a current Chrome, Edge, Firefox or Safari with hardware acceleration turned on.</div>'); throw err; }
 renderer.setPixelRatio(Math.min(devicePixelRatio||1, 2));
@@ -2292,6 +2326,34 @@ $('#spin').addEventListener('click', ()=>setSpin(!spinMode));
   const paint = () => { btn.textContent = on() ? '✕ Exit full screen' : '⛶ Full screen'; };
   btn.addEventListener('click', ()=>{ try { const pr = on() ? exit.call(document) : req.call(el); if(pr && pr.catch) pr.catch(()=>{ btn.textContent = 'Full screen blocked here'; setTimeout(paint, 2200); }); } catch(e){ btn.textContent = 'Full screen blocked here'; setTimeout(paint, 2200); } });
   document.addEventListener('fullscreenchange', paint); document.addEventListener('webkitfullscreenchange', paint); paint(); })();
+// scroll rails: in the stacked layout the stage swallows every swipe and wheel, so the strips on its left and right
+// edges scroll the page instead (swipe / wheel on them, drag the thumb, tap the track, or ▲ top / ▼ Quiz tab)
+(function(){
+  const wrap = $('#stagewrap'), panel = $('.panel'), doc = document.documentElement, stacked = stackedMQ;
+  let raf = 0;
+  const maxScroll = () => Math.max(0, doc.scrollHeight - window.innerHeight);
+  function paint(){
+    raf = 0;
+    const on = stacked.matches && maxScroll() > 40;
+    wrap.classList.toggle('rails', on);
+    if(!on) return;
+    const frac = Math.min(1, Math.max(0, window.scrollY / maxScroll()));
+    $$('.rail .track').forEach(tr=>{ const th = tr.firstElementChild, H = tr.clientHeight, h = Math.max(44, Math.min(H, H * window.innerHeight / doc.scrollHeight)); th.style.height = h + 'px'; th.style.transform = `translateY(${(H - h) * frac}px)`; });
+  }
+  const queue = () => { if(!raf) raf = requestAnimationFrame(paint); };
+  window.addEventListener('scroll', queue, {passive:true}); window.addEventListener('resize', queue);
+  if(stacked.addEventListener) stacked.addEventListener('change', queue); else if(stacked.addListener) stacked.addListener(queue);
+  if(window.ResizeObserver) new ResizeObserver(queue).observe(document.body);
+  $$('.rail .railup').forEach(b=>b.addEventListener('click', ()=>window.scrollTo({top:0, behavior:'smooth'})));
+  $$('.rail .raildn').forEach(b=>b.addEventListener('click', ()=>{ $('#tab-quiz').click(); window.scrollTo({top: panel.getBoundingClientRect().top + window.scrollY, behavior:'smooth'}); }));
+  $$('.rail .track').forEach(tr=>{ const th = tr.firstElementChild; let sy = 0, ss = 0, ratio = 1;
+    th.addEventListener('pointerdown', e=>{ if(e.button) return; try{ th.setPointerCapture(e.pointerId); }catch(_){} sy = e.clientY; ss = window.scrollY; ratio = maxScroll() / Math.max(1, tr.clientHeight - th.offsetHeight); th.classList.add('drag'); e.preventDefault(); });
+    th.addEventListener('pointermove', e=>{ if(th.classList.contains('drag')) window.scrollTo(0, ss + (e.clientY - sy) * ratio); });
+    ['pointerup','pointercancel','lostpointercapture'].forEach(ev=>th.addEventListener(ev, ()=>th.classList.remove('drag')));
+    tr.addEventListener('click', e=>{ if(e.target !== tr) return; const r = th.getBoundingClientRect(); window.scrollBy({top: (e.clientY < r.top ? -0.8 : 0.8) * window.innerHeight, behavior:'smooth'}); });
+  });
+  paint();
+})();
 // zoom buttons + keys: for trackpads and mice without a wheel or middle button
 function zoomBy(f){ pauseSpin(); tween = null; if(controls.dolly){ controls.dolly(f); } else { const v = camera.position.clone().sub(controls.target); const d = THREE.MathUtils.clamp(v.length()*f, controls.minDistance, controls.maxDistance); camera.position.copy(controls.target).add(v.setLength(d)); } scheduleResume(); }
 $('#zoomIn').addEventListener('click', ()=>zoomBy(0.8)); $('#zoomOut').addEventListener('click', ()=>zoomBy(1.25));
@@ -2523,9 +2585,9 @@ function quizStart(){
 function quizShow(){ const q = state.quiz; if(!q) return; const R = q.rounds[q.i]; q.answered=false; q.spot = R.spot||null; q.reveal=null; q.revealM=null;
   const figHtml = R.fig ? `<div class="qfig"><img src="${MEDIA[R.fig].src}" alt="FAA ${FIGS[R.fig].fig}"></div>` : R.fig16 ? `<div class="qfig grid">${['f16-1','f16-2','f16-3','f16-4'].map((k,i)=>`<figure><img src="${FIGS[k].src}" alt="antenna ${i+1}"><figcaption>${i+1}</figcaption></figure>`).join('')}</div>` : '';
   const choices = R.kind==='mc' ? `<div class="choices">${R.choices.map((c,i)=>`<button type="button" data-ci="${i}"><b>${'ABC'[i]}</b><span>${esc(c.t)}</span></button>`).join('')}</div>` : '';
-  const acts = cls => `<div class="qacts"><button type="button" class="btn sec ${cls} qShow">Show answer</button><button type="button" class="btn sec ${cls} qZoom" ${R.marker && R.sub==='pos' ? '' : 'hidden'}>Zoom to it</button><button type="button" class="btn ${cls} qNext" hidden>Next question →</button></div>`;
+  const acts = cls => `<div class="qacts"><button type="button" class="btn sec ${cls} qShow">Show answer</button><button type="button" class="btn sec ${cls} qZoom" ${R.marker && R.sub==='pos' ? '' : 'hidden'}>Zoom to it</button><button type="button" class="btn sec ${cls} qUp stackedonly" title="Scroll back up to the 3D model">▲ Aircraft</button><button type="button" class="btn ${cls} qNext" hidden>Next question →</button></div>`;
   // over the model: only a slim status strip — the question, choices and explanation live in the Quiz tab
-  quizSlot.innerHTML = `<div class="qhud slim" role="status"><div class="q">Round ${q.i+1}/${q.rounds.length} · ${R.hud}</div><div class="fb" id="qfb">${R.kind==='tap' ? 'Tap the antenna on the model.' : 'Answer A, B or C in the Quiz tab.'}</div><div class="qacts right"><button type="button" class="btn mini qNext" hidden>Next →</button></div><div class="bar"><i style="width:${q.i/q.rounds.length*100}%"></i></div></div>`;
+  quizSlot.innerHTML = `<div class="qhud slim" role="status"><div class="q">Round ${q.i+1}/${q.rounds.length} · ${R.hud}</div><div class="fb" id="qfb">${R.kind==='tap' ? 'Tap the antenna on the model.' : 'Answer A, B or C in the Quiz tab.'}</div><div class="qacts right"><button type="button" class="btn mini sec qStopHud" title="Stop the quiz and close this box">✕ Stop</button><button type="button" class="btn mini qNext" hidden>Next →</button></div><div class="bar"><i style="width:${q.i/q.rounds.length*100}%"></i></div></div>`;
   // in the Quiz tab: the same question with the full explanation once answered
   const body = R.kind==='tap' ? `<div class="qhint">Tap the glowing antenna on the 3D model. Get it wrong and the right one starts pulsing with its callout, so you can see where it is before moving on.</div>` : choices;
   qpanel.innerHTML = `<div class="qcard"><div class="qn">Round ${q.i+1} of ${q.rounds.length}${R.tag && R.kind==='tap' && !R.hideTag ? ` · <span class="tagc">${esc(R.tag)}</span>` : ''}</div><div class="qp">${R.prompt}</div>${figHtml}${body}<div class="qfb" id="qpfb"></div><div class="qex" id="qex" hidden></div>${acts('')}</div>`;
@@ -2533,6 +2595,11 @@ function quizShow(){ const q = state.quiz; if(!q) return; const R = q.rounds[q.i
   $$('.qShow').forEach(b=>b.addEventListener('click', ()=>quizReveal(R, true)));
   $$('.qZoom').forEach(b=>b.addEventListener('click', ()=>{ if(R.marker){ focusMarker(R.marker); q.moved = true; } }));
   $$('.qNext').forEach(b=>b.addEventListener('click', quizNext));
+  $$('.qUp').forEach(b=>b.addEventListener('click', scrollToModel));
+  // stacked layouts: bring the place where this round is answered into view (the model for a tap round, the Quiz tab for A·B·C)
+  if(R.kind==='tap') scrollToModel(); else scrollToQuizTab();
+  // stop from the box over the model, any time — two taps so a stray tap near the model cannot end the quiz
+  $$('.qStopHud').forEach(b=>b.addEventListener('click', ()=>{ if(armed(b, 'Tap again to stop', 3500)) quizStop(); }));
   $('#scoreTxt').textContent = `of ${q.rounds.length}`;
   const pane = $('#pane-quiz'); if(pane.scrollTop) pane.scrollTop = 0;
 }
@@ -2561,7 +2628,8 @@ function quizNext(){ const q = state.quiz; if(!q) return; q.i++; q.reveal=null; 
   if(q.moved){ q.moved=false; flyTo(viewPos('iso', AIRCRAFT[state.ac].dist), V3(0,0,0), 0.8); $$('.views button[data-view]').forEach(x=>x.setAttribute('aria-pressed', x.dataset.view==='iso'?'true':'false')); }
   if(q.i>=q.rounds.length){ quizEnd(); return; } quizShow(); }
 function quizEnd(){ const q=state.quiz, sc=q.score, n=q.rounds.length; const verdict = sc===n?'Clean sweep — sign the practice sheet.':sc>=n*0.7?'Solid. One more lap and you have it.':sc>=n*0.45?'Halfway there — read the Why-there tab and go again.':'Grab the torch and walk around again!';
-  quizSlot.innerHTML = `<div class="qhud"><div class="q">Score <em>${sc}/${n}</em></div><div class="fb">${verdict}</div></div>`; $('#scoreTxt').textContent = `of ${n} · ${verdict}`;
+  quizSlot.innerHTML = `<div class="qhud"><div class="q">Score <em>${sc}/${n}</em></div><div class="fb">${verdict}</div><div class="qacts right"><button type="button" class="btn mini sec qCloseHud">✕ Close</button></div></div>`; $('#scoreTxt').textContent = `of ${n} · ${verdict}`;
+  $$('.qCloseHud').forEach(b=>b.addEventListener('click', ()=>{ quizSlot.innerHTML=''; }));
   qpanel.innerHTML = `<div class="qcard"><div class="qp">Finished — <em>${sc} of ${n}</em> right first time.</div><div class="qex">${verdict} The rounds you missed are marked ✗ below; open the Antennas tab and tap one to review it, then start again.</div></div>`;
   const prev = q.prevPics; state.quiz=null; setPics(prev||'hover'); $('#pane-quiz').classList.remove('running'); stage.classList.remove('quizon'); $('#quizStart').hidden=false; $('#quizStop').hidden=true; scheduleResume(1500); setTimeout(()=>{ if(!state.quiz) quizSlot.innerHTML=''; }, 6000); }
 function quizStop(){ const prev = state.quiz && state.quiz.prevPics; state.quiz=null; setPics(prev||'hover'); quizSlot.innerHTML=''; qpanel.innerHTML=''; $('#pane-quiz').classList.remove('running'); stage.classList.remove('quizon'); $('#quizStart').hidden=false; $('#quizStop').hidden=true; $('#scoreTxt').textContent='Stopped.'; scheduleResume(500); }
