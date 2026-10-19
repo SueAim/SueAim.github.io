@@ -304,7 +304,7 @@ button:focus-visible,[tabindex]:focus-visible,input:focus-visible{outline:3px so
         <button type="button" data-co="focus" aria-pressed="false">Selected</button>
         <button type="button" data-co="none" aria-pressed="false">Hide</button>
       </div>
-      <label class="range">See-through <input id="opacity" type="range" min="12" max="90" value="55" aria-label="Airframe transparency"></label>
+      <label class="range">See-through <input id="opacity" type="range" min="12" max="90" value="63" aria-label="Airframe transparency"></label>
       <label class="range"><input id="pings" type="checkbox" aria-label="Animate radio waves"> Waves</label>
       <button type="button" class="fsbtn" id="fsBtn" title="Full screen">⛶ Full screen</button>
       <div class="pics"><span>Pictures</span><div class="seg mini" role="group" aria-label="Pictures on the callouts"><button type="button" data-pic="hover" aria-pressed="true">Hover</button><button type="button" data-pic="always" aria-pressed="false">Always</button><button type="button" data-pic="off" aria-pressed="false">Off</button></div></div>
@@ -353,14 +353,14 @@ button:focus-visible,[tabindex]:focus-visible,input:focus-visible{outline:3px so
 
   <aside class="panel">
     <div class="tabs" role="tablist">
-      <button type="button" role="tab" aria-selected="true" data-tab="list" id="tab-list">Antennas</button>
+      <button type="button" role="tab" aria-selected="false" data-tab="list" id="tab-list">Antennas</button>
       <button type="button" role="tab" aria-selected="false" data-tab="order" id="tab-order">Video order</button>
-      <button type="button" role="tab" aria-selected="false" data-tab="figs" id="tab-figs">FAA figs</button>
+      <button type="button" role="tab" aria-selected="true" data-tab="figs" id="tab-figs">FAA figs</button>
       <button type="button" role="tab" aria-selected="false" data-tab="why" id="tab-why">Why there</button>
       <button type="button" role="tab" aria-selected="false" data-tab="quiz" id="tab-quiz">Quiz</button>
     </div>
 
-    <div class="tabpane" id="pane-list" role="tabpanel" aria-labelledby="tab-list">
+    <div class="tabpane" id="pane-list" role="tabpanel" aria-labelledby="tab-list" hidden>
       <h3 id="listTitle">Antennas on this aircraft · tap to fly there</h3>
       <ul class="alist" id="alist"></ul>
       <div id="acPhotos"></div>
@@ -374,7 +374,7 @@ button:focus-visible,[tabindex]:focus-visible,input:focus-visible{outline:3px so
       <div class="foot">Source: <a href="https://www.youtube.com/watch?v=kr19B7yI-0E" target="_blank" rel="noopener">AIM Supplemental Resources — Locate &amp; Identify Navigation &amp; Communication Antennas</a> (3:49, filmed at AIM Charlotte).</div>
     </div>
 
-    <div class="tabpane" id="pane-figs" role="tabpanel" aria-labelledby="tab-figs" hidden>
+    <div class="tabpane" id="pane-figs" role="tabpanel" aria-labelledby="tab-figs">
       <h3>FAA knowledge-test figures · Airframe appendix</h3>
       <p>All 17 antenna drawings in the Airman Knowledge Testing Supplement (FAA-CT-8080-4G): Figure 16 (four antennas) and Figures 22–34, all in the Airframe appendix (Appendix 3 of this edition; Appendix 2, Powerplant, has none). Each is cropped and keyed with the FAA's answer and linked to its antenna on the models. The only other antenna item in the supplement is Figure 15, the drag formula D = 0.000327 × A × V² (lb, sq ft, mph) used for antenna-load questions.</p>
       <div class="figgrid" id="figgrid"></div>
@@ -2463,7 +2463,7 @@ function renderList(){
 const orderEl = $('#order');
 VIDEO_ORDER.forEach(([t,ac,title,where,mid])=>{ const li = document.createElement('li'); const T = TYPES[t];
   li.innerHTML = `<span class="t" style="--co:${T.color}">${mid&&MEDIA[mid]?`<img class="thumb" src="${MEDIA[mid].src}" alt="" loading="lazy">`:''}${title}<small>${where} · ${AIRCRAFT[ac].name}</small></span><button type="button" style="border-color:${T.color}">Show</button>`;
-  li.querySelector('button').addEventListener('click', ()=>{ if(state.quiz){ quizFeedback(null, 'Finish or stop the quiz first.'); return; } if(state.ac!==ac) setAircraft(ac, true); setTimeout(()=>select(t), state.ac===ac?0:250); $$('.tabs [role=tab]')[0].click(); });
+  li.querySelector('button').addEventListener('click', ()=>{ if(state.quiz){ quizFeedback(null, 'Finish or stop the quiz first.'); return; } if(state.ac!==ac) setAircraft(ac, true); setTimeout(()=>select(t), state.ac===ac?0:250); scrollToModel(); });
   orderEl.appendChild(li); });
 /* ---------- FAA figure gallery */
 const figgrid = $('#figgrid');
@@ -2472,7 +2472,7 @@ Object.keys(FIGS).forEach(id=>{ const F = FIGS[id]; const T = F.type ? TYPES[F.t
   const where = exact.length ? exact : (F.type ? Object.keys(AIRCRAFT).filter(ac=>AIRCRAFT[ac].antennas.some(a=>a.type===F.type)) : []);
   d.innerHTML = `<div class="im"><img src="${F.src}" alt="FAA ${F.fig}" loading="lazy"></div><div class="tx"><span class="fn">${F.fig}</span><b>${F.key}</b><small>${F.note}</small>${T?`<small>→ ${T.name}</small>`:''}</div><button type="button" class="go" ${where.length?'':'disabled'}>${where.length ? 'Show on ' + AIRCRAFT[where.includes(state.ac)?state.ac:where[0]].short : 'Not an exterior antenna'}</button>`;
   const btn = d.querySelector('.go');
-  if(where.length) btn.addEventListener('click', ()=>{ if(state.quiz){ quizFeedback(null, 'Finish or stop the quiz first.'); return; } const ac = where.includes(state.ac) ? state.ac : where[0]; if(state.ac!==ac) setAircraft(ac, true); const hit = AIRCRAFT[ac].antennas.find(a=>a.fig===id && !a.autoFig); setTimeout(()=>select(F.type, hit && hit.id), state.ac===ac?0:250); $$('.tabs [role=tab]')[0].click(); });
+  if(where.length) btn.addEventListener('click', ()=>{ if(state.quiz){ quizFeedback(null, 'Finish or stop the quiz first.'); return; } const ac = where.includes(state.ac) ? state.ac : where[0]; if(state.ac!==ac) setAircraft(ac, true); const hit = AIRCRAFT[ac].antennas.find(a=>a.fig===id && !a.autoFig); setTimeout(()=>select(F.type, hit && hit.id), state.ac===ac?0:250); scrollToModel(); });
   figgrid.appendChild(d); });
 /* ---------- why-there extras */
 const LAM = [['hf','HF 2–30 MHz','10–150 m',100],['adfwire','ADF / NDB 190–535 kHz','560–1,600 m',100],['marker','Marker 75 MHz','4 m',40],['com','VHF COM 127 MHz','2.4 m',30],['vor','VOR/LOC 113 MHz','2.7 m',32],['elt','ELT 406 MHz','0.74 m',16],['xpdr','Transponder 1090 MHz','0.28 m',9],['tcas','TCAS 1030 / 1090 MHz','0.28 m',9],['gs','Glideslope 332 MHz','0.9 m',14],['dme','DME 1 GHz','0.29 m',9],['gps','GPS 1575 MHz','0.19 m',7],['ra','Radio alt 4.3 GHz','7 cm',4],['radar','Radar 9.375 GHz','3.2 cm',3]];
