@@ -72,6 +72,10 @@ header p{margin:5px 0 0;color:var(--muted);font-size:15px}
 .bar{height:8px;background:var(--panel2);border:1px solid var(--line);border-radius:99px;overflow:hidden}
 .bar i{display:block;height:100%;width:0;background:var(--accent);border-radius:99px;transition:width .25s ease}
 .ptext{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-top:6px;font-size:14px;color:var(--muted)}
+.ptop{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:6px}
+.gotc{display:flex;align-items:baseline;gap:6px;font-weight:600;color:var(--muted);font-size:15px}
+.gotc b{font-size:26px;line-height:1;color:var(--ok)}
+.gotc .gd{font-size:19px;font-weight:700;color:var(--fg)}
 .link{border:0;background:none;padding:4px 2px;color:var(--muted);text-decoration:underline;text-underline-offset:3px;font-size:14px}
 
 .card{position:relative;background:var(--panel);border:1px solid var(--line);border-radius:18px;box-shadow:var(--shadow);padding:18px 18px 16px;min-height:250px;display:flex;flex-direction:column;cursor:pointer;-webkit-tap-highlight-color:transparent}
@@ -91,6 +95,12 @@ header p{margin:5px 0 0;color:var(--muted);font-size:15px}
 .actions{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:2px;padding:10px 0 calc(10px + env(safe-area-inset-bottom));position:sticky;bottom:0;z-index:2;background:linear-gradient(to bottom,transparent,var(--bg) 28%)}
 .done-card .actions{position:static;background:none;padding:6px 0 0}
 .actions.col{grid-template-columns:1fr}
+#studyView .actions{grid-template-columns:52px 1fr 1fr}
+#studyView .big.primary{grid-column:2/-1}
+.big.back{background:var(--panel);border:1px solid var(--line2);color:var(--fg);padding:0;display:grid;place-items:center}
+.big.back svg{width:24px;height:24px}
+.big.back:disabled{opacity:.35;cursor:default}
+.done-card .link{display:block;margin:12px auto 0}
 .big{border:0;border-radius:14px;padding:15px 12px;font-weight:700;font-size:17px;min-height:54px}
 .big.primary{grid-column:1/-1;background:var(--accent);color:var(--accent-ink)}
 .big.ok{background:var(--ok);color:var(--ok-ink)}
@@ -155,8 +165,12 @@ footer li{margin:2px 0}
     </div>
 
     <div class="progress">
+      <div class="ptop">
+        <span class="gotc"><span class="gl">Got it</span><span class="gd"><b id="gotNum">0</b>/<span id="gotDen">75</span></span></span>
+        <button class="link" id="restartBtn">Restart deck</button>
+      </div>
       <div class="bar"><i id="barFill"></i></div>
-      <div class="ptext"><span id="ptext"></span><button class="link" id="restartBtn">Restart deck</button></div>
+      <div class="ptext"><span id="ptext"></span></div>
     </div>
 
     <section id="studyView">
@@ -167,11 +181,12 @@ footer li{margin:2px 0}
         <div class="hint" id="cHint">Say your answer out loud, then tap the card.</div>
       </div>
       <div class="actions">
+        <button class="big back" id="backBtn" aria-label="Back to the previous question" title="Back to the previous question" disabled><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 12H5"/><path d="M11 18l-6-6 6-6"/></svg></button>
         <button class="big primary" id="showBtn">Show answer</button>
         <button class="big bad" id="missBtn" hidden>Missed it</button>
         <button class="big ok" id="gotBtn" hidden>Got it</button>
       </div>
-      <p class="keys">Keyboard: Space = show answer · ← missed it · → got it</p>
+      <p class="keys">Keyboard: Space = show answer · ← missed it · → got it · Backspace = back</p>
     </section>
 
     <section id="doneView" hidden>
@@ -183,6 +198,7 @@ footer li{margin:2px 0}
           <button class="big bad" id="practiceMissBtn"></button>
           <button class="big primary" id="againBtn">Start this deck again</button>
         </div>
+        <button class="link" id="doneBackBtn">← Back to the last question</button>
       </div>
     </section>
   </main>
@@ -240,7 +256,7 @@ function deckIds(key){
   const d = DECKS.find(d => d.key === key); return d ? d.ids : [];
 }
 function deckLabel(key){ if (key === "miss") return "Missed cards"; const d = DECKS.find(d => d.key === key); return d ? d.label + (d.sub ? " · " + d.sub : "") : key; }
-function newSession(list){ return {ids:list.slice(), queue:shuffle(list), right:{}, missed:[], misses:0, flipped:false, finished:false}; }
+function newSession(list){ return {ids:list.slice(), queue:shuffle(list), right:{}, missed:[], misses:0, flipped:false, finished:false, undo:[]}; }
 function sess(){
   if (!deckIds(S.deck).length) S.deck = "all";
   if (!S.sessions[S.deck]) S.sessions[S.deck] = newSession(deckIds(S.deck));
@@ -255,11 +271,13 @@ function applyGoal(s){              // goal changed: drop finished cards, bring 
   for (const n of s.ids) if ((s.right[n] || 0) < S.goal && !inQ.has(n)) s.queue.push(n);
   s.flipped = false;
   s.finished = s.queue.length === 0;
+  s.undo = [];                      // can't step back across a goal change
 }
 function finish(s, key){
   if (s.finished) return;
   s.finished = true; s.flipped = false;
-  S.history.unshift({t:Date.now(), deck:key, goal:S.goal, n:s.ids.length, misses:s.misses});
+  const t = Date.now(); s.histT = t;
+  S.history.unshift({t, deck:key, goal:S.goal, n:s.ids.length, misses:s.misses});
   S.history = S.history.slice(0, 6);
 }
 
@@ -268,8 +286,19 @@ function flip(){
   const s = sess(); if (s.finished || !s.queue.length || s.flipped) return;
   s.flipped = true; save(); render(); speakAnswer();
 }
+function pushUndo(s){
+  (s.undo = s.undo || []).push({queue:s.queue.slice(), right:Object.assign({}, s.right), missed:s.missed.slice(), misses:s.misses});
+  if (s.undo.length > 25) s.undo.shift();
+}
+function back(){                    // undo the last Got it / Missed it and show that question again
+  const s = sess(); const u = (s.undo || []).pop(); if (!u) return;
+  if (s.finished && s.histT && S.history[0] && S.history[0].t === s.histT) S.history.shift();
+  Object.assign(s, {queue:u.queue, right:u.right, missed:u.missed, misses:u.misses, flipped:false, finished:false, histT:0});
+  save(); render(); speakQuestion(); $("card").focus({preventScroll:true});
+}
 function grade(ok){
   const s = sess(); if (!s.flipped || !s.queue.length) return;
+  pushUndo(s);
   const n = s.queue.shift();
   if (ok) {
     s.right[n] = (s.right[n] || 0) + 1;
@@ -347,7 +376,12 @@ function render(){
   const n = s.ids.length, left = new Set(s.queue).size, doneCount = n - left;
   const credit = s.ids.reduce((t, id) => t + Math.min(s.right[id] || 0, goal), 0);
   $("barFill").style.width = (n ? (s.finished ? 100 : 100 * credit / (n * goal)) : 0) + "%";
-  $("ptext").textContent = deckLabel(S.deck) + ": " + doneCount + " of " + n + " done · " + s.misses + (s.misses === 1 ? " miss" : " misses");
+  const got = s.ids.filter(id => (s.right[id] || 0) > 0).length;
+  $("gotNum").textContent = got; $("gotDen").textContent = n;
+  $("ptext").textContent = deckLabel(S.deck) + " · " + (goal > 1 ? doneCount + "/" + n + " finished (" + goal + "×) · " : "") + s.misses + (s.misses === 1 ? " miss" : " misses");
+  const canBack = !!(s.undo && s.undo.length);
+  $("backBtn").disabled = !canBack;
+  $("doneBackBtn").hidden = !canBack;
 
   $("studyView").hidden = s.finished;
   $("doneView").hidden = !s.finished;
@@ -395,6 +429,8 @@ $("card").addEventListener("keydown", e => { if (e.key === " " || e.key === "Ent
 $("showBtn").onclick = flip;
 $("gotBtn").onclick = () => grade(true);
 $("missBtn").onclick = () => grade(false);
+$("backBtn").onclick = back;
+$("doneBackBtn").onclick = back;
 $("againBtn").onclick = () => startDeck(S.deck, deckIds(S.deck));
 $("practiceMissBtn").onclick = () => startDeck("miss", sess().missed);
 let restartArmed = null;
@@ -418,6 +454,7 @@ document.addEventListener("keydown", e => {
   if ((e.key === " " || e.key === "Enter") && e.target === document.body && !s.flipped) { e.preventDefault(); flip(); }
   else if (s.flipped && (e.key === "ArrowRight" || e.key === "2")) { e.preventDefault(); grade(true); }
   else if (s.flipped && (e.key === "ArrowLeft" || e.key === "1")) { e.preventDefault(); grade(false); }
+  else if (e.key === "Backspace") { e.preventDefault(); back(); }
 });
 if (synth) { loadVoices(); if (typeof synth.addEventListener === "function") synth.addEventListener("voiceschanged", loadVoices); else synth.onvoiceschanged = loadVoices; }
 buildList();
