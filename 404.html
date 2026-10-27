@@ -8,7 +8,7 @@
 // GitHub Pages addresses are case-sensitive. Send other spellings of a known folder
 // (block1, BLOCK1, block-1, "Block 1") to the real one before showing this page.
 (function(){
-  var known = { block1: '/Block1/' };
+  var known = { block1: '/Block1/', block6: '/Block6/' };
   var parts = location.pathname.split('/');
   var first = parts[1] || '';
   try { first = decodeURIComponent(first); } catch(e) {}
@@ -39,6 +39,7 @@
   <p>That address isn't on this site. Here's what is:</p>
   <a class="go" href="/">Antenna Walkaround<small>sueaim.github.io — 3D antennas, FAA figures and quiz</small></a>
   <a class="go" href="/Block1/">Block 1 — Cessna 150L Oral Exam<small>sueaim.github.io/Block1/</small></a>
+  <a class="go" href="/Block6/">Block 6 — Oral Exam Flashcards<small>sueaim.github.io/Block6/ — 75 Jeppesen questions</small></a>
 </main>
 </body>
 </html>
