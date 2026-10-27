@@ -6,13 +6,14 @@
 <meta name="description" content="Block 6 oral exam flashcards for AMT students: the 75 Jeppesen oral exam questions on aircraft electrical systems, aircraft instrument systems and communication and navigation systems.">
 <meta name="theme-color" content="#0a0f1f">
 <meta name="color-scheme" content="dark light">
-<title>Block 6 Oral Exam Flashcards</title>
+<meta name="format-detection" content="telephone=no">
+<title>Jeppesen Block 6 Oral Exam Flashcards</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&display=swap">
 <style>
 :root{
-  --bg:#0a0f1f; --panel:#131c35; --panel2:#1a2546; --line:#2a3864; --line2:#3b4d85;
+  --bg:#0a0f1f; --bg0:rgba(10,15,31,0); --panel:#131c35; --panel2:#1a2546; --line:#2a3864; --line2:#3b4d85;
   --fg:#eef2ff; --muted:#a4afd1; --faint:#6d7aa6;
   --accent:#ffb020; --accent-soft:rgba(255,176,32,.16); --accent-ink:#1a1200;
   --q:#d6e2ff; --a:#ffb8a6;
@@ -24,7 +25,7 @@
 }
 @media (prefers-color-scheme: light){
   :root{
-    --bg:#edf1f8; --panel:#ffffff; --panel2:#f1f4fb; --line:#d4dbeb; --line2:#b7c2dd;
+    --bg:#edf1f8; --bg0:rgba(237,241,248,0); --panel:#ffffff; --panel2:#f1f4fb; --line:#d4dbeb; --line2:#b7c2dd;
     --fg:#121a35; --muted:#55628a; --faint:#8a95b8;
     --accent:#c97a00; --accent-soft:rgba(224,138,0,.13); --accent-ink:#1a1200;
     --q:#1f3f8f; --a:#9a2617;
@@ -35,55 +36,64 @@
 }
 *{box-sizing:border-box}
 [hidden]{display:none!important}
-html{-webkit-text-size-adjust:100%}
+html{-webkit-text-size-adjust:100%;text-size-adjust:100%}
 body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--f-ui);font-size:16px;line-height:1.45;-webkit-font-smoothing:antialiased}
 button,select{font:inherit;color:inherit}
-button{cursor:pointer}
+button{cursor:pointer;-webkit-tap-highlight-color:transparent}
+button,.card,.la,select{touch-action:manipulation}
 :focus-visible{outline:3px solid var(--accent);outline-offset:2px}
 a{color:var(--accent)}
-.wrap{max-width:680px;margin:0 auto;padding:18px 16px calc(28px + env(safe-area-inset-bottom))}
+.wrap{max-width:680px;margin:0 auto;padding:18px 16px 28px;padding-left:max(16px,env(safe-area-inset-left));padding-right:max(16px,env(safe-area-inset-right));padding-bottom:calc(28px + env(safe-area-inset-bottom))}
 
 header h1{margin:0;font-size:clamp(23px,5.6vw,31px);font-weight:700;line-height:1.15}
 header h1 span{color:var(--accent)}
 header p{margin:5px 0 0;color:var(--muted);font-size:15px}
 
-.tabs{display:flex;gap:4px;margin:16px 0 12px;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:4px}
+.tabs{display:flex;margin:16px 0 12px;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:4px}
 .tabs button{flex:1;border:0;background:transparent;padding:9px 10px;border-radius:9px;font-weight:600;color:var(--muted)}
+.tabs button+button{margin-left:4px}
 .tabs button[aria-selected="true"]{background:var(--panel2);color:var(--fg);box-shadow:inset 0 0 0 1px var(--line2)}
 
-.chips{display:flex;flex-wrap:wrap;gap:8px;padding:2px 0 8px}
-.chip{border:1px solid var(--line);background:var(--panel);border-radius:999px;padding:8px 14px;font-weight:600;font-size:15px;white-space:nowrap}
+.chips{display:flex;flex-wrap:wrap;padding:2px 0 0}
+.chip{margin:0 8px 8px 0;border:1px solid var(--line);background:var(--panel);border-radius:999px;padding:8px 14px;font-weight:600;font-size:15px;white-space:nowrap}
 .chip small{font-weight:500;color:var(--muted);margin-left:5px;font-size:13.5px}
 .chip[aria-pressed="true"]{border-color:var(--accent);background:var(--accent-soft)}
 .chip.miss{border-style:dashed}
 
-.row{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:8px 12px;margin:4px 0 10px}
-.goal{display:flex;align-items:center;gap:6px;color:var(--muted);font-size:14.5px}
+.row{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;margin:0 0 6px}
+.row>*{margin:4px 12px 4px 0}
+.row>:last-child{margin-right:0}
+.goal{display:flex;flex-wrap:wrap;align-items:center;color:var(--muted);font-size:14.5px}
+.goal>*{margin:2px 6px 2px 0}
+.goal>:last-child{margin-right:0}
 .goal button{border:1px solid var(--line);background:var(--panel);border-radius:9px;padding:5px 10px;font-weight:600;color:var(--fg);min-width:44px}
 .goal button[aria-pressed="true"]{border-color:var(--accent);background:var(--accent-soft)}
-.toggle{display:inline-flex;align-items:center;gap:7px;border:1px solid var(--line);background:var(--panel);border-radius:999px;padding:6px 13px;font-weight:600;font-size:14.5px}
-.toggle svg{width:17px;height:17px;flex:none}
+.toggle{display:inline-flex;align-items:center;border:1px solid var(--line);background:var(--panel);border-radius:999px;padding:6px 13px;font-weight:600;font-size:14.5px}
+.toggle svg{width:17px;height:17px;flex:none;margin-right:7px}
 .toggle[aria-pressed="true"]{border-color:var(--accent);background:var(--accent-soft)}
-.voice{display:flex;flex-wrap:wrap;gap:8px 14px;margin:-2px 0 10px;font-size:14px;color:var(--muted)}
-.voice label{display:flex;align-items:center;gap:6px}
-.voice select{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:5px 8px;max-width:58vw}
+.voice{display:flex;flex-wrap:wrap;margin:-2px 0 10px;font-size:14px;color:var(--muted)}
+.voice label{display:flex;align-items:center;margin:4px 14px 4px 0}
+.voice select{margin-left:6px;font-size:16px;background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:5px 8px;max-width:58vw}
 
 .progress{margin:0 0 12px}
 .bar{height:8px;background:var(--panel2);border:1px solid var(--line);border-radius:99px;overflow:hidden}
 .bar i{display:block;height:100%;width:0;background:var(--accent);border-radius:99px;transition:width .25s ease}
-.ptext{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-top:6px;font-size:14px;color:var(--muted)}
-.ptop{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:6px}
-.gotc{display:flex;align-items:baseline;gap:6px;font-weight:600;color:var(--muted);font-size:15px}
+.ptext{display:flex;justify-content:space-between;align-items:center;margin-top:6px;font-size:14px;color:var(--muted)}
+.ptop{display:flex;justify-content:space-between;align-items:center;margin-bottom:6px}
+.ptop>:first-child{margin-right:10px}
+.gotc{display:flex;align-items:baseline;font-weight:600;color:var(--muted);font-size:15px}
+.gotc .gl{margin-right:6px}
 .gotc b{font-size:26px;line-height:1;color:var(--ok)}
 .gotc .gd{font-size:19px;font-weight:700;color:var(--fg)}
 .link{border:0;background:none;padding:4px 2px;color:var(--muted);text-decoration:underline;text-underline-offset:3px;font-size:14px}
 
 .card{position:relative;background:var(--panel);border:1px solid var(--line);border-radius:18px;box-shadow:var(--shadow);padding:18px 18px 16px;min-height:250px;display:flex;flex-direction:column;cursor:pointer;-webkit-tap-highlight-color:transparent}
 .card.done-card{cursor:default;min-height:0}
-.meta{display:flex;align-items:center;gap:8px;font-size:13.5px;color:var(--muted);margin-bottom:12px}
-.tag{border:1px solid var(--line2);border-radius:99px;padding:2px 9px;font-weight:600}
+.meta{display:flex;align-items:center;font-size:13.5px;color:var(--muted);margin-bottom:12px}
+.tag{margin-right:8px;border:1px solid var(--line2);border-radius:99px;padding:2px 9px;font-weight:600}
 .num{font-weight:600}
-.dots{margin-left:auto;display:flex;gap:5px}
+.dots{margin-left:auto;display:flex}
+.dots b+b{margin-left:5px}
 .dots b{width:10px;height:10px;border-radius:50%;border:1.5px solid var(--line2);display:block}
 .dots b.on{background:var(--ok);border-color:var(--ok)}
 .q{font-family:var(--f-text);color:var(--q);font-weight:650;font-size:clamp(19px,4.7vw,23px);line-height:1.35;transition:font-size .15s ease}
@@ -92,7 +102,7 @@ header p{margin:5px 0 0;color:var(--muted);font-size:15px}
 .hint{margin-top:auto;padding-top:16px;font-size:14px;color:var(--faint)}
 @keyframes rise{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
 
-.actions{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:2px;padding:10px 0 calc(10px + env(safe-area-inset-bottom));position:sticky;bottom:0;z-index:2;background:linear-gradient(to bottom,transparent,var(--bg) 28%)}
+.actions{display:grid;grid-template-columns:1fr 1fr;grid-gap:10px;gap:10px;margin-top:2px;padding:10px 0;padding-bottom:calc(10px + env(safe-area-inset-bottom));position:-webkit-sticky;position:sticky;bottom:0;z-index:2;background:linear-gradient(to bottom,var(--bg0),var(--bg) 28%)}
 .done-card .actions{position:static;background:none;padding:6px 0 0}
 .actions.col{grid-template-columns:1fr}
 #studyView .actions{grid-template-columns:52px 1fr 1fr}
@@ -119,7 +129,7 @@ header p{margin:5px 0 0;color:var(--muted);font-size:15px}
 .lq{color:var(--q);font-weight:650}
 .lq b{color:var(--muted);font-weight:700;margin-right:4px}
 .la{color:var(--a);margin-top:5px;white-space:pre-line;border-radius:6px}
-.hideans .la:not(.shown){color:transparent;background:var(--panel2);cursor:pointer;user-select:none;position:relative;max-height:2.4em;overflow:hidden}
+.hideans .la:not(.shown){color:transparent;background:var(--panel2);cursor:pointer;-webkit-user-select:none;user-select:none;position:relative;max-height:2.4em;overflow:hidden}
 .hideans .la:not(.shown)::after{content:"Tap to show answer";position:absolute;left:10px;top:50%;transform:translateY(-50%);color:var(--faint);font-size:14px}
 
 footer{margin-top:26px;padding-top:14px;border-top:1px solid var(--line);color:var(--muted);font-size:14.5px}
@@ -127,14 +137,22 @@ footer h3{margin:0 0 6px;color:var(--fg);font-size:16px}
 footer ol{margin:0 0 10px;padding-left:20px}
 footer li{margin:2px 0}
 .hist{font-size:13.5px}
+@media (max-width:359px){
+  header h1{font-size:21px}
+  .chip{padding:7px 11px;font-size:14px;margin:0 6px 6px 0}
+  .goal button{min-width:38px;padding:5px 8px}
+  .big{font-size:16px;padding:12px 8px;min-height:50px}
+  #studyView .actions{grid-template-columns:44px 1fr 1fr}
+  .card{padding:15px 14px 14px}
+}
 @media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}
 </style>
 </head>
 <body>
 <div class="wrap">
   <header>
-    <h1>Block 6 <span>Oral Exam</span> Flashcards</h1>
-    <p>Jeppesen · 75 questions · Electrical, Instruments, Comm/Nav</p>
+    <h1>Jeppesen Block 6 <span>Oral Exam</span> Flashcards</h1>
+    <p>75 questions · Electrical, Instruments, Comm/Nav</p>
   </header>
 
   <div class="tabs" role="tablist" aria-label="View">
@@ -186,7 +204,7 @@ footer li{margin:2px 0}
         <button class="big bad" id="missBtn" hidden>Missed it</button>
         <button class="big ok" id="gotBtn" hidden>Got it</button>
       </div>
-      <p class="keys">Keyboard: Space = show answer · ← missed it · → got it · Backspace = back</p>
+      <p class="keys">Keyboard: Space = show answer · ← missed it · → got it · Backspace or Delete = back</p>
     </section>
 
     <section id="doneView" hidden>
@@ -221,6 +239,7 @@ footer li{margin:2px 0}
   </footer>
 </div>
 
+<noscript><p style="padding:0 16px">Please turn on JavaScript to use the flashcards.</p></noscript>
 <script>
 const CARDS = [{"n":1,"c":1,"q":"What could cause an AC electric motor to run too fast?","a":"Excessive applied voltage or shorted field windings."},{"n":2,"c":1,"q":"What tool is used to check a motor or generator armature for shorts and opens under load conditions?","a":"A Growler."},{"n":3,"c":1,"q":"When using a Growler, what indication will occur when a short exists between an armature segment?","a":"When a metal blade is held over the armature and a short exists in a segment, the blade will begin to vibrate and “chatter.”"},{"n":4,"c":1,"q":"How is the output voltage of an alternator controlled?","a":"By varying the field current that excites the alternator."},{"n":5,"c":1,"q":"What instruments are used to monitor electrical system loads?","a":"Ammeters and voltmeters."},{"n":6,"c":1,"q":"How would you identify a specific wire in a wire bundle?","a":"By the identification code marked on the wire."},{"n":7,"c":1,"q":"What tool would you use to determine the size of an unmarked wire?","a":"A wire gauge."},{"n":8,"c":1,"q":"What color are the navigation lights on the wingtips?","a":"The left wingtip is red, the right is green."},{"n":9,"c":1,"q":"Name several types of electrical devices that would be considered intermittent loads on an electrical system.","a":"Landing gear, cowl and wing flap motors, radio transmitters."},{"n":10,"c":1,"q":"Why would it be necessary to analyze an electrical system before increasing the load on the system?","a":"To determine that the generator capacity, wire size, and protective device capacity will not be exceeded."},{"n":11,"c":1,"q":"What factors should be considered when determining the wire size for a particular application?","a":"The system voltage, permissible voltage drop, current to be carried, wire length and whether the load is continuous or intermittent."},{"n":12,"c":1,"q":"What is the relationship between the inside diameter of a conduit and the outside diameter of the wire bundle inside it?","a":"The conduit must be 25% larger than the wire bundle.","sa":"The conduit must be 25 percent larger than the wire bundle."},{"n":13,"c":1,"q":"What is the maximum number of terminal lugs that can be placed on a single terminal strip stud?","a":"Four."},{"n":14,"c":1,"q":"What is the proper length for a bonding jumper?","a":"As short as practical, but long enough to allow free movement of the component."},{"n":15,"c":1,"q":"Under what conditions must a switch be derated from its nominal rating?","a":"When used with inductive circuits, circuits with high in-rush current, and with DC motors."},{"n":16,"c":1,"q":"At what point do electric motors draw the most current?","a":"When starting."},{"n":17,"c":1,"q":"Circuit breakers are designed to open before what condition occurs?","a":"Before the wire emits smoke."},{"n":18,"c":1,"q":"At what point in a circuit should the protective device be located?","a":"As close to the power source as possible."},{"n":19,"c":1,"q":"What type of circuit breaker may not be used in an aircraft?","a":"An automatic resetting type."},{"n":20,"c":1,"q":"What part of an aircraft is identified by a white navigation light?","a":"The tail."},{"n":21,"c":1,"q":"What could cause an AC electric motor to run too slowly?","a":"Lack of lubrication, defective wiring, or low applied voltage."},{"n":22,"c":1,"q":"What should be done when making bonding or grounding connections between dissimilar materials?","a":"Use a suitable washer so that any corrosion will occur on the washer."},{"n":23,"c":1,"q":"Prior to making a continuity check, what must be done to an electrical circuit?","a":"The power must be turned off."},{"n":24,"c":1,"q":"What warning system may be required when a nickel-cadmium battery is installed in an aircraft?","a":"A battery temperature monitoring system."},{"n":25,"c":1,"q":"What components of the starter-generator require periodic inspection?","a":"Both commutator and brushes should be inspected for wear beyond operational limits."},{"n":26,"c":1,"q":"Between field and armature windings in starter-generators, which ordinarily receive current for operation in the start mode?","a":"Generally, both field and armature receive current for operation in the start mode."},{"n":27,"c":1,"q":"What is done to ensure that each generator shares the load in a multiple generator system?","a":"The generators are paralleled."},{"n":28,"c":1,"q":"Where would you find generator rating and performance data?","a":"On the data plate attached to the generator."},{"n":29,"c":1,"q":"How is the voltage of a DC generator controlled?","a":"By varying the field current strength."},{"n":30,"c":1,"q":"What is the most common type of alternator used in most aircraft AC systems?","a":"The three phase alternator."},{"n":31,"c":1,"q":"How does a voltage regulator control the voltage of an alternator?","a":"By regulating the voltage output of the DC exciter."},{"n":32,"c":1,"q":"What does the speed of rotation and number of poles of an alternator determine?","a":"The frequency of the alternator output."},{"n":33,"c":1,"q":"What are some of the methods used to maintain 400 Hertz alternator output frequency on large turbojet or turbofan engines?","a":"Constant speed drives, integrated drive generators, and variable-speed constant frequency (VSCF) power systems.","sa":"Constant speed drives, integrated drive generators, and variable-speed constant frequency, or VSCF, power systems."},{"n":34,"c":1,"q":"What are the operating modes of a turbine engine starter generator?","a":"It operates first as a starter, then as a generator once the engine is running."},{"n":35,"c":1,"q":"Where would wire with high temperature insulation material be used?","a":"When they run close to high temperature areas such as exhaust stacks or heating ducts."},{"n":36,"c":1,"q":"What is the size standard for electrical wire used in US manufactured aircraft?","a":"The American Wire Gauge (AWG).","sq":"What is the size standard for electrical wire used in U.S. manufactured aircraft?","sa":"The American Wire Gauge, or AWG."},{"n":37,"c":1,"q":"How are wire sizes represented?","a":"By a numbered gauge size. The smaller wires are represented by larger numbers. The smallest size wire normally used in aircraft is 22-gauge."},{"n":38,"c":1,"q":"What is the maximum slack allowed between the supports of a single wire or bundle installation?","a":"Not over ½ inch.","sa":"Not over one-half inch."},{"n":39,"c":1,"q":"Why are wires bonded on powerplant installations?","a":"To provide a current return path for electrical accessories, and to prevent static discharge."},{"n":40,"c":2,"q":"Name the basic components of an autopilot system.","a":"Gyros, servos, a controller, and an amplifier or computer."},{"n":41,"c":2,"q":"What are the sensing elements of an autopilot system?","a":"Attitude, directional, and turning gyros, and an altitude sensor."},{"n":42,"c":2,"q":"What is the function of the servos in an autopilot system?","a":"The servos actuate the flight controls."},{"n":43,"c":2,"q":"What devices are used to provide warnings for a retractable landing gear system?","a":"A horn or other aural device, and a red warning light or lights."},{"n":44,"c":2,"q":"Name at least two conditions that would activate a takeoff configuration warning system in a jet transport aircraft.","a":"Incorrect leading or trailing edge flap position, stabilizer position, or speed brake not stowed. The manufacturer may establish other conditions."},{"n":45,"c":2,"q":"Under what conditions will a landing gear aural warning sound?","a":"When the throttle is retarded and the landing gear is not down and locked."},{"n":46,"c":2,"q":"How does a takeoff configuration warning differ from a landing gear warning?","a":"Takeoff warnings are usually intermittent horns while landing gear warnings are steady."},{"n":47,"c":2,"q":"What is the function of a Mach airspeed warning system?","a":"To alert the pilot that the never-exceed airspeed limit has been reached or exceeded."},{"n":48,"c":2,"q":"What systems are commonly used to activate the landing gear warning systems?","a":"The throttles (thrust levers) and the wing flaps.","sa":"The throttles, or thrust levers, and the wing flaps."},{"n":49,"c":2,"q":"What is the purpose of an annunciator system?","a":"To show, by means of a warning light, that some system parameter requires attention by the flight crew."},{"n":50,"c":2,"q":"Why are transport category aircraft equipped with a master caution and warning system?","a":"To alert the crew that a malfunction has occurred and corrective action may be required."},{"n":51,"c":2,"q":"What are two items that should be considered during inspection of a magnetic compass?","a":"1. The fluid must be clear.\n2. The housing must be full with no bubbles.\n3. The card must be legible and the lubber line intact.\n4. The compass should be properly calibrated."},{"n":52,"c":2,"q":"In what way do magnetic fields generated by electrical equipment and steel parts in the airplane affect a magnetic compass?","a":"Stray magnetic fields deflect the compass from correct alignment with the earth's magnetic field."},{"n":53,"c":2,"q":"After components in a pitot-static system have been replaced, what tests or inspections are required?","a":"The static system leak test specified by FAR 91.411.","sa":"The static system leak test specified by F.A.R. 91.411."},{"n":54,"c":2,"q":"Who is authorized to apply the range markings to an instrument dial face?","a":"The manufacturer or a certificated instrument repair station."},{"n":55,"c":2,"q":"What is the purpose of a slippage mark on an instrument glass?","a":"To indicate if the glass has moved, which could cause incorrect range markings on an instrument that has the range markings painted on the glass."},{"n":56,"c":2,"q":"What references should be consulted to determine the proper range markings for aircraft instruments?","a":"The aircraft maintenance manual, aircraft flight manual, Type Certificate Data Sheets or Aircraft Specifications."},{"n":57,"c":2,"q":"What is the meaning of a yellow arc on an aircraft instrument?","a":"A caution or limited flight operations range."},{"n":58,"c":2,"q":"What is the reason for “swinging” a compass and how is it accomplished?","a":"To compensate for deviations, caused by magnetic fields in the aircraft, by adjusting the compensating magnets."},{"n":59,"c":3,"q":"What are the basic components of a radio communication system?","a":"A microphone, transmitter, transmitting and receiving antennas, receiver, and speaker or headphones."},{"n":60,"c":3,"q":"What frequency range is used by most modern voice communications systems?","a":"The VHF (Very High Frequency) band (118.0 to 136.975 MHz).","sa":"The VHF, or Very High Frequency, band: 118.0 to 136.975 megahertz."},{"n":61,"c":3,"q":"What does the term “ADF” stand for?","a":"Airborne Direction Finding (Finder).","sa":"Airborne Direction Finding, or Finder."},{"n":62,"c":3,"q":"What is the function of VOR equipment?","a":"Navigation."},{"n":63,"c":3,"q":"Name the components of a typical airborne VOR navigation system.","a":"A receiver, antennas, frequency selector and a visual display indicator."},{"n":64,"c":3,"q":"What does DME stand for?","a":"Distance Measuring Equipment."},{"n":65,"c":3,"q":"At what interval must an ATC transponder system be certified?","a":"Every 24 calendar months."},{"n":66,"c":3,"q":"Why are two antennas usually required for an ILS system?","a":"The localizer and glideslope signals are transmitted on different frequencies."},{"n":67,"c":3,"q":"What information does the glideslope beam provide?","a":"Vertical guidance to enable the aircraft to maintain the correct descent angle."},{"n":68,"c":3,"q":"What is the power source for an ELT (Emergency Locator Transmitter)?","a":"An internal battery.","sq":"What is the power source for an ELT, or Emergency Locator Transmitter?"},{"n":69,"c":3,"q":"Describe one method of monitoring the signal output during an ELT test?","a":"Tune a communications receiver to 121.5 MHz.","sa":"Tune a communications receiver to 121.5 megahertz."},{"n":70,"c":3,"q":"How would you determine if the batteries in an ELT are due for recharge or replacement?","a":"By looking for an expiration date for recharge or replacement on the battery and/or in the aircraft maintenance records.","sa":"By looking for an expiration date for recharge or replacement on the battery and or in the aircraft maintenance records."},{"n":71,"c":3,"q":"At what time(s) is a test of an installed ELT permitted?","a":"During the first 5 minutes after the hour and for no more than 3 sweeps.","sq":"At what times is a test of an installed ELT permitted?"},{"n":72,"c":3,"q":"Where on the aircraft would you expect to find a DME antenna?","a":"Generally on the bottom of the fuselage in a location that isn’t blocked by the wing during turns."},{"n":73,"c":3,"q":"Describe the shape and location of a transponder antenna.","a":"Either a short blade or a short wire with a ball end located on the bottom of the fuselage."},{"n":74,"c":3,"q":"What is the purpose of a bonding jumper from a radio shock mount to the airframe?","a":"To provide a low-impedance ground return."},{"n":75,"c":3,"q":"Describe the procedure used to route coaxial cable from an antenna to a receiver.","a":"The cable should be supported every 2 feet, bends should be 10 times the cable diameter, and it should be routed separately from other wires."}];
 const CH = {1:{name:"Aircraft Electrical Systems",short:"Electrical"},2:{name:"Aircraft Instrument Systems",short:"Instruments"},3:{name:"Communication and Navigation Systems",short:"Comm/Nav"}};
@@ -282,9 +301,24 @@ function finish(s, key){
 }
 
 /* ---------- actions ---------- */
+let usingKeys = false;
+document.addEventListener("keydown", () => { usingKeys = true; }, true);
+["mousedown", "touchstart"].forEach(t => document.addEventListener(t, () => { usingKeys = false; }, {capture:true, passive:true}));
+function keepInView(answer){       // phones: show the answer above the sticky buttons; bring the next question back into view
+  if ($("studyView").hidden) return;
+  var vh = window.innerHeight || document.documentElement.clientHeight;
+  var acts = document.querySelector("#studyView .actions"), ah = acts ? acts.offsetHeight : 0;
+  var r = $("card").getBoundingClientRect(), y = window.pageYOffset || document.documentElement.scrollTop || 0;
+  if (r.top < 0) { window.scrollTo(0, Math.max(0, y + r.top - 10)); return; }
+  if (answer) {
+    var over = $("cA").getBoundingClientRect().bottom - (vh - ah - 6);
+    if (over > 0) window.scrollTo(0, Math.max(0, y + Math.min(over, r.top - 10)));
+  }
+}
+function refocus(){ if (!usingKeys) return; try { $("card").focus({preventScroll:true}); } catch (e) { $("card").focus(); } }
 function flip(){
   const s = sess(); if (s.finished || !s.queue.length || s.flipped) return;
-  s.flipped = true; save(); render(); speakAnswer();
+  s.flipped = true; save(); render(); keepInView(true); speakAnswer();
 }
 function pushUndo(s){
   (s.undo = s.undo || []).push({queue:s.queue.slice(), right:Object.assign({}, s.right), missed:s.missed.slice(), misses:s.misses});
@@ -294,7 +328,7 @@ function back(){                    // undo the last Got it / Missed it and show
   const s = sess(); const u = (s.undo || []).pop(); if (!u) return;
   if (s.finished && s.histT && S.history[0] && S.history[0].t === s.histT) S.history.shift();
   Object.assign(s, {queue:u.queue, right:u.right, missed:u.missed, misses:u.misses, flipped:false, finished:false, histT:0});
-  save(); render(); speakQuestion(); $("card").focus({preventScroll:true});
+  save(); render(); keepInView(false); speakQuestion(); refocus();
 }
 function grade(ok){
   const s = sess(); if (!s.flipped || !s.queue.length) return;
@@ -310,7 +344,7 @@ function grade(ok){
   s.flipped = false;
   if (!s.queue.length) finish(s, S.deck);
   save(); render();
-  if (!s.finished) { speakQuestion(); $("card").focus({preventScroll:true}); }
+  if (!s.finished) { keepInView(false); speakQuestion(); refocus(); }
 }
 function startDeck(key, list){
   S.sessions[key] = newSession(list || deckIds(key)); S.deck = key; S.view = "cards";
@@ -365,7 +399,7 @@ function render(){
   $("cardsPanel").hidden = S.view !== "cards";
   $("listPanel").hidden = S.view !== "list";
   $("chips").hidden = S.view !== "cards";
-  document.querySelectorAll(".goal button").forEach(b => b.setAttribute("aria-pressed", String(Number(b.dataset.goal) === goal)));
+  Array.prototype.forEach.call(document.querySelectorAll(".goal button"), b => b.setAttribute("aria-pressed", String(Number(b.dataset.goal) === goal)));
   $("speakBtn").hidden = !synth;
   $("speakBtn").setAttribute("aria-pressed", String(!!S.speak));
   $("voiceRow").hidden = !(synth && S.speak);
@@ -415,10 +449,10 @@ function buildList(){
     for (const card of CARDS.filter(x => x.c === c)) {
       const it = document.createElement("div"); it.className = "item";
       const q = document.createElement("div"); q.className = "lq";
-      const b = document.createElement("b"); b.textContent = card.n + "."; q.append(b, document.createTextNode(card.q));
+      const b = document.createElement("b"); b.textContent = card.n + "."; q.appendChild(b); q.appendChild(document.createTextNode(card.q));
       const a = document.createElement("div"); a.className = "la"; a.textContent = card.a;
       a.onclick = () => { if (S.hide) a.classList.toggle("shown"); };
-      it.append(q, a); box.appendChild(it);
+      it.appendChild(q); it.appendChild(a); box.appendChild(it);
     }
   }
 }
@@ -440,10 +474,10 @@ $("restartBtn").onclick = () => {
   clearTimeout(restartArmed); restartArmed = null; btn.textContent = "Restart deck";
   startDeck(S.deck, deckIds(S.deck));
 };
-document.querySelectorAll(".goal button").forEach(b => b.onclick = () => { S.goal = Number(b.dataset.goal); for (const k in S.sessions) applyGoal(S.sessions[k]); save(); render(); });
+Array.prototype.forEach.call(document.querySelectorAll(".goal button"), b => b.onclick = () => { S.goal = Number(b.dataset.goal); for (const k in S.sessions) applyGoal(S.sessions[k]); save(); render(); });
 $("tabCards").onclick = () => { S.view = "cards"; save(); render(); };
 $("tabList").onclick = () => { S.view = "list"; if (synth) synth.cancel(); save(); render(); };
-$("hideBtn").onclick = () => { S.hide = !S.hide; document.querySelectorAll(".la.shown").forEach(x => x.classList.remove("shown")); save(); render(); };
+$("hideBtn").onclick = () => { S.hide = !S.hide; Array.prototype.forEach.call(document.querySelectorAll(".la.shown"), x => x.classList.remove("shown")); save(); render(); };
 $("speakBtn").onclick = () => { if (!voices.length) loadVoices(); S.speak = !S.speak; if (!S.speak && synth) synth.cancel(); save(); render(); if (S.speak) { const s = sess(); s.flipped ? speakAnswer() : speakQuestion(); } };
 $("voiceSel").onchange = e => { S.voice = e.target.value; save(); speakQuestion(); };
 $("rateSel").onchange = e => { S.rate = Number(e.target.value); save(); speakQuestion(); };
@@ -454,7 +488,7 @@ document.addEventListener("keydown", e => {
   if ((e.key === " " || e.key === "Enter") && e.target === document.body && !s.flipped) { e.preventDefault(); flip(); }
   else if (s.flipped && (e.key === "ArrowRight" || e.key === "2")) { e.preventDefault(); grade(true); }
   else if (s.flipped && (e.key === "ArrowLeft" || e.key === "1")) { e.preventDefault(); grade(false); }
-  else if (e.key === "Backspace") { e.preventDefault(); back(); }
+  else if (e.key === "Backspace" || e.key === "Delete") { e.preventDefault(); back(); }
 });
 if (synth) { loadVoices(); if (typeof synth.addEventListener === "function") synth.addEventListener("voiceschanged", loadVoices); else synth.onvoiceschanged = loadVoices; }
 buildList();
