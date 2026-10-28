@@ -55,3 +55,15 @@ Default filters show students without A&P and omit routes requiring a different 
 Career benefits distinguish conditional offers, guaranteed interviews, recruiting/referrals and employment commitments. Wages are not included in scholarship-dollar ranges. Multi-benefit programs appear under each supported type. A current program page does not prove a vacancy; unconfirmed intakes remain labeled.
 
 The directory includes Sonic tools, Aero Engine Solutions, Duncan, AAR, HAECO, ATS, Citadel, FEAM, West Star, Textron, regional airlines, NGPA awards, Republic cadets and British Airways AIM pathways. See [research coverage](docs/research-coverage.md) for source qualifications and follow-up leads.
+
+## Automatic maintenance and compact mobile home
+
+- The home starts with a compact scholarship header, daily-update label, live application-window counts, search and six award cards. Dollar amounts and benefit type are prominent; the decorative hero and public 96-total badge are removed. Larger help/privacy/source sections are collapsed.
+- At 12:15 and 20:15 UTC, the workflow checks every maintained official source, including hidden URLs and PDF flyers. This is morning maintenance plus an afternoon retry in New Jersey. GitHub schedules may be delayed.
+- Closed/expired awards with no verified recurring/future-cycle marker are hidden from results, headlines, counts, resources and feed. Deadline dates are inclusive in America/New_York. Recurring awards stay closed; dates are never rolled forward automatically. Provider-cycle recurrence does not guarantee every named award repeats.
+- Confirmed HTTP 404/410 sources are hidden immediately and rechecked on every run. A successful content check restores listings that are still relevant. HTTP 403/429/5xx, timeouts and short/access-screen responses are reported without classifying the page as permanently missing. Recovery from a missing link does not revive an already-expired one-time award.
+- Records remain in the source catalog with public maintenance metadata so recovery and audit are possible; this is removal from the visitor directory, not irreversible deletion.
+- New maintenance-related scholarship headings on maintained official sources become unverified leads automatically. First baselines and existing known titles are not announced as new. This is not an exhaustive daily search of the entire web and does not automatically rewrite eligibility or fabricate reopened cycles.
+- Every run publishes last-check time, failures, hidden counts and a lifecycle log to data/updates.json, then requests a Pages deployment. An open page refreshes public data every 15 minutes and on returning to the tab; time-based visibility is recalculated each minute.
+
+Validation covers deadline boundaries in NJ time, recurring exceptions, 404/410 suppression and recovery, transient errors, PDF checks, discovery deduplication and filter integrity. `docs/mobile-preview.html` exercises the actual website at a 390px phone width.

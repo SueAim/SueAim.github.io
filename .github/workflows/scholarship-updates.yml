@@ -1,12 +1,14 @@
-name: Daily scholarship source watch
+name: Daily scholarship maintenance
 on:
   schedule:
-    - cron: '15 12 * * *'
+    - cron: '15 12,20 * * *'
   workflow_dispatch:
   push:
     paths:
       - 'scholarships/scripts/monitor_sources.py'
       - 'scholarships/data/catalog.json'
+      - 'scholarships/logic.js'
+      - 'scholarships/tests/**'
       - '.github/workflows/scholarship-updates.yml'
 permissions:
   contents: write
@@ -20,6 +22,10 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
+      - name: Verify maintenance rules
+        run: |
+          node scholarships/tests/filters.test.js
+          python3 scholarships/tests/test_monitor.py
       - name: Check official provider sources
         run: python3 scholarships/scripts/monitor_sources.py
       - name: Publish public catalog updates
@@ -37,4 +43,4 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           # A token-authored push may not trigger Pages. Request a fresh Pages build.
-          gh api --method POST repos/${{ github.repository }}/pages/builds || echo "Automatic Pages refresh not available; check Pages settings."
+          gh api --method POST repos/${{ github.repository }}/pages/builds

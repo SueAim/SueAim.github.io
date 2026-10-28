@@ -35,7 +35,9 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Recurring provider program; current round is closed. Next dates and named awards require confirmation."
     },
     {
       "id": "wts-new-jersey-fred-berger-endowed-scholarship",
@@ -69,7 +71,9 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Recurring provider program; current round is closed. Next dates and named awards require confirmation."
     },
     {
       "id": "aim-scholarship-match-program",
@@ -101,7 +105,8 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": false
     },
     {
       "id": "aim-new-jersey-student-scholarship",
@@ -135,7 +140,8 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "check"
+      "fit": "check",
+      "recurring": false
     },
     {
       "id": "aim-john-anthony-carbone-jr-memorial-scholarship",
@@ -169,7 +175,8 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "check"
+      "fit": "check",
+      "recurring": false
     },
     {
       "id": "tbx-aviation-maintenance-scholarship",
@@ -201,7 +208,8 @@
       "provider": "mro",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": false
     },
     {
       "id": "amc-techforce-phoebe-omlie-award",
@@ -234,7 +242,8 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": false
     },
     {
       "id": "amc-fedex-frederick-w-smith-purple-promise-scholarship",
@@ -266,7 +275,8 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": false
     },
     {
       "id": "amc-jim-and-alice-rice-faa-test-fees-grant",
@@ -298,7 +308,8 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": false
     },
     {
       "id": "aea-educational-foundation-aircraft-lighting-international-scholarship",
@@ -330,7 +341,9 @@
       "provider": "parts",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward."
     },
     {
       "id": "aea-educational-foundation-james-hammond-joubert-memorial-scholarship",
@@ -362,7 +375,9 @@
       "provider": "parts",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward."
     },
     {
       "id": "aea-educational-foundation-pat-napolitano-memorial-scholarship-for-aspiring-technicians",
@@ -394,7 +409,9 @@
       "provider": "parts",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward."
     },
     {
       "id": "aea-educational-foundation-david-arver-memorial-scholarship",
@@ -426,7 +443,9 @@
       "provider": "parts",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward."
     },
     {
       "id": "aea-educational-foundation-dutch-and-ginger-arver-scholarship",
@@ -458,7 +477,9 @@
       "provider": "parts",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward."
     },
     {
       "id": "aea-educational-foundation-garmin-scholarship",
@@ -490,7 +511,9 @@
       "provider": "parts",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward."
     },
     {
       "id": "aea-educational-foundation-garmin-jerry-smith-memorial-scholarship",
@@ -522,7 +545,9 @@
       "provider": "parts",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward."
     },
     {
       "id": "aea-educational-foundation-gogo-scholarship",
@@ -554,7 +579,9 @@
       "provider": "parts",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward."
     },
     {
       "id": "aea-educational-foundation-johnny-davis-memorial-scholarship",
@@ -586,7 +613,9 @@
       "provider": "parts",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward."
     },
     {
       "id": "aea-educational-foundation-kevin-miesbach-memorial-scholarship",
@@ -618,7 +647,9 @@
       "provider": "parts",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward."
     },
     {
       "id": "aea-educational-foundation-lee-tarbox-memorial-scholarship",
@@ -650,7 +681,9 @@
       "provider": "parts",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward."
     },
     {
       "id": "aea-educational-foundation-marshall-temple-memorial-scholarship",
@@ -682,7 +715,9 @@
       "provider": "parts",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward."
     },
     {
       "id": "aea-educational-foundation-mid-continent-instruments-and-avionics-scholarship",
@@ -714,7 +749,9 @@
       "provider": "parts",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward."
     },
     {
       "id": "aea-educational-foundation-susan-t-friedle-scholarship",
@@ -746,7 +783,9 @@
       "provider": "parts",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward."
     },
     {
       "id": "aea-educational-foundation-universal-avionics-scholarship",
@@ -778,7 +817,9 @@
       "provider": "parts",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward."
     },
     {
       "id": "nbaa-amt-maintenance-scholarship",
@@ -810,7 +851,9 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Provider describes annual scholarships; next dates and terms require confirmation."
     },
     {
       "id": "nbaa-hank-hilsmann-memorial-scholarship",
@@ -844,7 +887,9 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Provider describes annual scholarships; next dates and terms require confirmation."
     },
     {
       "id": "nbaa-william-m-fanning-maintenance-scholarship",
@@ -877,7 +922,9 @@
       "relocation": false,
       "career": "none",
       "fit": "potential",
-      "opensMonth": "2027-04"
+      "opensMonth": "2027-04",
+      "recurring": true,
+      "recurrenceNote": "Provider describes annual scholarships; next dates and terms require confirmation."
     },
     {
       "id": "nbaa-john-f-rahilly-memorial-scholarship-for-future-a-p-technicians",
@@ -910,7 +957,9 @@
       "relocation": false,
       "career": "none",
       "fit": "potential",
-      "opensMonth": "2027-04"
+      "opensMonth": "2027-04",
+      "recurring": true,
+      "recurrenceNote": "Provider describes annual scholarships; next dates and terms require confirmation."
     },
     {
       "id": "nbaa-corporate-aircraft-association-scholarship-for-future-aviation-leaders",
@@ -942,7 +991,9 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Provider describes annual scholarships; next dates and terms require confirmation."
     },
     {
       "id": "nbaa-james-sullivan-aviation-scholarship",
@@ -974,7 +1025,9 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Provider describes annual scholarships; next dates and terms require confirmation."
     },
     {
       "id": "lpa-aviation-maintenance-technician-scholarship",
@@ -1008,7 +1061,8 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": false
     },
     {
       "id": "lpa-aerospace-degree-advancement-scholarship",
@@ -1042,7 +1096,8 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "check"
+      "fit": "check",
+      "recurring": false
     },
     {
       "id": "vertical-aviation-international-bill-sanderson-aviation-maintenance-technician-scholarship",
@@ -1074,7 +1129,8 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": false
     },
     {
       "id": "vertical-aviation-international-robinson-pete-riedl-amt-scholarship",
@@ -1106,7 +1162,8 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": false
     },
     {
       "id": "eaa-post-secondary-scholarship-program",
@@ -1138,7 +1195,9 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward."
     },
     {
       "id": "choose-aerospace-choose-aerospace-skilled-nation-scholarship",
@@ -1170,7 +1229,9 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward."
     },
     {
       "id": "choose-aerospace-aviation-maintenance-apprentice-tool-box-award",
@@ -1202,7 +1263,9 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward."
     },
     {
       "id": "choose-aerospace-sonic-intermediate-aviation-tool-set-award",
@@ -1234,7 +1297,9 @@
       "provider": "tools",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward."
     },
     {
       "id": "grumman-owners-and-pilots-association-maintenance-technician-scholarship",
@@ -1266,7 +1331,8 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": false
     },
     {
       "id": "sheltair-avfuel-future-takes-flight-aviation-technicians",
@@ -1298,7 +1364,9 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Choose Aerospace lists this provider under annual opportunities; current award roster must be confirmed."
     },
     {
       "id": "racca-frederick-w-smith-aviation-scholarship",
@@ -1330,7 +1398,9 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Choose Aerospace lists this provider under annual opportunities; current award roster must be confirmed."
     },
     {
       "id": "racca-terry-hibler-memorial-scholarship",
@@ -1362,7 +1432,9 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Choose Aerospace lists this provider under annual opportunities; current award roster must be confirmed."
     },
     {
       "id": "racca-stanley-bernstein-aviation-scholarship",
@@ -1394,7 +1466,9 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Choose Aerospace lists this provider under annual opportunities; current award roster must be confirmed."
     },
     {
       "id": "racca-jeanne-cook-aviation-scholarship",
@@ -1426,7 +1500,9 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Choose Aerospace lists this provider under annual opportunities; current award roster must be confirmed."
     },
     {
       "id": "women-in-aviation-international-amazon-maintenance-technician-scholarship",
@@ -1458,7 +1534,9 @@
       "provider": "airline",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Provider announces its next application season in summer 2027. Named award roster may change."
     },
     {
       "id": "women-in-aviation-international-american-airlines-aircraft-maintenance-technician-scholarship",
@@ -1490,7 +1568,9 @@
       "provider": "airline",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Provider announces its next application season in summer 2027. Named award roster may change."
     },
     {
       "id": "women-in-aviation-international-boeing-maintenance-training-scholarship",
@@ -1522,7 +1602,9 @@
       "provider": "parts",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Provider announces its next application season in summer 2027. Named award roster may change."
     },
     {
       "id": "women-in-aviation-international-evelyn-lockwood-greene-memorial-a-p-maintenance-scholarship",
@@ -1554,7 +1636,9 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Provider announces its next application season in summer 2027. Named award roster may change."
     },
     {
       "id": "women-in-aviation-international-psa-airlines-maintenance-scholarship",
@@ -1586,7 +1670,9 @@
       "provider": "airline",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Provider announces its next application season in summer 2027. Named award roster may change."
     },
     {
       "id": "women-in-aviation-international-vertical-aviation-wai-maintenance-technician-certificate-scholarship",
@@ -1618,7 +1704,9 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Provider announces its next application season in summer 2027. Named award roster may change."
     },
     {
       "id": "women-in-aviation-international-elisha-hall-memorial-scholarship",
@@ -1650,7 +1738,9 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Provider announces its next application season in summer 2027. Named award roster may change."
     },
     {
       "id": "women-in-aviation-international-janet-clark-memorial-scholarship",
@@ -1682,7 +1772,9 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Provider announces its next application season in summer 2027. Named award roster may change."
     },
     {
       "id": "awam-scholarship-program",
@@ -1714,7 +1806,9 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Provider announces the 2027 program; exact application window TBA."
     },
     {
       "id": "obap-aerospace-scholarship-program",
@@ -1748,7 +1842,9 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Recurring provider program; current round is closed. Next dates and named awards require confirmation."
     },
     {
       "id": "techforce-foundation-tuition-scholarships-emergency-support",
@@ -1780,7 +1876,8 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": false
     },
     {
       "id": "northrop-rice-foundation-faa-test-fees-program",
@@ -1812,7 +1909,8 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": false
     },
     {
       "id": "northrop-rice-foundation-aircraft-maintenance-tools-program",
@@ -1844,7 +1942,8 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": false
     },
     {
       "id": "vfw-sport-clips-help-a-hero-scholarship",
@@ -1876,7 +1975,8 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": false
     },
     {
       "id": "soroptimist-live-your-dream-awards",
@@ -1909,7 +2009,8 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": false
     },
     {
       "id": "p-e-o-program-for-continuing-education",
@@ -1941,7 +2042,8 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": false
     },
     {
       "id": "mikeroweworks-work-ethic-scholarship-program",
@@ -1973,7 +2075,8 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": false
     },
     {
       "id": "folds-of-honor-higher-education-scholarship-military-families",
@@ -2007,7 +2110,9 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Published annual February 1–March 31 window; verify each cycle."
     },
     {
       "id": "south-texas-pama-fall-a-p-scholarships",
@@ -2041,7 +2146,8 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": false
     },
     {
       "value": 7530,
@@ -2073,7 +2179,9 @@
       "amount": "$7,530 tool set",
       "requirements": "Accredited aviation trade-school students; enrollment proof, instructor recommendation, P.A.C.E. essay and short video.",
       "note": "Aviation tools and toolbox, not cash. November selection deadline: October 31, 2026. Separate from the Choose Aerospace Sonic award. Proper work/school visas accepted; no minimum GPA, although GPA is considered.",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Provider publishes two selection periods per year (May/October deadlines)."
     },
     {
       "value": 1000,
@@ -2108,7 +2216,8 @@
       "references": [
         "https://aeroenginesolutions.com/wp-content/uploads/2024/11/AES-Scholarship-Application-Criteria-Sheet.pdf"
       ],
-      "fit": "check"
+      "fit": "check",
+      "recurring": false
     },
     {
       "value": null,
@@ -2146,7 +2255,8 @@
         "exam"
       ],
       "workLocation": "Lincoln, NE / Battle Creek, MI",
-      "fit": "other-program"
+      "fit": "other-program",
+      "recurring": false
     },
     {
       "value": 15000,
@@ -2183,7 +2293,8 @@
         "exam"
       ],
       "workLocation": "Rockford, IL / Indianapolis, IN",
-      "fit": "other-program"
+      "fit": "other-program",
+      "recurring": false
     },
     {
       "value": null,
@@ -2222,7 +2333,8 @@
         "job"
       ],
       "workLocation": "Partner campuses in MD, VA, SC; east-coast maintenance bases",
-      "fit": "other-program"
+      "fit": "other-program",
+      "recurring": false
     },
     {
       "value": 5000,
@@ -2259,7 +2371,8 @@
         "job"
       ],
       "workLocation": "Participating school / PSA maintenance base",
-      "fit": "other-program"
+      "fit": "other-program",
+      "recurring": false
     },
     {
       "value": 2000,
@@ -2298,7 +2411,8 @@
         "exam"
       ],
       "workLocation": "PSA-designated training / employment locations",
-      "fit": "check"
+      "fit": "check",
+      "recurring": false
     },
     {
       "value": null,
@@ -2337,7 +2451,8 @@
         "job"
       ],
       "workLocation": "Republic-designated apprenticeship site",
-      "fit": "other-program"
+      "fit": "other-program",
+      "recurring": false
     },
     {
       "value": 1600,
@@ -2377,7 +2492,8 @@
       "references": [
         "https://www.skywest.com/skywest-airline-jobs/career-guides/amt-pathway-program"
       ],
-      "fit": "check"
+      "fit": "check",
+      "recurring": false
     },
     {
       "value": null,
@@ -2410,7 +2526,8 @@
       "requirements": "Completed freshman year at an accredited university in an aviation-maintenance-related degree; GPA 3.0, work authorization, driver license and commuting requirements. A&P preferred.",
       "note": "Summer 2027 role; anticipated application close November 15, 2026, potentially earlier. Pay varies by degree/year. AIM certificate-only enrollment is not automatically eligible. Wages are not a scholarship.",
       "workLocation": "Trenton, NJ · onsite; within one-hour commute",
-      "fit": "degree-check"
+      "fit": "degree-check",
+      "recurring": false
     },
     {
       "value": null,
@@ -2447,7 +2564,8 @@
         "internship"
       ],
       "workLocation": "West Star participating maintenance facilities",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": false
     },
     {
       "value": null,
@@ -2484,7 +2602,8 @@
         "internship"
       ],
       "workLocation": "Greensboro, NC",
-      "fit": "other-program"
+      "fit": "other-program",
+      "recurring": false
     },
     {
       "value": null,
@@ -2521,7 +2640,8 @@
         "internship"
       ],
       "workLocation": "Lake City, FL",
-      "fit": "other-program"
+      "fit": "other-program",
+      "recurring": false
     },
     {
       "value": null,
@@ -2558,7 +2678,8 @@
         "internship"
       ],
       "workLocation": "Everett, WA / Kansas City, MO",
-      "fit": "other-program"
+      "fit": "other-program",
+      "recurring": false
     },
     {
       "value": null,
@@ -2591,7 +2712,8 @@
       "requirements": "SOWELA Technical College Part 147 students; employer selection in Lake Charles, LA.",
       "note": "Current careers page confirms the school partnership, but no current apprentice vacancy/pay was verified. Confirm compensation and cohort directly. Not automatically transferable to AIM NJ.",
       "workLocation": "Lake Charles, LA · SOWELA partner program",
-      "fit": "other-program"
+      "fit": "other-program",
+      "recurring": false
     },
     {
       "value": 13400,
@@ -2628,7 +2750,8 @@
         "paid-training"
       ],
       "workLocation": "Participating Epic / FEAM location",
-      "fit": "other-program"
+      "fit": "other-program",
+      "recurring": false
     },
     {
       "value": null,
@@ -2663,7 +2786,8 @@
       "requirements": "Eligible transitioning active-duty service members with military approval; contact C&L for placement and role requirements.",
       "note": "Company describes year-round participation. Military salary/benefits continue; this is not employer-paid internship cash or a civilian scholarship. Individual places are not guaranteed.",
       "workLocation": "C&L placement · Bangor, ME",
-      "fit": "check"
+      "fit": "check",
+      "recurring": false
     },
     {
       "value": null,
@@ -2700,7 +2824,8 @@
         "job"
       ],
       "workLocation": "Air Wisconsin maintenance location",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": false
     },
     {
       "value": null,
@@ -2735,7 +2860,8 @@
       "requirements": "Veterans with relevant military maintenance experience; FAA testing eligibility and airline selection must be checked.",
       "note": "Airline describes paying for eligible veterans’ A&P exams. Confirm covered exams, current hiring, obligations and payment route before booking tests.",
       "workLocation": "Air Wisconsin-designated testing / employment",
-      "fit": "check"
+      "fit": "check",
+      "recurring": false
     },
     {
       "value": null,
@@ -2768,7 +2894,8 @@
       "requirements": "Aspiring maintenance technicians; current location, experience and qualification rules must be confirmed.",
       "note": "Current careers page documents apprentice-to-AMT progression. It does not establish a current apprentice vacancy, wage or tuition award. Confirm an apprentice-specific listing; pilot tuition reimbursement is a different program.",
       "workLocation": "CommuteAir maintenance location",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": false
     },
     {
       "value": null,
@@ -2801,7 +2928,8 @@
       "requirements": "Company describes helper positions for students still attending A&P school. Individual job requirements apply.",
       "note": "A&P mechanic jobs on the same page require certification; helpers are a separate route. Check for a current helper vacancy and wage. No scholarship, free-tool award or job guarantee is verified.",
       "workLocation": "Ameriflight hiring station",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": false
     },
     {
       "value": null,
@@ -2839,7 +2967,8 @@
         "internship"
       ],
       "workLocation": "Textron participating facility / technical college",
-      "fit": "other-program"
+      "fit": "other-program",
+      "recurring": false
     },
     {
       "value": 4500,
@@ -2873,7 +3002,9 @@
       "amount": "$4,500",
       "requirements": "NGPA members age 18+ working toward A&P.",
       "note": "2026 closed; next NGPA window announced for June 2027. This named 2026 award may change; confirm the 2027 roster. Payment route and any career benefit are not verified.",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Provider announces June 2027 applications; named 2026 awards are not guaranteed to repeat."
     },
     {
       "value": 5000,
@@ -2907,7 +3038,9 @@
       "amount": "$5,000",
       "requirements": "Current/incoming Part 147 students; NGPA membership and age 18+.",
       "note": "2026 closed; June 2027 next program window. Named awards are subject to renewal. Do not infer a job offer or student-cash payment.",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Provider announces June 2027 applications; named 2026 awards are not guaranteed to repeat."
     },
     {
       "value": 5000,
@@ -2941,7 +3074,9 @@
       "amount": "$5,000 school payment",
       "requirements": "Outstanding transgender/gender-diverse advocate studying/training for aviation; membership, age 18+.",
       "note": "2026 closed; next program window June 2027, award renewal unconfirmed. Funds go to the school.",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Provider announces June 2027 applications; named 2026 awards are not guaranteed to repeat."
     },
     {
       "value": 5000,
@@ -2975,7 +3110,9 @@
       "amount": "$5,000 school payment",
       "requirements": "Outstanding LGBTQ+ advocate in aviation study/training; NGPA membership, age 18+.",
       "note": "2026 closed; June 2027 next program window, roster may change. Source says person, not women-only. School receives funding.",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Provider announces June 2027 applications; named 2026 awards are not guaranteed to repeat."
     },
     {
       "value": 2500,
@@ -3008,7 +3145,8 @@
       "requirements": "Warbird-focused mechanics, A&P students or committed volunteers; NATA member recommendation, interest letter and maintenance résumé.",
       "note": "2026 T-6 course announced November 1–7 in Lebanon, TN. Scholarship places and late applications need confirmation. Approximate $2,500 course/lodging/meals value; travel excluded. Not student cash or initial A&P certification.",
       "workLocation": "Lebanon, TN · course travel required",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": false
     },
     {
       "value": 5000,
@@ -3043,7 +3181,9 @@
       "requirements": "US veterans/current service members transitioning to A&P work; provider-selected training and program rules.",
       "note": "2026 closed; 2027 timeline not published. Two awards described for tuition, books and training at the chosen provider. Not a general grant toward any AIM campus.",
       "workLocation": "RTAG-selected service provider",
-      "fit": "check"
+      "fit": "check",
+      "recurring": true,
+      "recurrenceNote": "Provider announces a 2027 scholarship program; future roster and dates TBA."
     },
     {
       "value": null,
@@ -3079,7 +3219,8 @@
       "references": [
         "https://aviationmaintenance.edu/about/partnerships/"
       ],
-      "fit": "aim-check"
+      "fit": "aim-check",
+      "recurring": false
     },
     {
       "value": null,
@@ -3111,7 +3252,9 @@
       "amount": "Varies · education support",
       "requirements": "A&P certificate student, age 19+, with aviation volunteer hours; EAA program rules also apply.",
       "note": "Part of EAA’s common application, not an extra independent application. GPA and immigration/enrollment rules apply; confirm exact award amount and payment route.",
-      "fit": "potential"
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward."
     },
     {
       "value": null,
@@ -3151,7 +3294,8 @@
       "references": [
         "https://aviationmaintenance.edu/about/partnerships/"
       ],
-      "fit": "aim-check"
+      "fit": "aim-check",
+      "recurring": false
     },
     {
       "value": null,
@@ -3190,7 +3334,8 @@
       "references": [
         "https://careers.united.com/us/en/united-pathways"
       ],
-      "fit": "aim-check"
+      "fit": "aim-check",
+      "recurring": false
     },
     {
       "value": null,
@@ -3225,7 +3370,9 @@
       "requirements": "NGPA membership and age 18+; confirm the 2027 maintenance awards and their specific school/program rules when published.",
       "note": "Provider announces its next application window for June 2027. The 2026 roster included PSA and Republic maintenance awards; individual awards and amounts are not assumed to repeat.",
       "fit": "check",
-      "opensMonth": "2027-06"
+      "opensMonth": "2027-06",
+      "recurring": true,
+      "recurrenceNote": "Provider announces June 2027 applications; named 2026 awards are not guaranteed to repeat."
     }
   ],
   "resources": [
@@ -3355,5 +3502,12 @@
     "Geographic suitability is not a guarantee of individual eligibility.",
     "Closed cycles and unconfirmed leads are labeled; dates are not rolled forward automatically.",
     "Designed first for AIM NJ students who have not yet earned A&P. Other-school routes and degree-only internships are labeled separately; a listing is not a personal eligibility decision."
-  ]
+  ],
+  "maintenancePolicy": {
+    "timezone": "America/New_York",
+    "expired": "Hide closed/expired awards unless recurring or a future opening is recorded. Deadline date remains included.",
+    "missing": "Hide confirmed HTTP 404/410 sources; recheck all hidden URLs on every run and restore after a successful content check.",
+    "transient": "403/429/timeouts/5xx do not count as permanent disappearance.",
+    "discovery": "New maintenance-related headings on maintained official sources become unverified leads."
+  }
 }

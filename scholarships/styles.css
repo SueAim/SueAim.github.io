@@ -16,3 +16,82 @@
 .extra-filters summary{padding:16px 0;font-weight:700;cursor:pointer}.extra-filters summary span{font-size:.75rem;font-weight:400;margin-left:8px;color:#53665e}.advanced-fields{padding-bottom:15px}
 .career-shortcut{padding:0 0 18px;display:flex;flex-wrap:wrap;align-items:center;gap:5px 18px}.career-shortcut small{color:#53665e}
 .resource-drawer>summary{font-size:1.1rem;font-weight:700;cursor:pointer;padding:18px 0}.resource-drawer[open]>.resource-grid{margin-top:18px}
+/* Scholarship-first home: concise header, live counts, then award amounts. */
+.compact-home .header-inner{padding:12px 24px;max-width:1200px;gap:16px}
+.compact-home .brand{font-size:21px;letter-spacing:-.5px;gap:9px;white-space:nowrap}
+.compact-home .brand-mark{width:34px;line-height:34px;border-radius:8px;font-size:17px;flex-shrink:0}
+.compact-home .home-main{max-width:1160px;padding-inline:24px}
+.home-intro{padding:20px 0 16px}.daily-label{display:flex;align-items:center;gap:7px;font-size:13px;font-weight:750;letter-spacing:.5px;color:#38643a}
+.home-intro h1{font-size:32px;line-height:1.13;letter-spacing:-1px;margin:8px 0 6px}.home-intro p{font-size:15px;margin:5px 0 0;color:#425a51}
+.compact-home .directory{padding:0 0 20px}
+.compact-home .quick-categories{margin:0 0 13px;gap:10px}
+.compact-home .category{display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;gap:1px;min-height:76px;padding:10px;background:white;border-radius:10px}
+.compact-home .category strong{font-size:30px;font-weight:750;line-height:1.12;margin:0;letter-spacing:-1px}
+.compact-home .category>span{font-size:14px;font-weight:650;line-height:1.3}
+.compact-home .category.active{background:#e8efdf;border-color:#6f8d61}
+.compact-home .search-box{margin:0 0 10px;padding:0 12px;min-height:50px;border-radius:9px;gap:8px}
+.compact-home .search-box input{font-size:16px;min-width:0;padding:12px 0}
+.compact-home .search-box .text-button{font-size:13px;padding:8px 0}
+.quick-actions{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:10px}
+.support-chip{background:white;border:1px solid #dce2d9;color:var(--ink);border-radius:7px;padding:9px 13px;min-height:42px;font-size:14px;font-weight:650;text-decoration:none;display:inline-flex;align-items:center;justify-content:center}
+.compact-home .filters{margin:0 0 12px;background:#f0f3ec;border-radius:8px}
+.compact-home .filters summary{font-size:14px;min-height:44px;padding:10px 13px;gap:8px}
+.compact-home .filters summary span{font-size:12px}.compact-home .filter-body{max-width:600px;padding:0 14px 14px}
+.compact-home .filter-body label,.compact-home .filter-body>label{display:block;font-size:14px;margin-top:14px;margin-bottom:5px;font-weight:650}
+.compact-home .filter-body select,.compact-home .filter-body input{font-size:16px;min-height:44px;width:100%}
+.compact-home .filter-body small,.compact-home .filter-body>p{font-size:13px;line-height:1.4}
+.compact-home .results-toolbar{margin-bottom:3px;min-height:35px;gap:10px}
+.compact-home .results-toolbar p{font-size:15px;font-weight:750;white-space:nowrap}
+.compact-home .results-toolbar select{font-size:13px;max-width:180px;min-height:35px}
+.results-hint{font-size:13px;line-height:1.35;color:#52685e;margin:0 0 12px}
+.compact-home .scholarship-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+.compact-home .scholarship-card{padding:17px;border-radius:11px}
+.opportunity-kind{font-size:12px;font-weight:750;letter-spacing:.2px;color:#496044}
+.compact-home .status-badge{font-size:11px;padding:4px 6px}
+.compact-home .org-name{font-size:13px;line-height:1.35;margin:11px 0 4px;color:#506256}
+.compact-home .scholarship-card h3{font-size:19px;font-weight:700;line-height:1.2;letter-spacing:-.3px;margin:0 0 10px}
+.compact-home .amount{font-size:29px;font-weight:750;line-height:1.15;letter-spacing:-.8px;color:#28583d}
+.compact-home .amount-long{font-size:23px}
+.compact-home .benefit-label{font-size:13px;font-weight:700;margin-top:5px;color:#344c40}
+.value-qualifier{font-size:12px;line-height:1.3;color:#52685e;margin:4px 0 0}
+.compact-home .card-tags{margin:10px 0 6px;gap:5px}
+.compact-home .tag{font-size:12px;padding:3px 6px;line-height:1.3}
+.compact-home .card-note{font-size:13px;line-height:1.4;margin:6px 0 10px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.card-meta{font-size:13px;color:#425b4e;margin:0 0 8px}
+.compact-home .card-bottom{padding-top:8px;margin-top:auto;flex-wrap:nowrap}
+.compact-home .card-bottom button{font-size:14px;min-height:42px;padding:4px 0;font-weight:650}
+.compact-home .card-bottom .save{padding-inline:11px}
+.compact-home .load-more{margin-top:18px;min-height:46px;font-size:14px}
+.compact-home .results-end{font-size:12px;margin:9px 0}
+.compact-updates{padding:18px 0 20px;border-top:1px solid var(--line)}
+.compact-section-heading{display:flex;justify-content:space-between;align-items:center;gap:12px}
+.compact-section-heading h2{font-size:19px;line-height:1.2;margin:0}.compact-section-heading>a{font-size:13px;white-space:nowrap}
+.compact-updates>p{font-size:12px;color:#52685e;line-height:1.4;margin:6px 0 0}
+.compact-home .announcement-grid{margin-top:12px;gap:8px;grid-template-columns:repeat(3,minmax(0,1fr))}
+.compact-home .announcement{padding:12px;color:var(--ink);background:white;border:1px solid var(--line);border-radius:8px}
+.compact-home .announcement h3{font-size:15px;min-height:0;line-height:1.3;margin:5px 0}
+.compact-home .announcement small{font-size:10px;color:#52685e}.compact-home .announce-bottom{font-size:12px;color:#435e50}
+.compact-home .update-foot{font-size:12px;color:#52685e;gap:12px;align-items:center;margin-top:10px;border:0;padding:0}
+.compact-home .update-foot .text-button{font-size:13px;white-space:nowrap;color:var(--ink)}
+.compact-panel{border-top:1px solid var(--line);padding:0}
+.compact-panel summary{cursor:pointer;font-size:15px;font-weight:650;padding:15px 0;line-height:1.35}
+.compact-panel summary span{display:block;font-size:12px;font-weight:400;color:#52685e;margin-top:3px}
+.compact-panel p{font-size:14px;line-height:1.5;margin:8px 0 14px}.compact-panel .faq{border:0;border-top:1px solid var(--line)}
+.compact-panel .faq summary{font-size:14px}.compact-panel .resource-grid{grid-template-columns:repeat(3,minmax(0,1fr));margin:8px 0 15px}
+.compact-panel .resource-card a{font-size:14px}.compact-panel .resource-card p{font-size:13px}.compact-home .resource-drawer>summary{font-size:15px}
+.compact-home .compact-footer{max-width:1160px;padding:18px 24px 30px;gap:20px;align-items:center}
+.compact-footer p,.compact-footer a{font-size:12px}.compact-home .modal-panel p,.compact-home .modal-panel li{font-size:15px}
+.compact-home.large-text .card-note{-webkit-line-clamp:unset}.compact-home.large-text .card-note,.compact-home.large-text .benefit-label,.compact-home.large-text .tag{font-size:16px}
+@media(max-width:1000px){.compact-home .scholarship-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.compact-home nav{gap:17px}.compact-home nav a{font-size:12px}}
+@media(max-width:760px){
+ .compact-home .header-inner{padding:10px 16px;gap:8px}.compact-home .brand{font-size:18px;gap:8px;letter-spacing:-.4px}.compact-home .brand-mark{width:30px;line-height:30px;font-size:16px}.compact-home nav{display:none}
+ .compact-home .header-actions{gap:5px}.compact-home .icon-button{padding:6px 9px;min-height:40px;min-width:38px;font-size:13px}.compact-home .full-label{display:none}
+ .compact-home .home-main{padding-inline:16px}.home-intro{padding:13px 0 12px}.daily-label{font-size:12px;letter-spacing:.4px}.home-intro h1{font-size:28px;margin:7px 0 5px}.home-intro p{font-size:14px;line-height:1.35;margin-top:4px}
+ .compact-home .quick-categories{gap:7px;margin-bottom:10px}.compact-home .category{min-height:68px;padding:8px 5px;gap:1px}.compact-home .category strong{font-size:28px}.compact-home .category>span{font-size:12px}
+ .quick-actions{gap:6px;flex-wrap:nowrap}.support-chip{font-size:12px;padding:8px 9px;min-height:40px;flex:1;white-space:nowrap}
+ .compact-home .filters{margin-bottom:8px}.compact-home .filters summary{min-height:42px;padding:9px 12px;font-size:13px}.compact-home .results-toolbar{min-height:34px}.compact-home .results-toolbar p{font-size:14px}.compact-home .results-toolbar select{font-size:12px;max-width:156px}
+ .results-hint{font-size:12px;line-height:1.35;margin-bottom:10px}.compact-home .scholarship-grid{grid-template-columns:1fr;gap:10px}.compact-home .scholarship-card{padding:15px}.compact-home .scholarship-card h3{font-size:20px;margin-bottom:8px}.compact-home .org-name{font-size:13px;margin-top:8px}.compact-home .amount{font-size:30px}.compact-home .amount-long{font-size:23px}.compact-home .card-tags{margin-top:8px}.compact-home .card-note{margin:5px 0 8px;font-size:13px}.compact-home .card-bottom button{font-size:14px;min-height:40px}.compact-home .status-badge{font-size:11px}
+ .compact-home .announcement-grid{grid-template-columns:1fr;gap:7px}.compact-home .announcement{padding:11px}.compact-home .announcement small{font-size:11px}.compact-home .announcement h3{font-size:15px}.compact-home .update-foot{align-items:flex-start;font-size:11px}.compact-section-heading h2{font-size:18px}.compact-section-heading>a{font-size:12px}
+ .compact-panel .resource-grid{grid-template-columns:1fr}.compact-home .compact-footer{padding:18px 16px 80px}.compact-footer>div{gap:16px}.compact-home .modal-panel p{font-size:15px}
+}
+@media print{.compact-home header,.home-intro,.compact-home main,.compact-home footer{display:none!important}#printArea{display:block!important}}
