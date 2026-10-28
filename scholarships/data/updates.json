@@ -1,10 +1,10 @@
 {
-  "lastAttempt": null,
-  "lastSuccessful": null,
-  "sourcesChecked": 0,
-  "sourcesTotal": 0,
+  "lastAttempt": "2026-10-28T13:55:45.848501Z",
+  "lastSuccessful": "2026-10-28T13:55:45.848501Z",
+  "sourcesChecked": 33,
+  "sourcesTotal": 33,
   "changes": [],
   "discovered": [],
   "failures": [],
-  "message": "Daily source monitoring is being connected. Initial editorial review: October 28, 2026."
+  "message": "Daily source checks; source changes and newly discovered leads are not eligibility verification."
 }
