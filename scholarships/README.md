@@ -67,3 +67,7 @@ The directory includes Sonic tools, Aero Engine Solutions, Duncan, AAR, HAECO, A
 - Every run publishes last-check time, failures, hidden counts and a lifecycle log to data/updates.json, then requests a Pages deployment. An open page refreshes public data every 15 minutes and on returning to the tab; time-based visibility is recalculated each minute.
 
 Validation covers deadline boundaries in NJ time, recurring exceptions, 404/410 suppression and recovery, transient errors, PDF checks, discovery deduplication and filter integrity. `docs/mobile-preview.html` exercises the actual website at a 390px phone width.
+
+## Standing research requirement
+
+Actively expand discovery beyond the maintained source list, especially smaller airlines, repair shops, parts suppliers and tool companies. A daily ChatGPT research task is scheduled for mornings in America/New_York starting October 29, 2026, to verify and publish applicable new opportunities. The GitHub source-maintenance workflow remains separate. See [ongoing research requirements](docs/ongoing-research-requirements.md) for the owner's full priorities and authorization.
