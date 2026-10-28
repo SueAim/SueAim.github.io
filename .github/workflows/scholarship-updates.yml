@@ -6,6 +6,7 @@ on:
   push:
     paths:
       - 'scholarships/scripts/monitor_sources.py'
+      - 'scholarships/data/catalog.json'
       - '.github/workflows/scholarship-updates.yml'
 permissions:
   contents: write

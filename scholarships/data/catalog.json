@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "reviewed": "2026-10-28",
   "scope": "AIM NJ and nationwide; other Part 147 students welcome",
   "records": [
@@ -31,7 +31,11 @@
       "kind": "scholarship",
       "note": "2026 round closed. International students may apply. Confirm next cycle with the chapter.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "wts-new-jersey-fred-berger-endowed-scholarship",
@@ -61,7 +65,11 @@
       "kind": "scholarship",
       "note": "One WTS NJ award per student per year, even when applying to multiple categories.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "aim-scholarship-match-program",
@@ -89,7 +97,11 @@
       "kind": "grant",
       "note": "Matching support, not a separate unrestricted cash award. Ask campus Financial Services for current terms.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "aim-new-jersey-student-scholarship",
@@ -119,7 +131,11 @@
       "kind": "lead",
       "note": "Funding lead only. Award amount, payment route and current application window are not published on the source page.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "check"
     },
     {
       "id": "aim-john-anthony-carbone-jr-memorial-scholarship",
@@ -149,7 +165,11 @@
       "kind": "lead",
       "note": "Funding lead only. Award amount, payment route and current application window are not published on the source page.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "check"
     },
     {
       "id": "tbx-aviation-maintenance-scholarship",
@@ -177,7 +197,11 @@
       "kind": "scholarship",
       "note": "One tuition recipient; two exam-fee recipients. Tuition is paid to the institution. These are award categories in one program, not three applications.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "mro",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "amc-techforce-phoebe-omlie-award",
@@ -205,7 +229,12 @@
       "kind": "scholarship",
       "note": "Award name does not mean women-only. Confirm individual sponsor/payment terms.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "minValue": 1000,
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "amc-fedex-frederick-w-smith-purple-promise-scholarship",
@@ -233,7 +262,11 @@
       "kind": "scholarship",
       "note": "Separate AMC program from RACCA’s similarly named award.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "amc-jim-and-alice-rice-faa-test-fees-grant",
@@ -261,7 +294,11 @@
       "kind": "scholarship",
       "note": "Certification testing support; not spendable cash. Confirm voucher values and exams covered in the live application.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "aea-educational-foundation-aircraft-lighting-international-scholarship",
@@ -289,7 +326,11 @@
       "kind": "scholarship",
       "note": "For fall 2027 / spring 2028 costs. Joint student-and-school payment; tuition/books/tools only, not unrestricted cash. Several named awards share one application.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "parts",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "aea-educational-foundation-james-hammond-joubert-memorial-scholarship",
@@ -317,7 +358,11 @@
       "kind": "scholarship",
       "note": "For fall 2027 / spring 2028 costs. Joint student-and-school payment; tuition/books/tools only, not unrestricted cash. Several named awards share one application.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "parts",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "aea-educational-foundation-pat-napolitano-memorial-scholarship-for-aspiring-technicians",
@@ -345,7 +390,11 @@
       "kind": "scholarship",
       "note": "For fall 2027 / spring 2028 costs. Joint student-and-school payment; tuition/books/tools only, not unrestricted cash. Several named awards share one application.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "parts",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "aea-educational-foundation-david-arver-memorial-scholarship",
@@ -373,7 +422,11 @@
       "kind": "scholarship",
       "note": "For fall 2027 / spring 2028 costs. Joint student-and-school payment; tuition/books/tools only, not unrestricted cash. Several named awards share one application.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "parts",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "aea-educational-foundation-dutch-and-ginger-arver-scholarship",
@@ -401,7 +454,11 @@
       "kind": "scholarship",
       "note": "For fall 2027 / spring 2028 costs. Joint student-and-school payment; tuition/books/tools only, not unrestricted cash. Several named awards share one application.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "parts",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "aea-educational-foundation-garmin-scholarship",
@@ -429,7 +486,11 @@
       "kind": "scholarship",
       "note": "For fall 2027 / spring 2028 costs. Joint student-and-school payment; tuition/books/tools only, not unrestricted cash. Several named awards share one application.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "parts",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "aea-educational-foundation-garmin-jerry-smith-memorial-scholarship",
@@ -457,7 +518,11 @@
       "kind": "scholarship",
       "note": "For fall 2027 / spring 2028 costs. Joint student-and-school payment; tuition/books/tools only, not unrestricted cash. Several named awards share one application.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "parts",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "aea-educational-foundation-gogo-scholarship",
@@ -485,7 +550,11 @@
       "kind": "scholarship",
       "note": "For fall 2027 / spring 2028 costs. Joint student-and-school payment; tuition/books/tools only, not unrestricted cash. Several named awards share one application.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "parts",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "aea-educational-foundation-johnny-davis-memorial-scholarship",
@@ -513,7 +582,11 @@
       "kind": "scholarship",
       "note": "For fall 2027 / spring 2028 costs. Joint student-and-school payment; tuition/books/tools only, not unrestricted cash. Several named awards share one application.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "parts",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "aea-educational-foundation-kevin-miesbach-memorial-scholarship",
@@ -541,7 +614,11 @@
       "kind": "scholarship",
       "note": "For fall 2027 / spring 2028 costs. Joint student-and-school payment; tuition/books/tools only, not unrestricted cash. Several named awards share one application.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "parts",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "aea-educational-foundation-lee-tarbox-memorial-scholarship",
@@ -569,7 +646,11 @@
       "kind": "scholarship",
       "note": "For fall 2027 / spring 2028 costs. Joint student-and-school payment; tuition/books/tools only, not unrestricted cash. Several named awards share one application.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "parts",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "aea-educational-foundation-marshall-temple-memorial-scholarship",
@@ -597,7 +678,11 @@
       "kind": "scholarship",
       "note": "For fall 2027 / spring 2028 costs. Joint student-and-school payment; tuition/books/tools only, not unrestricted cash. Several named awards share one application.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "parts",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "aea-educational-foundation-mid-continent-instruments-and-avionics-scholarship",
@@ -625,7 +710,11 @@
       "kind": "scholarship",
       "note": "For fall 2027 / spring 2028 costs. Joint student-and-school payment; tuition/books/tools only, not unrestricted cash. Several named awards share one application.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "parts",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "aea-educational-foundation-susan-t-friedle-scholarship",
@@ -653,7 +742,11 @@
       "kind": "scholarship",
       "note": "For fall 2027 / spring 2028 costs. Joint student-and-school payment; tuition/books/tools only, not unrestricted cash. Several named awards share one application.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "parts",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "aea-educational-foundation-universal-avionics-scholarship",
@@ -681,7 +774,11 @@
       "kind": "scholarship",
       "note": "For fall 2027 / spring 2028 costs. Joint student-and-school payment; tuition/books/tools only, not unrestricted cash. Several named awards share one application.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "parts",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "nbaa-amt-maintenance-scholarship",
@@ -709,7 +806,11 @@
       "kind": "scholarship",
       "note": "Course award, not tuition cash. Rank suitable courses; prerequisites vary.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "nbaa-hank-hilsmann-memorial-scholarship",
@@ -739,7 +840,11 @@
       "kind": "scholarship",
       "note": "Falcon Jet initial maintenance training, not a general tuition payment.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "nbaa-william-m-fanning-maintenance-scholarship",
@@ -767,7 +872,11 @@
       "kind": "scholarship",
       "note": "Provider’s 2027 header and application-opening date are current; some body text still references 2026. Reconfirm before applying.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "nbaa-john-f-rahilly-memorial-scholarship-for-future-a-p-technicians",
@@ -795,7 +904,11 @@
       "kind": "scholarship",
       "note": "2027 opening announced for April. Provider has mixed-year wording; confirm live terms.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "nbaa-corporate-aircraft-association-scholarship-for-future-aviation-leaders",
@@ -823,7 +936,11 @@
       "kind": "scholarship",
       "note": "2027 deadline listed; opening not yet confirmed.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "nbaa-james-sullivan-aviation-scholarship",
@@ -851,7 +968,11 @@
       "kind": "scholarship",
       "note": "2027 deadline listed. Verify current application and citizenship conditions.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "lpa-aviation-maintenance-technician-scholarship",
@@ -881,7 +1002,11 @@
       "kind": "scholarship",
       "note": "Community-focused organization; do not assume an ethnicity restriction. Deadline is 11:59 p.m. Pacific.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "lpa-aerospace-degree-advancement-scholarship",
@@ -911,7 +1036,11 @@
       "kind": "scholarship",
       "note": "School/program confirmation needed. Same portal as other LPA awards.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "check"
     },
     {
       "id": "vertical-aviation-international-bill-sanderson-aviation-maintenance-technician-scholarship",
@@ -939,7 +1068,11 @@
       "kind": "scholarship",
       "note": "Specialized maintenance course, not funding for the entire A&P program. Travel terms vary.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "vertical-aviation-international-robinson-pete-riedl-amt-scholarship",
@@ -967,7 +1100,11 @@
       "kind": "scholarship",
       "note": "Specialized maintenance course, not funding for the entire A&P program. Travel terms vary.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "eaa-post-secondary-scholarship-program",
@@ -995,7 +1132,11 @@
       "kind": "scholarship",
       "note": "Counted as one program here; not every EAA award supports maintenance. Check individual restrictions.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "choose-aerospace-choose-aerospace-skilled-nation-scholarship",
@@ -1023,7 +1164,11 @@
       "kind": "scholarship",
       "note": "Fresh source page says November 2; older announcements say November 1. Current deadline and payment route need confirmation.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "choose-aerospace-aviation-maintenance-apprentice-tool-box-award",
@@ -1051,7 +1196,11 @@
       "kind": "scholarship",
       "note": "Physical equipment award; not cash.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "choose-aerospace-sonic-intermediate-aviation-tool-set-award",
@@ -1079,7 +1228,11 @@
       "kind": "scholarship",
       "note": "263-piece set and tool box. Value is equipment value, not money paid to the student.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "tools",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "grumman-owners-and-pilots-association-maintenance-technician-scholarship",
@@ -1107,7 +1260,11 @@
       "kind": "scholarship",
       "note": "2026 program listed; no current closing date verified. Ask provider before applying.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "sheltair-avfuel-future-takes-flight-aviation-technicians",
@@ -1135,7 +1292,11 @@
       "kind": "scholarship",
       "note": "Two aviation-technician awards; joint recipient/institution check. 2026 applications closed.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "racca-frederick-w-smith-aviation-scholarship",
@@ -1163,7 +1324,11 @@
       "kind": "scholarship",
       "note": "Four named awards in the same program. 2026 round closed.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "racca-terry-hibler-memorial-scholarship",
@@ -1191,7 +1356,11 @@
       "kind": "scholarship",
       "note": "Four named awards in the same program. 2026 round closed.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "racca-stanley-bernstein-aviation-scholarship",
@@ -1219,7 +1388,11 @@
       "kind": "scholarship",
       "note": "Four named awards in the same program. 2026 round closed.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "racca-jeanne-cook-aviation-scholarship",
@@ -1247,7 +1420,11 @@
       "kind": "scholarship",
       "note": "Four named awards in the same program. 2026 round closed.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "women-in-aviation-international-amazon-maintenance-technician-scholarship",
@@ -1275,7 +1452,11 @@
       "kind": "scholarship",
       "note": "2027 award cycle closed. WAI says next applications open summer 2027; maximum three applications per cycle. Payment route must be checked per sponsor.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "airline",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "women-in-aviation-international-american-airlines-aircraft-maintenance-technician-scholarship",
@@ -1303,7 +1484,11 @@
       "kind": "scholarship",
       "note": "2027 award cycle closed. WAI says next applications open summer 2027; maximum three applications per cycle. Payment route must be checked per sponsor.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "airline",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "women-in-aviation-international-boeing-maintenance-training-scholarship",
@@ -1331,7 +1516,11 @@
       "kind": "scholarship",
       "note": "2027 award cycle closed. WAI says next applications open summer 2027; maximum three applications per cycle. Payment route must be checked per sponsor.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "parts",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "women-in-aviation-international-evelyn-lockwood-greene-memorial-a-p-maintenance-scholarship",
@@ -1359,7 +1548,11 @@
       "kind": "scholarship",
       "note": "2027 award cycle closed. WAI says next applications open summer 2027; maximum three applications per cycle. Payment route must be checked per sponsor.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "women-in-aviation-international-psa-airlines-maintenance-scholarship",
@@ -1387,7 +1580,11 @@
       "kind": "scholarship",
       "note": "2027 award cycle closed. WAI says next applications open summer 2027; maximum three applications per cycle. Payment route must be checked per sponsor.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "airline",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "women-in-aviation-international-vertical-aviation-wai-maintenance-technician-certificate-scholarship",
@@ -1415,7 +1612,11 @@
       "kind": "scholarship",
       "note": "2027 award cycle closed. WAI says next applications open summer 2027; maximum three applications per cycle. Payment route must be checked per sponsor.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "women-in-aviation-international-elisha-hall-memorial-scholarship",
@@ -1443,7 +1644,11 @@
       "kind": "scholarship",
       "note": "2027 award cycle closed. WAI says next applications open summer 2027; maximum three applications per cycle. Payment route must be checked per sponsor.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "women-in-aviation-international-janet-clark-memorial-scholarship",
@@ -1471,7 +1676,11 @@
       "kind": "scholarship",
       "note": "2027 award cycle closed. WAI says next applications open summer 2027; maximum three applications per cycle. Payment route must be checked per sponsor.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "awam-scholarship-program",
@@ -1499,7 +1708,11 @@
       "kind": "scholarship",
       "note": "2026 season closed; 2027 window not announced. Includes student, tool and professional-training awards; not all fit unlicensed students.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "obap-aerospace-scholarship-program",
@@ -1529,7 +1742,11 @@
       "kind": "scholarship",
       "note": "Fall 2026 cycle closed. OBAP states its awards are open to eligible members of all ethnicities; not Black-only.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "techforce-foundation-tuition-scholarships-emergency-support",
@@ -1557,7 +1774,11 @@
       "kind": "scholarship",
       "note": "Cycles run year-round. One portal screens for sponsor awards. Aviation included; not every auto/HVAC award accepts A&P students.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "northrop-rice-foundation-faa-test-fees-program",
@@ -1585,7 +1806,11 @@
       "kind": "scholarship",
       "note": "Do not assume early-stage students qualify. Application link is published; ask about current funding.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "northrop-rice-foundation-aircraft-maintenance-tools-program",
@@ -1613,7 +1838,11 @@
       "kind": "scholarship",
       "note": "Donated equipment availability varies; not unrestricted cash.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "vfw-sport-clips-help-a-hero-scholarship",
@@ -1641,15 +1870,19 @@
       "kind": "scholarship",
       "note": "Spring application window August 1–November 15. Tuition/fees paid directly to school; one award per family per semester.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "soroptimist-live-your-dream-awards",
       "name": "Live Your Dream Awards",
       "org": "Soroptimist",
-      "url": "https://apply.soroptimist.org/prog/live_your_dream_awards/",
-      "amount": "Varies by award level",
-      "value": null,
+      "url": "https://www.soroptimist.org/our-work/live-your-dream-awards/apply-for-the-live-your-dream-awards.html",
+      "amount": "Up to $16,000 total",
+      "value": 16000,
       "status": "open",
       "deadline": "2026-11-15",
       "opens": null,
@@ -1663,13 +1896,18 @@
       "minAge": null,
       "maxAge": null,
       "stage": "student",
-      "requirements": "Woman providing primary financial support for dependents; financial need; vocational/skills or undergraduate study; additional rules apply.",
+      "requirements": "Woman providing primary financial support for dependents; financial need; vocational/undergraduate study; no graduate degree held or pursued. Prior award and organization-affiliation exclusions apply.",
       "group": null,
-      "ai": "prohibited",
+      "ai": "limited",
       "kind": "scholarship",
-      "note": "Applicant-written responses required: https://apply.soroptimist.org/res/p/help-app/ . No AI-generated application writing. Provider describes cash awards; verify local amount.",
+      "note": "Potential cumulative $1,000–$16,000 across club, region and international judging, not a guaranteed $16,000 award. Club amounts/timelines vary. Current main page permits grammar/organization help but requires your own story; the application help page contains stricter no-AI certification wording. Follow the actual application terms or ask the provider before using AI.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "minValue": 1000,
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "p-e-o-program-for-continuing-education",
@@ -1697,7 +1935,11 @@
       "kind": "scholarship",
       "note": "Need-based grant; restricted education expenses. Payment route not verified; do not treat as unrestricted cash.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "mikeroweworks-work-ethic-scholarship-program",
@@ -1725,7 +1967,11 @@
       "kind": "scholarship",
       "note": "Video, references, tuition statement and S.W.E.A.T. Pledge required. Do not assume every technical program is approved.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "folds-of-honor-higher-education-scholarship-military-families",
@@ -1755,7 +2001,11 @@
       "kind": "scholarship",
       "note": "Not an award for every veteran. Annual window February 1–March 31. Trade/technical pathways may qualify; provider confirms school eligibility.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
     },
     {
       "id": "south-texas-pama-fall-a-p-scholarships",
@@ -1785,7 +2035,1160 @@
       "kind": "scholarship",
       "note": "Not a match for NJ-only attendance. AI-generated essays prohibited. Included for nationwide AIM students with the required location.",
       "reviewed": "2026-10-28",
-      "added": "2026-10-28"
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential"
+    },
+    {
+      "value": 7530,
+      "status": "open",
+      "deadline": "2026-10-31",
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "tools",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "group": null,
+      "ai": "unknown",
+      "kind": "scholarship",
+      "reviewed": "2026-10-28",
+      "added": "2026-10-28",
+      "provider": "tools",
+      "relocation": false,
+      "career": "none",
+      "id": "sonic-impact-tools",
+      "name": "Sonic Impact Scholarship · aviation tools",
+      "org": "Sonic Tools",
+      "url": "https://sonictoolsusa.com/scholarship/",
+      "amount": "$7,530 tool set",
+      "requirements": "Accredited aviation trade-school students; enrollment proof, instructor recommendation, P.A.C.E. essay and short video.",
+      "note": "Aviation tools and toolbox, not cash. November selection deadline: October 31, 2026. Separate from the Choose Aerospace Sonic award. Proper work/school visas accepted; no minimum GPA, although GPA is considered.",
+      "fit": "potential"
+    },
+    {
+      "value": 1000,
+      "status": "verify",
+      "deadline": null,
+      "opens": null,
+      "geo": "unknown",
+      "states": [],
+      "benefit": "unconfirmed",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "check",
+      "group": null,
+      "ai": "unknown",
+      "kind": "lead",
+      "reviewed": "2026-10-28",
+      "added": "2026-10-28",
+      "provider": "parts",
+      "relocation": false,
+      "career": "none",
+      "id": "aes-scholarship",
+      "name": "Aero Engine Solutions Scholarship",
+      "org": "Aero Engine Solutions",
+      "url": "https://aeroenginesolutions.com/",
+      "amount": "$1,000 reported award",
+      "requirements": "Engine/parts supplier publishes a student application covering education, goals, background and financial need.",
+      "note": "Company announcements describe five $1,000 awards. The website still links a form stored in 2024; current deadline, NJ/certificate eligibility and payment route must be confirmed with AES before sending personal information.",
+      "references": [
+        "https://aeroenginesolutions.com/wp-content/uploads/2024/11/AES-Scholarship-Application-Criteria-Sheet.pdf"
+      ],
+      "fit": "check"
+    },
+    {
+      "value": null,
+      "status": "verify",
+      "deadline": null,
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "paid-training",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "group": null,
+      "ai": "unknown",
+      "kind": "program",
+      "reviewed": "2026-10-28",
+      "added": "2026-10-28",
+      "provider": "mro",
+      "relocation": true,
+      "career": "none",
+      "id": "duncan-maintenance-apprentice",
+      "name": "Maintenance Apprenticeship",
+      "org": "Duncan Aviation",
+      "url": "https://www.duncanaviation.aero/careers/apprenticeships",
+      "amount": "Hourly pay + training",
+      "requirements": "20-month employed training in Lincoln, NE or Battle Creek, MI; confirm entry qualifications and a current vacancy.",
+      "note": "Public program offers paid work, tuition-free training and testing/materials. Tools use a no-interest loan, not a free-tool award. Describes Airframe OR Powerplant certification; do not assume both ratings. Intake is not confirmed here.",
+      "benefits": [
+        "paid-training",
+        "internship",
+        "exam"
+      ],
+      "workLocation": "Lincoln, NE / Battle Creek, MI",
+      "fit": "other-program"
+    },
+    {
+      "value": 15000,
+      "status": "verify",
+      "deadline": null,
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "school",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "check",
+      "group": null,
+      "ai": "unknown",
+      "kind": "program",
+      "reviewed": "2026-10-28",
+      "added": "2026-10-28",
+      "provider": "mro",
+      "relocation": true,
+      "career": "employment-commitment",
+      "id": "aar-eagle-fellowship",
+      "name": "EAGLE Fellowship · partner-campus tuition",
+      "org": "AAR",
+      "url": "https://www.aarcorp.com/en/careers/students/",
+      "amount": "Up to $15,000 tuition",
+      "requirements": "Selected partner-school students working toward A&P at Rockford/Indianapolis facilities; a minimum two-year AAR work commitment applies.",
+      "note": "Tuition assistance, work opportunity and certification support. AIM appears in the partnership, but AIM NJ enrollment alone does not establish Fellowship eligibility. Confirm campus, current intake and repayment terms.",
+      "benefits": [
+        "school",
+        "exam"
+      ],
+      "workLocation": "Rockford, IL / Indianapolis, IN",
+      "fit": "other-program"
+    },
+    {
+      "value": null,
+      "status": "upcoming",
+      "deadline": null,
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "school",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "check",
+      "group": null,
+      "ai": "unknown",
+      "kind": "program",
+      "reviewed": "2026-10-28",
+      "added": "2026-10-28",
+      "provider": "airline",
+      "relocation": true,
+      "career": "conditional-offer",
+      "id": "piedmont-tuition-payment",
+      "name": "AMT Tuition Payment Program · 2027 watch",
+      "org": "Piedmont Airlines",
+      "url": "https://piedmont-airlines.com/maintenance/aircraft-maintenance-technician-amt-tuition-payment-program/",
+      "amount": "Tuition + tests + tools",
+      "requirements": "Selected partner schools: PIA Hagerstown/Myrtle Beach, Liberty and AIM Norfolk. Conditional employment, background/testing and academic requirements apply.",
+      "note": "2026 applications closed; 2027 details forthcoming, with no opening date published. School receives remaining eligible tuition after aid. Tools supplied if needed. Employment/repayment conditions apply; this is not an AIM NJ cash award.",
+      "benefits": [
+        "school",
+        "exam",
+        "tools",
+        "job"
+      ],
+      "workLocation": "Partner campuses in MD, VA, SC; east-coast maintenance bases",
+      "fit": "other-program"
+    },
+    {
+      "value": 5000,
+      "status": "verify",
+      "deadline": null,
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "unconfirmed",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "check",
+      "group": null,
+      "ai": "unknown",
+      "kind": "program",
+      "reviewed": "2026-10-28",
+      "added": "2026-10-28",
+      "provider": "airline",
+      "relocation": true,
+      "career": "interview",
+      "id": "psa-maintenance-pathway",
+      "name": "Maintenance Student Pathway",
+      "org": "PSA Airlines",
+      "url": "https://psaairlines.com/aviation-maintenance-pathway-program/",
+      "amount": "Up to $5,000 assistance",
+      "requirements": "Partner-school enrollment, initial training phase completed and provider documents; confirm participation for your exact campus.",
+      "note": "Includes a guaranteed interview, subject to requirements, rather than a guaranteed job. Payment route and current intake need confirmation. Published partners include AIM Charlotte/Norfolk; do not infer AIM NJ eligibility.",
+      "benefits": [
+        "unconfirmed",
+        "job"
+      ],
+      "workLocation": "Participating school / PSA maintenance base",
+      "fit": "other-program"
+    },
+    {
+      "value": 2000,
+      "status": "verify",
+      "deadline": null,
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "paid-training",
+      "gender": "all",
+      "community": [
+        "Military transition"
+      ],
+      "veteran": true,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "check",
+      "group": null,
+      "ai": "unknown",
+      "kind": "program",
+      "reviewed": "2026-10-28",
+      "added": "2026-10-28",
+      "provider": "airline",
+      "relocation": true,
+      "career": "none",
+      "id": "psa-military-transition",
+      "name": "Maintenance Military Transition",
+      "org": "PSA Airlines",
+      "url": "https://psaairlines.com/maintenance-military-transition-program/",
+      "amount": "Training + up to $2,000 stipend",
+      "requirements": "Military maintenance transition pathway; prior experience, FAA eligibility and employer selection apply.",
+      "note": "Provider describes A&P course/testing support, travel/hotel and a training stipend. Verify current terms and intake; veteran status alone is not enough.",
+      "benefits": [
+        "paid-training",
+        "exam"
+      ],
+      "workLocation": "PSA-designated training / employment locations",
+      "fit": "check"
+    },
+    {
+      "value": null,
+      "status": "verify",
+      "deadline": null,
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "paid-training",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "group": null,
+      "ai": "unknown",
+      "kind": "program",
+      "reviewed": "2026-10-28",
+      "added": "2026-10-28",
+      "provider": "airline",
+      "relocation": true,
+      "career": "conditional-offer",
+      "id": "republic-amt-apprenticeship",
+      "name": "AMT Apprenticeship",
+      "org": "Republic Airways",
+      "url": "https://careers.rjet.com/pathways-and-programs/aircraft-maintenance-apprenticeships/",
+      "amount": "Paid work + test support",
+      "requirements": "30-month apprenticeship commitment and successful training/A&P completion; employer hiring requirements apply.",
+      "note": "Program describes paid training, covered certification costs and an offer after successful completion. Confirm a current opening, location and contract; it is not an unrestricted scholarship.",
+      "benefits": [
+        "paid-training",
+        "internship",
+        "exam",
+        "job"
+      ],
+      "workLocation": "Republic-designated apprenticeship site",
+      "fit": "other-program"
+    },
+    {
+      "value": 1600,
+      "status": "verify",
+      "deadline": null,
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "exam",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "check",
+      "group": null,
+      "ai": "unknown",
+      "kind": "program",
+      "reviewed": "2026-10-28",
+      "added": "2026-10-28",
+      "provider": "airline",
+      "relocation": true,
+      "career": "interview",
+      "id": "skywest-amt-pathway",
+      "name": "AMT Pathway · interview & test reimbursement",
+      "org": "SkyWest Airlines",
+      "url": "https://jobs.skywest.com/skywest-airlines/jobs/16032?lang=en-us",
+      "amount": "Up to $1,600 test fees",
+      "requirements": "Student mechanic approaching A&P certification; verify eligible schools and current entry timing directly.",
+      "note": "Non-working pathway, not a paid internship. Guaranteed final interview subject to requirements; test reimbursement requires a one-year commitment. Additional moving assistance is conditional on hire. No guaranteed job.",
+      "benefits": [
+        "exam",
+        "job"
+      ],
+      "workLocation": "School participation; relocation may follow hire",
+      "references": [
+        "https://www.skywest.com/skywest-airline-jobs/career-guides/amt-pathway-program"
+      ],
+      "fit": "check"
+    },
+    {
+      "value": null,
+      "status": "open",
+      "deadline": "2026-11-15",
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "internship",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "check",
+      "group": null,
+      "ai": "unknown",
+      "kind": "program",
+      "reviewed": "2026-10-28",
+      "added": "2026-10-28",
+      "provider": "employer",
+      "relocation": false,
+      "career": "none",
+      "id": "johnson-nj-amt-intern-2027",
+      "name": "2027 AMT Summer Internship · Trenton",
+      "org": "Johnson & Johnson",
+      "url": "https://www.careers.jnj.com/en/jobs/r-100789/aviation-maintenance-technician-summer-intern/",
+      "amount": "$23.50–$52.50 / hour",
+      "requirements": "Completed freshman year at an accredited university in an aviation-maintenance-related degree; GPA 3.0, work authorization, driver license and commuting requirements. A&P preferred.",
+      "note": "Summer 2027 role; anticipated application close November 15, 2026, potentially earlier. Pay varies by degree/year. AIM certificate-only enrollment is not automatically eligible. Wages are not a scholarship.",
+      "workLocation": "Trenton, NJ · onsite; within one-hour commute",
+      "fit": "degree-check"
+    },
+    {
+      "value": null,
+      "status": "verify",
+      "deadline": null,
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "paid-training",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "group": null,
+      "ai": "unknown",
+      "kind": "program",
+      "reviewed": "2026-10-28",
+      "added": "2026-10-28",
+      "provider": "mro",
+      "relocation": true,
+      "career": "none",
+      "id": "west-star-academy",
+      "name": "West Star Academy / A&P Apprenticeships",
+      "org": "West Star Aviation",
+      "url": "https://www.weststaraviation.com/careers/",
+      "amount": "Paid training pathway",
+      "requirements": "Employer-selected maintenance trainees; location, cohort and entry qualifications require confirmation.",
+      "note": "Career page describes academy/apprenticeship routes. Older cohort dates and wages are not treated as current offers. Confirm certification scope, current hiring and commitments before changing schools.",
+      "benefits": [
+        "paid-training",
+        "internship"
+      ],
+      "workLocation": "West Star participating maintenance facilities",
+      "fit": "potential"
+    },
+    {
+      "value": null,
+      "status": "verify",
+      "deadline": null,
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "paid-training",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "group": null,
+      "ai": "unknown",
+      "kind": "program",
+      "reviewed": "2026-10-28",
+      "added": "2026-10-28",
+      "provider": "mro",
+      "relocation": true,
+      "career": "none",
+      "id": "haeco-trainee-greensboro",
+      "name": "Aircraft Maintenance Trainee Program",
+      "org": "HAECO Americas",
+      "url": "https://www.haeco.com/en/careers/trainee-programme/america-specific/aircraft-maintenance-trainee",
+      "amount": "Paid 16-week training",
+      "requirements": "Selected full-time trainees in Greensboro, NC; employer and college-partner entry requirements apply.",
+      "note": "Paid work/training leading to a Composite or Structures Certificate and crew assignment. This is not an A&P certificate or a scholarship paid to an AIM account. Confirm a current intake.",
+      "benefits": [
+        "paid-training",
+        "internship"
+      ],
+      "workLocation": "Greensboro, NC",
+      "fit": "other-program"
+    },
+    {
+      "value": null,
+      "status": "verify",
+      "deadline": null,
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "paid-training",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "group": null,
+      "ai": "unknown",
+      "kind": "program",
+      "reviewed": "2026-10-28",
+      "added": "2026-10-28",
+      "provider": "mro",
+      "relocation": true,
+      "career": "none",
+      "id": "haeco-apprenticeship-lake-city",
+      "name": "Structures / Interiors Apprenticeship",
+      "org": "HAECO Americas",
+      "url": "https://www.haeco.com/en/careers/trainee-programme/america-specific-aircraft-apprenticeship-program",
+      "amount": "Paid 18-month pathway",
+      "requirements": "Lake City, FL apprenticeship for structures or interiors work; current recruitment and entry requirements must be confirmed.",
+      "note": "Includes seven weeks of paid technical instruction, followed by supervised crew work. Not a full A&P program and not a cash award.",
+      "benefits": [
+        "paid-training",
+        "internship"
+      ],
+      "workLocation": "Lake City, FL",
+      "fit": "other-program"
+    },
+    {
+      "value": null,
+      "status": "verify",
+      "deadline": null,
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "paid-training",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "group": null,
+      "ai": "unknown",
+      "kind": "program",
+      "reviewed": "2026-10-28",
+      "added": "2026-10-28",
+      "provider": "mro",
+      "relocation": true,
+      "career": "none",
+      "id": "ats-maintenance-apprenticeship",
+      "name": "ATS Academy Maintenance Apprenticeship",
+      "org": "Aviation Technical Services",
+      "url": "https://www.atsmro.com/2024/10/17/ats-apprenticeship-program-hits-milestone/",
+      "amount": "Paid apprenticeship",
+      "requirements": "Employer-selected trainees; published program locations include Everett, WA and Kansas City, MO.",
+      "note": "Official 2024 report documents paid training and progression to mechanic roles. Current recruitment, tools, FAA eligibility and program length require confirmation; the historical announcement is not an open vacancy.",
+      "benefits": [
+        "paid-training",
+        "internship"
+      ],
+      "workLocation": "Everett, WA / Kansas City, MO",
+      "fit": "other-program"
+    },
+    {
+      "value": null,
+      "status": "verify",
+      "deadline": null,
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "training",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "check",
+      "group": null,
+      "ai": "unknown",
+      "kind": "program",
+      "reviewed": "2026-10-28",
+      "added": "2026-10-28",
+      "provider": "mro",
+      "relocation": true,
+      "career": "none",
+      "id": "citadel-sowela-apprentice",
+      "name": "A&P Mechanic Apprenticeship · SOWELA",
+      "org": "Citadel Completions",
+      "url": "https://www.citadelcompletions.com/careers/",
+      "amount": "Work-based training",
+      "requirements": "SOWELA Technical College Part 147 students; employer selection in Lake Charles, LA.",
+      "note": "Current careers page confirms the school partnership, but no current apprentice vacancy/pay was verified. Confirm compensation and cohort directly. Not automatically transferable to AIM NJ.",
+      "workLocation": "Lake Charles, LA · SOWELA partner program",
+      "fit": "other-program"
+    },
+    {
+      "value": 13400,
+      "status": "verify",
+      "deadline": null,
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "school",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "check",
+      "group": null,
+      "ai": "unknown",
+      "kind": "program",
+      "reviewed": "2026-10-28",
+      "added": "2026-10-28",
+      "provider": "mro",
+      "relocation": true,
+      "career": "employment-commitment",
+      "id": "feam-epic-sponsorship",
+      "name": "FEAM / Epic Mechanic Tuition Sponsorship",
+      "org": "FEAM Aero / Epic Flight Academy",
+      "url": "https://epicflightacademy.com/flight-school-faq/how-does-the-feam-program-work/",
+      "amount": "Up to $13,400 tuition",
+      "requirements": "Eligible Epic aircraft-mechanic students selected by FEAM; three-year post-graduation employment commitment.",
+      "note": "Partial sponsorship plus part-time paid work described by the partner school. Remaining tuition, materials and exams are student costs. Confirm current campus/intake, wages and repayment terms. Does not fund AIM NJ enrollment.",
+      "benefits": [
+        "school",
+        "paid-training"
+      ],
+      "workLocation": "Participating Epic / FEAM location",
+      "fit": "other-program"
+    },
+    {
+      "value": null,
+      "status": "rolling",
+      "deadline": null,
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "training",
+      "gender": "all",
+      "community": [
+        "Military transition"
+      ],
+      "veteran": true,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "check",
+      "group": null,
+      "ai": "unknown",
+      "kind": "program",
+      "reviewed": "2026-10-28",
+      "added": "2026-10-28",
+      "provider": "mro",
+      "relocation": true,
+      "career": "none",
+      "id": "cl-aviation-skillbridge",
+      "name": "SkillBridge · aviation maintenance transition",
+      "org": "C&L Aviation Group",
+      "url": "https://careers.cla.aero/skillbridge-program/",
+      "amount": "Military pay continues",
+      "requirements": "Eligible transitioning active-duty service members with military approval; contact C&L for placement and role requirements.",
+      "note": "Company describes year-round participation. Military salary/benefits continue; this is not employer-paid internship cash or a civilian scholarship. Individual places are not guaranteed.",
+      "workLocation": "C&L placement · Bangor, ME",
+      "fit": "check"
+    },
+    {
+      "value": null,
+      "status": "closed",
+      "deadline": null,
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "internship",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "group": null,
+      "ai": "unknown",
+      "kind": "program",
+      "reviewed": "2026-10-28",
+      "added": "2026-10-28",
+      "provider": "airline",
+      "relocation": true,
+      "career": "interview",
+      "id": "air-wisconsin-apprentice",
+      "name": "Maintenance Apprenticeship · closed intake",
+      "org": "Air Wisconsin",
+      "url": "https://www.airwis.com/Careers/Maintenance",
+      "amount": "$24 / hour published",
+      "requirements": "Student mechanics working toward A&P; employer hiring and location requirements apply.",
+      "note": "Provider explicitly says not currently accepting applications. Program advertises paid work and a guaranteed final interview, not guaranteed employment. Published wages are for this program description, not an active offer.",
+      "benefits": [
+        "internship",
+        "job"
+      ],
+      "workLocation": "Air Wisconsin maintenance location",
+      "fit": "potential"
+    },
+    {
+      "value": null,
+      "status": "verify",
+      "deadline": null,
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "exam",
+      "gender": "all",
+      "community": [
+        "Military transition"
+      ],
+      "veteran": true,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "check",
+      "group": null,
+      "ai": "unknown",
+      "kind": "program",
+      "reviewed": "2026-10-28",
+      "added": "2026-10-28",
+      "provider": "airline",
+      "relocation": true,
+      "career": "none",
+      "id": "air-wisconsin-veteran-exams",
+      "name": "Veteran A&P Exam Support",
+      "org": "Air Wisconsin",
+      "url": "https://airwis.com/Careers/Veterans",
+      "amount": "A&P exam support",
+      "requirements": "Veterans with relevant military maintenance experience; FAA testing eligibility and airline selection must be checked.",
+      "note": "Airline describes paying for eligible veterans’ A&P exams. Confirm covered exams, current hiring, obligations and payment route before booking tests.",
+      "workLocation": "Air Wisconsin-designated testing / employment",
+      "fit": "check"
+    },
+    {
+      "value": null,
+      "status": "verify",
+      "deadline": null,
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "training",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "group": null,
+      "ai": "unknown",
+      "kind": "program",
+      "reviewed": "2026-10-28",
+      "added": "2026-10-28",
+      "provider": "airline",
+      "relocation": true,
+      "career": "none",
+      "id": "commuteair-apprentice",
+      "name": "Maintenance Apprenticeship · intake watch",
+      "org": "CommuteAir",
+      "url": "https://www.commuteair.com/careers/maintenance/",
+      "amount": "Employer training pathway",
+      "requirements": "Aspiring maintenance technicians; current location, experience and qualification rules must be confirmed.",
+      "note": "Current careers page documents apprentice-to-AMT progression. It does not establish a current apprentice vacancy, wage or tuition award. Confirm an apprentice-specific listing; pilot tuition reimbursement is a different program.",
+      "workLocation": "CommuteAir maintenance location",
+      "fit": "potential"
+    },
+    {
+      "value": null,
+      "status": "verify",
+      "deadline": null,
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "training",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "group": null,
+      "ai": "unknown",
+      "kind": "program",
+      "reviewed": "2026-10-28",
+      "added": "2026-10-28",
+      "provider": "airline",
+      "relocation": true,
+      "career": "none",
+      "id": "ameriflight-helper",
+      "name": "Maintenance Helper · while in A&P school",
+      "org": "Ameriflight",
+      "url": "https://w3.ameriflight.com/ap-mechanics/",
+      "amount": "Work & on-the-job training",
+      "requirements": "Company describes helper positions for students still attending A&P school. Individual job requirements apply.",
+      "note": "A&P mechanic jobs on the same page require certification; helpers are a separate route. Check for a current helper vacancy and wage. No scholarship, free-tool award or job guarantee is verified.",
+      "workLocation": "Ameriflight hiring station",
+      "fit": "potential"
+    },
+    {
+      "value": null,
+      "status": "verify",
+      "deadline": null,
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "paid-training",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "group": null,
+      "ai": "unknown",
+      "kind": "program",
+      "reviewed": "2026-10-28",
+      "added": "2026-10-28",
+      "provider": "parts",
+      "relocation": true,
+      "career": "employment-commitment",
+      "id": "textron-amt-apprenticeship",
+      "name": "A&P AMT / Avionics Apprenticeships",
+      "org": "Textron Aviation",
+      "url": "https://www.share.cessna.com/en/careers/apprenticeships",
+      "amount": "Pay + college support",
+      "requirements": "Rotational employer apprenticeships; no prior experience described, but entry qualifications and partner college apply.",
+      "note": "Paid technical study/work with tuition assistance. Openings are not posted year-round. Confirm current roles, location and service requirements; it is not money toward any existing AIM program.",
+      "benefits": [
+        "paid-training",
+        "school",
+        "internship"
+      ],
+      "workLocation": "Textron participating facility / technical college",
+      "fit": "other-program"
+    },
+    {
+      "value": 4500,
+      "status": "upcoming",
+      "deadline": null,
+      "opens": "2027-06-01",
+      "geo": "national",
+      "states": [],
+      "benefit": "unconfirmed",
+      "gender": "all",
+      "community": [
+        "LGBTQ+ community"
+      ],
+      "veteran": false,
+      "parent": false,
+      "minAge": 18,
+      "maxAge": null,
+      "stage": "student",
+      "group": "ngpa",
+      "ai": "unknown",
+      "kind": "scholarship",
+      "reviewed": "2026-10-28",
+      "added": "2026-10-28",
+      "provider": "airline",
+      "relocation": false,
+      "career": "none",
+      "id": "ngpa-psa-mechanic",
+      "name": "PSA Aircraft Mechanic Scholarship · NGPA",
+      "org": "PSA Airlines / NGPA",
+      "url": "https://www.ngpa.org/2026_scholarships",
+      "amount": "$4,500",
+      "requirements": "NGPA members age 18+ working toward A&P.",
+      "note": "2026 closed; next NGPA window announced for June 2027. This named 2026 award may change; confirm the 2027 roster. Payment route and any career benefit are not verified.",
+      "fit": "potential"
+    },
+    {
+      "value": 5000,
+      "status": "upcoming",
+      "deadline": null,
+      "opens": "2027-06-01",
+      "geo": "national",
+      "states": [],
+      "benefit": "unconfirmed",
+      "gender": "all",
+      "community": [
+        "LGBTQ+ community"
+      ],
+      "veteran": false,
+      "parent": false,
+      "minAge": 18,
+      "maxAge": null,
+      "stage": "student",
+      "group": "ngpa",
+      "ai": "unknown",
+      "kind": "scholarship",
+      "reviewed": "2026-10-28",
+      "added": "2026-10-28",
+      "provider": "airline",
+      "relocation": false,
+      "career": "none",
+      "id": "ngpa-republic-maintenance",
+      "name": "Republic Maintenance Scholarship · NGPA",
+      "org": "Republic Airways / NGPA",
+      "url": "https://www.ngpa.org/2026_scholarships",
+      "amount": "$5,000",
+      "requirements": "Current/incoming Part 147 students; NGPA membership and age 18+.",
+      "note": "2026 closed; June 2027 next program window. Named awards are subject to renewal. Do not infer a job offer or student-cash payment.",
+      "fit": "potential"
+    },
+    {
+      "value": 5000,
+      "status": "upcoming",
+      "deadline": null,
+      "opens": "2027-06-01",
+      "geo": "national",
+      "states": [],
+      "benefit": "school",
+      "gender": "all",
+      "community": [
+        "LGBTQ+ community"
+      ],
+      "veteran": false,
+      "parent": false,
+      "minAge": 18,
+      "maxAge": null,
+      "stage": "student",
+      "group": "ngpa",
+      "ai": "unknown",
+      "kind": "scholarship",
+      "reviewed": "2026-10-28",
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "id": "ngpa-trans-committee",
+      "name": "Transgender & Non-binary Committee Scholarship",
+      "org": "NGPA",
+      "url": "https://www.ngpa.org/2026_scholarships",
+      "amount": "$5,000 school payment",
+      "requirements": "Outstanding transgender/gender-diverse advocate studying/training for aviation; membership, age 18+.",
+      "note": "2026 closed; next program window June 2027, award renewal unconfirmed. Funds go to the school.",
+      "fit": "potential"
+    },
+    {
+      "value": 5000,
+      "status": "upcoming",
+      "deadline": null,
+      "opens": "2027-06-01",
+      "geo": "national",
+      "states": [],
+      "benefit": "school",
+      "gender": "all",
+      "community": [
+        "LGBTQ+ community"
+      ],
+      "veteran": false,
+      "parent": false,
+      "minAge": 18,
+      "maxAge": null,
+      "stage": "student",
+      "group": "ngpa",
+      "ai": "unknown",
+      "kind": "scholarship",
+      "reviewed": "2026-10-28",
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "id": "ngpa-women-committee",
+      "name": "Women’s Committee Scholarship",
+      "org": "NGPA",
+      "url": "https://www.ngpa.org/2026_scholarships",
+      "amount": "$5,000 school payment",
+      "requirements": "Outstanding LGBTQ+ advocate in aviation study/training; NGPA membership, age 18+.",
+      "note": "2026 closed; June 2027 next program window, roster may change. Source says person, not women-only. School receives funding.",
+      "fit": "potential"
+    },
+    {
+      "value": 2500,
+      "status": "verify",
+      "deadline": null,
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "training",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "group": null,
+      "ai": "unknown",
+      "kind": "scholarship",
+      "reviewed": "2026-10-28",
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": true,
+      "career": "none",
+      "id": "nata-warbird-bootcamp",
+      "name": "Warbird A&P Boot Camp Scholarship",
+      "org": "North American Trainer Association",
+      "url": "https://flynata.org/content.aspx?club_id=812035&module_id=286552&page_id=22",
+      "amount": "Full / partial course support",
+      "requirements": "Warbird-focused mechanics, A&P students or committed volunteers; NATA member recommendation, interest letter and maintenance résumé.",
+      "note": "2026 T-6 course announced November 1–7 in Lebanon, TN. Scholarship places and late applications need confirmation. Approximate $2,500 course/lodging/meals value; travel excluded. Not student cash or initial A&P certification.",
+      "workLocation": "Lebanon, TN · course travel required",
+      "fit": "potential"
+    },
+    {
+      "value": 5000,
+      "status": "closed",
+      "deadline": null,
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "training",
+      "gender": "all",
+      "community": [
+        "Military transition"
+      ],
+      "veteran": true,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "check",
+      "group": null,
+      "ai": "unknown",
+      "kind": "scholarship",
+      "reviewed": "2026-10-28",
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": true,
+      "career": "none",
+      "id": "rtag-ap-training",
+      "name": "Veteran A&P Training Scholarships",
+      "org": "RTAG",
+      "url": "https://www.rtag.org/scholarships/",
+      "amount": "About $5,000 training",
+      "requirements": "US veterans/current service members transitioning to A&P work; provider-selected training and program rules.",
+      "note": "2026 closed; 2027 timeline not published. Two awards described for tuition, books and training at the chosen provider. Not a general grant toward any AIM campus.",
+      "workLocation": "RTAG-selected service provider",
+      "fit": "check"
+    },
+    {
+      "value": null,
+      "status": "rolling",
+      "deadline": null,
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "job",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "check",
+      "group": null,
+      "ai": "unknown",
+      "kind": "program",
+      "reviewed": "2026-10-28",
+      "added": "2026-10-28",
+      "provider": "airline",
+      "relocation": true,
+      "career": "conditional-offer",
+      "id": "republic-aim-cadet",
+      "name": "RJet Maintenance Cadet · AIM partnership",
+      "org": "Republic Airways / AIM",
+      "url": "https://careers.rjet.com/jobs/jr-004824/rjet-maintenance-cadet/",
+      "amount": "Conditional job offer",
+      "requirements": "A&P students with 400 training hours, US work eligibility, driver license and résumé. Full A&P is required before the final technician role, not to enter the cadet route.",
+      "note": "AIM confirms a partnership. The current airline posting says 2- or 4-year programs; ask Republic to confirm AIM NJ’s 21-month program. Offer depends on certification, technical interview and base availability. Cadet participation has no contractual commitment. No scholarship cash.",
+      "workLocation": "Participating AIM campus / Republic maintenance base",
+      "references": [
+        "https://aviationmaintenance.edu/about/partnerships/"
+      ],
+      "fit": "aim-check"
+    },
+    {
+      "value": null,
+      "status": "open",
+      "deadline": "2026-12-16",
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "school",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": 19,
+      "maxAge": null,
+      "stage": "student",
+      "group": "eaa",
+      "ai": "unknown",
+      "kind": "scholarship",
+      "reviewed": "2026-10-28",
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "id": "eaa-john-sandberg",
+      "name": "John Sandberg A&P Scholarship Fund",
+      "org": "EAA Aviation Foundation",
+      "url": "https://www2.eaa.org/eaa/learn-to-fly/scholarships/post-secondary-scholarships",
+      "amount": "Varies · education support",
+      "requirements": "A&P certificate student, age 19+, with aviation volunteer hours; EAA program rules also apply.",
+      "note": "Part of EAA’s common application, not an extra independent application. GPA and immigration/enrollment rules apply; confirm exact award amount and payment route.",
+      "fit": "potential"
+    },
+    {
+      "value": null,
+      "status": "verify",
+      "deadline": null,
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "paid-training",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "check",
+      "group": null,
+      "ai": "unknown",
+      "kind": "program",
+      "reviewed": "2026-10-28",
+      "added": "2026-10-28",
+      "provider": "airline",
+      "relocation": true,
+      "career": "employment-commitment",
+      "id": "ba-us-engineering-cadet",
+      "name": "US Engineering Cadet · AIM partnership",
+      "org": "British Airways",
+      "url": "https://careers.ba.com/apprentices",
+      "amount": "Sponsored career pathway",
+      "requirements": "Must already be enrolled at a US AIM program. Airline describes completing AIM study before a three-year engineering program.",
+      "note": "BA lists US stations with short London training trips; AIM’s summary describes London differently. Confirm current intake, AIM NJ’s 21-month eligibility, sponsorship coverage, pay and placement in writing. This is not a verified scholarship cash award or an immediate job guarantee.",
+      "benefits": [
+        "paid-training",
+        "job"
+      ],
+      "workLocation": "Designated US station; training trips to London",
+      "references": [
+        "https://aviationmaintenance.edu/about/partnerships/"
+      ],
+      "fit": "aim-check"
+    },
+    {
+      "value": null,
+      "status": "verify",
+      "deadline": null,
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "job",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "check",
+      "group": null,
+      "ai": "unknown",
+      "kind": "program",
+      "reviewed": "2026-10-28",
+      "added": "2026-10-28",
+      "provider": "airline",
+      "relocation": true,
+      "career": "referral",
+      "id": "united-aim-technician-pathway",
+      "name": "AIM Technician Pathway · United recruiting",
+      "org": "United Airlines / AIM",
+      "url": "https://aviationmaintenance.edu/about/partnerships/",
+      "amount": "Mentorship & recruiting access",
+      "requirements": "AIM students/graduates; confirm current participating campuses, completion stage and airline hiring requirements.",
+      "note": "AIM describes streamlined applications/interviews and mentorship. A&P is needed for relevant certificated technician roles. No universal scholarship, automatic hire or open intake is verified here.",
+      "benefits": [
+        "job"
+      ],
+      "workLocation": "Participating AIM campus / United maintenance location",
+      "references": [
+        "https://careers.united.com/us/en/united-pathways"
+      ],
+      "fit": "aim-check"
     }
   ],
   "resources": [
@@ -1823,11 +3226,97 @@
       "name": "AMVETS scholarships",
       "url": "https://www.amvets.org/scholarships",
       "note": "Veteran funding lead; verify current window and whether your specific certificate school is accepted."
+    },
+    {
+      "name": "AIM airline & employer partnerships",
+      "url": "https://aviationmaintenance.edu/about/partnerships/",
+      "note": "Ask your campus about Republic cadets, United technician pathways and American interviews. A partnership logo is not proof every campus/student qualifies."
+    },
+    {
+      "name": "Concorde Battery maintenance training",
+      "url": "https://www.concordebattery.com/events-tradeshows",
+      "note": "2027 online maintenance series announced. Previous free training welcomed students; verify this event’s registration cost, dates and scope. Not an A&P license or paid role."
+    },
+    {
+      "name": "Snap-on Student Excellence Program",
+      "url": "https://www.snapon.com/Industrial-Education/Snapon-Program.htm",
+      "note": "Student tool discounts at approved schools; purchases still cost money. This is not a free-tool scholarship."
+    },
+    {
+      "name": "ADMA aviation scholarship",
+      "url": "https://www.adma.org/scholarship",
+      "note": "2026 closed. Current criteria name aviation-management/pilot degree programs; an AIM maintenance certificate match is not verified, despite historical A&P recipients."
+    },
+    {
+      "name": "FEAM / AIM Charlotte scholarship partnership",
+      "url": "https://feam.aero/feam-aero-partners-with-aviation-institute-of-maintenance/",
+      "note": "Historical company announcement; current award round, amount and campus eligibility require confirmation. Not presented as open NJ funding."
+    },
+    {
+      "name": "StandardAero careers / technical training",
+      "url": "https://standardaero.com/aboutus/careers/",
+      "note": "Employer training lead. Verify current academy roles, pay and location; not an open student scholarship."
+    },
+    {
+      "name": "Elliott Aviation careers",
+      "url": "https://elliottaviation.com/about-us/careers/",
+      "note": "Employee tuition-reimbursement/training benefits depend on hiring and policy; no transferable student award verified."
+    },
+    {
+      "name": "Cape Air maintenance / TechOps careers",
+      "url": "https://www.capeair.com/careers/",
+      "note": "Regional airline recruiting resource. No current pre-A&P scholarship or paid-student offer verified in this review."
+    },
+    {
+      "name": "C&L Aviation careers",
+      "url": "https://careers.cla.aero/",
+      "note": "Smaller MRO/parts employer; inspect role-specific credentials. Past apprentice success is not proof of an open civilian intake."
+    },
+    {
+      "name": "AVMATS maintenance & component-shop careers",
+      "url": "https://www.avmats.com/careers/",
+      "note": "Family-owned MRO/parts/engine business. Current technical roles have certificate/experience conditions; no student scholarship verified."
+    },
+    {
+      "name": "flyExclusive current roles",
+      "url": "https://flyexclusive.com/job-openings",
+      "note": "Charter/MRO jobs, including some roles with A&P preferred. Ordinary job listings are not scholarship-linked placement."
+    },
+    {
+      "name": "Avotek / ATEC instructor award",
+      "url": "https://www.atec-amt.org/awards",
+      "note": "Dale Hurst travel scholarship is for instructors, not ordinary students. Check AWAM for future student textbook/course awards; current round closed."
+    },
+    {
+      "name": "Envoy preferred A&P-school partnerships",
+      "url": "https://www.envoyair.com/2025/12/03/envoy-announces-preferred-airframe-powerplant-school-partnerships/",
+      "note": "School recruiting partnership; no universal job guarantee or NJ student-cash award inferred."
+    },
+    {
+      "name": "Airborne MX training",
+      "url": "https://www.airbornemx.com/services/training",
+      "note": "Structures apprentice and technical-course resource. Confirm current student intake, pay and employer requirements."
+    },
+    {
+      "name": "Delta TechOps / TechU",
+      "url": "https://www.delta.com/us/en/careers/techops-careers",
+      "note": "Check partner-school pathways and actual openings. Delta states it does not offer an A&P licensing program itself."
+    },
+    {
+      "name": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "note": "Current entry programs and vacancies must be checked; older Calibrate announcements are not treated as a live cohort."
+    },
+    {
+      "name": "NetJets scholarship · next cycle watch",
+      "url": "https://columbusfoundation.org/search/scholarships/detail/NetJetsScholarship/474",
+      "note": "Three $25,000 aviation/hospitality awards; provider says check January 2027. Eligible-institution and certificate-program fit need confirmation. Separate SkillPointe maintenance award ended in 2023; neither establishes a job guarantee."
     }
   ],
   "notes": [
     "Named awards may share an application. Award count is not application count.",
     "Geographic suitability is not a guarantee of individual eligibility.",
-    "Closed cycles and unconfirmed leads are labeled; dates are not rolled forward automatically."
+    "Closed cycles and unconfirmed leads are labeled; dates are not rolled forward automatically.",
+    "Designed first for AIM NJ students who have not yet earned A&P. Other-school routes and degree-only internships are labeled separately; a listing is not a personal eligibility decision."
   ]
 }
