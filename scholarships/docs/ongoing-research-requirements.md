@@ -35,3 +35,5 @@ A ChatGPT daily research task is scheduled for mornings in America/New_York, sta
 Use fresh repository contents and preserve concurrent source-monitor updates. Do not overwrite live updates.json or source-state.json with stale copies. Modify only scholarships/ and its necessary maintenance workflow; preserve the root study homepage, Block1, Block6 and other projects.
 
 Report meaningful verified additions/changes actually published, or actionable execution failures. Avoid routine no-change notifications. Continue the daily discovery task until the owner asks to pause or stop it.
+
+Homepage requirement, October 28, 2026: Keep FAQ questions, usage instructions, privacy explanations and supplementary source lists on the separate help.html page, reached through small footer links. Do not reintroduce these as rows or large sections on the main scholarship page. Keep the useful shortlist on the main page in compact form. The main updates link must open a readable HTML updates page, not raw XML; RSS belongs only in the optional Help resources.

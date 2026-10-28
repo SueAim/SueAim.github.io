@@ -97,3 +97,5 @@
 @media print{.compact-home header,.home-intro,.compact-home main,.compact-home footer{display:none!important}#printArea{display:block!important}}
 
 .support-chip[aria-pressed="true"]{background:#173c38;color:white;border-color:#173c38}
+
+.compact-home #shortlist summary span{display:inline;margin-left:8px}
