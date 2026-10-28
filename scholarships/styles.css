@@ -107,3 +107,15 @@
 .quick-actions{display:grid;grid-template-columns:repeat(4,minmax(0,1fr))}.quick-actions .support-chip{white-space:normal}.added-date{font-size:12px;font-weight:700;color:var(--muted);margin:4px 0 8px}@media(max-width:600px){.quick-actions{grid-template-columns:repeat(2,minmax(0,1fr))}.quick-actions .support-chip{min-height:39px;padding:7px 8px}}
 
 .daily-label{gap:9px;letter-spacing:.1px}.daily-highlight{display:inline-flex;align-items:center;gap:6px;background:#ffdf68;color:#243c31;border:1px solid #d6ad28;border-radius:7px;padding:5px 8px;box-shadow:0 1px 0 #d6ad2833;font-weight:850;white-space:nowrap}.daily-highlight .dot{background:#284d35}.daily-free{font-size:11px;white-space:nowrap}@media(max-width:360px){.daily-label{gap:5px;font-size:11px}.daily-highlight{padding:5px 6px}.daily-free{font-size:10px}}
+
+/* Make the primary card action look and feel like a button. */
+.compact-home .card-bottom button[data-detail]{
+ display:inline-flex;align-items:center;justify-content:center;flex:1;min-width:0;
+ min-height:46px;padding:10px 14px;border:1px solid #173c38;border-radius:8px;
+ background:#173c38;color:#fff;font-weight:750;line-height:1.35;
+ text-align:center;text-decoration:none;box-shadow:0 2px 0 #0d272433;
+}
+.compact-home .card-bottom button[data-detail]:hover{background:#24564e;border-color:#24564e;box-shadow:0 3px 7px #173c3826}
+.compact-home .card-bottom button[data-detail]:active{background:#0f2d29;box-shadow:none}
+.compact-home .card-bottom button[data-detail]:focus-visible{outline:3px solid #b17530;outline-offset:3px}
+.compact-home .card-bottom .save{flex-shrink:0;min-height:46px}
