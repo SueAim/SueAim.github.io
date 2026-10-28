@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "reviewed": "2026-10-28",
-  "scope": "AIM NJ and nationwide; other Part 147 students welcome",
+  "scope": "New Jersey residents and students attending New Jersey schools; nationwide and international providers accepting NJ applicants",
   "records": [
     {
       "id": "wts-new-jersey-junior-college-technical-trade-school-scholarship",
@@ -2816,52 +2816,6 @@
       }
     },
     {
-      "id": "south-texas-pama-fall-a-p-scholarships",
-      "name": "Fall A&P Scholarships",
-      "org": "South Texas PAMA",
-      "url": "https://www.southtexaspama.com/scholarships",
-      "amount": "Varies",
-      "value": null,
-      "status": "open",
-      "deadline": "2026-10-31",
-      "opens": null,
-      "geo": "state",
-      "states": [
-        "TX"
-      ],
-      "benefit": "school",
-      "gender": "all",
-      "community": [],
-      "veteran": false,
-      "parent": false,
-      "minAge": null,
-      "maxAge": null,
-      "stage": "student",
-      "requirements": "Must attend an A&P program in South Texas. Essay, résumé, transcripts.",
-      "group": null,
-      "ai": "prohibited",
-      "kind": "scholarship",
-      "note": "Not a match for NJ-only attendance. AI-generated essays prohibited. Included for nationwide AIM students with the required location.",
-      "reviewed": "2026-10-28",
-      "added": "2026-10-28",
-      "provider": "association",
-      "relocation": false,
-      "career": "none",
-      "fit": "potential",
-      "recurring": false,
-      "sourceHealth": {
-        "state": "ok",
-        "checkedAt": "2026-10-28T16:27:11.901916Z",
-        "lastReached": "2026-10-28T16:27:11.901916Z",
-        "httpStatus": 200
-      },
-      "maintenance": {
-        "hidden": false,
-        "hiddenReason": null,
-        "evaluatedOn": "2026-10-28"
-      }
-    },
-    {
       "value": 7530,
       "status": "open",
       "deadline": "2026-10-31",
@@ -4662,6 +4616,51 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-10-28"
       }
+    },
+    {
+      "id": "nj-foster-care-scholars-etv",
+      "name": "NJ Foster Care Scholars · Education & Training Voucher",
+      "org": "embrella / New Jersey DCF",
+      "url": "https://www.embrella.org/njfc-new-student-application/",
+      "references": [
+        "https://www.embrella.org/njfc-scholars-program/",
+        "https://www.embrella.org/wp-content/uploads/2026/07/NJFC-Eligibility-Flyer-English-and-Spanish-2026-2.pdf"
+      ],
+      "amount": "Up to $5,000 per academic year",
+      "value": 5000,
+      "status": "upcoming",
+      "deadline": null,
+      "opens": null,
+      "opensMonth": "2026-12",
+      "geo": "state",
+      "states": [
+        "NJ"
+      ],
+      "benefit": "school",
+      "monetaryAward": true,
+      "gender": "all",
+      "community": [
+        "Foster care / kinship / adoption"
+      ],
+      "veteran": false,
+      "parent": false,
+      "minAge": 16,
+      "maxAge": 25,
+      "stage": "student",
+      "requirements": "Ages 16–25 with qualifying NJ child-welfare, foster-care, adoption or kinship history. Diploma/GED, FAFSA or accepted NJ alternative, and admission to a Title IV-eligible degree or certificate program.",
+      "group": "njfc",
+      "ai": "unknown",
+      "kind": "scholarship",
+      "note": "Spring 2026–27 application is announced for December 2026; the fall round is closed. Federal ETV support can cover eligible private/career schools, with tuition first and other educational supports by approval. Confirm your AIM campus/program and case history with embrella. The separate NJ public-school tuition waiver does not pay tuition at private AIM. Exact spring dates must be checked when the form opens.",
+      "reviewed": "2026-10-28",
+      "added": "2026-10-28",
+      "addedAt": "2026-10-28T16:37:17.584Z",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential",
+      "recurring": true,
+      "recurrenceNote": "Academic-year program; current provider announces the spring application for December. Funding route and individual eligibility require review."
     }
   ],
   "resources": [
@@ -5221,6 +5220,7 @@
     "expired": "Hide closed/expired awards unless recurring or a future opening is recorded. Deadline date remains included.",
     "missing": "Hide confirmed HTTP 404/410 sources; recheck all hidden URLs on every run and restore after a successful content check.",
     "transient": "403/429/timeouts/5xx do not count as permanent disappearance.",
-    "discovery": "New maintenance-related headings on maintained official sources become unverified leads."
+    "discovery": "New maintenance-related headings on maintained official sources become unverified leads.",
+    "eligibilityScope": "Judge applicant eligibility, not provider headquarters. Exclude awards restricted to non-NJ residents or schools when NJ applicants cannot qualify. Current AIM NJ pre-A&P certificate students are the primary audience."
   }
 }

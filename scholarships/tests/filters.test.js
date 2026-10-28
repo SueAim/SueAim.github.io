@@ -6,7 +6,7 @@ const base={search:'',location:'NJ',status:'all',benefit:'all',amount:'all',gend
 const filter=f=>c.records.map(r=>({...r,sourceHealth:undefined,maintenance:undefined})).filter(r=>L.matches(r,{...base,...f},day));
 assert.equal(new Set(c.records.map(r=>r.id)).size,c.records.length);
 assert(!filter({}).some(r=>r.states.includes('TX')),'NJ view must exclude South-Texas-only attendance');
-assert(filter({location:'TX'}).some(r=>r.org==='South Texas PAMA'));
+assert(c.records.every(r=>r.geo!=='state'||r.states.includes('NJ')),'Public state-restricted awards must accept NJ; donor headquarters do not set eligibility');
 assert(filter({benefit:'cash'}).length>0);
 assert(!filter({benefit:'cash'}).some(r=>r.org==='TBX'||r.id==='sonic-impact-tools'),'Tuition awards and tool kits must not appear as student cash');
 assert(filter({benefit:'tools'}).every(r=>L.support(r).includes('tools')));
@@ -63,7 +63,7 @@ assert(filter({benefit:'money',status:'available'}).some(r=>r.id==='amc-techforc
 assert(filter({amount:'published'}).every(r=>/\$\s*\d/.test(r.amount)));
 assert(!filter({amount:'published'}).some(r=>r.amount==='Varies'));
 assert(filter({amount:'published',fit:'all'}).some(r=>r.id==='johnson-nj-amt-intern-2027'),'Published hourly wages are not lost because award value is null');
-console.log('67 meaningful catalog/filter checks passed; '+c.records.length+' records.');
+console.log('70 meaningful catalog/filter checks passed; '+c.records.length+' records.');
 
 assert(filter({benefit:"money",status:"available",fit:"aim-nj"}).some(r=>r.id==="live-mas-scholarship-2027"));
 assert(!filter({age:"27"}).some(r=>r.id==="live-mas-scholarship-2027"));
@@ -76,3 +76,7 @@ assert(filter({status:"active"}).some(r=>r.status==="rolling"));
 assert(filter({status:"active"}).some(r=>r.benefit==="tools"));
 assert(filter({status:"active",benefit:"money"}).some(r=>r.id==="atec-rardon-student-award"));
 assert(filter({status:"active"}).some(r=>r.id==="aopa-maintenance-scholarship-portal"));
+
+assert(filter({status:"active",fit:"aim-nj",stage:"student"}).some(r=>r.id==="nj-foster-care-scholars-etv"));
+assert(!filter({status:"available"}).some(r=>r.id==="nj-foster-care-scholars-etv"),"December opening must not be called open now");
+assert(!filter({age:"26"}).some(r=>r.id==="nj-foster-care-scholars-etv"));
