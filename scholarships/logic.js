@@ -16,7 +16,7 @@ if(f.provider&&f.provider!=='all'&&r.provider!==f.provider)return false;
 if(f.kind==='awards'&&['program','lead'].includes(r.kind))return false;if(f.kind==='program'&&r.kind!=='program')return false;
 if(f.fit==='aim-nj'&&['other-program','degree-check'].includes(r.fit))return false;
 if(f.career==='any'&&(!r.career||r.career==='none'))return false;if(f.career&& !['all','any'].includes(f.career)&&r.career!==f.career)return false;
-if(f.amount&&f.amount!=='all'){if(f.amount==='unknown'){if(r.value!==null)return false;}else{const [lo,hi]=f.amount.split(':').map(Number);if(r.value===null||r.value<lo||(r.minValue??r.value)>hi)return false;}}
+if(f.amount&&f.amount!=='all'){if(f.amount==='published'){if(!/\$\s*\d/.test(r.amount||''))return false;}else if(f.amount==='unknown'){if(r.value!==null)return false;}else{const [lo,hi]=f.amount.split(':').map(Number);if(r.value===null||r.value<lo||(r.minValue??r.value)>hi)return false;}}
 if(f.gender==='women-only'&&r.gender!=='women')return false;if(f.gender==='all-genders'&&r.gender==='women')return false;
 if(f.community&&f.community!=='all'&&r.ethnicity&&r.ethnicity.length&&!r.ethnicity.includes(f.community))return false;
 if(f.military==='specific'&&!r.veteran&&!r.community.includes('Military family')&&!r.community.includes('Military transition'))return false;
@@ -25,7 +25,7 @@ if(f.parents==='specific'&&!r.parent)return false;
 if(f.age!==''&&f.age!=null){const a=Number(f.age);if(Number.isFinite(a)&&((r.minAge!==null&&a<r.minAge)||(r.maxAge!==null&&a>r.maxAge)))return false;}
 if(f.stage==='near-graduation'&&r.stage!=='near-graduation')return false;
 if(f.stage==='student'&&!['student','check','near-graduation'].includes(r.stage))return false;return true;}
-function sortRows(rows,f,today){const weights={open:0,rolling:1,upcoming:2,verify:3,closed:4};return [...rows].sort((a,b)=>{if(f.sort==='name')return a.name.localeCompare(b.name);if(f.sort==='amount')return (b.value??-1)-(a.value??-1)||a.name.localeCompare(b.name);if(f.sort==='newest')return b.added.localeCompare(a.added)||a.name.localeCompare(b.name);if(f.sort==='deadline')return (['open','rolling'].includes(status(a,today))?0:1)-(['open','rolling'].includes(status(b,today))?0:1)||(a.deadline||'9999').localeCompare(b.deadline||'9999')||a.name.localeCompare(b.name);
+function sortRows(rows,f,today){const weights={open:0,rolling:1,upcoming:2,verify:3,closed:4};return [...rows].sort((a,b)=>{if(f.sort==='name')return a.name.localeCompare(b.name);if(f.sort==='amount')return (b.value??-1)-(a.value??-1)||a.name.localeCompare(b.name);if(f.sort==='newest')return (b.addedAt||b.added).localeCompare(a.addedAt||a.added)||a.name.localeCompare(b.name);if(f.sort==='deadline')return (['open','rolling'].includes(status(a,today))?0:1)-(['open','rolling'].includes(status(b,today))?0:1)||(a.deadline||'9999').localeCompare(b.deadline||'9999')||a.name.localeCompare(b.name);
 const community=f.community&&f.community!=='all';return weights[status(a,today)]-weights[status(b,today)]||(community?Number(b.community.includes(f.community))-Number(a.community.includes(f.community)):0)||(Number(b.geo==='state'&&b.states.includes(f.location))-Number(a.geo==='state'&&a.states.includes(f.location)))||(a.deadline||'9999').localeCompare(b.deadline||'9999')||a.name.localeCompare(b.name);});}
 const api={day,status,keepCycle,visible,closingSoon,support,matches,sortRows,labels,benefits};if(typeof module!=='undefined'&&module.exports)module.exports=api;root.AeroLogic=api;
 })(typeof window!=='undefined'?window:globalThis);

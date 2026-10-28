@@ -60,4 +60,12 @@ assert(filter({benefit:'money',fit:'all',status:'all'}).some(r=>r.id==='duncan-m
 assert(filter({benefit:'money',fit:'all',status:'all'}).some(r=>r.id==='johnson-nj-amt-intern-2027'));
 assert(filter({benefit:'money',status:'available'}).some(r=>r.org==='TechForce Foundation'));
 assert(filter({benefit:'money',status:'available'}).some(r=>r.id==='amc-techforce-phoebe-omlie-award'));
-console.log('54 meaningful catalog/filter checks passed; '+c.records.length+' records.');
+assert(filter({amount:'published'}).every(r=>/\$\s*\d/.test(r.amount)));
+assert(!filter({amount:'published'}).some(r=>r.amount==='Varies'));
+assert(filter({amount:'published',fit:'all'}).some(r=>r.id==='johnson-nj-amt-intern-2027'),'Published hourly wages are not lost because award value is null');
+console.log('61 meaningful catalog/filter checks passed; '+c.records.length+' records.');
+
+assert(filter({benefit:"money",status:"available",fit:"aim-nj"}).some(r=>r.id==="live-mas-scholarship-2027"));
+assert(!filter({age:"27"}).some(r=>r.id==="live-mas-scholarship-2027"));
+assert(filter({benefit:"school",status:"available"}).some(r=>r.id==="bring-back-the-trades-monthly"));
+assert(!filter({fit:"aim-nj"}).some(r=>r.id==="west-star-academy"),"Illinois academy must not be treated as continuing AIM NJ");
