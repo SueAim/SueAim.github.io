@@ -56,4 +56,8 @@ assert(filter({benefit:'money',status:'available',fit:'aim-nj'}).some(r=>r.org==
 assert(filter({benefit:'money',status:'available',fit:'aim-nj'}).some(r=>r.org==='AEA Educational Foundation'));
 assert(filter({benefit:'money',status:'available',fit:'aim-nj'}).some(r=>r.benefit==='exam'));
 assert(!filter({benefit:'money'}).some(r=>r.id==='sonic-impact-tools'));
-console.log('50 meaningful catalog/filter checks passed; '+c.records.length+' records.');
+assert(filter({benefit:'money',fit:'all',status:'all'}).some(r=>r.id==='duncan-maintenance-apprentice'));
+assert(filter({benefit:'money',fit:'all',status:'all'}).some(r=>r.id==='johnson-nj-amt-intern-2027'));
+assert(filter({benefit:'money',status:'available'}).some(r=>r.org==='TechForce Foundation'));
+assert(filter({benefit:'money',status:'available'}).some(r=>r.id==='amc-techforce-phoebe-omlie-award'));
+console.log('54 meaningful catalog/filter checks passed; '+c.records.length+' records.');

@@ -101,3 +101,5 @@
 .compact-home #shortlist summary span{display:inline;margin-left:8px}
 
 .daily-label{text-decoration:none}.daily-label .new-label{margin-left:auto;letter-spacing:0;white-space:nowrap}
+
+.search-submit{background:#173c38;color:white;border:0;border-radius:6px;font:inherit;font-size:14px;font-weight:700;padding:8px 12px;min-height:38px;flex-shrink:0}.compact-home .search-box{padding-right:6px}.filter-actions{display:flex;gap:10px;align-items:stretch;margin-top:18px}.filter-actions #applyFilters{flex:2;font-size:14px}.filter-actions #resetFilters{flex:1;margin:0;font-size:14px}#searchResults{scroll-margin-top:85px}.compact-home #searchResults:focus{outline:none}
