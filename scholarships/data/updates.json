@@ -1,14 +1,45 @@
 {
-  "lastAttempt": "2026-10-28T14:17:55.423808Z",
+  "lastAttempt": "2026-10-28T14:22:31.351869Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 72,
+  "sourcesChecked": 68,
   "sourcesTotal": 77,
-  "changes": [],
+  "changes": [
+    {
+      "provider": "Johnson & Johnson",
+      "url": "https://www.careers.jnj.com/en/jobs/r-100789/aviation-maintenance-technician-summer-intern/",
+      "at": "2026-10-28T14:22:31.351869Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-10-28T14:22:31.351869Z"
+    }
+  ],
   "discovered": [],
   "failures": [
     {
+      "url": "https://obap.org/outreach-programs/scholarships/",
+      "provider": "OBAP",
+      "error": "Page too short to verify content"
+    },
+    {
       "url": "https://standardaero.com/aboutus/careers/",
       "provider": "StandardAero careers / technical training",
+      "error": "Page too short to verify content"
+    },
+    {
+      "url": "https://techforce.org/students/",
+      "provider": "TechForce Foundation",
+      "error": "Page too short to verify content"
+    },
+    {
+      "url": "https://verticalavi.org/vertical-aviation-career-pathways/vai-scholarships/",
+      "provider": "Vertical Aviation International",
+      "error": "Page too short to verify content"
+    },
+    {
+      "url": "https://w3.ameriflight.com/ap-mechanics/",
+      "provider": "Ameriflight",
       "error": "Page too short to verify content"
     },
     {
