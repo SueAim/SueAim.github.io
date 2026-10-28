@@ -26,9 +26,9 @@ WAI and RACCA named awards share portal rules. PAMA now refers applicants to AMC
 
 ## Daily source checks
 
-`.github/workflows/scholarship-updates.yml` runs at 12:15 UTC daily, on catalog/monitor/workflow updates, and by manual dispatch. Scheduled GitHub runs may be delayed or disabled by GitHub policy. It requests a Pages rebuild after data updates.
+`.github/workflows/scholarship-updates.yml` runs at 12:15 and 20:15 UTC daily, on catalog/monitor/workflow updates, and by manual dispatch. Scheduled GitHub runs may be delayed or disabled by GitHub policy. It requests a Pages rebuild after data updates.
 
-The standard-library Python monitor checks the maintained source set, records failures and content changes, and narrowly detects new maintenance-related headings on AEA, LPA and Choose Aerospace catalog pages. Initial baselines are not treated as new awards. New detections are unverified leads with unknown geography/payment/eligibility until editorially reviewed. This is not an exhaustive automated daily search of every scholarship site. Data failures never rewrite editorial review dates or invent successful checks.
+The standard-library Python monitor checks the maintained source set, records failures and content changes, and detects new maintenance-related scholarship headings on maintained official provider pages. Initial baselines are not treated as new awards. New detections are unverified leads with unknown geography/payment/eligibility until editorially reviewed. This is not an exhaustive automated daily search of every scholarship site. Data failures never rewrite editorial review dates or invent successful checks.
 
 `data/updates.json` exposes freshness; `data/source-state.json` contains only public content digests/headings. No student data goes through GitHub Actions. Source changes do not automatically change deadlines, amounts or eligibility.
 
