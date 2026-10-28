@@ -4557,6 +4557,89 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-10-28"
       }
+    },
+    {
+      "status": "open",
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "group": null,
+      "ai": "unknown",
+      "kind": "scholarship",
+      "reviewed": "2026-10-28",
+      "added": "2026-10-28",
+      "addedAt": "2026-10-28T16:13:52.760Z",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential",
+      "recurring": true,
+      "monetaryAward": true,
+      "recurrenceNote": "Recurring provider program; future cycles require new confirmation.",
+      "id": "atec-rardon-student-award",
+      "name": "James Rardon AMT Student of the Year",
+      "org": "ATEC / Snap-on / JSfirm.com",
+      "url": "https://www.atec-amt.org/awards",
+      "references": [
+        "https://www.atec-amt.org/news/submissions-now-open-for-2027-atec-awards",
+        "https://webportalapp.com/webform/atec_nomination"
+      ],
+      "amount": "$750 + Snap-on toolbox + conference travel",
+      "value": 750,
+      "benefit": "cash",
+      "benefits": [
+        "cash",
+        "tools"
+      ],
+      "deadline": "2026-12-01",
+      "requirements": "Full-time aviation-maintenance student at an ATEC member school. School nomination, two additional recommendations, academics, leadership and community impact. Ask AIM NJ to confirm membership and nomination.",
+      "note": "Cash award from JSfirm.com, toolbox from Snap-on, conference registration, up to three hotel nights and coach-airfare reimbursement. Nomination award, not a direct self-application. Recognition at the April 4–7, 2027 ATEC conference in Wichita; no job offer is promised."
+    },
+    {
+      "status": "open",
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "group": null,
+      "ai": "unknown",
+      "kind": "scholarship",
+      "reviewed": "2026-10-28",
+      "added": "2026-10-28",
+      "addedAt": "2026-10-28T16:13:52.760Z",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential",
+      "recurring": true,
+      "monetaryAward": true,
+      "recurrenceNote": "Recurring provider program; future cycles require new confirmation.",
+      "id": "aopa-maintenance-scholarship-portal",
+      "name": "Aviation Maintenance Scholarships · Shared Application",
+      "org": "AOPA Foundation",
+      "url": "https://www.aopa.org/training-and-safety/students/aopa-flight-training-scholarships",
+      "references": [
+        "https://aopafoundation.secure-platform.com/site"
+      ],
+      "amount": "Varies · donor-funded maintenance awards",
+      "value": null,
+      "benefit": "unconfirmed",
+      "deadline": "2026-12-31",
+      "requirements": "Current AOPA membership and eligible residency, including U.S./NJ applicants. Maintenance pathways are included in the open shared application; each matched award has additional program and donor rules.",
+      "note": "One application matches eligible awards; two recommendations and required documents. Membership may cost money. Award funds use a prepaid expense card with eligible-use limits, not unrestricted cash. Named awards on the public page are past examples; amounts/availability vary. The Shafer example requires college/university enrollment, so confirm AIM certificate eligibility rather than assuming every award fits."
     }
   ],
   "resources": [
@@ -4975,6 +5058,16 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-10-28"
       }
+    },
+    {
+      "name": "AMFA National Scholarships · next-cycle watch",
+      "url": "https://www.amfanational.org/index.cfm?page=AMFA20Scholarships&zone=/unionactive/view_page.cfm",
+      "note": "A&P/AME student scholarship source. 2026 recipients have been announced; no verified 2027 opening yet. Watch for the next actual application, not an old PDF."
+    },
+    {
+      "name": "Regional Airline Association scholarship source",
+      "url": "https://raa.org/the-regional-airline-association-scholarship-foundation-now-accepting-applications-for-the-2026-scholarship/",
+      "note": "2026 deadline was May 1. College/university enrollment requirement needs separate confirmation for AIM certificate students; not an open AIM NJ match."
     }
   ],
   "notes": [

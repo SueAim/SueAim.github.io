@@ -10,7 +10,7 @@ function closingSoon(r,today){today=today||day();const s=status(r,today);if(!['o
 function support(r){return r.benefits||[r.benefit];}
 function matches(r,f,today){if(!visible(r,today))return false;const s=status(r,today);if(f.search&&!([r.name,r.org,r.amount,r.requirements,r.note,...support(r).map(b=>benefits[b]),r.workLocation||'',...(r.community||[])].join(' ').toLowerCase().includes(f.search.toLowerCase().trim())))return false;
 if(f.location&&f.location!=='all'&&r.geo==='state'&&!r.states.includes(f.location))return false;
-if(f.status&&f.status!=='all'){if(f.status==='closing'?!closingSoon(r,today):f.status==='available'?!['open','rolling'].includes(s):s!==f.status)return false;}
+if(f.status&&f.status!=='all'){if(f.status==='active'?!['open','rolling','upcoming'].includes(s):f.status==='closing'?!closingSoon(r,today):f.status==='available'?!['open','rolling'].includes(s):s!==f.status)return false;}
 if(f.benefit&&f.benefit!=='all'&&(f.benefit==='money'?!(r.monetaryAward===true||support(r).some(b=>['cash','school','reimbursement','exam','paid-training','internship'].includes(b))):!support(r).includes(f.benefit)))return false;
 if(f.provider&&f.provider!=='all'&&r.provider!==f.provider)return false;
 if(f.kind==='awards'&&['program','lead'].includes(r.kind))return false;if(f.kind==='program'&&r.kind!=='program')return false;
