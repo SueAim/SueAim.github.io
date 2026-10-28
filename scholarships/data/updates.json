@@ -1,9 +1,14 @@
 {
-  "lastAttempt": "2026-10-28T15:46:35.096259Z",
+  "lastAttempt": "2026-10-28T15:53:26.210207Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 70,
+  "sourcesChecked": 73,
   "sourcesTotal": 78,
   "changes": [
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-10-28T15:53:26.210207Z"
+    },
     {
       "provider": "United technician pathways",
       "url": "https://careers.united.com/us/en/united-pathways",
@@ -28,23 +33,8 @@
   "discovered": [],
   "failures": [
     {
-      "url": "https://obap.org/outreach-programs/scholarships/",
-      "provider": "OBAP",
-      "error": "Page too short to verify content"
-    },
-    {
       "url": "https://standardaero.com/aboutus/careers/",
       "provider": "StandardAero careers / technical training",
-      "error": "Page too short to verify content"
-    },
-    {
-      "url": "https://verticalavi.org/vertical-aviation-career-pathways/vai-scholarships/",
-      "provider": "Vertical Aviation International",
-      "error": "Page too short to verify content"
-    },
-    {
-      "url": "https://w3.ameriflight.com/ap-mechanics/",
-      "provider": "Ameriflight",
       "error": "Page too short to verify content"
     },
     {
