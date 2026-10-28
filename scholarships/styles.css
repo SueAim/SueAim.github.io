@@ -95,3 +95,5 @@
  .compact-panel .resource-grid{grid-template-columns:1fr}.compact-home .compact-footer{padding:18px 16px 80px}.compact-footer>div{gap:16px}.compact-home .modal-panel p{font-size:15px}
 }
 @media print{.compact-home header,.home-intro,.compact-home main,.compact-home footer{display:none!important}#printArea{display:block!important}}
+
+.support-chip[aria-pressed="true"]{background:#173c38;color:white;border-color:#173c38}
