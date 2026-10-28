@@ -1,9 +1,14 @@
 {
-  "lastAttempt": "2026-10-28T14:56:25.906953Z",
+  "lastAttempt": "2026-10-28T15:46:35.096259Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
   "sourcesChecked": 70,
   "sourcesTotal": 78,
   "changes": [
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-10-28T15:46:35.096259Z"
+    },
     {
       "provider": "United technician pathways",
       "url": "https://careers.united.com/us/en/united-pathways",
