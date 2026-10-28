@@ -40,8 +40,8 @@
       "recurrenceNote": "Recurring provider program; current round is closed. Next dates and named awards require confirmation.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -88,8 +88,8 @@
       "recurrenceNote": "Recurring provider program; current round is closed. Next dates and named awards require confirmation.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -133,8 +133,8 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -165,7 +165,7 @@
       "minAge": null,
       "maxAge": null,
       "stage": "student",
-      "requirements": "Named on AIM\u2019s official scholarship resource page; request the current application and campus/eligibility rules.",
+      "requirements": "Named on AIM’s official scholarship resource page; request the current application and campus/eligibility rules.",
       "group": null,
       "ai": "unknown",
       "kind": "lead",
@@ -179,8 +179,8 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -211,7 +211,7 @@
       "minAge": null,
       "maxAge": null,
       "stage": "student",
-      "requirements": "Named on AIM\u2019s official scholarship resource page; request the current application and campus/eligibility rules.",
+      "requirements": "Named on AIM’s official scholarship resource page; request the current application and campus/eligibility rules.",
       "group": null,
       "ai": "unknown",
       "kind": "lead",
@@ -225,8 +225,8 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -269,8 +269,8 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -284,7 +284,7 @@
       "name": "Phoebe Omlie Award",
       "org": "AMC / TechForce",
       "url": "https://www.amccompetition.com/news/applications-open-for-2027-amc-scholarships",
-      "amount": "$1,000\u2013$5,000",
+      "amount": "$1,000–$5,000",
       "value": 5000,
       "status": "open",
       "deadline": "2026-12-15",
@@ -314,8 +314,8 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -349,7 +349,7 @@
       "group": "amc",
       "ai": "unknown",
       "kind": "scholarship",
-      "note": "Separate AMC program from RACCA\u2019s similarly named award.",
+      "note": "Separate AMC program from RACCA’s similarly named award.",
       "reviewed": "2026-10-28",
       "added": "2026-10-28",
       "provider": "association",
@@ -359,8 +359,8 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -404,8 +404,8 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -434,7 +434,7 @@
       "minAge": null,
       "maxAge": null,
       "stage": "student",
-      "requirements": "Avionics/maintenance study; shared AEA application, minimum GPA 2.5. Confirm that your specific AIM certificate program meets the provider\u2019s school requirements.",
+      "requirements": "Avionics/maintenance study; shared AEA application, minimum GPA 2.5. Confirm that your specific AIM certificate program meets the provider’s school requirements.",
       "group": "aea",
       "ai": "unknown",
       "kind": "scholarship",
@@ -449,8 +449,8 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -479,7 +479,7 @@
       "minAge": null,
       "maxAge": null,
       "stage": "student",
-      "requirements": "Avionics/maintenance study; shared AEA application, minimum GPA 2.5. Confirm that your specific AIM certificate program meets the provider\u2019s school requirements.",
+      "requirements": "Avionics/maintenance study; shared AEA application, minimum GPA 2.5. Confirm that your specific AIM certificate program meets the provider’s school requirements.",
       "group": "aea",
       "ai": "unknown",
       "kind": "scholarship",
@@ -494,8 +494,8 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -524,7 +524,7 @@
       "minAge": null,
       "maxAge": null,
       "stage": "student",
-      "requirements": "Avionics/maintenance study; shared AEA application, minimum GPA 2.5. Confirm that your specific AIM certificate program meets the provider\u2019s school requirements.",
+      "requirements": "Avionics/maintenance study; shared AEA application, minimum GPA 2.5. Confirm that your specific AIM certificate program meets the provider’s school requirements.",
       "group": "aea",
       "ai": "unknown",
       "kind": "scholarship",
@@ -539,8 +539,8 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -569,7 +569,7 @@
       "minAge": null,
       "maxAge": null,
       "stage": "student",
-      "requirements": "Avionics/maintenance study; shared AEA application, minimum GPA 2.5. Confirm that your specific AIM certificate program meets the provider\u2019s school requirements.",
+      "requirements": "Avionics/maintenance study; shared AEA application, minimum GPA 2.5. Confirm that your specific AIM certificate program meets the provider’s school requirements.",
       "group": "aea",
       "ai": "unknown",
       "kind": "scholarship",
@@ -584,8 +584,8 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -614,7 +614,7 @@
       "minAge": null,
       "maxAge": null,
       "stage": "student",
-      "requirements": "Avionics/maintenance study; shared AEA application, minimum GPA 2.5. Confirm that your specific AIM certificate program meets the provider\u2019s school requirements.",
+      "requirements": "Avionics/maintenance study; shared AEA application, minimum GPA 2.5. Confirm that your specific AIM certificate program meets the provider’s school requirements.",
       "group": "aea",
       "ai": "unknown",
       "kind": "scholarship",
@@ -629,8 +629,8 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -659,7 +659,7 @@
       "minAge": null,
       "maxAge": null,
       "stage": "student",
-      "requirements": "Avionics/maintenance study; shared AEA application, minimum GPA 2.5. Confirm that your specific AIM certificate program meets the provider\u2019s school requirements.",
+      "requirements": "Avionics/maintenance study; shared AEA application, minimum GPA 2.5. Confirm that your specific AIM certificate program meets the provider’s school requirements.",
       "group": "aea",
       "ai": "unknown",
       "kind": "scholarship",
@@ -674,8 +674,8 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -686,7 +686,7 @@
     },
     {
       "id": "aea-educational-foundation-garmin-jerry-smith-memorial-scholarship",
-      "name": "Garmin\u2013Jerry Smith Memorial Scholarship",
+      "name": "Garmin–Jerry Smith Memorial Scholarship",
       "org": "AEA Educational Foundation",
       "url": "https://aea.net/educationalfoundation/scholarships.asp",
       "amount": "$1,000",
@@ -704,7 +704,7 @@
       "minAge": null,
       "maxAge": null,
       "stage": "student",
-      "requirements": "Avionics/maintenance study; shared AEA application, minimum GPA 2.5. Confirm that your specific AIM certificate program meets the provider\u2019s school requirements.",
+      "requirements": "Avionics/maintenance study; shared AEA application, minimum GPA 2.5. Confirm that your specific AIM certificate program meets the provider’s school requirements.",
       "group": "aea",
       "ai": "unknown",
       "kind": "scholarship",
@@ -719,8 +719,8 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -749,7 +749,7 @@
       "minAge": null,
       "maxAge": null,
       "stage": "student",
-      "requirements": "Avionics/maintenance study; shared AEA application, minimum GPA 2.5. Confirm that your specific AIM certificate program meets the provider\u2019s school requirements.",
+      "requirements": "Avionics/maintenance study; shared AEA application, minimum GPA 2.5. Confirm that your specific AIM certificate program meets the provider’s school requirements.",
       "group": "aea",
       "ai": "unknown",
       "kind": "scholarship",
@@ -764,8 +764,8 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -794,7 +794,7 @@
       "minAge": null,
       "maxAge": null,
       "stage": "student",
-      "requirements": "Avionics/maintenance study; shared AEA application, minimum GPA 2.5. Confirm that your specific AIM certificate program meets the provider\u2019s school requirements.",
+      "requirements": "Avionics/maintenance study; shared AEA application, minimum GPA 2.5. Confirm that your specific AIM certificate program meets the provider’s school requirements.",
       "group": "aea",
       "ai": "unknown",
       "kind": "scholarship",
@@ -809,8 +809,8 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -839,7 +839,7 @@
       "minAge": null,
       "maxAge": null,
       "stage": "student",
-      "requirements": "Avionics/maintenance study; shared AEA application, minimum GPA 2.5. Confirm that your specific AIM certificate program meets the provider\u2019s school requirements.",
+      "requirements": "Avionics/maintenance study; shared AEA application, minimum GPA 2.5. Confirm that your specific AIM certificate program meets the provider’s school requirements.",
       "group": "aea",
       "ai": "unknown",
       "kind": "scholarship",
@@ -854,8 +854,8 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -884,7 +884,7 @@
       "minAge": null,
       "maxAge": null,
       "stage": "student",
-      "requirements": "Avionics/maintenance study; shared AEA application, minimum GPA 2.5. Confirm that your specific AIM certificate program meets the provider\u2019s school requirements.",
+      "requirements": "Avionics/maintenance study; shared AEA application, minimum GPA 2.5. Confirm that your specific AIM certificate program meets the provider’s school requirements.",
       "group": "aea",
       "ai": "unknown",
       "kind": "scholarship",
@@ -899,8 +899,8 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -929,7 +929,7 @@
       "minAge": null,
       "maxAge": null,
       "stage": "student",
-      "requirements": "Avionics/maintenance study; shared AEA application, minimum GPA 2.5. Confirm that your specific AIM certificate program meets the provider\u2019s school requirements.",
+      "requirements": "Avionics/maintenance study; shared AEA application, minimum GPA 2.5. Confirm that your specific AIM certificate program meets the provider’s school requirements.",
       "group": "aea",
       "ai": "unknown",
       "kind": "scholarship",
@@ -944,8 +944,8 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -974,7 +974,7 @@
       "minAge": null,
       "maxAge": null,
       "stage": "student",
-      "requirements": "Avionics/maintenance study; shared AEA application, minimum GPA 2.5. Confirm that your specific AIM certificate program meets the provider\u2019s school requirements.",
+      "requirements": "Avionics/maintenance study; shared AEA application, minimum GPA 2.5. Confirm that your specific AIM certificate program meets the provider’s school requirements.",
       "group": "aea",
       "ai": "unknown",
       "kind": "scholarship",
@@ -989,8 +989,8 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -1019,7 +1019,7 @@
       "minAge": null,
       "maxAge": null,
       "stage": "student",
-      "requirements": "Avionics/maintenance study; shared AEA application, minimum GPA 2.5. Confirm that your specific AIM certificate program meets the provider\u2019s school requirements.",
+      "requirements": "Avionics/maintenance study; shared AEA application, minimum GPA 2.5. Confirm that your specific AIM certificate program meets the provider’s school requirements.",
       "group": "aea",
       "ai": "unknown",
       "kind": "scholarship",
@@ -1034,8 +1034,8 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -1064,7 +1064,7 @@
       "minAge": null,
       "maxAge": null,
       "stage": "student",
-      "requirements": "Avionics/maintenance study; shared AEA application, minimum GPA 2.5. Confirm that your specific AIM certificate program meets the provider\u2019s school requirements.",
+      "requirements": "Avionics/maintenance study; shared AEA application, minimum GPA 2.5. Confirm that your specific AIM certificate program meets the provider’s school requirements.",
       "group": "aea",
       "ai": "unknown",
       "kind": "scholarship",
@@ -1079,8 +1079,8 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -1109,7 +1109,7 @@
       "minAge": null,
       "maxAge": null,
       "stage": "student",
-      "requirements": "Current maintenance student or business-aviation professional; citizenship/residency rules, essay, r\u00e9sum\u00e9, recommendation and transcript/documentation. No A&P needed for student applicants; each course has prerequisites.",
+      "requirements": "Current maintenance student or business-aviation professional; citizenship/residency rules, essay, résumé, recommendation and transcript/documentation. No A&P needed for student applicants; each course has prerequisites.",
       "group": null,
       "ai": "unknown",
       "kind": "scholarship",
@@ -1124,8 +1124,8 @@
       "recurrenceNote": "Provider describes annual scholarships; next dates and terms require confirmation.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -1171,8 +1171,8 @@
       "recurrenceNote": "Provider describes annual scholarships; next dates and terms require confirmation.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -1205,7 +1205,7 @@
       "group": null,
       "ai": "unknown",
       "kind": "scholarship",
-      "note": "Provider\u2019s 2027 header and application-opening date are current; some body text still references 2026. Reconfirm before applying.",
+      "note": "Provider’s 2027 header and application-opening date are current; some body text still references 2026. Reconfirm before applying.",
       "reviewed": "2026-10-28",
       "added": "2026-10-28",
       "provider": "association",
@@ -1217,8 +1217,8 @@
       "recurrenceNote": "Provider describes annual scholarships; next dates and terms require confirmation.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -1247,7 +1247,7 @@
       "minAge": null,
       "maxAge": null,
       "stage": "student",
-      "requirements": "Enrolled in Part 147 A&P program; U.S. citizen/permanent resident; r\u00e9sum\u00e9, essay, two recommendations.",
+      "requirements": "Enrolled in Part 147 A&P program; U.S. citizen/permanent resident; résumé, essay, two recommendations.",
       "group": null,
       "ai": "unknown",
       "kind": "scholarship",
@@ -1263,8 +1263,8 @@
       "recurrenceNote": "Provider describes annual scholarships; next dates and terms require confirmation.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -1308,8 +1308,8 @@
       "recurrenceNote": "Provider describes annual scholarships; next dates and terms require confirmation.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -1353,8 +1353,8 @@
       "recurrenceNote": "Provider describes annual scholarships; next dates and terms require confirmation.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -1385,7 +1385,7 @@
       "minAge": 17,
       "maxAge": null,
       "stage": "student",
-      "requirements": "Active LPA membership; FAA-recognized U.S./territories A&P training. R\u00e9sum\u00e9, two recommendations and two essays.",
+      "requirements": "Active LPA membership; FAA-recognized U.S./territories A&P training. Résumé, two recommendations and two essays.",
       "group": "lpa",
       "ai": "unknown",
       "kind": "scholarship",
@@ -1399,8 +1399,8 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -1445,8 +1445,8 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -1489,8 +1489,8 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -1534,8 +1534,8 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -1580,8 +1580,8 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -1625,8 +1625,8 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -1671,8 +1671,8 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -1716,8 +1716,8 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -1760,8 +1760,8 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -1773,7 +1773,7 @@
     },
     {
       "id": "sheltair-avfuel-future-takes-flight-aviation-technicians",
-      "name": "Future Takes Flight \u2014 Aviation Technicians",
+      "name": "Future Takes Flight — Aviation Technicians",
       "org": "Sheltair / Avfuel",
       "url": "https://my.avfuel.com/AVTRIP/Maximize-AVTRIP/Scholarship-Opportunities",
       "amount": "$5,000",
@@ -1806,8 +1806,8 @@
       "recurrenceNote": "Choose Aerospace lists this provider under annual opportunities; current award roster must be confirmed.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -1851,8 +1851,8 @@
       "recurrenceNote": "Choose Aerospace lists this provider under annual opportunities; current award roster must be confirmed.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -1896,8 +1896,8 @@
       "recurrenceNote": "Choose Aerospace lists this provider under annual opportunities; current award roster must be confirmed.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -1941,8 +1941,8 @@
       "recurrenceNote": "Choose Aerospace lists this provider under annual opportunities; current award roster must be confirmed.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -1986,8 +1986,8 @@
       "recurrenceNote": "Choose Aerospace lists this provider under annual opportunities; current award roster must be confirmed.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -2031,8 +2031,8 @@
       "recurrenceNote": "Provider announces its next application season in summer 2027. Named award roster may change.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -2077,8 +2077,8 @@
       "recurrenceNote": "Provider announces its next application season in summer 2027. Named award roster may change.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -2123,8 +2123,8 @@
       "recurrenceNote": "Provider announces its next application season in summer 2027. Named award roster may change.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -2169,8 +2169,8 @@
       "recurrenceNote": "Provider announces its next application season in summer 2027. Named award roster may change.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -2215,8 +2215,8 @@
       "recurrenceNote": "Provider announces its next application season in summer 2027. Named award roster may change.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -2261,8 +2261,8 @@
       "recurrenceNote": "Provider announces its next application season in summer 2027. Named award roster may change.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -2307,8 +2307,8 @@
       "recurrenceNote": "Provider announces its next application season in summer 2027. Named award roster may change.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -2353,8 +2353,8 @@
       "recurrenceNote": "Provider announces its next application season in summer 2027. Named award roster may change.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -2399,8 +2399,8 @@
       "recurrenceNote": "Provider announces the 2027 program; exact application window TBA.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -2446,8 +2446,8 @@
       "recurrenceNote": "Recurring provider program; current round is closed. Next dates and named awards require confirmation.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -2490,8 +2490,8 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -2535,8 +2535,8 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -2579,8 +2579,8 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -2613,7 +2613,7 @@
       "group": null,
       "ai": "unknown",
       "kind": "scholarship",
-      "note": "Spring application window August 1\u2013November 15. Tuition/fees paid directly to school; one award per family per semester.",
+      "note": "Spring application window August 1–November 15. Tuition/fees paid directly to school; one award per family per semester.",
       "reviewed": "2026-10-28",
       "added": "2026-10-28",
       "provider": "association",
@@ -2623,8 +2623,8 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -2657,7 +2657,7 @@
       "group": null,
       "ai": "limited",
       "kind": "scholarship",
-      "note": "Potential cumulative $1,000\u2013$16,000 across club, region and international judging, not a guaranteed $16,000 award. Club amounts/timelines vary. Current main page permits grammar/organization help but requires your own story; the application help page contains stricter no-AI certification wording. Follow the actual application terms or ask the provider before using AI.",
+      "note": "Potential cumulative $1,000–$16,000 across club, region and international judging, not a guaranteed $16,000 award. Club amounts/timelines vary. Current main page permits grammar/organization help but requires your own story; the application help page contains stricter no-AI certification wording. Follow the actual application terms or ask the provider before using AI.",
       "reviewed": "2026-10-28",
       "added": "2026-10-28",
       "minValue": 1000,
@@ -2668,8 +2668,8 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -2698,7 +2698,7 @@
       "minAge": null,
       "maxAge": null,
       "stage": "student",
-      "requirements": "Chapter sponsorship; U.S./Canadian citizen or permanent resident; 24-month adult study interruption; within 18 months of finishing; no master\u2019s degree or above.",
+      "requirements": "Chapter sponsorship; U.S./Canadian citizen or permanent resident; 24-month adult study interruption; within 18 months of finishing; no master’s degree or above.",
       "group": null,
       "ai": "unknown",
       "kind": "scholarship",
@@ -2712,8 +2712,8 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -2757,8 +2757,8 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -2770,7 +2770,7 @@
     },
     {
       "id": "folds-of-honor-higher-education-scholarship-military-families",
-      "name": "Higher Education Scholarship \u2014 Military Families",
+      "name": "Higher Education Scholarship — Military Families",
       "org": "Folds of Honor",
       "url": "https://foldsofhonor.org/scholarships/",
       "amount": "Varies",
@@ -2794,7 +2794,7 @@
       "group": null,
       "ai": "unknown",
       "kind": "scholarship",
-      "note": "Not an award for every veteran. Annual window February 1\u2013March 31. Trade/technical pathways may qualify; provider confirms school eligibility.",
+      "note": "Not an award for every veteran. Annual window February 1–March 31. Trade/technical pathways may qualify; provider confirms school eligibility.",
       "reviewed": "2026-10-28",
       "added": "2026-10-28",
       "provider": "association",
@@ -2802,11 +2802,11 @@
       "career": "none",
       "fit": "potential",
       "recurring": true,
-      "recurrenceNote": "Published annual February 1\u2013March 31 window; verify each cycle.",
+      "recurrenceNote": "Published annual February 1–March 31 window; verify each cycle.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -2837,7 +2837,7 @@
       "minAge": null,
       "maxAge": null,
       "stage": "student",
-      "requirements": "Must attend an A&P program in South Texas. Essay, r\u00e9sum\u00e9, transcripts.",
+      "requirements": "Must attend an A&P program in South Texas. Essay, résumé, transcripts.",
       "group": null,
       "ai": "prohibited",
       "kind": "scholarship",
@@ -2851,8 +2851,8 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -2885,7 +2885,7 @@
       "relocation": false,
       "career": "none",
       "id": "sonic-impact-tools",
-      "name": "Sonic Impact Scholarship \u00b7 aviation tools",
+      "name": "Sonic Impact Scholarship · aviation tools",
       "org": "Sonic Tools",
       "url": "https://sonictoolsusa.com/scholarship/",
       "amount": "$7,530 tool set",
@@ -2896,8 +2896,8 @@
       "recurrenceNote": "Provider publishes two selection periods per year (May/October deadlines).",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -2943,8 +2943,8 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -2993,8 +2993,8 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -3027,7 +3027,7 @@
       "relocation": true,
       "career": "employment-commitment",
       "id": "aar-eagle-fellowship",
-      "name": "EAGLE Fellowship \u00b7 partner-campus tuition",
+      "name": "EAGLE Fellowship · partner-campus tuition",
       "org": "AAR",
       "url": "https://www.aarcorp.com/en/careers/students/",
       "amount": "Up to $15,000 tuition",
@@ -3042,8 +3042,8 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -3076,7 +3076,7 @@
       "relocation": true,
       "career": "conditional-offer",
       "id": "piedmont-tuition-payment",
-      "name": "AMT Tuition Payment Program \u00b7 2027 watch",
+      "name": "AMT Tuition Payment Program · 2027 watch",
       "org": "Piedmont Airlines",
       "url": "https://piedmont-airlines.com/maintenance/aircraft-maintenance-technician-amt-tuition-payment-program/",
       "amount": "Tuition + tests + tools",
@@ -3093,8 +3093,8 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -3142,8 +3142,8 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -3194,8 +3194,8 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -3245,8 +3245,8 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -3279,7 +3279,7 @@
       "relocation": true,
       "career": "interview",
       "id": "skywest-amt-pathway",
-      "name": "AMT Pathway \u00b7 interview & test reimbursement",
+      "name": "AMT Pathway · interview & test reimbursement",
       "org": "SkyWest Airlines",
       "url": "https://jobs.skywest.com/skywest-airlines/jobs/16032?lang=en-us",
       "amount": "Up to $1,600 test fees",
@@ -3297,8 +3297,8 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -3331,19 +3331,19 @@
       "relocation": false,
       "career": "none",
       "id": "johnson-nj-amt-intern-2027",
-      "name": "2027 AMT Summer Internship \u00b7 Trenton",
+      "name": "2027 AMT Summer Internship · Trenton",
       "org": "Johnson & Johnson",
       "url": "https://www.careers.jnj.com/en/jobs/r-100789/aviation-maintenance-technician-summer-intern/",
-      "amount": "$23.50\u2013$52.50 / hour",
+      "amount": "$23.50–$52.50 / hour",
       "requirements": "Completed freshman year at an accredited university in an aviation-maintenance-related degree; GPA 3.0, work authorization, driver license and commuting requirements. A&P preferred.",
       "note": "Summer 2027 role; anticipated application close November 15, 2026, potentially earlier. Pay varies by degree/year. AIM certificate-only enrollment is not automatically eligible. Wages are not a scholarship.",
-      "workLocation": "Trenton, NJ \u00b7 onsite; within one-hour commute",
+      "workLocation": "Trenton, NJ · onsite; within one-hour commute",
       "fit": "degree-check",
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -3376,23 +3376,23 @@
       "relocation": true,
       "career": "employment-commitment",
       "id": "west-star-academy",
-      "name": "West Star Aviation Academy \u00b7 Paid Airframe Apprenticeship",
+      "name": "West Star Aviation Academy · Paid Airframe Apprenticeship",
       "org": "West Star Aviation",
       "url": "https://weststaraviation.workgr8.com/jobs/1700/wsaa-apprentice",
-      "amount": "$20\u2013$23/hour listed range",
+      "amount": "$20–$23/hour listed range",
       "requirements": "High-school diploma/equivalent, mechanical aptitude and employer screening. No Airframe license required at entry. Full-time 7.5-month academy in Illinois; requires a different training route from continuing AIM NJ.",
       "note": "Paid employee apprenticeship with benefits; published wage range is indicative, not a guaranteed offer. Targets FAA Airframe certification, not both A&P ratings. Continued technician employment requires graduation/licensing. Three-year work commitment after graduation or curriculum-cost repayment. Relocation and full weekday attendance required; review terms before changing schools. Current academy page advertises March 2027 classes.",
       "benefits": [
         "paid-training",
         "internship"
       ],
-      "workLocation": "East Alton, Illinois \u00b7 academy attendance required",
+      "workLocation": "East Alton, Illinois · academy attendance required",
       "fit": "other-program",
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -3443,8 +3443,8 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -3492,8 +3492,8 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -3541,8 +3541,8 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -3575,19 +3575,19 @@
       "relocation": true,
       "career": "none",
       "id": "citadel-sowela-apprentice",
-      "name": "A&P Mechanic Apprenticeship \u00b7 SOWELA",
+      "name": "A&P Mechanic Apprenticeship · SOWELA",
       "org": "Citadel Completions",
       "url": "https://www.citadelcompletions.com/careers/",
       "amount": "Work-based training",
       "requirements": "SOWELA Technical College Part 147 students; employer selection in Lake Charles, LA.",
       "note": "Current careers page confirms the school partnership, but no current apprentice vacancy/pay was verified. Confirm compensation and cohort directly. Not automatically transferable to AIM NJ.",
-      "workLocation": "Lake Charles, LA \u00b7 SOWELA partner program",
+      "workLocation": "Lake Charles, LA · SOWELA partner program",
       "fit": "other-program",
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -3635,8 +3635,8 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -3671,19 +3671,19 @@
       "relocation": true,
       "career": "none",
       "id": "cl-aviation-skillbridge",
-      "name": "SkillBridge \u00b7 aviation maintenance transition",
+      "name": "SkillBridge · aviation maintenance transition",
       "org": "C&L Aviation Group",
       "url": "https://careers.cla.aero/skillbridge-program/",
       "amount": "Military pay continues",
       "requirements": "Eligible transitioning active-duty service members with military approval; contact C&L for placement and role requirements.",
       "note": "Company describes year-round participation. Military salary/benefits continue; this is not employer-paid internship cash or a civilian scholarship. Individual places are not guaranteed.",
-      "workLocation": "C&L placement \u00b7 Bangor, ME",
+      "workLocation": "C&L placement · Bangor, ME",
       "fit": "check",
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -3716,7 +3716,7 @@
       "relocation": true,
       "career": "interview",
       "id": "air-wisconsin-apprentice",
-      "name": "Maintenance Apprenticeship \u00b7 closed intake",
+      "name": "Maintenance Apprenticeship · closed intake",
       "org": "Air Wisconsin",
       "url": "https://www.airwis.com/Careers/Maintenance",
       "amount": "$24 / hour published",
@@ -3731,8 +3731,8 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -3772,14 +3772,14 @@
       "url": "https://airwis.com/Careers/Veterans",
       "amount": "A&P exam support",
       "requirements": "Veterans with relevant military maintenance experience; FAA testing eligibility and airline selection must be checked.",
-      "note": "Airline describes paying for eligible veterans\u2019 A&P exams. Confirm covered exams, current hiring, obligations and payment route before booking tests.",
+      "note": "Airline describes paying for eligible veterans’ A&P exams. Confirm covered exams, current hiring, obligations and payment route before booking tests.",
       "workLocation": "Air Wisconsin-designated testing / employment",
       "fit": "check",
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -3812,7 +3812,7 @@
       "relocation": true,
       "career": "none",
       "id": "commuteair-apprentice",
-      "name": "Maintenance Apprenticeship \u00b7 intake watch",
+      "name": "Maintenance Apprenticeship · intake watch",
       "org": "CommuteAir",
       "url": "https://www.commuteair.com/careers/maintenance/",
       "amount": "Employer training pathway",
@@ -3823,8 +3823,8 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -3857,7 +3857,7 @@
       "relocation": true,
       "career": "none",
       "id": "ameriflight-helper",
-      "name": "Maintenance Helper \u00b7 while in A&P school",
+      "name": "Maintenance Helper · while in A&P school",
       "org": "Ameriflight",
       "url": "https://w3.ameriflight.com/ap-mechanics/",
       "amount": "Work & on-the-job training",
@@ -3868,8 +3868,8 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -3918,7 +3918,7 @@
       "recurring": false,
       "sourceHealth": {
         "state": "unconfirmed",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
         "lastReached": null,
         "httpStatus": null
       },
@@ -3954,7 +3954,7 @@
       "relocation": false,
       "career": "none",
       "id": "ngpa-psa-mechanic",
-      "name": "PSA Aircraft Mechanic Scholarship \u00b7 NGPA",
+      "name": "PSA Aircraft Mechanic Scholarship · NGPA",
       "org": "PSA Airlines / NGPA",
       "url": "https://www.ngpa.org/2026_scholarships",
       "amount": "$4,500",
@@ -3965,7 +3965,7 @@
       "recurrenceNote": "Provider announces June 2027 applications; named 2026 awards are not guaranteed to repeat.",
       "sourceHealth": {
         "state": "unconfirmed",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
         "lastReached": null,
         "httpStatus": 403
       },
@@ -4002,7 +4002,7 @@
       "relocation": false,
       "career": "none",
       "id": "ngpa-republic-maintenance",
-      "name": "Republic Maintenance Scholarship \u00b7 NGPA",
+      "name": "Republic Maintenance Scholarship · NGPA",
       "org": "Republic Airways / NGPA",
       "url": "https://www.ngpa.org/2026_scholarships",
       "amount": "$5,000",
@@ -4013,7 +4013,7 @@
       "recurrenceNote": "Provider announces June 2027 applications; named 2026 awards are not guaranteed to repeat.",
       "sourceHealth": {
         "state": "unconfirmed",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
         "lastReached": null,
         "httpStatus": 403
       },
@@ -4061,7 +4061,7 @@
       "recurrenceNote": "Provider announces June 2027 applications; named 2026 awards are not guaranteed to repeat.",
       "sourceHealth": {
         "state": "unconfirmed",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
         "lastReached": null,
         "httpStatus": 403
       },
@@ -4097,7 +4097,7 @@
       "relocation": false,
       "career": "none",
       "id": "ngpa-women-committee",
-      "name": "Women\u2019s Committee Scholarship",
+      "name": "Women’s Committee Scholarship",
       "org": "NGPA",
       "url": "https://www.ngpa.org/2026_scholarships",
       "amount": "$5,000 school payment",
@@ -4108,7 +4108,7 @@
       "recurrenceNote": "Provider announces June 2027 applications; named 2026 awards are not guaranteed to repeat.",
       "sourceHealth": {
         "state": "unconfirmed",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
         "lastReached": null,
         "httpStatus": 403
       },
@@ -4146,15 +4146,15 @@
       "org": "North American Trainer Association",
       "url": "https://flynata.org/content.aspx?club_id=812035&module_id=286552&page_id=22",
       "amount": "Full / partial course support",
-      "requirements": "Warbird-focused mechanics, A&P students or committed volunteers; NATA member recommendation, interest letter and maintenance r\u00e9sum\u00e9.",
-      "note": "2026 T-6 course announced November 1\u20137 in Lebanon, TN. Scholarship places and late applications need confirmation. Approximate $2,500 course/lodging/meals value; travel excluded. Not student cash or initial A&P certification.",
-      "workLocation": "Lebanon, TN \u00b7 course travel required",
+      "requirements": "Warbird-focused mechanics, A&P students or committed volunteers; NATA member recommendation, interest letter and maintenance résumé.",
+      "note": "2026 T-6 course announced November 1–7 in Lebanon, TN. Scholarship places and late applications need confirmation. Approximate $2,500 course/lodging/meals value; travel excluded. Not student cash or initial A&P certification.",
+      "workLocation": "Lebanon, TN · course travel required",
       "fit": "potential",
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -4201,8 +4201,8 @@
       "recurrenceNote": "Provider announces a 2027 scholarship program; future roster and dates TBA.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -4235,12 +4235,12 @@
       "relocation": true,
       "career": "conditional-offer",
       "id": "republic-aim-cadet",
-      "name": "RJet Maintenance Cadet \u00b7 AIM partnership",
+      "name": "RJet Maintenance Cadet · AIM partnership",
       "org": "Republic Airways / AIM",
       "url": "https://careers.rjet.com/jobs/jr-004824/rjet-maintenance-cadet/",
       "amount": "Conditional job offer",
-      "requirements": "A&P students with 400 training hours, US work eligibility, driver license and r\u00e9sum\u00e9. Full A&P is required before the final technician role, not to enter the cadet route.",
-      "note": "AIM confirms a partnership. The current airline posting says 2- or 4-year programs; ask Republic to confirm AIM NJ\u2019s 21-month program. Offer depends on certification, technical interview and base availability. Cadet participation has no contractual commitment. No scholarship cash.",
+      "requirements": "A&P students with 400 training hours, US work eligibility, driver license and résumé. Full A&P is required before the final technician role, not to enter the cadet route.",
+      "note": "AIM confirms a partnership. The current airline posting says 2- or 4-year programs; ask Republic to confirm AIM NJ’s 21-month program. Offer depends on certification, technical interview and base availability. Cadet participation has no contractual commitment. No scholarship cash.",
       "workLocation": "Participating AIM campus / Republic maintenance base",
       "references": [
         "https://aviationmaintenance.edu/about/partnerships/"
@@ -4249,8 +4249,8 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -4286,16 +4286,16 @@
       "name": "John Sandberg A&P Scholarship Fund",
       "org": "EAA Aviation Foundation",
       "url": "https://www2.eaa.org/eaa/learn-to-fly/scholarships/post-secondary-scholarships",
-      "amount": "Varies \u00b7 education support",
+      "amount": "Varies · education support",
       "requirements": "A&P certificate student, age 19+, with aviation volunteer hours; EAA program rules also apply.",
-      "note": "Part of EAA\u2019s common application, not an extra independent application. GPA and immigration/enrollment rules apply; confirm exact award amount and payment route.",
+      "note": "Part of EAA’s common application, not an extra independent application. GPA and immigration/enrollment rules apply; confirm exact award amount and payment route.",
       "fit": "potential",
       "recurring": true,
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -4328,12 +4328,12 @@
       "relocation": true,
       "career": "employment-commitment",
       "id": "ba-us-engineering-cadet",
-      "name": "US Engineering Cadet \u00b7 AIM partnership",
+      "name": "US Engineering Cadet · AIM partnership",
       "org": "British Airways",
       "url": "https://careers.ba.com/apprentices",
       "amount": "Sponsored career pathway",
       "requirements": "Must already be enrolled at a US AIM program. Airline describes completing AIM study before a three-year engineering program.",
-      "note": "BA lists US stations with short London training trips; AIM\u2019s summary describes London differently. Confirm current intake, AIM NJ\u2019s 21-month eligibility, sponsorship coverage, pay and placement in writing. This is not a verified scholarship cash award or an immediate job guarantee.",
+      "note": "BA lists US stations with short London training trips; AIM’s summary describes London differently. Confirm current intake, AIM NJ’s 21-month eligibility, sponsorship coverage, pay and placement in writing. This is not a verified scholarship cash award or an immediate job guarantee.",
       "benefits": [
         "paid-training",
         "job"
@@ -4346,8 +4346,8 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -4380,7 +4380,7 @@
       "relocation": true,
       "career": "referral",
       "id": "united-aim-technician-pathway",
-      "name": "AIM Technician Pathway \u00b7 United recruiting",
+      "name": "AIM Technician Pathway · United recruiting",
       "org": "United Airlines / AIM",
       "url": "https://aviationmaintenance.edu/about/partnerships/",
       "amount": "Mentorship & recruiting access",
@@ -4397,8 +4397,8 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -4433,7 +4433,7 @@
       "relocation": false,
       "career": "none",
       "id": "ngpa-2027-cycle-watch",
-      "name": "NGPA scholarship cycle \u00b7 June 2027 watch",
+      "name": "NGPA scholarship cycle · June 2027 watch",
       "org": "NGPA",
       "url": "https://www.ngpa.org/2026_scholarships",
       "amount": "2027 awards not published",
@@ -4445,7 +4445,7 @@
       "recurrenceNote": "Provider announces June 2027 applications; named 2026 awards are not guaranteed to repeat.",
       "sourceHealth": {
         "state": "unconfirmed",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
         "lastReached": null,
         "httpStatus": 403
       },
@@ -4477,14 +4477,14 @@
       "addedAt": "2026-10-28T16:00:48.170Z",
       "recurring": true,
       "id": "live-mas-scholarship-2027",
-      "name": "Live M\u00e1s Scholarship",
+      "name": "Live Más Scholarship",
       "org": "Taco Bell Foundation",
       "url": "https://tacobellfoundation.org/live-mas-scholarship/eligibilityfaq/",
       "references": [
         "https://tacobellfoundation.org/wp-content/uploads/2027_Live_Mas_Scholarship_New_Applicant_TC.pdf",
         "https://apply.mykaleidoscope.com/program/livemas2027"
       ],
-      "amount": "$5,000\u2013$25,000",
+      "amount": "$5,000–$25,000",
       "minValue": 5000,
       "value": 25000,
       "status": "open",
@@ -4492,9 +4492,20 @@
       "deadline": "2027-01-05",
       "group": "live-mas",
       "ai": "limited",
-      "requirements": "New applicants ages 16\u201326 by the deadline; U.S. residency rules apply. Accredited trade-school students are eligible; no A&P required. Employees and nonemployees may apply.",
-      "note": "School payment for qualified education expenses, available from fall 2027. Deadline: Jan 5, 2027, 5 PM Pacific. Submit a personal video or 250\u2013500-word essay. AI may assist organization/clarity/grammar only, with disclosure; substantive AI writing and automated applications are prohibited. If graduating before funds become usable, confirm remaining eligible expenses. Mentoring is not a job offer.",
-      "recurrenceNote": "Annual program; renewals require a separate application and continuing eligibility."
+      "requirements": "New applicants ages 16–26 by the deadline; U.S. residency rules apply. Accredited trade-school students are eligible; no A&P required. Employees and nonemployees may apply.",
+      "note": "School payment for qualified education expenses, available from fall 2027. Deadline: Jan 5, 2027, 5 PM Pacific. Submit a personal video or 250–500-word essay. AI may assist organization/clarity/grammar only, with disclosure; substantive AI writing and automated applications are prohibited. If graduating before funds become usable, confirm remaining eligible expenses. Mentoring is not a job offer.",
+      "recurrenceNote": "Annual program; renewals require a separate application and continuing eligibility.",
+      "sourceHealth": {
+        "state": "ok",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
+        "httpStatus": 200
+      },
+      "maintenance": {
+        "hidden": false,
+        "hiddenReason": null,
+        "evaluatedOn": "2026-10-28"
+      }
     },
     {
       "geo": "national",
@@ -4534,7 +4545,18 @@
       "ai": "unknown",
       "requirements": "Current postsecondary skilled-trades students across the United States, including New Jersey. You must owe money to your school. Aviation-maintenance students appear among past recipients; confirm your individual program.",
       "note": "Monthly awards during the school year, paid directly to the student's school. Submit the provider's student scholarship form and personal explanation. The Google form may require Google sign-in. The separate tool-grant application is for schools/nonprofits, not individual students.",
-      "recurrenceNote": "Monthly school-year selections; verify the current application and award schedule with the provider."
+      "recurrenceNote": "Monthly school-year selections; verify the current application and award schedule with the provider.",
+      "sourceHealth": {
+        "state": "ok",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
+        "httpStatus": 200
+      },
+      "maintenance": {
+        "hidden": false,
+        "hiddenReason": null,
+        "evaluatedOn": "2026-10-28"
+      }
     }
   ],
   "resources": [
@@ -4544,8 +4566,8 @@
       "note": "Ask your campus to confirm enrollment, aid coordination and matching.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -4557,11 +4579,11 @@
     {
       "name": "Choose Aerospace industry opportunities",
       "url": "https://www.chooseaerospace.org/industry-opportunities.html",
-      "note": "Additional maintenance funding leads from ATEC\u2019s partner organization.",
+      "note": "Additional maintenance funding leads from ATEC’s partner organization.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -4576,8 +4598,8 @@
       "note": "Community resource. March 2027 next window; no current A&P-specific award verified. Membership does not establish an Asian-only restriction.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -4592,8 +4614,8 @@
       "note": "Current award administration points to AMC/TechForce; avoid duplicate applications.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -4608,8 +4630,8 @@
       "note": "Construction-related programs/approved schools only. Not verified for AIM A&P; do not assume any trade school qualifies.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -4624,8 +4646,8 @@
       "note": "Not-for-profit school requirement; not presented as an AIM certificate match. Age and other conditions apply.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -4640,8 +4662,8 @@
       "note": "Veteran funding lead; verify current window and whether your specific certificate school is accepted.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -4656,8 +4678,8 @@
       "note": "Ask your campus about Republic cadets, United technician pathways and American interviews. A partnership logo is not proof every campus/student qualifies.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -4669,11 +4691,11 @@
     {
       "name": "Concorde Battery maintenance training",
       "url": "https://www.concordebattery.com/events-tradeshows",
-      "note": "2027 online maintenance series announced. Previous free training welcomed students; verify this event\u2019s registration cost, dates and scope. Not an A&P license or paid role.",
+      "note": "2027 online maintenance series announced. Previous free training welcomed students; verify this event’s registration cost, dates and scope. Not an A&P license or paid role.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -4688,8 +4710,8 @@
       "note": "Student tool discounts at approved schools; purchases still cost money. This is not a free-tool scholarship.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -4704,8 +4726,8 @@
       "note": "2026 closed. Current criteria name aviation-management/pilot degree programs; an AIM maintenance certificate match is not verified, despite historical A&P recipients.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -4720,8 +4742,8 @@
       "note": "Historical company announcement; current award round, amount and campus eligibility require confirmation. Not presented as open NJ funding.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -4736,7 +4758,7 @@
       "note": "Employer training lead. Verify current academy roles, pay and location; not an open student scholarship.",
       "sourceHealth": {
         "state": "unconfirmed",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
         "lastReached": null,
         "httpStatus": null
       },
@@ -4752,8 +4774,8 @@
       "note": "Employee tuition-reimbursement/training benefits depend on hiring and policy; no transferable student award verified.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -4768,7 +4790,7 @@
       "note": "Regional airline recruiting resource. No current pre-A&P scholarship or paid-student offer verified in this review.",
       "sourceHealth": {
         "state": "unconfirmed",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
         "lastReached": null,
         "httpStatus": null
       },
@@ -4784,8 +4806,8 @@
       "note": "Smaller MRO/parts employer; inspect role-specific credentials. Past apprentice success is not proof of an open civilian intake.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -4800,8 +4822,8 @@
       "note": "Family-owned MRO/parts/engine business. Current technical roles have certificate/experience conditions; no student scholarship verified.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -4816,8 +4838,8 @@
       "note": "Charter/MRO jobs, including some roles with A&P preferred. Ordinary job listings are not scholarship-linked placement.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -4832,8 +4854,8 @@
       "note": "Dale Hurst travel scholarship is for instructors, not ordinary students. Check AWAM for future student textbook/course awards; current round closed.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -4848,8 +4870,8 @@
       "note": "School recruiting partnership; no universal job guarantee or NJ student-cash award inferred.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -4864,8 +4886,8 @@
       "note": "Structures apprentice and technical-course resource. Confirm current student intake, pay and employer requirements.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -4880,7 +4902,7 @@
       "note": "Check partner-school pathways and actual openings. Delta states it does not offer an A&P licensing program itself.",
       "sourceHealth": {
         "state": "unconfirmed",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
         "lastReached": null,
         "httpStatus": 444
       },
@@ -4896,8 +4918,8 @@
       "note": "Current entry programs and vacancies must be checked; older Calibrate announcements are not treated as a live cohort.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -4907,13 +4929,13 @@
       }
     },
     {
-      "name": "NetJets scholarship \u00b7 next cycle watch",
+      "name": "NetJets scholarship · next cycle watch",
       "url": "https://columbusfoundation.org/search/scholarships/detail/NetJetsScholarship/474",
       "note": "Three $25,000 aviation/hospitality awards; provider says check January 2027. Eligible-institution and certificate-program fit need confirmation. Separate SkillPointe maintenance award ended in 2023; neither establishes a job guarantee.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-10-28T15:53:26.210207Z",
-        "lastReached": "2026-10-28T15:53:26.210207Z",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
         "httpStatus": 200
       },
       "maintenance": {
@@ -4923,14 +4945,36 @@
       }
     },
     {
-      "name": "NBAA-BACE Career Zone \u00b7 event and employer leads",
+      "name": "NBAA-BACE Career Zone · event and employer leads",
       "url": "https://nbaabace.org/program/career-zone",
-      "note": "The Oct 21\u201322, 2026 Las Vegas event has ended. Career Fair, scholarship guidance and Collegiate Connect are useful sources for future opportunities; attendance was not a job or award guarantee."
+      "note": "The Oct 21–22, 2026 Las Vegas event has ended. Career Fair, scholarship guidance and Collegiate Connect are useful sources for future opportunities; attendance was not a job or award guarantee.",
+      "sourceHealth": {
+        "state": "ok",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
+        "httpStatus": 200
+      },
+      "maintenance": {
+        "hidden": false,
+        "hiddenReason": null,
+        "evaluatedOn": "2026-10-28"
+      }
     },
     {
       "name": "AEA regional avionics events",
       "url": "https://aea.net/regionals/west/",
-      "note": "Avionics/electronics training and exhibitor leads. Oct 29\u201330, 2026 West Regional is in Reno, not Las Vegas. Registration/course attendance is not a paid-training scholarship."
+      "note": "Avionics/electronics training and exhibitor leads. Oct 29–30, 2026 West Regional is in Reno, not Las Vegas. Registration/course attendance is not a paid-training scholarship.",
+      "sourceHealth": {
+        "state": "ok",
+        "checkedAt": "2026-10-28T16:03:44.289415Z",
+        "lastReached": "2026-10-28T16:03:44.289415Z",
+        "httpStatus": 200
+      },
+      "maintenance": {
+        "hidden": false,
+        "hiddenReason": null,
+        "evaluatedOn": "2026-10-28"
+      }
     }
   ],
   "notes": [
