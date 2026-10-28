@@ -6,7 +6,7 @@ Independent student resource, not an official or endorsed AIM service. This fold
 
 ## First version
 
-- 95 researched award/program/lead entries, plus 24 separate source directories, initially reviewed October 28, 2026.
+- 96 researched award/program/lead entries, plus 24 separate source directories, initially reviewed October 28, 2026.
 - Search; state/nationwide geography; application status; payment type; award value; women-specific, military and dependent-support options; age and training-stage filters.
 - Shared application notices: named awards are not claimed to be independent application opportunities.
 - Shortlist kept in page memory only; text download and browser Print / Save PDF.
@@ -46,7 +46,7 @@ Serve this directory using an HTTP server for local testing; fetch-based catalog
 
 Initial research covered AIM funding, WTS NJ and neighboring chapters, AEA, AMC/PAMA/TechForce, NBAA, LPA, VAI, EAA, Choose Aerospace/ATEC, GOPA, Avfuel/Sheltair, RACCA, WAI, AWAM, OBAP, Northrop Rice, VFW, Soroptimist, P.E.O., mikeroweWORKS, Folds of Honor and additional demographic/trade directories. Excluded or separately labeled leads include construction-only NJ-GIVS, nonprofit-only Horatio Alger, pilot-only awards and programs requiring an already-earned A&P or another institution.
 
-This is a substantial starting catalog, not a claim to have found every possible scholarship or 95 currently open applications.
+This is a substantial starting catalog, not a claim to have found every possible scholarship or 96 currently open applications.
 
 ## AIM NJ focus and employer expansion
 

@@ -855,7 +855,7 @@
       "value": 2500,
       "status": "upcoming",
       "deadline": "2027-06-15",
-      "opens": "2027-04-01",
+      "opens": null,
       "geo": "national",
       "states": [],
       "benefit": "school",
@@ -876,7 +876,8 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "opensMonth": "2027-04"
     },
     {
       "id": "nbaa-john-f-rahilly-memorial-scholarship-for-future-a-p-technicians",
@@ -887,7 +888,7 @@
       "value": 1000,
       "status": "upcoming",
       "deadline": "2027-06-15",
-      "opens": "2027-04-01",
+      "opens": null,
       "geo": "national",
       "states": [],
       "benefit": "school",
@@ -908,7 +909,8 @@
       "provider": "association",
       "relocation": false,
       "career": "none",
-      "fit": "potential"
+      "fit": "potential",
+      "opensMonth": "2027-04"
     },
     {
       "id": "nbaa-corporate-aircraft-association-scholarship-for-future-aviation-leaders",
@@ -2841,9 +2843,9 @@
     },
     {
       "value": 4500,
-      "status": "upcoming",
+      "status": "closed",
       "deadline": null,
-      "opens": "2027-06-01",
+      "opens": null,
       "geo": "national",
       "states": [],
       "benefit": "unconfirmed",
@@ -2875,9 +2877,9 @@
     },
     {
       "value": 5000,
-      "status": "upcoming",
+      "status": "closed",
       "deadline": null,
-      "opens": "2027-06-01",
+      "opens": null,
       "geo": "national",
       "states": [],
       "benefit": "unconfirmed",
@@ -2909,9 +2911,9 @@
     },
     {
       "value": 5000,
-      "status": "upcoming",
+      "status": "closed",
       "deadline": null,
-      "opens": "2027-06-01",
+      "opens": null,
       "geo": "national",
       "states": [],
       "benefit": "school",
@@ -2943,9 +2945,9 @@
     },
     {
       "value": 5000,
-      "status": "upcoming",
+      "status": "closed",
       "deadline": null,
-      "opens": "2027-06-01",
+      "opens": null,
       "geo": "national",
       "states": [],
       "benefit": "school",
@@ -3189,6 +3191,41 @@
         "https://careers.united.com/us/en/united-pathways"
       ],
       "fit": "aim-check"
+    },
+    {
+      "value": null,
+      "status": "upcoming",
+      "deadline": null,
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "unconfirmed",
+      "gender": "all",
+      "community": [
+        "LGBTQ+ community"
+      ],
+      "veteran": false,
+      "parent": false,
+      "minAge": 18,
+      "maxAge": null,
+      "stage": "student",
+      "group": "ngpa",
+      "ai": "unknown",
+      "kind": "program",
+      "reviewed": "2026-10-28",
+      "added": "2026-10-28",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "id": "ngpa-2027-cycle-watch",
+      "name": "NGPA scholarship cycle · June 2027 watch",
+      "org": "NGPA",
+      "url": "https://www.ngpa.org/2026_scholarships",
+      "amount": "2027 awards not published",
+      "requirements": "NGPA membership and age 18+; confirm the 2027 maintenance awards and their specific school/program rules when published.",
+      "note": "Provider announces its next application window for June 2027. The 2026 roster included PSA and Republic maintenance awards; individual awards and amounts are not assumed to repeat.",
+      "fit": "check",
+      "opensMonth": "2027-06"
     }
   ],
   "resources": [

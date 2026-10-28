@@ -41,4 +41,6 @@ assert(filter({status:'closing'}).some(r=>r.org==='TBX'));
 assert(!filter({status:'closing'}).some(r=>r.org==='AEA Educational Foundation'));
 assert(filter({status:'upcoming'}).some(r=>r.org==='Choose Aerospace'));
 assert(filter({amount:'1000:5000'}).some(r=>r.org==='Soroptimist'),'Published ranges overlap requested value bands');
-console.log('36 meaningful catalog/filter checks passed; '+c.records.length+' records.');
+assert.equal(L.status({status:'upcoming',opensMonth:'2027-06'},'2027-06-05'),'verify');
+assert.equal(L.status({status:'upcoming',opensMonth:'2027-06'},'2027-05-31'),'upcoming');
+console.log('38 meaningful catalog/filter checks passed; '+c.records.length+' records.');
