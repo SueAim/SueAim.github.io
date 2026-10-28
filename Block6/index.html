@@ -7,6 +7,13 @@
 <meta name="theme-color" content="#0a0f1f">
 <meta name="color-scheme" content="dark light">
 <meta name="format-detection" content="telephone=no">
+<link rel="icon" type="image/png" sizes="192x192" href="icon-192.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Block 6 Cards">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
 <title>Jeppesen Block 6 Oral Exam Flashcards</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -48,6 +55,16 @@ a{color:var(--accent)}
 header h1{margin:0;font-size:clamp(23px,5.6vw,31px);font-weight:700;line-height:1.15}
 header h1 span{color:var(--accent)}
 header p{margin:5px 0 0;color:var(--muted);font-size:15px}
+header{display:flex;align-items:flex-start;justify-content:space-between}
+.htext{min-width:0;margin-right:10px}
+.fsbtn{flex:none;display:inline-flex;align-items:center;border:1px solid var(--line);background:var(--panel);border-radius:999px;padding:7px 12px;font-weight:600;font-size:14.5px;margin-top:3px;white-space:nowrap}
+.fsbtn svg{width:18px;height:18px;flex:none;margin-right:6px}
+.fsbtn .i-off{display:none}
+.fsbtn[aria-pressed="true"]{border-color:var(--accent);background:var(--accent-soft)}
+.fsbtn[aria-pressed="true"] .i-on{display:none}
+.fsbtn[aria-pressed="true"] .i-off{display:block}
+@media (max-width:479px){.fsbtn{padding:9px}.fsbtn span{display:none}.fsbtn svg{margin-right:0}}
+.tip{margin:8px 0 0;font-size:13.5px;color:var(--faint);font-family:var(--f-text)}
 
 .tabs{display:flex;margin:16px 0 12px;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:4px}
 .tabs button{flex:1;border:0;background:transparent;padding:9px 10px;border-radius:9px;font-weight:600;color:var(--muted)}
@@ -151,9 +168,17 @@ footer li{margin:2px 0}
 <body>
 <div class="wrap">
   <header>
-    <h1>Jeppesen Block 6 <span>Oral Exam</span> Flashcards</h1>
-    <p>75 questions · Electrical, Instruments, Comm/Nav</p>
+    <div class="htext">
+      <h1>Jeppesen Block 6 <span>Oral Exam</span> Flashcards</h1>
+      <p>75 questions · Electrical, Instruments, Comm/Nav</p>
+    </div>
+    <button class="fsbtn" id="fsBtn" aria-pressed="false" title="Full screen (F)" hidden>
+      <svg class="i-on" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 9V4h5"/><path d="M20 9V4h-5"/><path d="M4 15v5h5"/><path d="M20 15v5h-5"/></svg>
+      <svg class="i-off" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 4v5H4"/><path d="M15 4v5h5"/><path d="M9 20v-5H4"/><path d="M15 20v-5h5"/></svg>
+      <span id="fsLabel">Full screen</span>
+    </button>
   </header>
+  <p class="tip" id="iosTip" hidden>Full screen on iPhone: tap Share, then “Add to Home Screen”, and open the flashcards from your Home Screen.</p>
 
   <div class="tabs" role="tablist" aria-label="View">
     <button role="tab" id="tabCards" aria-selected="true" aria-controls="cardsPanel">Flashcards</button>
@@ -204,7 +229,7 @@ footer li{margin:2px 0}
         <button class="big bad" id="missBtn" hidden>Missed it</button>
         <button class="big ok" id="gotBtn" hidden>Got it</button>
       </div>
-      <p class="keys">Keyboard: Space = show answer · ← missed it · → got it · Backspace or Delete = back</p>
+      <p class="keys">Keyboard: Space = show answer · ← missed it · → got it · Backspace or Delete = back · F = full screen</p>
     </section>
 
     <section id="doneView" hidden>
@@ -254,7 +279,7 @@ const DECKS = [
 const KEY = "sueaim-block6-jeppesen-v1";
 const $ = id => document.getElementById(id);
 
-function fresh(){ return {v:1, deck:"all", view:"cards", goal:3, speak:false, voice:"", rate:1, hide:false, sessions:{}, history:[]}; }
+function fresh(){ return {v:1, deck:"all", view:"cards", goal:3, speak:false, voice:"", rate:1, hide:false, fs:false, sessions:{}, history:[]}; }
 function load(){
   try {
     const s = JSON.parse(localStorage.getItem(KEY));
@@ -455,6 +480,54 @@ function buildList(){
       it.appendChild(q); it.appendChild(a); box.appendChild(it);
     }
   }
+}
+
+/* ---------- full screen ---------- */
+// Browsers only allow full screen right after a tap/click/key press, so "automatic" means:
+// once you turn it on, the page goes full screen again on your first tap after reopening it.
+var docEl = document.documentElement;
+var fsCan = !!((docEl.requestFullscreen || docEl.webkitRequestFullscreen) && (document.fullscreenEnabled || document.webkitFullscreenEnabled));
+var fsWasOn = false, fsAutoDone = false, leaving = false;
+function fsEl(){ return document.fullscreenElement || document.webkitFullscreenElement || null; }
+function fsShow(){
+  var on = !!fsEl();
+  $("fsBtn").setAttribute("aria-pressed", String(on));
+  $("fsLabel").textContent = on ? "Exit full screen" : "Full screen";
+  $("fsBtn").title = (on ? "Exit full screen" : "Full screen") + " (F)";
+}
+function fsEnter(){
+  try {
+    var r = docEl.requestFullscreen ? docEl.requestFullscreen() : docEl.webkitRequestFullscreen();
+    if (r && r.catch) r.catch(function(){ S.fs = false; save(); fsShow(); });
+  } catch (e) {}
+}
+function fsExit(){
+  try { var r = document.exitFullscreen ? document.exitFullscreen() : document.webkitExitFullscreen(); if (r && r.catch) r.catch(function(){}); } catch (e) {}
+}
+function fsToggle(){ fsAutoDone = true; if (fsEl()) { S.fs = false; save(); fsExit(); } else { S.fs = true; save(); fsEnter(); } }
+function fsChanged(){
+  var on = !!fsEl();
+  if (fsWasOn && !on && !leaving) { S.fs = false; save(); }   // you left full screen (Esc or X): stay out next time
+  fsWasOn = on; fsShow();
+}
+function fsAuto(){ if (fsAutoDone) return; fsAutoDone = true; if (S.fs && !fsEl()) fsEnter(); }
+if (fsCan) {
+  $("fsBtn").hidden = false;
+  $("fsBtn").onclick = fsToggle;
+  document.addEventListener("fullscreenchange", fsChanged);
+  document.addEventListener("webkitfullscreenchange", fsChanged);
+  window.addEventListener("pagehide", function(){ leaving = true; });
+  window.addEventListener("beforeunload", function(){ leaving = true; });
+  window.addEventListener("pageshow", function(e){ leaving = false; if (e.persisted) fsAutoDone = false; });
+  document.addEventListener("click", function(e){ if (!(e.target.closest && e.target.closest("#fsBtn"))) fsAuto(); }, true);
+  document.addEventListener("keydown", function(e){
+    if (e.altKey || e.ctrlKey || e.metaKey || (e.target.closest && e.target.closest("select, input, textarea"))) return;
+    if (e.key === "f" || e.key === "F") { e.preventDefault(); fsToggle(); return; }
+    if ([" ", "Enter", "ArrowLeft", "ArrowRight", "1", "2", "Backspace", "Delete"].indexOf(e.key) >= 0) fsAuto();
+  }, true);
+  fsShow();
+} else if (/iPhone|iPod/.test(navigator.userAgent) && !navigator.standalone) {
+  $("iosTip").hidden = false;                      // iPhone: Apple only allows full screen from the Home Screen
 }
 
 /* ---------- wire up ---------- */
