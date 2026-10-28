@@ -1,0 +1,39 @@
+name: Daily scholarship source watch
+on:
+  schedule:
+    - cron: '15 12 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scholarships/scripts/monitor_sources.py'
+      - '.github/workflows/scholarship-updates.yml'
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: scholarship-source-watch
+  cancel-in-progress: false
+jobs:
+  check-public-sources:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check official provider sources
+        run: python3 scholarships/scripts/monitor_sources.py
+      - name: Publish public catalog updates
+        run: |
+          git config user.name "AeroAid source watch"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add scholarships/data/catalog.json scholarships/data/updates.json scholarships/data/source-state.json scholarships/feed.xml
+          if ! git diff --cached --quiet; then
+            git commit -m "Update public scholarship source watch"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - name: Deploy static Pages changes
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # A token-authored push may not trigger Pages. Request a fresh Pages build.
+          gh api --method POST repos/${{ github.repository }}/pages/builds || echo "Automatic Pages refresh not available; check Pages settings."
