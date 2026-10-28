@@ -1,10 +1,36 @@
 {
-  "lastAttempt": "2026-10-28T13:55:45.848501Z",
+  "lastAttempt": "2026-10-28T14:17:55.423808Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 33,
-  "sourcesTotal": 33,
+  "sourcesChecked": 72,
+  "sourcesTotal": 77,
   "changes": [],
   "discovered": [],
-  "failures": [],
+  "failures": [
+    {
+      "url": "https://standardaero.com/aboutus/careers/",
+      "provider": "StandardAero careers / technical training",
+      "error": "Page too short to verify content"
+    },
+    {
+      "url": "https://www.capeair.com/careers/",
+      "provider": "Cape Air maintenance / TechOps careers",
+      "error": "Page too short to verify content"
+    },
+    {
+      "url": "https://www.delta.com/us/en/careers/techops-careers",
+      "provider": "Delta TechOps / TechU",
+      "error": "HTTPError"
+    },
+    {
+      "url": "https://www.ngpa.org/2026_scholarships",
+      "provider": "NGPA",
+      "error": "HTTPError"
+    },
+    {
+      "url": "https://www.share.cessna.com/en/careers/apprenticeships",
+      "provider": "Textron Aviation",
+      "error": "URLError"
+    }
+  ],
   "message": "Daily source checks; source changes and newly discovered leads are not eligibility verification."
 }
