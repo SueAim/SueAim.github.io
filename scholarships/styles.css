@@ -99,3 +99,5 @@
 .support-chip[aria-pressed="true"]{background:#173c38;color:white;border-color:#173c38}
 
 .compact-home #shortlist summary span{display:inline;margin-left:8px}
+
+.daily-label{text-decoration:none}.daily-label .new-label{margin-left:auto;letter-spacing:0;white-space:nowrap}

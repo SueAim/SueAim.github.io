@@ -52,4 +52,8 @@ assert(!L.visible({...fixture,sourceHealth:{state:'missing'}},day),'Missing sour
 assert(L.visible({...fixture,sourceHealth:{state:'unconfirmed'}},day),'A transient error is not a permanent deletion');
 assert(L.visible({...fixture,opens:'2026-11-02'},'2026-10-29'),'Announced future opening is retained');
 assert(!L.visible({...fixture,opens:'2026-10-01'},'2026-10-29'),'Past opening is not evidence of a future recurrence');
-console.log('46 meaningful catalog/filter checks passed; '+c.records.length+' records.');
+assert(filter({benefit:'money',status:'available',fit:'aim-nj'}).some(r=>r.org==='Soroptimist'));
+assert(filter({benefit:'money',status:'available',fit:'aim-nj'}).some(r=>r.org==='AEA Educational Foundation'));
+assert(filter({benefit:'money',status:'available',fit:'aim-nj'}).some(r=>r.benefit==='exam'));
+assert(!filter({benefit:'money'}).some(r=>r.id==='sonic-impact-tools'));
+console.log('50 meaningful catalog/filter checks passed; '+c.records.length+' records.');
