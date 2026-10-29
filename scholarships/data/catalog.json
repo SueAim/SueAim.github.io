@@ -1549,7 +1549,7 @@
       "id": "eaa-post-secondary-scholarship-program",
       "name": "Post-Secondary Scholarship Program",
       "org": "EAA",
-      "url": "https://www.eaa.org/eaa/learn-to-fly/scholarships/post-secondary-scholarships",
+      "url": "https://www2.eaa.org/eaa/learn-to-fly/scholarships/post-secondary-scholarships",
       "amount": "Varies",
       "value": null,
       "status": "open",
@@ -1569,7 +1569,7 @@
       "group": "eaa",
       "ai": "unknown",
       "kind": "scholarship",
-      "note": "Counted as one program here; not every EAA award supports maintenance. Check individual restrictions.",
+      "note": "Counted as one program here; not every EAA award supports maintenance. Check individual restrictions. The official search listing describes an open cycle, but the checked public scholarship URLs currently return 404. This listing remains hidden until a live official page is restored.",
       "reviewed": "2026-10-29",
       "added": "2026-10-28",
       "provider": "association",
@@ -1580,8 +1580,6 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "missing",
-        "checkedAt": "2026-10-29T11:48:54.116697Z",
-        "lastReached": null,
         "httpStatus": 404
       },
       "maintenance": {
@@ -4243,17 +4241,15 @@
       "id": "eaa-john-sandberg",
       "name": "John Sandberg A&P Scholarship Fund",
       "org": "EAA Aviation Foundation",
-      "url": "https://www.eaa.org/eaa/learn-to-fly/scholarships/post-secondary-scholarships",
+      "url": "https://www2.eaa.org/eaa/learn-to-fly/scholarships/post-secondary-scholarships",
       "amount": "Varies · education support",
       "requirements": "A&P certificate student, age 19+, with aviation volunteer hours; EAA program rules also apply.",
-      "note": "Part of EAA’s common application, not an extra independent application. GPA and immigration/enrollment rules apply; confirm exact award amount and payment route.",
+      "note": "Part of EAA’s common application, not an extra independent application. GPA and immigration/enrollment rules apply; confirm exact award amount and payment route. The official search listing describes an open cycle, but the checked public scholarship URLs currently return 404. This listing remains hidden until a live official page is restored.",
       "fit": "potential",
       "recurring": true,
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "missing",
-        "checkedAt": "2026-10-29T11:48:54.116697Z",
-        "lastReached": null,
         "httpStatus": 404
       },
       "maintenance": {
