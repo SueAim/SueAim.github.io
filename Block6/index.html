@@ -64,6 +64,9 @@ header{display:flex;align-items:flex-start;justify-content:space-between}
 .fsbtn[aria-pressed="true"] .i-on{display:none}
 .fsbtn[aria-pressed="true"] .i-off{display:block}
 @media (max-width:479px){.fsbtn{padding:9px}.fsbtn span{display:none}.fsbtn svg{margin-right:0}}
+.notice{display:flex;align-items:flex-start;justify-content:space-between;background:var(--accent-soft);border:1px solid var(--accent);border-radius:12px;padding:10px 12px;margin:2px 0 10px;font-family:var(--f-text);font-size:15px;line-height:1.4}
+.notice span{margin-right:10px}
+.notice .link{color:var(--fg);font-weight:700;text-decoration:none;flex:none;font-size:15px;padding:0 2px}
 .tip{margin:8px 0 0;font-size:13.5px;color:var(--faint);font-family:var(--f-text)}
 
 .tabs{display:flex;margin:16px 0 12px;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:4px}
@@ -188,6 +191,10 @@ footer li{margin:2px 0}
   <div class="chips" id="chips" role="group" aria-label="Deck"></div>
 
   <main id="cardsPanel">
+    <div class="notice" id="notice" role="status" hidden>
+      <span>Welcome back! It's a review day, so “Get each card right” is now 1× and your decks start a fresh round. (You can still pick 2× or 3×.)</span>
+      <button class="link" id="noticeOk">OK</button>
+    </div>
     <div class="row">
       <div class="goal" role="group" aria-label="How many times to get each card right">
         <span>Get each card right</span>
@@ -256,7 +263,7 @@ footer li{margin:2px 0}
     <ol>
       <li>Say the answer out loud before you flip the card.</li>
       <li>Day 1: do each chapter with “Get each card right 3×”.</li>
-      <li>Days 2, 4 and 7: “All 75 · mixed” with 1×.</li>
+      <li>Days 2, 4 and 7: “All 75 · mixed” with 1×. When you come back on a new day, the page switches to 1× by itself.</li>
       <li>Sleep between rounds. Do one last round the night before the exam.</li>
     </ol>
     <p class="hist" id="hist"></p>
@@ -279,7 +286,7 @@ const DECKS = [
 const KEY = "sueaim-block6-jeppesen-v1";
 const $ = id => document.getElementById(id);
 
-function fresh(){ return {v:1, deck:"all", view:"cards", goal:3, speak:false, voice:"", rate:1, hide:false, fs:false, sessions:{}, history:[]}; }
+function fresh(){ return {v:1, deck:"all", view:"cards", goal:3, speak:false, voice:"", rate:1, hide:false, fs:false, started:0, autoOne:false, notice:"", sessions:{}, history:[]}; }
 function load(){
   try {
     const s = JSON.parse(localStorage.getItem(KEY));
@@ -316,6 +323,18 @@ function applyGoal(s){              // goal changed: drop finished cards, bring 
   s.flipped = false;
   s.finished = s.queue.length === 0;
   s.undo = [];                      // can't step back across a goal change
+}
+function dayKey(t){ var d = new Date(t); return d.getFullYear() * 10000 + (d.getMonth() + 1) * 100 + d.getDate(); }
+function reviewDayCheck(){          // first visit on a later day (8+ hours after you first studied): 3x -> 1x, fresh round
+  if (!S.started && S.history.length) S.started = Math.min.apply(null, S.history.map(function(h){ return h.t; }));
+  if (!S.started || S.autoOne) return false;
+  var now = Date.now();
+  if (dayKey(now) > dayKey(S.started) && now - S.started >= 8 * 3600 * 1000) {
+    S.autoOne = true; S.goal = 1; S.notice = "review";
+    for (var k in S.sessions) S.sessions[k] = newSession(S.sessions[k].ids);
+    save(); return true;
+  }
+  return false;
 }
 function finish(s, key){
   if (s.finished) return;
@@ -358,6 +377,8 @@ function back(){                    // undo the last Got it / Missed it and show
 function grade(ok){
   const s = sess(); if (!s.flipped || !s.queue.length) return;
   pushUndo(s);
+  if (!S.started) S.started = Date.now();
+  if (S.notice) S.notice = "";
   const n = s.queue.shift();
   if (ok) {
     s.right[n] = (s.right[n] || 0) + 1;
@@ -431,6 +452,7 @@ function render(){
   $("rateSel").value = String(S.rate);
   $("hideBtn").setAttribute("aria-pressed", String(!!S.hide));
   $("list").classList.toggle("hideans", !!S.hide);
+  $("notice").hidden = !(S.notice === "review" && S.view === "cards");
 
   const n = s.ids.length, left = new Set(s.queue).size, doneCount = n - left;
   const credit = s.ids.reduce((t, id) => t + Math.min(s.right[id] || 0, goal), 0);
@@ -547,7 +569,7 @@ $("restartBtn").onclick = () => {
   clearTimeout(restartArmed); restartArmed = null; btn.textContent = "Restart deck";
   startDeck(S.deck, deckIds(S.deck));
 };
-Array.prototype.forEach.call(document.querySelectorAll(".goal button"), b => b.onclick = () => { S.goal = Number(b.dataset.goal); for (const k in S.sessions) applyGoal(S.sessions[k]); save(); render(); });
+Array.prototype.forEach.call(document.querySelectorAll(".goal button"), b => b.onclick = () => { S.goal = Number(b.dataset.goal); S.notice = ""; for (const k in S.sessions) applyGoal(S.sessions[k]); save(); render(); });
 $("tabCards").onclick = () => { S.view = "cards"; save(); render(); };
 $("tabList").onclick = () => { S.view = "list"; if (synth) synth.cancel(); save(); render(); };
 $("hideBtn").onclick = () => { S.hide = !S.hide; Array.prototype.forEach.call(document.querySelectorAll(".la.shown"), x => x.classList.remove("shown")); save(); render(); };
@@ -564,6 +586,10 @@ document.addEventListener("keydown", e => {
   else if (e.key === "Backspace" || e.key === "Delete") { e.preventDefault(); back(); }
 });
 if (synth) { loadVoices(); if (typeof synth.addEventListener === "function") synth.addEventListener("voiceschanged", loadVoices); else synth.onvoiceschanged = loadVoices; }
+$("noticeOk").onclick = () => { S.notice = ""; save(); render(); };
+document.addEventListener("visibilitychange", () => { if (!document.hidden && reviewDayCheck()) render(); });
+window.addEventListener("pageshow", () => { if (reviewDayCheck()) render(); });
+reviewDayCheck();
 buildList();
 render();
 </script>
