@@ -1,9 +1,19 @@
 {
-  "lastAttempt": "2026-10-29T11:48:54.116697Z",
+  "lastAttempt": "2026-10-29T11:49:44.609360Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
   "sourcesChecked": 97,
   "sourcesTotal": 104,
   "changes": [
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-10-29T11:49:44.609360Z"
+    },
+    {
+      "provider": "Capt Sax Foundation",
+      "url": "https://captsaxfoundation.org/scholarship-application/",
+      "at": "2026-10-29T11:49:44.609360Z"
+    },
     {
       "provider": "United technician pathways",
       "url": "https://careers.united.com/us/en/united-pathways",
@@ -176,12 +186,6 @@
       "httpStatus": 444
     },
     {
-      "url": "https://www.eaa.org/eaa/learn-to-fly/scholarships/post-secondary-scholarships",
-      "provider": "EAA Aviation Foundation",
-      "error": "HTTP 404",
-      "httpStatus": 404
-    },
-    {
       "url": "https://www.ngpa.org/2026_scholarships",
       "provider": "NGPA",
       "error": "HTTP 403",
@@ -191,6 +195,12 @@
       "url": "https://www.share.cessna.com/en/careers/apprenticeships",
       "provider": "Textron Aviation",
       "error": "URLError"
+    },
+    {
+      "url": "https://www2.eaa.org/eaa/learn-to-fly/scholarships/post-secondary-scholarships",
+      "provider": "EAA Aviation Foundation",
+      "error": "HTTP 404",
+      "httpStatus": 404
     }
   ],
   "maintenance": {
