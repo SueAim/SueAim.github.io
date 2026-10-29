@@ -1,9 +1,14 @@
 {
-  "lastAttempt": "2026-10-29T11:49:44.609360Z",
+  "lastAttempt": "2026-10-29T13:31:44.175570Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 97,
-  "sourcesTotal": 104,
+  "sourcesChecked": 104,
+  "sourcesTotal": 112,
   "changes": [
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-10-29T13:31:44.175570Z"
+    },
     {
       "provider": "United technician pathways",
       "url": "https://careers.united.com/us/en/united-pathways",
@@ -169,6 +174,12 @@
       "httpStatus": 429
     },
     {
+      "url": "https://bold.org/scholarships/dave-russell-memorial-scholarship-for-skilled-trades/",
+      "provider": "Russell Family / Bold.org",
+      "error": "HTTP 429",
+      "httpStatus": 429
+    },
+    {
       "url": "https://standardaero.com/aboutus/careers/",
       "provider": "StandardAero careers / technical training",
       "error": "Page too short to verify content"
@@ -186,6 +197,11 @@
       "httpStatus": 444
     },
     {
+      "url": "https://www.duncanaviation.aero/careers/apprenticeships",
+      "provider": "Duncan Aviation",
+      "error": "Page too short to verify content"
+    },
+    {
       "url": "https://www.ngpa.org/2026_scholarships",
       "provider": "NGPA",
       "error": "HTTP 403",
@@ -195,22 +211,30 @@
       "url": "https://www.share.cessna.com/en/careers/apprenticeships",
       "provider": "Textron Aviation",
       "error": "URLError"
-    },
-    {
-      "url": "https://www2.eaa.org/eaa/learn-to-fly/scholarships/post-secondary-scholarships",
-      "provider": "EAA Aviation Foundation",
-      "error": "HTTP 404",
-      "httpStatus": 404
     }
   ],
   "maintenance": {
-    "visibleRecords": 109,
+    "visibleRecords": 119,
     "hiddenExpired": 1,
-    "hiddenMissing": 2,
-    "restoredThisRun": 0,
+    "hiddenMissing": 0,
+    "restoredThisRun": 2,
     "timezone": "America/New_York"
   },
   "lifecycle": [
+    {
+      "id": "eaa-post-secondary-scholarship-program",
+      "name": "Post-Secondary Scholarship Program",
+      "action": "restored",
+      "reason": null,
+      "at": "2026-10-29T13:31:44.175570Z"
+    },
+    {
+      "id": "eaa-john-sandberg",
+      "name": "John Sandberg A&P Scholarship Fund",
+      "action": "restored",
+      "reason": null,
+      "at": "2026-10-29T13:31:44.175570Z"
+    },
     {
       "id": "eaa-post-secondary-scholarship-program",
       "name": "Post-Secondary Scholarship Program",
