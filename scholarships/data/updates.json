@@ -1,9 +1,29 @@
 {
-  "lastAttempt": "2026-10-29T00:01:35.040195Z",
+  "lastAttempt": "2026-10-29T11:46:50.240887Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 85,
-  "sourcesTotal": 91,
+  "sourcesChecked": 97,
+  "sourcesTotal": 104,
   "changes": [
+    {
+      "provider": "Johnson & Johnson",
+      "url": "https://www.careers.jnj.com/en/jobs/r-100789/aviation-maintenance-technician-summer-intern/",
+      "at": "2026-10-29T11:46:50.240887Z"
+    },
+    {
+      "provider": "OBAP",
+      "url": "https://obap.org/outreach-programs/scholarships/",
+      "at": "2026-10-29T11:46:50.240887Z"
+    },
+    {
+      "provider": "flyExclusive current roles",
+      "url": "https://flyexclusive.com/job-openings",
+      "at": "2026-10-29T11:46:50.240887Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-10-29T11:46:50.240887Z"
+    },
     {
       "provider": "West Star Aviation",
       "url": "https://weststaraviation.workgr8.com/jobs/1700/wsaa-apprentice",
@@ -128,10 +148,10 @@
   "discovered": [],
   "failures": [
     {
-      "url": "https://columbusfoundation.org/search/scholarships/detail/NetJetsScholarship/474",
-      "provider": "NetJets scholarship · next cycle watch",
-      "error": "HTTP 403",
-      "httpStatus": 403
+      "url": "https://bold.org/scholarships/bick-vocational-trade-school-scholarship/",
+      "provider": "Bick Charitable Foundation",
+      "error": "HTTP 429",
+      "httpStatus": 429
     },
     {
       "url": "https://standardaero.com/aboutus/careers/",
@@ -141,7 +161,8 @@
     {
       "url": "https://www.capeair.com/careers/",
       "provider": "Cape Air maintenance / TechOps careers",
-      "error": "Page too short to verify content"
+      "error": "HTTP 403",
+      "httpStatus": 403
     },
     {
       "url": "https://www.delta.com/us/en/careers/techops-careers",
@@ -159,16 +180,36 @@
       "url": "https://www.share.cessna.com/en/careers/apprenticeships",
       "provider": "Textron Aviation",
       "error": "URLError"
+    },
+    {
+      "url": "https://www2.eaa.org/eaa/learn-to-fly/scholarships/post-secondary-scholarships",
+      "provider": "EAA Aviation Foundation",
+      "error": "HTTP 404",
+      "httpStatus": 404
     }
   ],
   "maintenance": {
-    "visibleRecords": 99,
+    "visibleRecords": 109,
     "hiddenExpired": 1,
-    "hiddenMissing": 0,
+    "hiddenMissing": 2,
     "restoredThisRun": 0,
     "timezone": "America/New_York"
   },
   "lifecycle": [
+    {
+      "id": "eaa-post-secondary-scholarship-program",
+      "name": "Post-Secondary Scholarship Program",
+      "action": "hidden",
+      "reason": "source-missing",
+      "at": "2026-10-29T11:46:50.240887Z"
+    },
+    {
+      "id": "eaa-john-sandberg",
+      "name": "John Sandberg A&P Scholarship Fund",
+      "action": "hidden",
+      "reason": "source-missing",
+      "at": "2026-10-29T11:46:50.240887Z"
+    },
     {
       "id": "air-wisconsin-apprentice",
       "name": "Maintenance Apprenticeship · closed intake",
