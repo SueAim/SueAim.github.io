@@ -293,7 +293,7 @@ function load(){
     if (!s || s.v !== 1) return null;
     for (const k in s.sessions) {           // drop anything that no longer exists
       const x = s.sessions[k];
-      x.ids = x.ids.filter(n => byN.has(n)); x.queue = x.queue.filter(n => byN.has(n));
+      x.ids = x.ids.filter(n => byN.has(n)); x.queue = x.queue.filter(n => byN.has(n)); x.later = (x.later || []).filter(n => byN.has(n));
     }
     return Object.assign(fresh(), s);
   } catch (e) { return null; }
@@ -307,19 +307,32 @@ function deckIds(key){
   const d = DECKS.find(d => d.key === key); return d ? d.ids : [];
 }
 function deckLabel(key){ if (key === "miss") return "Missed cards"; const d = DECKS.find(d => d.key === key); return d ? d.label + (d.sub ? " · " + d.sub : "") : key; }
-function newSession(list){ return {ids:list.slice(), queue:shuffle(list), right:{}, missed:[], misses:0, flipped:false, finished:false, undo:[]}; }
+function freshOrder(list, prev){    // a new random order that never starts with the same card as the last round
+  let q = shuffle(list);
+  for (let i = 0; i < 20 && prev && prev.length && q.length > 1 && q[0] === prev[0]; i++) q = shuffle(list);
+  return q;
+}
+function newSession(list, prev){ const q = freshOrder(list, prev); return {ids:list.slice(), queue:q, order:q.slice(), later:[], right:{}, missed:[], misses:0, flipped:false, finished:false, undo:[]}; }
+function nextPass(s, last){         // end of a pass: cards that still need more "Got it"s come back in a NEW random order
+  if (s.queue.length || !(s.later && s.later.length)) return;
+  const q = shuffle(s.later); s.later = [];
+  if (q.length > 1 && q[0] === last) { const j = 1 + Math.floor(Math.random() * (q.length - 1)); [q[0], q[j]] = [q[j], q[0]]; }
+  s.queue = q;
+}
 function sess(){
   if (!deckIds(S.deck).length) S.deck = "all";
   if (!S.sessions[S.deck]) S.sessions[S.deck] = newSession(deckIds(S.deck));
   return S.sessions[S.deck];
 }
 function current(){ const s = sess(); return s.queue.length ? byN.get(s.queue[0]) : null; }
-function sane(){ const s = sess(); if (!s.queue.length && !s.finished) { s.finished = true; s.flipped = false; } return s; }
+function sane(){ const s = sess(); if (!s.queue.length) nextPass(s); if (!s.queue.length && !s.finished) { s.finished = true; s.flipped = false; } return s; }
 
-function applyGoal(s){              // goal changed: drop finished cards, bring back unfinished ones
-  const inQ = new Set(s.queue);
-  s.queue = s.queue.filter(n => (s.right[n] || 0) < S.goal);
-  for (const n of s.ids) if ((s.right[n] || 0) < S.goal && !inQ.has(n)) s.queue.push(n);
+function applyGoal(s){              // goal changed: drop finished cards, bring back unfinished ones in a new random order
+  const keep = n => (s.right[n] || 0) < S.goal;
+  s.queue = s.queue.filter(keep); s.later = (s.later || []).filter(keep);
+  const have = new Set(s.queue.concat(s.later));
+  s.later = s.later.concat(shuffle(s.ids.filter(n => keep(n) && !have.has(n))));
+  nextPass(s);
   s.flipped = false;
   s.finished = s.queue.length === 0;
   s.undo = [];                      // can't step back across a goal change
@@ -331,7 +344,7 @@ function reviewDayCheck(){          // first visit on a later day (8+ hours afte
   var now = Date.now();
   if (dayKey(now) > dayKey(S.started) && now - S.started >= 8 * 3600 * 1000) {
     S.autoOne = true; S.goal = 1; S.notice = "review";
-    for (var k in S.sessions) S.sessions[k] = newSession(S.sessions[k].ids);
+    for (var k in S.sessions) S.sessions[k] = newSession(S.sessions[k].ids, S.sessions[k].order);
     save(); return true;
   }
   return false;
@@ -365,13 +378,13 @@ function flip(){
   s.flipped = true; save(); render(); keepInView(true); speakAnswer();
 }
 function pushUndo(s){
-  (s.undo = s.undo || []).push({queue:s.queue.slice(), right:Object.assign({}, s.right), missed:s.missed.slice(), misses:s.misses});
+  (s.undo = s.undo || []).push({queue:s.queue.slice(), later:(s.later || []).slice(), right:Object.assign({}, s.right), missed:s.missed.slice(), misses:s.misses});
   if (s.undo.length > 25) s.undo.shift();
 }
 function back(){                    // undo the last Got it / Missed it and show that question again
   const s = sess(); const u = (s.undo || []).pop(); if (!u) return;
   if (s.finished && s.histT && S.history[0] && S.history[0].t === s.histT) S.history.shift();
-  Object.assign(s, {queue:u.queue, right:u.right, missed:u.missed, misses:u.misses, flipped:false, finished:false, histT:0});
+  Object.assign(s, {queue:u.queue, later:u.later || [], right:u.right, missed:u.missed, misses:u.misses, flipped:false, finished:false, histT:0});
   save(); render(); keepInView(false); speakQuestion(); refocus();
 }
 function grade(ok){
@@ -382,18 +395,20 @@ function grade(ok){
   const n = s.queue.shift();
   if (ok) {
     s.right[n] = (s.right[n] || 0) + 1;
-    if (s.right[n] < S.goal) s.queue.push(n);                  // comes back after the rest of the pile
+    if (s.right[n] < S.goal) (s.later = s.later || []).push(n);   // comes back in the next pass, in a new random order
   } else {
     s.misses++; if (!s.missed.includes(n)) s.missed.push(n);
+    if (s.queue.length < 4 && s.later && s.later.length) { s.queue = s.queue.concat(shuffle(s.later)); s.later = []; }
     s.queue.splice(Math.min(s.queue.length, 4 + Math.floor(Math.random() * 4)), 0, n);   // back in 4–7 cards
   }
+  nextPass(s, n);
   s.flipped = false;
   if (!s.queue.length) finish(s, S.deck);
   save(); render();
   if (!s.finished) { keepInView(false); speakQuestion(); refocus(); }
 }
 function startDeck(key, list){
-  S.sessions[key] = newSession(list || deckIds(key)); S.deck = key; S.view = "cards";
+  S.sessions[key] = newSession(list || deckIds(key), S.sessions[key] && S.sessions[key].order); S.deck = key; S.view = "cards";
   save(); render(); speakQuestion();
 }
 
@@ -454,7 +469,7 @@ function render(){
   $("list").classList.toggle("hideans", !!S.hide);
   $("notice").hidden = !(S.notice === "review" && S.view === "cards");
 
-  const n = s.ids.length, left = new Set(s.queue).size, doneCount = n - left;
+  const n = s.ids.length, left = new Set(s.queue.concat(s.later || [])).size, doneCount = n - left;
   const credit = s.ids.reduce((t, id) => t + Math.min(s.right[id] || 0, goal), 0);
   $("barFill").style.width = (n ? (s.finished ? 100 : 100 * credit / (n * goal)) : 0) + "%";
   const got = s.ids.filter(id => (s.right[id] || 0) > 0).length;
