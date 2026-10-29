@@ -1,9 +1,19 @@
 {
-  "lastAttempt": "2026-10-29T18:29:59.814780Z",
+  "lastAttempt": "2026-10-29T23:57:41.399295Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 101,
+  "sourcesChecked": 105,
   "sourcesTotal": 112,
   "changes": [
+    {
+      "provider": "OBAP",
+      "url": "https://obap.org/outreach-programs/scholarships/",
+      "at": "2026-10-29T23:57:41.399295Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-10-29T23:57:41.399295Z"
+    },
     {
       "provider": "Envoy preferred A&P-school partnerships",
       "url": "https://www.envoyair.com/2025/12/03/envoy-announces-preferred-airframe-powerplant-school-partnerships/",
@@ -168,16 +178,6 @@
       "provider": "United technician pathways",
       "url": "https://careers.united.com/us/en/united-pathways",
       "at": "2026-10-28T15:46:35.096259Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-10-28T14:56:25.906953Z"
-    },
-    {
-      "provider": "Johnson & Johnson",
-      "url": "https://www.careers.jnj.com/en/jobs/r-100789/aviation-maintenance-technician-summer-intern/",
-      "at": "2026-10-28T14:22:31.351869Z"
     }
   ],
   "discovered": [],
@@ -195,28 +195,8 @@
       "httpStatus": 429
     },
     {
-      "url": "https://obap.org/outreach-programs/scholarships/",
-      "provider": "OBAP",
-      "error": "Page too short to verify content"
-    },
-    {
-      "url": "https://raa.org/the-regional-airline-association-scholarship-foundation-now-accepting-applications-for-the-2026-scholarship/",
-      "provider": "Regional Airline Association scholarship source",
-      "error": "Page too short to verify content"
-    },
-    {
       "url": "https://standardaero.com/aboutus/careers/",
       "provider": "StandardAero careers / technical training",
-      "error": "Page too short to verify content"
-    },
-    {
-      "url": "https://verticalavi.org/vertical-aviation-career-pathways/vai-scholarships/",
-      "provider": "Vertical Aviation International",
-      "error": "Page too short to verify content"
-    },
-    {
-      "url": "https://w3.ameriflight.com/ap-mechanics/",
-      "provider": "Ameriflight",
       "error": "Page too short to verify content"
     },
     {
