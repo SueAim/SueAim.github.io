@@ -8,19 +8,21 @@ function keepCycle(r,today){return r.recurring===true||['reopens','opens'].some(
 function visible(r,today){today=today||day();if(r.sourceHealth?.state==='missing')return false;const ended=r.status==='closed'||!!(r.deadline&&r.deadline<today);return !ended||keepCycle(r,today);}
 function closingSoon(r,today){today=today||day();const s=status(r,today);if(!['open','rolling'].includes(s)||!r.deadline)return false;const days=(Date.parse(r.deadline)-Date.parse(today))/86400000;return days>=0&&days<=30;}
 function support(r){return r.benefits||[r.benefit];}
-function matches(r,f,today){if(!visible(r,today))return false;const s=status(r,today);if(f.search&&!([r.name,r.org,r.amount,r.requirements,r.note,...support(r).map(b=>benefits[b]),r.workLocation||'',...(r.community||[])].join(' ').toLowerCase().includes(f.search.toLowerCase().trim())))return false;
+function normalized(text){return String(text??'').normalize('NFKC').toLowerCase().replace(/[’‘]/g,"'").replace(/[‐‑–—]/g,'-');}
+function militarySpecific(r){return !!r.veteran||(r.community||[]).some(c=>/^military (family|families|transition)$/i.test(c));}
+function matches(r,f,today){if(!visible(r,today))return false;const s=status(r,today);const terms=normalized(f.search).trim().split(/\s+/).filter(Boolean);if(terms.length){const text=normalized([r.name,r.org,r.amount,r.requirements,r.note,...support(r).map(b=>benefits[b]),r.workLocation||'',...(r.community||[]),r.gender==='women'?'women female':''].join(' '));if(!terms.every(term=>text.includes(term)))return false;}
 if(f.location&&f.location!=='all'&&r.geo==='state'&&!r.states.includes(f.location))return false;
 if(f.status&&f.status!=='all'){if(f.status==='active'?!['open','rolling','upcoming'].includes(s):f.status==='closing'?!closingSoon(r,today):f.status==='available'?!['open','rolling'].includes(s):s!==f.status)return false;}
 if(f.benefit&&f.benefit!=='all'&&(f.benefit==='money'?!(r.monetaryAward===true||support(r).some(b=>['cash','school','reimbursement','exam','paid-training','internship'].includes(b))):!support(r).includes(f.benefit)))return false;
-if(f.provider&&f.provider!=='all'&&r.provider!==f.provider)return false;
+if(f.provider&&f.provider!=='all'&&!(r.provider===f.provider||(f.provider==='association'&&r.provider==='foundation')))return false;
 if(f.kind==='awards'&&['program','lead'].includes(r.kind))return false;if(f.kind==='program'&&r.kind!=='program')return false;
 if(f.fit==='aim-nj'&&['other-program','degree-check'].includes(r.fit))return false;
 if(f.career==='any'&&(!r.career||r.career==='none'))return false;if(f.career&& !['all','any'].includes(f.career)&&r.career!==f.career)return false;
 if(f.amount&&f.amount!=='all'){if(f.amount==='published'){if(!/\$\s*\d/.test(r.amount||''))return false;}else if(f.amount==='unknown'){if(r.value!==null)return false;}else{const [lo,hi]=f.amount.split(':').map(Number);if(r.value===null||r.value<lo||(r.minValue??r.value)>hi)return false;}}
 if(f.gender==='women-only'&&r.gender!=='women')return false;if(f.gender==='all-genders'&&r.gender==='women')return false;
 if(f.community&&f.community!=='all'&&r.ethnicity&&r.ethnicity.length&&!r.ethnicity.includes(f.community))return false;
-if(f.military==='specific'&&!r.veteran&&!r.community.includes('Military family')&&!r.community.includes('Military transition'))return false;
-if(f.military==='none'&&(r.veteran||r.community.includes('Military family')))return false;
+if(f.military==='specific'&&!militarySpecific(r))return false;
+if(f.military==='none'&&militarySpecific(r))return false;
 if(f.parents==='specific'&&!r.parent)return false;
 if(f.age!==''&&f.age!=null){const a=Number(f.age);if(Number.isFinite(a)&&((r.minAge!==null&&a<r.minAge)||(r.maxAge!==null&&a>r.maxAge)))return false;}
 if(f.stage==='near-graduation'&&r.stage!=='near-graduation')return false;

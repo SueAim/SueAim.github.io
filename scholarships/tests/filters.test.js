@@ -80,3 +80,6 @@ assert(filter({status:"active"}).some(r=>r.id==="aopa-maintenance-scholarship-po
 assert(filter({status:"active",fit:"aim-nj",stage:"student"}).some(r=>r.id==="nj-foster-care-scholars-etv"));
 assert(!filter({status:"available"}).some(r=>r.id==="nj-foster-care-scholars-etv"),"December opening must not be called open now");
 assert(!filter({age:"26"}).some(r=>r.id==="nj-foster-care-scholars-etv"));
+
+// Exercise the full filter matrix and visitor event flows on every maintenance run.
+require('./visitor-search.test.js');
