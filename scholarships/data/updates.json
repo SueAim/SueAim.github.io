@@ -1,9 +1,44 @@
 {
-  "lastAttempt": "2026-10-30T15:40:56.277995Z",
+  "lastAttempt": "2026-10-30T18:02:24.207197Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
   "sourcesChecked": 109,
   "sourcesTotal": 116,
   "changes": [
+    {
+      "provider": "Women in Chemicals",
+      "url": "https://www.womeninchemicals.com/scholarship",
+      "at": "2026-10-30T18:02:24.207197Z"
+    },
+    {
+      "provider": "Public Works Association of New Jersey",
+      "url": "https://www.pwanj.com/scholarships/",
+      "at": "2026-10-30T18:02:24.207197Z"
+    },
+    {
+      "provider": "Choose Aerospace",
+      "url": "https://www.chooseaerospace.org/scholarship.html",
+      "at": "2026-10-30T18:02:24.207197Z"
+    },
+    {
+      "provider": "Johnson & Johnson",
+      "url": "https://www.careers.jnj.com/en/jobs/r-100789/aviation-maintenance-technician-summer-intern/",
+      "at": "2026-10-30T18:02:24.207197Z"
+    },
+    {
+      "provider": "West Star Aviation",
+      "url": "https://weststaraviation.workgr8.com/jobs/1700/wsaa-apprentice",
+      "at": "2026-10-30T18:02:24.207197Z"
+    },
+    {
+      "provider": "TechForce Foundation",
+      "url": "https://techforce.org/students/",
+      "at": "2026-10-30T18:02:24.207197Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-10-30T18:02:24.207197Z"
+    },
     {
       "provider": "United technician pathways",
       "url": "https://careers.united.com/us/en/united-pathways",
@@ -143,41 +178,6 @@
       "provider": "NBAA",
       "url": "https://nbaa.org/professional-development/scholarships/william-m-fanning-maintenance-scholarship/",
       "at": "2026-10-29T00:01:35.040195Z"
-    },
-    {
-      "provider": "NBAA",
-      "url": "https://nbaa.org/professional-development/scholarships/john-f-rahilly-memorial-scholarship-future-ap-technicians/",
-      "at": "2026-10-29T00:01:35.040195Z"
-    },
-    {
-      "provider": "NBAA",
-      "url": "https://nbaa.org/professional-development/scholarships/hank-hilsmann-memorial-scholarship/",
-      "at": "2026-10-29T00:01:35.040195Z"
-    },
-    {
-      "provider": "NBAA",
-      "url": "https://nbaa.org/professional-development/scholarships/amt-maintenance-scholarship/",
-      "at": "2026-10-29T00:01:35.040195Z"
-    },
-    {
-      "provider": "NBAA",
-      "url": "https://nbaa.org/professional-development/scholarships/",
-      "at": "2026-10-29T00:01:35.040195Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-10-29T00:01:35.040195Z"
-    },
-    {
-      "provider": "Aero Engine Solutions",
-      "url": "https://aeroenginesolutions.com/",
-      "at": "2026-10-29T00:01:35.040195Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-10-28T17:11:42.877776Z"
     }
   ],
   "discovered": [],
