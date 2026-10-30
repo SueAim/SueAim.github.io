@@ -119,3 +119,6 @@
 .compact-home .card-bottom button[data-detail]:active{background:#0f2d29;box-shadow:none}
 .compact-home .card-bottom button[data-detail]:focus-visible{outline:3px solid #b17530;outline-offset:3px}
 .compact-home .card-bottom .save{flex-shrink:0;min-height:46px}
+
+/* Keep the live directory total readable within the compact site title. */
+.compact-home .brand small{font-size:11px;letter-spacing:0;font-weight:600;margin-top:4px}
