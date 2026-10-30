@@ -1,9 +1,24 @@
 {
-  "lastAttempt": "2026-10-29T23:57:41.399295Z",
+  "lastAttempt": "2026-10-30T12:55:16.282598Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 105,
-  "sourcesTotal": 112,
+  "sourcesChecked": 109,
+  "sourcesTotal": 116,
   "changes": [
+    {
+      "provider": "OBAP",
+      "url": "https://obap.org/outreach-programs/scholarships/",
+      "at": "2026-10-30T12:55:16.282598Z"
+    },
+    {
+      "provider": "flyExclusive current roles",
+      "url": "https://flyexclusive.com/job-openings",
+      "at": "2026-10-30T12:55:16.282598Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-10-30T12:55:16.282598Z"
+    },
     {
       "provider": "OBAP",
       "url": "https://obap.org/outreach-programs/scholarships/",
@@ -163,21 +178,6 @@
       "provider": "United technician pathways",
       "url": "https://careers.united.com/us/en/united-pathways",
       "at": "2026-10-28T16:21:10.961117Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-10-28T16:03:44.289415Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-10-28T15:53:26.210207Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-10-28T15:46:35.096259Z"
     }
   ],
   "discovered": [],
@@ -224,7 +224,7 @@
     }
   ],
   "maintenance": {
-    "visibleRecords": 119,
+    "visibleRecords": 120,
     "hiddenExpired": 1,
     "hiddenMissing": 0,
     "restoredThisRun": 0,
