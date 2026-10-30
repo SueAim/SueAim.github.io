@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "reviewed": "2026-10-29",
+  "reviewed": "2026-10-30",
   "scope": "New Jersey residents and students attending New Jersey schools; nationwide and international providers accepting NJ applicants",
   "records": [
     {
@@ -5667,6 +5667,44 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-10-29"
       }
+    },
+    {
+      "amount": "Up to $5,000",
+      "value": 5000,
+      "status": "open",
+      "deadline": "2027-04-15",
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "unconfirmed",
+      "gender": "all",
+      "community": [
+        "Military families"
+      ],
+      "veteran": true,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "group": "fra-education",
+      "ai": "unknown",
+      "kind": "scholarship",
+      "reviewed": "2026-10-30",
+      "added": "2026-10-30",
+      "provider": "foundation",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential",
+      "recurring": true,
+      "monetaryAward": true,
+      "id": "fra-education-foundation-scholarships",
+      "name": "Education Foundation Scholarships · shared application",
+      "org": "Fleet Reserve Association Education Foundation",
+      "url": "https://www.fra.org/fra/Web/Events_and_Programs/Fra_Education_Foundation_Scholarships/Web/Content/FRA_Education_Foundation.aspx",
+      "minValue": null,
+      "requirements": "U.S. citizen and full-time student at an accredited U.S. trade school, community college, college or university. Qualifying Navy, Marine Corps or Coast Guard service through self, spouse, parent, grandparent or great-grandparent; some awards require FRA membership. Trade-school study is expressly accepted; no existing A&P requirement is stated. Specific prior-degree/major restrictions and AIM NJ certificate acceptance should be confirmed against the selected award's application.",
+      "note": "Provider states 2027 applications are available. Postmark the complete packet by April 15, 2027. One Foundation application considers eligible donor awards; do not count each donor as a separate application. Award ceiling is not guaranteed. Payment destination is not stated on the reviewed page. Separate LA FRA and Benn applications have their own conditions.",
+      "recurrenceNote": "Provider publishes an annual September 1–April 15 application period; 2027 availability is explicitly announced."
     }
   ],
   "resources": [
@@ -6245,6 +6283,21 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-10-29"
       }
+    },
+    {
+      "name": "Two Ten Footwear Foundation · education scholarships",
+      "url": "https://twoten.org/our-programs/college-scholarships/",
+      "note": "2027–28 applications announced to open January 1, 2027. Footwear employment/family conditions, GPA 2.5, FAFSA and first-degree/certification wording apply. Prior-degree and AIM certificate acceptance need clarification; not a confirmed open AIM award."
+    },
+    {
+      "name": "EOD Warrior Foundation · scholarship application",
+      "url": "https://eodwf.smapply.net/",
+      "note": "2027–28 GI Bill-approved trade-school route announced November 1, 2026–February 1, 2027. Restricted to qualifying EOD dependents; verify full current age, relationship, school and payment conditions. Not open yet or a universal military award."
+    },
+    {
+      "name": "American Legion Auxiliary · nontraditional student awards",
+      "url": "https://www.legion-aux.org/scholarships",
+      "note": "Trade training is included, with Legion/service-family and returning-adult conditions. Current page says new application platform available soon; do not treat recurring March 1 deadline or previous form as proof of an open 2027 application."
     }
   ],
   "notes": [
