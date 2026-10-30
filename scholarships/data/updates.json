@@ -1,9 +1,14 @@
 {
-  "lastAttempt": "2026-10-30T15:29:07.068490Z",
+  "lastAttempt": "2026-10-30T15:40:56.277995Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 105,
+  "sourcesChecked": 109,
   "sourcesTotal": 116,
   "changes": [
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-10-30T15:40:56.277995Z"
+    },
     {
       "provider": "Envoy preferred A&P-school partnerships",
       "url": "https://www.envoyair.com/2025/12/03/envoy-announces-preferred-airframe-powerplant-school-partnerships/",
@@ -173,11 +178,6 @@
       "provider": "United technician pathways",
       "url": "https://careers.united.com/us/en/united-pathways",
       "at": "2026-10-28T17:11:42.877776Z"
-    },
-    {
-      "provider": "Envoy preferred A&P-school partnerships",
-      "url": "https://www.envoyair.com/2025/12/03/envoy-announces-preferred-airframe-powerplant-school-partnerships/",
-      "at": "2026-10-28T17:10:42.324780Z"
     }
   ],
   "discovered": [],
@@ -195,28 +195,8 @@
       "httpStatus": 429
     },
     {
-      "url": "https://obap.org/outreach-programs/scholarships/",
-      "provider": "OBAP",
-      "error": "Page too short to verify content"
-    },
-    {
-      "url": "https://raa.org/the-regional-airline-association-scholarship-foundation-now-accepting-applications-for-the-2026-scholarship/",
-      "provider": "Regional Airline Association scholarship source",
-      "error": "Page too short to verify content"
-    },
-    {
       "url": "https://standardaero.com/aboutus/careers/",
       "provider": "StandardAero careers / technical training",
-      "error": "Page too short to verify content"
-    },
-    {
-      "url": "https://verticalavi.org/vertical-aviation-career-pathways/vai-scholarships/",
-      "provider": "Vertical Aviation International",
-      "error": "Page too short to verify content"
-    },
-    {
-      "url": "https://w3.ameriflight.com/ap-mechanics/",
-      "provider": "Ameriflight",
       "error": "Page too short to verify content"
     },
     {
