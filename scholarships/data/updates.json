@@ -1,9 +1,39 @@
 {
-  "lastAttempt": "2026-10-30T12:55:16.282598Z",
+  "lastAttempt": "2026-10-30T15:29:07.068490Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 109,
+  "sourcesChecked": 105,
   "sourcesTotal": 116,
   "changes": [
+    {
+      "provider": "Envoy preferred A&P-school partnerships",
+      "url": "https://www.envoyair.com/2025/12/03/envoy-announces-preferred-airframe-powerplant-school-partnerships/",
+      "at": "2026-10-30T15:29:07.068490Z"
+    },
+    {
+      "provider": "Piedmont Airlines",
+      "url": "https://piedmont-airlines.com/maintenance/aircraft-maintenance-technician-amt-tuition-payment-program/",
+      "at": "2026-10-30T15:29:07.068490Z"
+    },
+    {
+      "provider": "The Ninety-Nines · technical training scholarship source",
+      "url": "https://ninety-nines.org/scholarships/",
+      "at": "2026-10-30T15:29:07.068490Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-10-30T15:29:07.068490Z"
+    },
+    {
+      "provider": "AIM Financial Services & scholarship matching",
+      "url": "https://aviationmaintenance.edu/admissions/financing/scholarship/",
+      "at": "2026-10-30T15:29:07.068490Z"
+    },
+    {
+      "provider": "AIM airline & employer partnerships",
+      "url": "https://aviationmaintenance.edu/about/partnerships/",
+      "at": "2026-10-30T15:29:07.068490Z"
+    },
     {
       "provider": "OBAP",
       "url": "https://obap.org/outreach-programs/scholarships/",
@@ -148,36 +178,6 @@
       "provider": "Envoy preferred A&P-school partnerships",
       "url": "https://www.envoyair.com/2025/12/03/envoy-announces-preferred-airframe-powerplant-school-partnerships/",
       "at": "2026-10-28T17:10:42.324780Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-10-28T17:10:42.324780Z"
-    },
-    {
-      "provider": "Aero Engine Solutions",
-      "url": "https://aeroenginesolutions.com/",
-      "at": "2026-10-28T17:10:42.324780Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-10-28T16:38:04.162917Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-10-28T16:27:11.901916Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-10-28T16:22:50.720107Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-10-28T16:21:10.961117Z"
     }
   ],
   "discovered": [],
@@ -195,8 +195,28 @@
       "httpStatus": 429
     },
     {
+      "url": "https://obap.org/outreach-programs/scholarships/",
+      "provider": "OBAP",
+      "error": "Page too short to verify content"
+    },
+    {
+      "url": "https://raa.org/the-regional-airline-association-scholarship-foundation-now-accepting-applications-for-the-2026-scholarship/",
+      "provider": "Regional Airline Association scholarship source",
+      "error": "Page too short to verify content"
+    },
+    {
       "url": "https://standardaero.com/aboutus/careers/",
       "provider": "StandardAero careers / technical training",
+      "error": "Page too short to verify content"
+    },
+    {
+      "url": "https://verticalavi.org/vertical-aviation-career-pathways/vai-scholarships/",
+      "provider": "Vertical Aviation International",
+      "error": "Page too short to verify content"
+    },
+    {
+      "url": "https://w3.ameriflight.com/ap-mechanics/",
+      "provider": "Ameriflight",
       "error": "Page too short to verify content"
     },
     {
