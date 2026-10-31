@@ -1,9 +1,29 @@
 {
-  "lastAttempt": "2026-10-31T17:15:52.820009Z",
+  "lastAttempt": "2026-10-31T23:25:25.062869Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 113,
+  "sourcesChecked": 112,
   "sourcesTotal": 120,
   "changes": [
+    {
+      "provider": "West Star Aviation",
+      "url": "https://weststaraviation.workgr8.com/jobs/1700/wsaa-apprentice",
+      "at": "2026-10-31T23:25:25.062869Z"
+    },
+    {
+      "provider": "OBAP",
+      "url": "https://obap.org/outreach-programs/scholarships/",
+      "at": "2026-10-31T23:25:25.062869Z"
+    },
+    {
+      "provider": "Elliott Aviation careers",
+      "url": "https://elliottaviation.com/about-us/careers/",
+      "at": "2026-10-31T23:25:25.062869Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-10-31T23:25:25.062869Z"
+    },
     {
       "provider": "AMVETS scholarships",
       "url": "https://www.amvets.org/scholarships",
@@ -158,26 +178,6 @@
       "provider": "United technician pathways",
       "url": "https://careers.united.com/us/en/united-pathways",
       "at": "2026-10-29T23:57:41.399295Z"
-    },
-    {
-      "provider": "Envoy preferred A&P-school partnerships",
-      "url": "https://www.envoyair.com/2025/12/03/envoy-announces-preferred-airframe-powerplant-school-partnerships/",
-      "at": "2026-10-29T18:29:59.814780Z"
-    },
-    {
-      "provider": "West Star Aviation",
-      "url": "https://weststaraviation.workgr8.com/jobs/1700/wsaa-apprentice",
-      "at": "2026-10-29T18:29:59.814780Z"
-    },
-    {
-      "provider": "LPGA Amateur Golf Association / LPGA Foundation",
-      "url": "https://lpgaamateurs.com/memberships/scholarship/",
-      "at": "2026-10-29T18:29:59.814780Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-10-29T18:29:59.814780Z"
     }
   ],
   "discovered": [],
@@ -216,6 +216,11 @@
       "provider": "NGPA",
       "error": "HTTP 403",
       "httpStatus": 403
+    },
+    {
+      "url": "https://www.pwanj.com/scholarships/",
+      "provider": "Public Works Association of New Jersey",
+      "error": "URLError"
     },
     {
       "url": "https://www.share.cessna.com/en/careers/apprenticeships",
