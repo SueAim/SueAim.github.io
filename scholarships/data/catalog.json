@@ -5716,6 +5716,82 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-10-30"
       }
+    },
+    {
+      "amount": "$1,000",
+      "value": 1000,
+      "status": "open",
+      "deadline": "2027-02-28",
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "unconfirmed",
+      "gender": "women",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "group": null,
+      "ai": "prohibited",
+      "kind": "scholarship",
+      "reviewed": "2026-10-31",
+      "added": "2026-10-31",
+      "provider": "employer",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential",
+      "recurring": false,
+      "monetaryAward": true,
+      "id": "rousseau-ross-women-entrepreneurship-2027",
+      "name": "Women Redefining Entrepreneurship Scholarship",
+      "org": "Rousseau & Ross, PLLC",
+      "url": "https://www.rousseaurosslaw.com/2027-women-redefining-entrepreneurship-scholarship/",
+      "minValue": 1000,
+      "requirements": "Female U.S. legal resident in any state/DC; current vocational enrollment accepted, GPA 3.0+. No completed degree or specific major required in published rules; no prior-degree exclusion stated. AIM NJ certificate students may qualify under the vocational route. Firm employees, immediate families and household members excluded.",
+      "note": "Apply by February 28, 2027 using the linked scholarship form: essay 750–1,000 words on women entrepreneurs, résumé and transcript. AI-written essays are prohibited. Provider mentions an in-state preference without naming the state in that clause; nationwide eligibility remains explicit. Payment destination not published.",
+      "sourceUrls": [
+        "https://form.jotform.com/261534462476158"
+      ]
+    },
+    {
+      "amount": "Amount not published",
+      "value": null,
+      "status": "open",
+      "deadline": "2027-05-31",
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "school",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "group": "1600-foundation",
+      "ai": "unknown",
+      "kind": "scholarship",
+      "reviewed": "2026-10-31",
+      "added": "2026-10-31",
+      "provider": "foundation",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential",
+      "recurring": true,
+      "monetaryAward": true,
+      "id": "1600-communications-foundation-2027",
+      "name": "1600 Communications Foundation Scholarships",
+      "org": "1600 Communications Foundation",
+      "url": "https://1600commfoundation.org/applicants/",
+      "minValue": null,
+      "requirements": "Association members/associates in good standing, their immediate dependents/grandchildren, or spouses/children/grandchildren of deceased members/associates; sponsor needs two consecutive years of good standing by May 31. Accredited technical-school/nondegree retraining accepted, including AIM NJ certificate study subject to these conditions. No specific major or prior-degree exclusion published; form accommodates earned college/master’s degrees. Good academics, community leadership and financial planning required.",
+      "note": "2027 application available; due May 31, 2027. Maximum two lifetime awards. Students whose tuition/books/academic fees are entirely free are excluded. Funds go directly to school. Shared application; do not count named donor awards separately. No NJ exclusion published.",
+      "sourceUrls": [
+        "https://1600commfoundation.org/wp-content/uploads/2026/10/1600-Comm-Foundation-App-2027-EDITABLE.pdf"
+      ]
     }
   ],
   "resources": [
@@ -6342,6 +6418,16 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-10-30"
       }
+    },
+    {
+      "name": "NJMEP Manufacturing Cares · cycle verification",
+      "url": "https://www.njmep.org/about-us/manufacturing-cares/mfg-cares-scholarship/",
+      "note": "Military/family certificate scholarship lead; detailed Service to America page still gives January 29, 2021. Not confirmed open. CLT subsidy is employer-directed, not individual scholarship cash."
+    },
+    {
+      "name": "Broomfield Aviation Scholarship Fund · 2027 watch",
+      "url": "https://www.broomfieldfoundation.org/grants-scholarships/scholarships/spartan-scholarship",
+      "note": "Next application cycle announced for 2027; up to $5,000 and maintenance/avionics training described. Spartan attendance not required. NJ residence and AIM certificate fit need actual next-cycle rules before inclusion in confirmed counts."
     }
   ],
   "notes": [
