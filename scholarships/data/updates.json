@@ -1,9 +1,24 @@
 {
-  "lastAttempt": "2026-10-31T12:51:06.975068Z",
+  "lastAttempt": "2026-10-31T17:15:52.820009Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
   "sourcesChecked": 113,
   "sourcesTotal": 120,
   "changes": [
+    {
+      "provider": "AMVETS scholarships",
+      "url": "https://www.amvets.org/scholarships",
+      "at": "2026-10-31T17:15:52.820009Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-10-31T17:15:52.820009Z"
+    },
+    {
+      "provider": "AWAM",
+      "url": "https://awam.org/content.aspx?club_id=975301&module_id=312596&page_id=22",
+      "at": "2026-10-31T17:15:52.820009Z"
+    },
     {
       "provider": "OBAP",
       "url": "https://obap.org/outreach-programs/scholarships/",
@@ -163,21 +178,6 @@
       "provider": "United technician pathways",
       "url": "https://careers.united.com/us/en/united-pathways",
       "at": "2026-10-29T18:29:59.814780Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-10-29T13:31:44.175570Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-10-29T11:49:44.609360Z"
-    },
-    {
-      "provider": "Capt Sax Foundation",
-      "url": "https://captsaxfoundation.org/scholarship-application/",
-      "at": "2026-10-29T11:49:44.609360Z"
     }
   ],
   "discovered": [],
