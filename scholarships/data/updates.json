@@ -1,9 +1,29 @@
 {
-  "lastAttempt": "2026-11-01T17:56:39.804245Z",
+  "lastAttempt": "2026-11-01T23:38:12.431074Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
   "sourcesChecked": 118,
   "sourcesTotal": 125,
   "changes": [
+    {
+      "provider": "OBAP",
+      "url": "https://obap.org/outreach-programs/scholarships/",
+      "at": "2026-11-01T23:38:12.431074Z"
+    },
+    {
+      "provider": "Mary E. Smith Foundation",
+      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
+      "at": "2026-11-01T23:38:12.431074Z"
+    },
+    {
+      "provider": "Elliott Aviation careers",
+      "url": "https://elliottaviation.com/about-us/careers/",
+      "at": "2026-11-01T23:38:12.431074Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-01T23:38:12.431074Z"
+    },
     {
       "provider": "West Star Aviation",
       "url": "https://weststaraviation.workgr8.com/jobs/1700/wsaa-apprentice",
@@ -157,26 +177,6 @@
     {
       "provider": "Piedmont Airlines",
       "url": "https://piedmont-airlines.com/maintenance/aircraft-maintenance-technician-amt-tuition-payment-program/",
-      "at": "2026-10-30T15:29:07.068490Z"
-    },
-    {
-      "provider": "The Ninety-Nines · technical training scholarship source",
-      "url": "https://ninety-nines.org/scholarships/",
-      "at": "2026-10-30T15:29:07.068490Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-10-30T15:29:07.068490Z"
-    },
-    {
-      "provider": "AIM Financial Services & scholarship matching",
-      "url": "https://aviationmaintenance.edu/admissions/financing/scholarship/",
-      "at": "2026-10-30T15:29:07.068490Z"
-    },
-    {
-      "provider": "AIM airline & employer partnerships",
-      "url": "https://aviationmaintenance.edu/about/partnerships/",
       "at": "2026-10-30T15:29:07.068490Z"
     }
   ],
