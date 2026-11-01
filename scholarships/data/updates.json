@@ -1,9 +1,19 @@
 {
-  "lastAttempt": "2026-11-01T14:11:27.484221Z",
+  "lastAttempt": "2026-11-01T17:56:39.804245Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 110,
+  "sourcesChecked": 118,
   "sourcesTotal": 125,
   "changes": [
+    {
+      "provider": "West Star Aviation",
+      "url": "https://weststaraviation.workgr8.com/jobs/1700/wsaa-apprentice",
+      "at": "2026-11-01T17:56:39.804245Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-01T17:56:39.804245Z"
+    },
     {
       "provider": "United technician pathways",
       "url": "https://careers.united.com/us/en/united-pathways",
@@ -168,16 +178,6 @@
       "provider": "AIM airline & employer partnerships",
       "url": "https://aviationmaintenance.edu/about/partnerships/",
       "at": "2026-10-30T15:29:07.068490Z"
-    },
-    {
-      "provider": "OBAP",
-      "url": "https://obap.org/outreach-programs/scholarships/",
-      "at": "2026-10-30T12:55:16.282598Z"
-    },
-    {
-      "provider": "flyExclusive current roles",
-      "url": "https://flyexclusive.com/job-openings",
-      "at": "2026-10-30T12:55:16.282598Z"
     }
   ],
   "discovered": [],
@@ -195,38 +195,8 @@
       "httpStatus": 429
     },
     {
-      "url": "https://captsaxfoundation.org/scholarship-application/",
-      "provider": "Capt Sax Foundation",
-      "error": "URLError"
-    },
-    {
-      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
-      "provider": "Mary E. Smith Foundation",
-      "error": "URLError"
-    },
-    {
-      "url": "https://obap.org/outreach-programs/scholarships/",
-      "provider": "OBAP",
-      "error": "Page too short to verify content"
-    },
-    {
-      "url": "https://raa.org/the-regional-airline-association-scholarship-foundation-now-accepting-applications-for-the-2026-scholarship/",
-      "provider": "Regional Airline Association scholarship source",
-      "error": "Page too short to verify content"
-    },
-    {
       "url": "https://standardaero.com/aboutus/careers/",
       "provider": "StandardAero careers / technical training",
-      "error": "Page too short to verify content"
-    },
-    {
-      "url": "https://verticalavi.org/vertical-aviation-career-pathways/vai-scholarships/",
-      "provider": "Vertical Aviation International",
-      "error": "Page too short to verify content"
-    },
-    {
-      "url": "https://w3.ameriflight.com/ap-mechanics/",
-      "provider": "Ameriflight",
       "error": "Page too short to verify content"
     },
     {
@@ -250,16 +220,6 @@
     {
       "url": "https://www.share.cessna.com/en/careers/apprenticeships",
       "provider": "Textron Aviation",
-      "error": "URLError"
-    },
-    {
-      "url": "https://www.wca-intl.org/category/scholarships/",
-      "provider": "Women in Corporate Aviation · scholarship programs",
-      "error": "URLError"
-    },
-    {
-      "url": "https://www.wwrightfoundation.org/",
-      "provider": "W. Wright Foundation",
       "error": "URLError"
     }
   ],
