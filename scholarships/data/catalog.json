@@ -5814,6 +5814,82 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-10-31"
       }
+    },
+    {
+      "amount": "Up to $2,500",
+      "value": 2500,
+      "status": "open",
+      "deadline": "2027-02-01",
+      "opens": "2026-10-01",
+      "geo": "national",
+      "states": [],
+      "benefit": "school",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "group": null,
+      "ai": "unknown",
+      "kind": "scholarship",
+      "reviewed": "2026-11-01",
+      "added": "2026-11-01",
+      "provider": "foundation",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential",
+      "recurring": true,
+      "monetaryAward": true,
+      "id": "mesf-academics-community-service-2027",
+      "name": "National Excellence in Academics & Community Service Award",
+      "org": "Mary E. Smith Foundation",
+      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
+      "benefits": [
+        "school",
+        "cash"
+      ],
+      "requirements": "U.S. resident; brain-tumor patient/survivor or qualifying spouse, biological child, parent or sibling. Current vocational study accepted nationwide, including AIM NJ certificate study subject to individual conditions; no specific major or prior-degree exclusion published. Application requires GPA 3.0/4.0 or 4.0/5.0, top-half class rank and SAT 1000 or ACT 21, plus leadership/community service and financial need.",
+      "note": "2027 application is available. Apply by February 1, 2027; form separately names March 1 for the academic reference. Tuition funds go to school; living/books/travel support may go to recipient. Award is one-time. Application requires recipient acknowledgement activities; confirm attendance/travel arrangements. Separate science/medicine and Chicago awards have different conditions.",
+      "sourceUrls": [
+        "https://maryesmithfoundation.org/mesf-mom-scholarship-application/"
+      ]
+    },
+    {
+      "amount": "Up to $12,000 over two years · last published terms",
+      "value": 12000,
+      "status": "closed",
+      "deadline": null,
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "unconfirmed",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": 17,
+      "maxAge": 25,
+      "stage": "student",
+      "group": null,
+      "ai": "unknown",
+      "kind": "scholarship",
+      "reviewed": "2026-11-01",
+      "added": "2026-11-01",
+      "provider": "foundation",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential",
+      "recurring": true,
+      "monetaryAward": true,
+      "id": "foster-love-american-industries",
+      "name": "American Industries Trade Scholarship · reopening watch",
+      "org": "Foster Love / Milligan Family Foundation",
+      "url": "https://fosterlove.com/american-industries-scholarship/",
+      "requirements": "U.S. citizen ages 17–25 with documented U.S. foster-care experience; high-school diploma/GED and accredited vocational/trade/two-year study. Airplane repair/manufacturing is expressly eligible, supporting an AIM NJ certificate route. No existing A&P or specific completed college degree required; no prior-degree exclusion published. Current graduate/professional study excluded.",
+      "note": "Provider says applications closed; check back in 2027. No exact reopening/deadline confirmed. Funding may cover tuition, tools, housing and travel; payment destination needs confirmation. Career workshops/support are not guaranteed jobs. Shared provider portal may cover multiple programs; do not assume independent applications.",
+      "recurrenceNote": "Provider explicitly asks applicants to check back in 2027. Historical awards do not establish current intake."
     }
   ],
   "resources": [
@@ -6472,6 +6548,21 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-10-31"
       }
+    },
+    {
+      "name": "Foster Love BrandSource · closed trade scholarship source",
+      "url": "https://fosterlove.com/brandsource-scholars/",
+      "note": "Airplane repair is listed; qualifying foster youth ages 17–25. Page says closed and has conflicting $10,000/$12,000 values and cycle text; verify actual next application before calling open."
+    },
+    {
+      "name": "Perry Second Chances · November 2026 reopening lead",
+      "url": "https://theperryscholarship.org/scholarship/",
+      "note": "Announced November 15, 2026 opening for U.S. women/girls impacted by incarceration; vocational school accepted, school-paid. Confirm AIM’s 21-month certificate against 2-to-4-year wording and exact current award terms. Not counted as a confirmed AIM match."
+    },
+    {
+      "name": "Hard Head Veterans · skilled-trade scholarship source",
+      "url": "https://www.hardheadveterans.com/pages/ate-ballistic-helmet-scholarships",
+      "note": "Separate skilled-trade fund describes $1,000 plus hard hat and annual March 31/October 1 deadlines. Actual aircraft-maintenance acceptance, payment and next-cycle application need confirmation; police-only fund is separate."
     }
   ],
   "notes": [
