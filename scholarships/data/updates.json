@@ -1,9 +1,19 @@
 {
-  "lastAttempt": "2026-10-31T23:25:25.062869Z",
+  "lastAttempt": "2026-11-01T13:20:28.937905Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 112,
-  "sourcesTotal": 120,
+  "sourcesChecked": 118,
+  "sourcesTotal": 125,
   "changes": [
+    {
+      "provider": "flyExclusive current roles",
+      "url": "https://flyexclusive.com/job-openings",
+      "at": "2026-11-01T13:20:28.937905Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-01T13:20:28.937905Z"
+    },
     {
       "provider": "West Star Aviation",
       "url": "https://weststaraviation.workgr8.com/jobs/1700/wsaa-apprentice",
@@ -168,16 +178,6 @@
       "provider": "United technician pathways",
       "url": "https://careers.united.com/us/en/united-pathways",
       "at": "2026-10-30T12:55:16.282598Z"
-    },
-    {
-      "provider": "OBAP",
-      "url": "https://obap.org/outreach-programs/scholarships/",
-      "at": "2026-10-29T23:57:41.399295Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-10-29T23:57:41.399295Z"
     }
   ],
   "discovered": [],
@@ -218,11 +218,6 @@
       "httpStatus": 403
     },
     {
-      "url": "https://www.pwanj.com/scholarships/",
-      "provider": "Public Works Association of New Jersey",
-      "error": "URLError"
-    },
-    {
       "url": "https://www.share.cessna.com/en/careers/apprenticeships",
       "provider": "Textron Aviation",
       "error": "URLError"
@@ -230,12 +225,26 @@
   ],
   "maintenance": {
     "visibleRecords": 122,
-    "hiddenExpired": 1,
+    "hiddenExpired": 3,
     "hiddenMissing": 0,
     "restoredThisRun": 0,
     "timezone": "America/New_York"
   },
   "lifecycle": [
+    {
+      "id": "tbx-aviation-maintenance-scholarship",
+      "name": "Aviation Maintenance Scholarship",
+      "action": "hidden",
+      "reason": "expired",
+      "at": "2026-11-01T13:20:28.937905Z"
+    },
+    {
+      "id": "mikeroweworks-work-ethic-scholarship-program",
+      "name": "Work Ethic Scholarship Program",
+      "action": "hidden",
+      "reason": "expired",
+      "at": "2026-11-01T13:20:28.937905Z"
+    },
     {
       "id": "eaa-post-secondary-scholarship-program",
       "name": "Post-Secondary Scholarship Program",
