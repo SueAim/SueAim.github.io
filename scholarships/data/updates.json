@@ -1,9 +1,24 @@
 {
-  "lastAttempt": "2026-11-01T23:38:12.431074Z",
+  "lastAttempt": "2026-11-02T12:34:51.864995Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 118,
-  "sourcesTotal": 125,
+  "sourcesChecked": 130,
+  "sourcesTotal": 139,
   "changes": [
+    {
+      "provider": "OBAP",
+      "url": "https://obap.org/outreach-programs/scholarships/",
+      "at": "2026-11-02T12:34:51.864995Z"
+    },
+    {
+      "provider": "Mary E. Smith Foundation",
+      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
+      "at": "2026-11-02T12:34:51.864995Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-02T12:34:51.864995Z"
+    },
     {
       "provider": "OBAP",
       "url": "https://obap.org/outreach-programs/scholarships/",
@@ -163,25 +178,16 @@
       "provider": "United technician pathways",
       "url": "https://careers.united.com/us/en/united-pathways",
       "at": "2026-10-30T18:02:24.207197Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-10-30T15:40:56.277995Z"
-    },
-    {
-      "provider": "Envoy preferred A&P-school partnerships",
-      "url": "https://www.envoyair.com/2025/12/03/envoy-announces-preferred-airframe-powerplant-school-partnerships/",
-      "at": "2026-10-30T15:29:07.068490Z"
-    },
-    {
-      "provider": "Piedmont Airlines",
-      "url": "https://piedmont-airlines.com/maintenance/aircraft-maintenance-technician-amt-tuition-payment-program/",
-      "at": "2026-10-30T15:29:07.068490Z"
     }
   ],
   "discovered": [],
   "failures": [
+    {
+      "url": "https://bold.org/scholarships/WC-EJ-thornton-tools-of-the-trade-scholarship/",
+      "provider": "WC & EJ Thornton Foundation",
+      "error": "HTTP 429",
+      "httpStatus": 429
+    },
     {
       "url": "https://bold.org/scholarships/bick-vocational-trade-school-scholarship/",
       "provider": "Bick Charitable Foundation",
@@ -198,6 +204,12 @@
       "url": "https://standardaero.com/aboutus/careers/",
       "provider": "StandardAero careers / technical training",
       "error": "Page too short to verify content"
+    },
+    {
+      "url": "https://www.aauw.org/resources/programs/fellowships-grants/career-development-grants/",
+      "provider": "AAUW",
+      "error": "HTTP 403",
+      "httpStatus": 403
     },
     {
       "url": "https://www.capeair.com/careers/",
@@ -224,7 +236,7 @@
     }
   ],
   "maintenance": {
-    "visibleRecords": 122,
+    "visibleRecords": 133,
     "hiddenExpired": 3,
     "hiddenMissing": 0,
     "restoredThisRun": 0,
