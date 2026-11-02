@@ -1,9 +1,14 @@
 {
-  "lastAttempt": "2026-11-02T12:36:58.797480Z",
+  "lastAttempt": "2026-11-02T12:45:33.918684Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 131,
+  "sourcesChecked": 129,
   "sourcesTotal": 140,
   "changes": [
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-02T12:45:33.918684Z"
+    },
     {
       "provider": "United technician pathways",
       "url": "https://careers.united.com/us/en/united-pathways",
@@ -173,11 +178,6 @@
       "provider": "West Star Aviation",
       "url": "https://weststaraviation.workgr8.com/jobs/1700/wsaa-apprentice",
       "at": "2026-10-30T18:02:24.207197Z"
-    },
-    {
-      "provider": "TechForce Foundation",
-      "url": "https://techforce.org/students/",
-      "at": "2026-10-30T18:02:24.207197Z"
     }
   ],
   "discovered": [],
@@ -212,10 +212,20 @@
       "httpStatus": 403
     },
     {
+      "url": "https://www.broomfieldfoundation.org/grants-scholarships/scholarships/spartan-scholarship",
+      "provider": "Broomfield Aviation Scholarship Fund · 2027 watch",
+      "error": "URLError"
+    },
+    {
       "url": "https://www.capeair.com/careers/",
       "provider": "Cape Air maintenance / TechOps careers",
       "error": "HTTP 403",
       "httpStatus": 403
+    },
+    {
+      "url": "https://www.danishsisterhood.org/scholarshipsandgrants",
+      "provider": "Danish Sisterhood · vocational certificate funding",
+      "error": "URLError"
     },
     {
       "url": "https://www.delta.com/us/en/careers/techops-careers",
