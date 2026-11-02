@@ -39,7 +39,7 @@ assert(!filter({benefit:'cash'}).some(r=>r.benefit==='internship'));
 assert(filter({status:'closing'}).every(r=>L.closingSoon(r,day)));
 assert(filter({status:'closing'}).some(r=>r.org==='TBX'));
 assert(!filter({status:'closing'}).some(r=>r.org==='AEA Educational Foundation'));
-assert(filter({status:'upcoming'}).some(r=>r.org==='Choose Aerospace'));
+assert.equal(L.status({status:'upcoming',opens:'2026-11-02'},day),'upcoming','A future opening stays upcoming until verified');
 assert(filter({amount:'1000:5000'}).some(r=>r.org==='Soroptimist'),'Published ranges overlap requested value bands');
 assert.equal(L.status({status:'upcoming',opensMonth:'2027-06'},'2027-06-05'),'verify');
 assert.equal(L.status({status:'upcoming',opensMonth:'2027-06'},'2027-05-31'),'upcoming');
