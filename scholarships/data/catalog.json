@@ -6450,6 +6450,45 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-02"
       }
+    },
+    {
+      "geo": "national",
+      "states": [],
+      "benefit": "unconfirmed",
+      "monetaryAward": true,
+      "gender": "women",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "kind": "scholarship",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential",
+      "reviewed": "2026-11-02",
+      "added": "2026-11-02",
+      "recurring": true,
+      "opens": "2027-04-30",
+      "deadline": "2027-06-30",
+      "group": null,
+      "ai": "unknown",
+      "id": "jessi-combs-trailblazer-scholarship-2027",
+      "name": "Trailblazer Scholarship · women in skilled trades",
+      "org": "The Jessi Combs Foundation",
+      "url": "https://thejessicombsfoundation.com/scholarship",
+      "references": [
+        "https://thejessicombsfoundation.com/2026scholarship",
+        "https://thejessicombsfoundation.com/hubfs/2026%20Step-by-Step%20Scholarship%20Guide.pdf?hsLang=en"
+      ],
+      "amount": "2027 award amount not yet published",
+      "value": null,
+      "status": "upcoming",
+      "requirements": "Women entering/attending U.S. vocational or technical training. Prior eligibility requires high-school graduation/GED or senior status and accredited trade study; aviation-maintenance/A&P recipients are documented. No published NJ exclusion or particular prior college degree/major requirement.",
+      "note": "Official page announces April 30–June 30, 2027. Full 2027 terms and value await release; recheck AIM/program and prior-degree eligibility then. Earlier process used proof of enrollment and video essay, with continuing award conditions. Career introductions are not guaranteed employment.",
+      "recurrenceNote": "Provider announces an annual program and explicit 2027 opening/closing dates."
     }
   ],
   "resources": [
