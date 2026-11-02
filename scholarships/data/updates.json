@@ -1,9 +1,14 @@
 {
-  "lastAttempt": "2026-11-02T12:34:51.864995Z",
+  "lastAttempt": "2026-11-02T12:36:58.797480Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 130,
-  "sourcesTotal": 139,
+  "sourcesChecked": 131,
+  "sourcesTotal": 140,
   "changes": [
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-02T12:36:58.797480Z"
+    },
     {
       "provider": "OBAP",
       "url": "https://obap.org/outreach-programs/scholarships/",
@@ -173,11 +178,6 @@
       "provider": "TechForce Foundation",
       "url": "https://techforce.org/students/",
       "at": "2026-10-30T18:02:24.207197Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-10-30T18:02:24.207197Z"
     }
   ],
   "discovered": [],
@@ -236,7 +236,7 @@
     }
   ],
   "maintenance": {
-    "visibleRecords": 133,
+    "visibleRecords": 134,
     "hiddenExpired": 3,
     "hiddenMissing": 0,
     "restoredThisRun": 0,
