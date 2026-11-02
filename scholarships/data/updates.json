@@ -1,9 +1,24 @@
 {
-  "lastAttempt": "2026-11-02T12:45:33.918684Z",
+  "lastAttempt": "2026-11-02T13:37:29.443128Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
   "sourcesChecked": 129,
-  "sourcesTotal": 140,
+  "sourcesTotal": 144,
   "changes": [
+    {
+      "provider": "WTS New Jersey",
+      "url": "https://www.wtsinternational.org/chapters/new-jersey/scholarships",
+      "at": "2026-11-02T13:37:29.443128Z"
+    },
+    {
+      "provider": "Mary E. Smith Foundation",
+      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
+      "at": "2026-11-02T13:37:29.443128Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-02T13:37:29.443128Z"
+    },
     {
       "provider": "United technician pathways",
       "url": "https://careers.united.com/us/en/united-pathways",
@@ -163,25 +178,16 @@
       "provider": "Public Works Association of New Jersey",
       "url": "https://www.pwanj.com/scholarships/",
       "at": "2026-10-30T18:02:24.207197Z"
-    },
-    {
-      "provider": "Choose Aerospace",
-      "url": "https://www.chooseaerospace.org/scholarship.html",
-      "at": "2026-10-30T18:02:24.207197Z"
-    },
-    {
-      "provider": "Johnson & Johnson",
-      "url": "https://www.careers.jnj.com/en/jobs/r-100789/aviation-maintenance-technician-summer-intern/",
-      "at": "2026-10-30T18:02:24.207197Z"
-    },
-    {
-      "provider": "West Star Aviation",
-      "url": "https://weststaraviation.workgr8.com/jobs/1700/wsaa-apprentice",
-      "at": "2026-10-30T18:02:24.207197Z"
     }
   ],
   "discovered": [],
   "failures": [
+    {
+      "url": "https://awafoundation.org/How_to_Apply",
+      "provider": "Automotive Women's Alliance Foundation · program eligibility check",
+      "error": "HTTP 403",
+      "httpStatus": 403
+    },
     {
       "url": "https://bold.org/scholarships/WC-EJ-thornton-tools-of-the-trade-scholarship/",
       "provider": "WC & EJ Thornton Foundation",
@@ -201,8 +207,33 @@
       "httpStatus": 429
     },
     {
+      "url": "https://obap.org/outreach-programs/scholarships/",
+      "provider": "OBAP",
+      "error": "Page too short to verify content"
+    },
+    {
+      "url": "https://raa.org/the-regional-airline-association-scholarship-foundation-now-accepting-applications-for-the-2026-scholarship/",
+      "provider": "Regional Airline Association scholarship source",
+      "error": "Page too short to verify content"
+    },
+    {
       "url": "https://standardaero.com/aboutus/careers/",
       "provider": "StandardAero careers / technical training",
+      "error": "Page too short to verify content"
+    },
+    {
+      "url": "https://thearafoundation.org/scholarships/",
+      "provider": "ARA Foundation · rental-industry trade scholarship source",
+      "error": "Page too short to verify content"
+    },
+    {
+      "url": "https://verticalavi.org/vertical-aviation-career-pathways/vai-scholarships/",
+      "provider": "Vertical Aviation International",
+      "error": "Page too short to verify content"
+    },
+    {
+      "url": "https://w3.ameriflight.com/ap-mechanics/",
+      "provider": "Ameriflight",
       "error": "Page too short to verify content"
     },
     {
@@ -212,20 +243,10 @@
       "httpStatus": 403
     },
     {
-      "url": "https://www.broomfieldfoundation.org/grants-scholarships/scholarships/spartan-scholarship",
-      "provider": "Broomfield Aviation Scholarship Fund · 2027 watch",
-      "error": "URLError"
-    },
-    {
       "url": "https://www.capeair.com/careers/",
       "provider": "Cape Air maintenance / TechOps careers",
       "error": "HTTP 403",
       "httpStatus": 403
-    },
-    {
-      "url": "https://www.danishsisterhood.org/scholarshipsandgrants",
-      "provider": "Danish Sisterhood · vocational certificate funding",
-      "error": "URLError"
     },
     {
       "url": "https://www.delta.com/us/en/careers/techops-careers",
@@ -246,7 +267,7 @@
     }
   ],
   "maintenance": {
-    "visibleRecords": 134,
+    "visibleRecords": 137,
     "hiddenExpired": 3,
     "hiddenMissing": 0,
     "restoredThisRun": 0,
