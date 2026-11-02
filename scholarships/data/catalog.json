@@ -6500,6 +6500,120 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-02"
       }
+    },
+    {
+      "geo": "national",
+      "states": [],
+      "benefit": "school",
+      "monetaryAward": true,
+      "gender": "all",
+      "community": [
+        "Military family"
+      ],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "kind": "scholarship",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential",
+      "reviewed": "2026-11-02",
+      "added": "2026-11-02",
+      "recurring": true,
+      "opens": null,
+      "deadline": null,
+      "group": "jcf-snj-scholarships",
+      "ai": "unknown",
+      "id": "jcf-snj-jwv-post126-vocational-2027",
+      "name": "JWV Post 126 Scholarship · 2027 cycle watch",
+      "org": "Jewish Community Foundation of Southern New Jersey",
+      "url": "https://www.jcfsnj.org/scholarships",
+      "references": [
+        "https://scholarsapp.com/scholarship/the-jewish-community-foundation-scholarship-awards"
+      ],
+      "amount": "Amount not published",
+      "value": null,
+      "status": "upcoming",
+      "opensMonth": "2026-12",
+      "requirements": "Child or grandchild of a current or deceased Furer-Barag-Wolf Post 126 Jewish War Veterans member (including merged posts) in good standing for at least two years. This award expressly accepts non-college vocational/technical career study, not graduate or higher degrees. No particular completed college degree/major or prior A&P required. Full-time post-high-school study under the shared cycle rules; applicants may live outside Burlington, Camden and Gloucester Counties.",
+      "note": "Provider announces the shared 2027 application will reopen by late December 2026; no exact opening day, deadline or 2027 amount published. Named-award renewal and final 2027 terms must be rechecked when released. Selection considers GPA, service and other stated factors. Tuition/books/room-and-board support; foundation prefers payment to school, with some documented reimbursements paid to awardee. Shared Scholar's App account; not open today."
+    },
+    {
+      "geo": "national",
+      "states": [],
+      "benefit": "school",
+      "monetaryAward": true,
+      "gender": "women",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": 16,
+      "maxAge": 28,
+      "stage": "student",
+      "kind": "scholarship",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "other-program",
+      "reviewed": "2026-11-02",
+      "added": "2026-11-02",
+      "recurring": false,
+      "opens": null,
+      "deadline": "2027-03-15",
+      "group": "hourglass-scholarships",
+      "ai": "unknown",
+      "id": "hourglass-women-auto-tech-2027",
+      "name": "Women in Auto Tech · automotive study",
+      "org": "The Hourglass Foundation",
+      "url": "https://thehourglassfoundation.org/women-in-auto-tech-scholarship-criteria/",
+      "references": [
+        "https://my-hourglass.org/"
+      ],
+      "amount": "$5,000",
+      "value": 5000,
+      "status": "open",
+      "requirements": "U.S. women ages 16–28 as of January 2027; high-school senior, graduate or GED holder continuing in trade-school/community-college automotive maintenance or automotive technology. Requirements also name engineering technology. High-school GPA 2.0 or GED. No completed college degree required; prior-degree exclusions not stated. NJ students in eligible programs may apply; AIM NJ aircraft-maintenance certificate acceptance is not established.",
+      "note": "Tuition and fees paid directly to school. Current application instructions accept online or mailed submissions through March 15, 2027; page explains 'WINDOW CLOSED' as the future closing date. Essays, two references, transcript, video/photo and likeness release requested. Free registration for shared portal; named awards are not separate independent portals. Excluded from AIM counts."
+    },
+    {
+      "geo": "national",
+      "states": [],
+      "benefit": "tools",
+      "monetaryAward": false,
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": 16,
+      "maxAge": 28,
+      "stage": "student",
+      "kind": "scholarship",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "other-program",
+      "reviewed": "2026-11-02",
+      "added": "2026-11-02",
+      "recurring": false,
+      "opens": null,
+      "deadline": "2027-03-15",
+      "group": "hourglass-scholarships",
+      "ai": "unknown",
+      "id": "hourglass-tools-trade-2027",
+      "name": "Tools of the Trade · eligible non-aviation programs",
+      "org": "The Hourglass Foundation",
+      "url": "https://thehourglassfoundation.org/tool-scholarship-criteria/",
+      "references": [
+        "https://my-hourglass.org/"
+      ],
+      "amount": "$2,000 tool scholarship",
+      "value": 2000,
+      "status": "open",
+      "requirements": "U.S. high-school senior, graduate or GED holder age 16–28 as of January 2027 continuing at a trade school/community college. Listed programs include automotive repair/technology, diesel, collision, engineering technology, HVAC, electrical, plumbing and construction. Post-secondary GPA 2.0+. No particular completed college degree required; prior-degree exclusions not stated. NJ eligible-program students may apply; A&P acceptance unconfirmed.",
+      "note": "Two $2,000 tool awards; foundation coordinates tool ordering with school/program director rather than paying unrestricted student cash. Applications accepted online or by mail through March 15, 2027. Essays, references, transcript, video/photo and release requested. Free shared application portal. Excluded from confirmed AIM results."
     }
   ],
   "resources": [
@@ -7286,6 +7400,11 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-02"
       }
+    },
+    {
+      "name": "Automotive Women's Alliance Foundation · program eligibility check",
+      "url": "https://awafoundation.org/How_to_Apply",
+      "note": "January 2, 2027 deadline; women pursuing automotive/vehicular/mobility careers, North American citizenship and GPA 3.0. Requires college/university acceptance; AIM nondegree trade-school acceptance is unconfirmed. Not a confirmed AIM award."
     }
   ],
   "notes": [
