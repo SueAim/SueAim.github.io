@@ -1,9 +1,69 @@
 {
-  "lastAttempt": "2026-11-02T13:37:29.443128Z",
+  "lastAttempt": "2026-11-02T21:44:21.767546Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 129,
+  "sourcesChecked": 133,
   "sourcesTotal": 144,
   "changes": [
+    {
+      "provider": "Envoy preferred A&P-school partnerships",
+      "url": "https://www.envoyair.com/2025/12/03/envoy-announces-preferred-airframe-powerplant-school-partnerships/",
+      "at": "2026-11-02T21:44:21.767546Z"
+    },
+    {
+      "provider": "Choose Aerospace",
+      "url": "https://www.chooseaerospace.org/scholarship.html",
+      "at": "2026-11-02T21:44:21.767546Z"
+    },
+    {
+      "provider": "Choose Aerospace industry opportunities",
+      "url": "https://www.chooseaerospace.org/industry-opportunities.html",
+      "at": "2026-11-02T21:44:21.767546Z"
+    },
+    {
+      "provider": "Johnson & Johnson",
+      "url": "https://www.careers.jnj.com/en/jobs/r-100789/aviation-maintenance-technician-summer-intern/",
+      "at": "2026-11-02T21:44:21.767546Z"
+    },
+    {
+      "provider": "Broomfield Aviation Scholarship Fund · 2027 watch",
+      "url": "https://www.broomfieldfoundation.org/grants-scholarships/scholarships/spartan-scholarship",
+      "at": "2026-11-02T21:44:21.767546Z"
+    },
+    {
+      "provider": "West Star Aviation",
+      "url": "https://weststaraviation.workgr8.com/jobs/1700/wsaa-apprentice",
+      "at": "2026-11-02T21:44:21.767546Z"
+    },
+    {
+      "provider": "TechForce Foundation",
+      "url": "https://techforce.org/students/",
+      "at": "2026-11-02T21:44:21.767546Z"
+    },
+    {
+      "provider": "SKILLED Nation · broader trade scholarship sponsors",
+      "url": "https://skilled-nation.org/apply/start",
+      "at": "2026-11-02T21:44:21.767546Z"
+    },
+    {
+      "provider": "mikeroweWORKS",
+      "url": "https://mikeroweworks.org/scholarship/",
+      "at": "2026-11-02T21:44:21.767546Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-02T21:44:21.767546Z"
+    },
+    {
+      "provider": "AIM Financial Services & scholarship matching",
+      "url": "https://aviationmaintenance.edu/admissions/financing/scholarship/",
+      "at": "2026-11-02T21:44:21.767546Z"
+    },
+    {
+      "provider": "AIM airline & employer partnerships",
+      "url": "https://aviationmaintenance.edu/about/partnerships/",
+      "at": "2026-11-02T21:44:21.767546Z"
+    },
     {
       "provider": "WTS New Jersey",
       "url": "https://www.wtsinternational.org/chapters/new-jersey/scholarships",
@@ -118,66 +178,6 @@
       "provider": "United technician pathways",
       "url": "https://careers.united.com/us/en/united-pathways",
       "at": "2026-10-31T17:15:52.820009Z"
-    },
-    {
-      "provider": "AWAM",
-      "url": "https://awam.org/content.aspx?club_id=975301&module_id=312596&page_id=22",
-      "at": "2026-10-31T17:15:52.820009Z"
-    },
-    {
-      "provider": "OBAP",
-      "url": "https://obap.org/outreach-programs/scholarships/",
-      "at": "2026-10-31T12:51:06.975068Z"
-    },
-    {
-      "provider": "flyExclusive current roles",
-      "url": "https://flyexclusive.com/job-openings",
-      "at": "2026-10-31T12:51:06.975068Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-10-31T12:51:06.975068Z"
-    },
-    {
-      "provider": "AWAM",
-      "url": "https://awam.org/content.aspx?club_id=975301&module_id=312596&page_id=22",
-      "at": "2026-10-31T12:51:06.975068Z"
-    },
-    {
-      "provider": "AEA regional avionics events",
-      "url": "https://aea.net/regionals/west/",
-      "at": "2026-10-31T12:51:06.975068Z"
-    },
-    {
-      "provider": "Choose Aerospace",
-      "url": "https://www.chooseaerospace.org/scholarship.html",
-      "at": "2026-10-30T23:50:10.442156Z"
-    },
-    {
-      "provider": "Johnson & Johnson",
-      "url": "https://www.careers.jnj.com/en/jobs/r-100789/aviation-maintenance-technician-summer-intern/",
-      "at": "2026-10-30T23:50:10.442156Z"
-    },
-    {
-      "provider": "OBAP",
-      "url": "https://obap.org/outreach-programs/scholarships/",
-      "at": "2026-10-30T23:50:10.442156Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-10-30T23:50:10.442156Z"
-    },
-    {
-      "provider": "Women in Chemicals",
-      "url": "https://www.womeninchemicals.com/scholarship",
-      "at": "2026-10-30T18:02:24.207197Z"
-    },
-    {
-      "provider": "Public Works Association of New Jersey",
-      "url": "https://www.pwanj.com/scholarships/",
-      "at": "2026-10-30T18:02:24.207197Z"
     }
   ],
   "discovered": [],
@@ -207,33 +207,8 @@
       "httpStatus": 429
     },
     {
-      "url": "https://obap.org/outreach-programs/scholarships/",
-      "provider": "OBAP",
-      "error": "Page too short to verify content"
-    },
-    {
-      "url": "https://raa.org/the-regional-airline-association-scholarship-foundation-now-accepting-applications-for-the-2026-scholarship/",
-      "provider": "Regional Airline Association scholarship source",
-      "error": "Page too short to verify content"
-    },
-    {
       "url": "https://standardaero.com/aboutus/careers/",
       "provider": "StandardAero careers / technical training",
-      "error": "Page too short to verify content"
-    },
-    {
-      "url": "https://thearafoundation.org/scholarships/",
-      "provider": "ARA Foundation · rental-industry trade scholarship source",
-      "error": "Page too short to verify content"
-    },
-    {
-      "url": "https://verticalavi.org/vertical-aviation-career-pathways/vai-scholarships/",
-      "provider": "Vertical Aviation International",
-      "error": "Page too short to verify content"
-    },
-    {
-      "url": "https://w3.ameriflight.com/ap-mechanics/",
-      "provider": "Ameriflight",
       "error": "Page too short to verify content"
     },
     {
@@ -241,6 +216,11 @@
       "provider": "AAUW",
       "error": "HTTP 403",
       "httpStatus": 403
+    },
+    {
+      "url": "https://www.aopa.org/training-and-safety/students/aopa-flight-training-scholarships",
+      "provider": "AOPA Foundation",
+      "error": "TimeoutError"
     },
     {
       "url": "https://www.capeair.com/careers/",
