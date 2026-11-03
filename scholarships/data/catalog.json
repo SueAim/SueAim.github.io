@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "reviewed": "2026-11-02",
+  "reviewed": "2026-11-03",
   "scope": "New Jersey residents and students attending New Jersey schools; nationwide and international providers accepting NJ applicants",
   "records": [
     {
@@ -6647,6 +6647,161 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-02"
       }
+    },
+    {
+      "geo": "national",
+      "states": [],
+      "benefit": "school",
+      "monetaryAward": true,
+      "gender": "all",
+      "community": [
+        "Military family"
+      ],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "kind": "scholarship",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential",
+      "reviewed": "2026-11-03",
+      "added": "2026-11-03",
+      "recurring": true,
+      "opens": null,
+      "deadline": null,
+      "group": "mcsf-cte",
+      "ai": "unknown",
+      "id": "mcsf-career-technical-education",
+      "name": "Career & Technical Education Support · confirm current intake",
+      "org": "Marine Corps Scholarship Foundation",
+      "url": "https://www.mcsf.org/cte-financial-aid-faq/",
+      "references": [
+        "https://www.mcsf.org/apply/",
+        "https://www.mcsf.org/apply/eligibility/",
+        "https://mcsf.scholarshipapps.org/cte/index.cfm",
+        "https://mcsf.scholarshipapps.org/cte/newapplicants.cfm"
+      ],
+      "amount": "$2,500–$10,000 per academic year",
+      "value": 10000,
+      "minValue": 2500,
+      "status": "verify",
+      "requirements": "Child/stepchild of an eligible Marine or Navy Corpsman, Chaplain or Religious Program Specialist attached to a Marine unit; honorable service and relationship documents required. Limited association-linked grandchild exceptions. GPA 2.0+ and financial need. Nondegree vocational/certificate training of ANY length is accepted, including part-time, at a federally fundable school listed on College Navigator. No particular prior degree or major required; already-earned bachelor's degree or completed undergraduate coursework disqualifies. No age requirement. NJ schools/residents are not excluded.",
+      "note": "Provider says applications are year-round, processed monthly, with programs of any length. However, the registration page mixes a 2026–27 program-start question with a 2025–26 application year and 2023 income/$123,000 screening, while general 2027–28 terms use 2025 income/$134,000. Confirm the correct current CTE form and income year before sending information; not counted available now. Continuing students should also confirm eligible remaining expenses. CTE FAQ lists $2,500–$10,000 and reapplication for up to four paid awards. Payment goes to school. AIM NJ is a 21-month certificate; final school/program eligibility still applies. No job offer or work commitment."
+    },
+    {
+      "geo": "national",
+      "states": [],
+      "benefit": "school",
+      "monetaryAward": true,
+      "gender": "all",
+      "community": [
+        "Military family"
+      ],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "kind": "scholarship",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "other-program",
+      "reviewed": "2026-11-03",
+      "added": "2026-11-03",
+      "recurring": true,
+      "opens": null,
+      "deadline": "2027-01-21",
+      "group": "army-women-legacy",
+      "ai": "prohibited",
+      "id": "army-women-legacy-certificate-2027",
+      "name": "Legacy Certificate Scholarship · school eligibility check",
+      "org": "U.S. Army Women's Foundation",
+      "url": "https://www.awfdn.org/scholarships/general-information/",
+      "references": [
+        "https://www.awfdn.org/scholarships/faqs/",
+        "https://forms.gle/XG2LjaAiUUa5Nhi18"
+      ],
+      "amount": "Certificate award amount determined by committee",
+      "value": null,
+      "status": "open",
+      "requirements": "Woman serving/previously serving honorably in Army, Army Reserve or Army National Guard, OR a male/female lineal descendant (child, grandchild, great-grandchild) of such an Army woman. Certificate route: high-school graduate with GPA 2.5 or GED, accepted/enrolled at accredited certificate-granting institution. No prior college degree required for this route; no particular certificate major stated. NJ applicants can qualify at eligible institutions, but page also requires a degree-granting institution: AIM NJ certificate-only school acceptance requires provider confirmation.",
+      "note": "2027 application live; all materials must be received January 21, 2027. Tuition, fees, books and school-documented room/board paid to school for the academic year beginning fall after award, not past expenses. Essay, recent academic reference plus second recommendation, transcript/enrollment and service evidence required. AI-generated prose prohibited. Maximum two awards across certificate/community-college/undergraduate categories. Excluded from confirmed AIM counts because the school-type wording conflicts. Named donor awards share one application; healthcare-only awards are not general mechanic awards."
+    },
+    {
+      "geo": "national",
+      "states": [],
+      "benefit": "unconfirmed",
+      "monetaryAward": true,
+      "gender": "women",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "kind": "scholarship",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential",
+      "reviewed": "2026-11-03",
+      "added": "2026-11-03",
+      "recurring": true,
+      "opens": null,
+      "deadline": null,
+      "group": null,
+      "ai": "unknown",
+      "id": "gals-golf-women-trade-scholarship-watch",
+      "name": "Women in Golf Education Scholarship · reopening watch",
+      "org": "GALS Scholarship Foundation",
+      "url": "https://www.galsfoundation.org/",
+      "references": [
+        "https://www.galsfoundation.org/GALS-Scholarship-Foundation-application.pdf"
+      ],
+      "amount": "Up to $1,500 for specialty/trade training",
+      "value": 1500,
+      "status": "closed",
+      "requirements": "U.S. women of any age demonstrating golf involvement and financial need; skill level is not a selection criterion. Approved technical/trade school or professional-license training expressly included. No specific college degree or major required for specialty training; prior-degree exclusion not published. Applicants plan enrollment in the calendar year of application. National foundation; no NJ exclusion stated.",
+      "note": "Annual August 1 application cutoff has passed; next intake is not verified. Do not treat downloadable undated application as a newly open round. Amount differs for community/four-year college; this listing uses the trade-training maximum. Mailed application, cover statement, references, available transcripts and financial evidence required. Payment destination not established in reviewed public terms."
+    },
+    {
+      "geo": "national",
+      "states": [],
+      "benefit": "unconfirmed",
+      "monetaryAward": true,
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "kind": "scholarship",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential",
+      "reviewed": "2026-11-03",
+      "added": "2026-11-03",
+      "recurring": true,
+      "opens": null,
+      "deadline": "2026-09-30",
+      "group": null,
+      "ai": "unknown",
+      "id": "blood-cancer-survivors-scholarship-watch",
+      "name": "Scholarship for Blood Cancer Survivors · reopening watch",
+      "org": "Blood Cancer United",
+      "url": "https://bloodcancerunited.org/financial-assistance/scholarship-blood-cancer-survivors",
+      "references": [],
+      "amount": "$7,500 for one academic year",
+      "value": 7500,
+      "status": "closed",
+      "requirements": "Blood-cancer patient/survivor diagnosed at age 25 or younger, U.S. citizen/permanent resident including territories; diagnosis verification required. Full- or part-time U.S. vocational/trade/undergraduate study, online or in person. Graduate programs excluded. No specific completed college degree/major requirement published; confirm prior-degree rules in next guidelines. NJ applicants are not excluded. Diagnosis age is not a current-age maximum.",
+      "note": "2027–28 application closed September 30, 2026 at 1 p.m. Eastern; March 2027 award notifications are not a new application period. Recurring program and reopening interest form retained; no next-cycle dates invented. Funds disbursed through Utah my529 savings accounts for tuition/tuition-related fees; not unrestricted student cash. Partner career resources do not guarantee an internship or job."
     }
   ],
   "resources": [
@@ -7449,6 +7604,21 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-02"
       }
+    },
+    {
+      "name": "Rick Kading Trade Foundation · NJ scope confirmation",
+      "url": "https://rickkadingfoundation.org/scholarship/",
+      "note": "Current $1,000 school-paid scholarship due March 31, 2027; aircraft maintenance appears in supported career examples. Dedicated criteria/application have no stated state limit, while mission emphasizes Iowa. Confirm NJ eligibility before treating as an AIM match."
+    },
+    {
+      "name": "Time for Change · New Horizon scholarship eligibility check",
+      "url": "https://www.timeforchangefoundation.org/services/",
+      "note": "Official 2026–27 women’s community-college/vocational application available; amount, deadline, NJ coverage and remote participation in required video/impact activities need confirmation. Not a confirmed NJ award."
+    },
+    {
+      "name": "Student Movement Against Cancer · 2027 vocational-entry watch",
+      "url": "https://www.supportsmac.org/cfscholarship",
+      "note": "January 2027 opening announced for graduating high-school seniors, including those heading to U.S. vocational/technical school. Not a current adult AIM student award; next full rules and deadline must be rechecked."
     }
   ],
   "notes": [
