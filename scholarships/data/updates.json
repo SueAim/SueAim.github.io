@@ -1,9 +1,49 @@
 {
-  "lastAttempt": "2026-11-03T13:48:47.586680Z",
+  "lastAttempt": "2026-11-03T19:31:39.224693Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 129,
+  "sourcesChecked": 138,
   "sourcesTotal": 151,
   "changes": [
+    {
+      "provider": "VFW",
+      "url": "https://www.vfw.org/scholarship",
+      "at": "2026-11-03T19:31:39.224693Z"
+    },
+    {
+      "provider": "Envoy preferred A&P-school partnerships",
+      "url": "https://www.envoyair.com/2025/12/03/envoy-announces-preferred-airframe-powerplant-school-partnerships/",
+      "at": "2026-11-03T19:31:39.224693Z"
+    },
+    {
+      "provider": "AMFA National Scholarships · next-cycle watch",
+      "url": "https://www.amfanational.org/index.cfm?page=AMFA20Scholarships&zone=/unionactive/view_page.cfm",
+      "at": "2026-11-03T19:31:39.224693Z"
+    },
+    {
+      "provider": "Aircraft Mechanics Fraternal Association",
+      "url": "https://www.amfanational.org/index.cfm?page=AMFA20Scholarships&zone=%2Funionactive%2Fview_page.cfm",
+      "at": "2026-11-03T19:31:39.224693Z"
+    },
+    {
+      "provider": "West Star Aviation",
+      "url": "https://weststaraviation.workgr8.com/jobs/1700/wsaa-apprentice",
+      "at": "2026-11-03T19:31:39.224693Z"
+    },
+    {
+      "provider": "mikeroweWORKS",
+      "url": "https://mikeroweworks.org/scholarship/",
+      "at": "2026-11-03T19:31:39.224693Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-03T19:31:39.224693Z"
+    },
+    {
+      "provider": "C&L Aviation careers",
+      "url": "https://careers.cla.aero/",
+      "at": "2026-11-03T19:31:39.224693Z"
+    },
     {
       "provider": "Women in Chemicals",
       "url": "https://www.womeninchemicals.com/scholarship",
@@ -138,46 +178,6 @@
       "provider": "Mary E. Smith Foundation",
       "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
       "at": "2026-11-01T23:38:12.431074Z"
-    },
-    {
-      "provider": "Elliott Aviation careers",
-      "url": "https://elliottaviation.com/about-us/careers/",
-      "at": "2026-11-01T23:38:12.431074Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-01T23:38:12.431074Z"
-    },
-    {
-      "provider": "West Star Aviation",
-      "url": "https://weststaraviation.workgr8.com/jobs/1700/wsaa-apprentice",
-      "at": "2026-11-01T17:56:39.804245Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-01T17:56:39.804245Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-01T14:11:27.484221Z"
-    },
-    {
-      "provider": "flyExclusive current roles",
-      "url": "https://flyexclusive.com/job-openings",
-      "at": "2026-11-01T13:20:28.937905Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-01T13:20:28.937905Z"
-    },
-    {
-      "provider": "West Star Aviation",
-      "url": "https://weststaraviation.workgr8.com/jobs/1700/wsaa-apprentice",
-      "at": "2026-10-31T23:25:25.062869Z"
     }
   ],
   "discovered": [],
@@ -213,38 +213,8 @@
       "httpStatus": 429
     },
     {
-      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
-      "provider": "Mary E. Smith Foundation",
-      "error": "Page too short to verify content"
-    },
-    {
-      "url": "https://rickkadingfoundation.org/scholarship/",
-      "provider": "Rick Kading Trade Foundation · NJ scope confirmation",
-      "error": "Page too short to verify content"
-    },
-    {
-      "url": "https://scholarships360.org/scholarships/search/making-waves-scholarship-for-women/",
-      "provider": "Scholarships360",
-      "error": "Page too short to verify content"
-    },
-    {
       "url": "https://standardaero.com/aboutus/careers/",
       "provider": "StandardAero careers / technical training",
-      "error": "Page too short to verify content"
-    },
-    {
-      "url": "https://techforce.org/students/",
-      "provider": "TechForce Foundation",
-      "error": "Page too short to verify content"
-    },
-    {
-      "url": "https://vfwauxiliary.org/scholarships/continuing-education/",
-      "provider": "VFW Auxiliary",
-      "error": "Page too short to verify content"
-    },
-    {
-      "url": "https://wispinc.org/first-time-eligibility/",
-      "provider": "WISP",
       "error": "Page too short to verify content"
     },
     {
@@ -254,20 +224,15 @@
       "httpStatus": 403
     },
     {
-      "url": "https://www.broomfieldfoundation.org/grants-scholarships/scholarships/spartan-scholarship",
-      "provider": "Broomfield Aviation Scholarship Fund · 2027 watch",
-      "error": "URLError"
-    },
-    {
       "url": "https://www.capeair.com/careers/",
       "provider": "Cape Air maintenance / TechOps careers",
       "error": "HTTP 403",
       "httpStatus": 403
     },
     {
-      "url": "https://www.danishsisterhood.org/scholarshipsandgrants",
-      "provider": "Danish Sisterhood · vocational certificate funding",
-      "error": "URLError"
+      "url": "https://www.commuteair.com/careers/maintenance/",
+      "provider": "CommuteAir",
+      "error": "TimeoutError"
     },
     {
       "url": "https://www.delta.com/us/en/careers/techops-careers",
@@ -276,9 +241,10 @@
       "httpStatus": 444
     },
     {
-      "url": "https://www.galsfoundation.org/",
-      "provider": "GALS Scholarship Foundation",
-      "error": "Page too short to verify content"
+      "url": "https://www.hardheadveterans.com/pages/ate-ballistic-helmet-scholarships",
+      "provider": "Hard Head Veterans · skilled-trade scholarship source",
+      "error": "HTTP 429",
+      "httpStatus": 429
     },
     {
       "url": "https://www.ngpa.org/2026_scholarships",
@@ -287,19 +253,9 @@
       "httpStatus": 403
     },
     {
-      "url": "https://www.njmep.org/about-us/manufacturing-cares/mfg-cares-scholarship/",
-      "provider": "NJMEP Manufacturing Cares · cycle verification",
-      "error": "Page too short to verify content"
-    },
-    {
       "url": "https://www.share.cessna.com/en/careers/apprenticeships",
       "provider": "Textron Aviation",
       "error": "URLError"
-    },
-    {
-      "url": "https://www.wwrightfoundation.org/",
-      "provider": "W. Wright Foundation",
-      "error": "Page too short to verify content"
     }
   ],
   "maintenance": {
