@@ -1,9 +1,29 @@
 {
-  "lastAttempt": "2026-11-03T19:31:39.224693Z",
+  "lastAttempt": "2026-11-04T00:38:36.273084Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 138,
+  "sourcesChecked": 140,
   "sourcesTotal": 151,
   "changes": [
+    {
+      "provider": "WTS New Jersey",
+      "url": "https://www.wtsinternational.org/chapters/new-jersey/scholarships",
+      "at": "2026-11-04T00:38:36.273084Z"
+    },
+    {
+      "provider": "OBAP",
+      "url": "https://obap.org/outreach-programs/scholarships/",
+      "at": "2026-11-04T00:38:36.273084Z"
+    },
+    {
+      "provider": "Mary E. Smith Foundation",
+      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
+      "at": "2026-11-04T00:38:36.273084Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-04T00:38:36.273084Z"
+    },
     {
       "provider": "VFW",
       "url": "https://www.vfw.org/scholarship",
@@ -158,26 +178,6 @@
       "provider": "OBAP",
       "url": "https://obap.org/outreach-programs/scholarships/",
       "at": "2026-11-02T12:34:51.864995Z"
-    },
-    {
-      "provider": "Mary E. Smith Foundation",
-      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
-      "at": "2026-11-02T12:34:51.864995Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-02T12:34:51.864995Z"
-    },
-    {
-      "provider": "OBAP",
-      "url": "https://obap.org/outreach-programs/scholarships/",
-      "at": "2026-11-01T23:38:12.431074Z"
-    },
-    {
-      "provider": "Mary E. Smith Foundation",
-      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
-      "at": "2026-11-01T23:38:12.431074Z"
     }
   ],
   "discovered": [],
@@ -230,21 +230,10 @@
       "httpStatus": 403
     },
     {
-      "url": "https://www.commuteair.com/careers/maintenance/",
-      "provider": "CommuteAir",
-      "error": "TimeoutError"
-    },
-    {
       "url": "https://www.delta.com/us/en/careers/techops-careers",
       "provider": "Delta TechOps / TechU",
       "error": "HTTP 444",
       "httpStatus": 444
-    },
-    {
-      "url": "https://www.hardheadveterans.com/pages/ate-ballistic-helmet-scholarships",
-      "provider": "Hard Head Veterans · skilled-trade scholarship source",
-      "error": "HTTP 429",
-      "httpStatus": 429
     },
     {
       "url": "https://www.ngpa.org/2026_scholarships",
