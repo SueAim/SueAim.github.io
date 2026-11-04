@@ -1,9 +1,69 @@
 {
-  "lastAttempt": "2026-11-04T13:11:31.309368Z",
+  "lastAttempt": "2026-11-04T19:48:26.197941Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 150,
+  "sourcesChecked": 149,
   "sourcesTotal": 161,
   "changes": [
+    {
+      "provider": "Zonta International",
+      "url": "https://www.zonta.org/Web/Programs/Education/Zonta_Young_Women_in_Leadership_Award.aspx",
+      "at": "2026-11-04T19:48:26.197941Z"
+    },
+    {
+      "provider": "Zonta International",
+      "url": "https://www.zonta.org/Web/Programs/Education/Zonta_Women_in_Business_Leadership_Award.aspx",
+      "at": "2026-11-04T19:48:26.197941Z"
+    },
+    {
+      "provider": "P.E.O.",
+      "url": "https://www.peointernational.org/educational-support/program-for-continuing-education/eligibility-and-application-process/",
+      "at": "2026-11-04T19:48:26.197941Z"
+    },
+    {
+      "provider": "Professional Aviation Maintenance Association",
+      "url": "https://www.pama.org/scholarship.html",
+      "at": "2026-11-04T19:48:26.197941Z"
+    },
+    {
+      "provider": "West Star Aviation",
+      "url": "https://weststaraviation.workgr8.com/jobs/1700/wsaa-apprentice",
+      "at": "2026-11-04T19:48:26.197941Z"
+    },
+    {
+      "provider": "NBAA",
+      "url": "https://nbaa.org/professional-development/scholarships/william-m-fanning-maintenance-scholarship/",
+      "at": "2026-11-04T19:48:26.197941Z"
+    },
+    {
+      "provider": "NBAA",
+      "url": "https://nbaa.org/professional-development/scholarships/john-f-rahilly-memorial-scholarship-future-ap-technicians/",
+      "at": "2026-11-04T19:48:26.197941Z"
+    },
+    {
+      "provider": "NBAA",
+      "url": "https://nbaa.org/professional-development/scholarships/hank-hilsmann-memorial-scholarship/",
+      "at": "2026-11-04T19:48:26.197941Z"
+    },
+    {
+      "provider": "NBAA",
+      "url": "https://nbaa.org/professional-development/scholarships/amt-maintenance-scholarship/",
+      "at": "2026-11-04T19:48:26.197941Z"
+    },
+    {
+      "provider": "NBAA",
+      "url": "https://nbaa.org/professional-development/scholarships/",
+      "at": "2026-11-04T19:48:26.197941Z"
+    },
+    {
+      "provider": "Mary E. Smith Foundation",
+      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
+      "at": "2026-11-04T19:48:26.197941Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-04T19:48:26.197941Z"
+    },
     {
       "provider": "TurnToTrades Apprenticeship Foundation",
       "url": "https://turntotrades.com/apply",
@@ -118,66 +178,6 @@
       "provider": "Choose Aerospace",
       "url": "https://www.chooseaerospace.org/scholarship.html",
       "at": "2026-11-02T21:44:21.767546Z"
-    },
-    {
-      "provider": "Choose Aerospace industry opportunities",
-      "url": "https://www.chooseaerospace.org/industry-opportunities.html",
-      "at": "2026-11-02T21:44:21.767546Z"
-    },
-    {
-      "provider": "Johnson & Johnson",
-      "url": "https://www.careers.jnj.com/en/jobs/r-100789/aviation-maintenance-technician-summer-intern/",
-      "at": "2026-11-02T21:44:21.767546Z"
-    },
-    {
-      "provider": "Broomfield Aviation Scholarship Fund · 2027 watch",
-      "url": "https://www.broomfieldfoundation.org/grants-scholarships/scholarships/spartan-scholarship",
-      "at": "2026-11-02T21:44:21.767546Z"
-    },
-    {
-      "provider": "West Star Aviation",
-      "url": "https://weststaraviation.workgr8.com/jobs/1700/wsaa-apprentice",
-      "at": "2026-11-02T21:44:21.767546Z"
-    },
-    {
-      "provider": "TechForce Foundation",
-      "url": "https://techforce.org/students/",
-      "at": "2026-11-02T21:44:21.767546Z"
-    },
-    {
-      "provider": "SKILLED Nation · broader trade scholarship sponsors",
-      "url": "https://skilled-nation.org/apply/start",
-      "at": "2026-11-02T21:44:21.767546Z"
-    },
-    {
-      "provider": "mikeroweWORKS",
-      "url": "https://mikeroweworks.org/scholarship/",
-      "at": "2026-11-02T21:44:21.767546Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-02T21:44:21.767546Z"
-    },
-    {
-      "provider": "AIM Financial Services & scholarship matching",
-      "url": "https://aviationmaintenance.edu/admissions/financing/scholarship/",
-      "at": "2026-11-02T21:44:21.767546Z"
-    },
-    {
-      "provider": "AIM airline & employer partnerships",
-      "url": "https://aviationmaintenance.edu/about/partnerships/",
-      "at": "2026-11-02T21:44:21.767546Z"
-    },
-    {
-      "provider": "WTS New Jersey",
-      "url": "https://www.wtsinternational.org/chapters/new-jersey/scholarships",
-      "at": "2026-11-02T13:37:29.443128Z"
-    },
-    {
-      "provider": "Mary E. Smith Foundation",
-      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
-      "at": "2026-11-02T13:37:29.443128Z"
     }
   ],
   "discovered": [],
@@ -245,6 +245,11 @@
       "url": "https://www.share.cessna.com/en/careers/apprenticeships",
       "provider": "Textron Aviation",
       "error": "URLError"
+    },
+    {
+      "url": "https://www.unionplus.org/benefits/education/union-plus-scholarships",
+      "provider": "Union Plus Education Foundation",
+      "error": "TimeoutError"
     }
   ],
   "maintenance": {
