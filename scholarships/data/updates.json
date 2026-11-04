@@ -1,9 +1,29 @@
 {
-  "lastAttempt": "2026-11-04T00:38:36.273084Z",
+  "lastAttempt": "2026-11-04T13:11:31.309368Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 140,
-  "sourcesTotal": 151,
+  "sourcesChecked": 150,
+  "sourcesTotal": 161,
   "changes": [
+    {
+      "provider": "TurnToTrades Apprenticeship Foundation",
+      "url": "https://turntotrades.com/apply",
+      "at": "2026-11-04T13:11:31.309368Z"
+    },
+    {
+      "provider": "OBAP",
+      "url": "https://obap.org/outreach-programs/scholarships/",
+      "at": "2026-11-04T13:11:31.309368Z"
+    },
+    {
+      "provider": "Mary E. Smith Foundation",
+      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
+      "at": "2026-11-04T13:11:31.309368Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-04T13:11:31.309368Z"
+    },
     {
       "provider": "WTS New Jersey",
       "url": "https://www.wtsinternational.org/chapters/new-jersey/scholarships",
@@ -158,26 +178,6 @@
       "provider": "Mary E. Smith Foundation",
       "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
       "at": "2026-11-02T13:37:29.443128Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-02T13:37:29.443128Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-02T12:45:33.918684Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-02T12:36:58.797480Z"
-    },
-    {
-      "provider": "OBAP",
-      "url": "https://obap.org/outreach-programs/scholarships/",
-      "at": "2026-11-02T12:34:51.864995Z"
     }
   ],
   "discovered": [],
@@ -248,7 +248,7 @@
     }
   ],
   "maintenance": {
-    "visibleRecords": 141,
+    "visibleRecords": 150,
     "hiddenExpired": 3,
     "hiddenMissing": 0,
     "restoredThisRun": 0,
