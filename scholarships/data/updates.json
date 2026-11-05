@@ -1,9 +1,24 @@
 {
-  "lastAttempt": "2026-11-05T13:47:18.057675Z",
+  "lastAttempt": "2026-11-05T19:59:21.293429Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
   "sourcesChecked": 160,
   "sourcesTotal": 172,
   "changes": [
+    {
+      "provider": "Zonta Trenton/Mercer · women returning to education",
+      "url": "https://zontatrenton.org/what-we-do/scholarships-awards/",
+      "at": "2026-11-05T19:59:21.293429Z"
+    },
+    {
+      "provider": "Corvias Foundation",
+      "url": "https://corviasfoundation.org/scholarships",
+      "at": "2026-11-05T19:59:21.293429Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-05T19:59:21.293429Z"
+    },
     {
       "provider": "Johnson & Johnson",
       "url": "https://www.careers.jnj.com/en/jobs/r-100789/aviation-maintenance-technician-summer-intern/",
@@ -163,21 +178,6 @@
       "provider": "Envoy preferred A&P-school partnerships",
       "url": "https://www.envoyair.com/2025/12/03/envoy-announces-preferred-airframe-powerplant-school-partnerships/",
       "at": "2026-11-03T19:31:39.224693Z"
-    },
-    {
-      "provider": "AMFA National Scholarships · next-cycle watch",
-      "url": "https://www.amfanational.org/index.cfm?page=AMFA20Scholarships&zone=/unionactive/view_page.cfm",
-      "at": "2026-11-03T19:31:39.224693Z"
-    },
-    {
-      "provider": "Aircraft Mechanics Fraternal Association",
-      "url": "https://www.amfanational.org/index.cfm?page=AMFA20Scholarships&zone=%2Funionactive%2Fview_page.cfm",
-      "at": "2026-11-03T19:31:39.224693Z"
-    },
-    {
-      "provider": "West Star Aviation",
-      "url": "https://weststaraviation.workgr8.com/jobs/1700/wsaa-apprentice",
-      "at": "2026-11-03T19:31:39.224693Z"
     }
   ],
   "discovered": [],
@@ -224,6 +224,11 @@
       "httpStatus": 403
     },
     {
+      "url": "https://www.aya.org/Maintenance-Scholarship",
+      "provider": "Grumman Owners and Pilots Association",
+      "error": "Page too short to verify content"
+    },
+    {
       "url": "https://www.capeair.com/careers/",
       "provider": "Cape Air maintenance / TechOps careers",
       "error": "HTTP 403",
@@ -234,11 +239,6 @@
       "provider": "Delta TechOps / TechU",
       "error": "HTTP 444",
       "httpStatus": 444
-    },
-    {
-      "url": "https://www.legion-aux.org/scholarships",
-      "provider": "American Legion Auxiliary · nontraditional student awards",
-      "error": "TimeoutError"
     },
     {
       "url": "https://www.ngpa.org/2026_scholarships",
