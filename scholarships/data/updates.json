@@ -1,9 +1,29 @@
 {
-  "lastAttempt": "2026-11-04T19:48:26.197941Z",
+  "lastAttempt": "2026-11-05T00:54:55.409607Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 149,
+  "sourcesChecked": 144,
   "sourcesTotal": 161,
   "changes": [
+    {
+      "provider": "Professional Aviation Maintenance Association",
+      "url": "https://www.pama.org/scholarship.html",
+      "at": "2026-11-05T00:54:55.409607Z"
+    },
+    {
+      "provider": "Envoy preferred A&P-school partnerships",
+      "url": "https://www.envoyair.com/2025/12/03/envoy-announces-preferred-airframe-powerplant-school-partnerships/",
+      "at": "2026-11-05T00:54:55.409607Z"
+    },
+    {
+      "provider": "mikeroweWORKS",
+      "url": "https://mikeroweworks.org/scholarship/",
+      "at": "2026-11-05T00:54:55.409607Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-05T00:54:55.409607Z"
+    },
     {
       "provider": "Zonta International",
       "url": "https://www.zonta.org/Web/Programs/Education/Zonta_Young_Women_in_Leadership_Award.aspx",
@@ -158,26 +178,6 @@
       "provider": "TBX",
       "url": "https://www.airworthy.com/scholarship",
       "at": "2026-11-03T13:48:47.586680Z"
-    },
-    {
-      "provider": "flyExclusive current roles",
-      "url": "https://flyexclusive.com/job-openings",
-      "at": "2026-11-03T13:48:47.586680Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-03T13:48:47.586680Z"
-    },
-    {
-      "provider": "Envoy preferred A&P-school partnerships",
-      "url": "https://www.envoyair.com/2025/12/03/envoy-announces-preferred-airframe-powerplant-school-partnerships/",
-      "at": "2026-11-02T21:44:21.767546Z"
-    },
-    {
-      "provider": "Choose Aerospace",
-      "url": "https://www.chooseaerospace.org/scholarship.html",
-      "at": "2026-11-02T21:44:21.767546Z"
     }
   ],
   "discovered": [],
@@ -213,8 +213,33 @@
       "httpStatus": 429
     },
     {
+      "url": "https://obap.org/outreach-programs/scholarships/",
+      "provider": "OBAP",
+      "error": "Page too short to verify content"
+    },
+    {
+      "url": "https://raa.org/the-regional-airline-association-scholarship-foundation-now-accepting-applications-for-the-2026-scholarship/",
+      "provider": "Regional Airline Association scholarship source",
+      "error": "Page too short to verify content"
+    },
+    {
       "url": "https://standardaero.com/aboutus/careers/",
       "provider": "StandardAero careers / technical training",
+      "error": "Page too short to verify content"
+    },
+    {
+      "url": "https://thearafoundation.org/scholarships/",
+      "provider": "ARA Foundation · rental-industry trade scholarship source",
+      "error": "Page too short to verify content"
+    },
+    {
+      "url": "https://verticalavi.org/vertical-aviation-career-pathways/vai-scholarships/",
+      "provider": "Vertical Aviation International",
+      "error": "Page too short to verify content"
+    },
+    {
+      "url": "https://w3.ameriflight.com/ap-mechanics/",
+      "provider": "Ameriflight",
       "error": "Page too short to verify content"
     },
     {
@@ -247,9 +272,9 @@
       "error": "URLError"
     },
     {
-      "url": "https://www.unionplus.org/benefits/education/union-plus-scholarships",
-      "provider": "Union Plus Education Foundation",
-      "error": "TimeoutError"
+      "url": "https://www.timeforchangefoundation.org/services/",
+      "provider": "Time for Change · New Horizon scholarship eligibility check",
+      "error": "Page too short to verify content"
     }
   ],
   "maintenance": {
