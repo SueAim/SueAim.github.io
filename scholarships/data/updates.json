@@ -1,9 +1,39 @@
 {
-  "lastAttempt": "2026-11-05T00:54:55.409607Z",
+  "lastAttempt": "2026-11-05T13:47:18.057675Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 144,
-  "sourcesTotal": 161,
+  "sourcesChecked": 160,
+  "sourcesTotal": 172,
   "changes": [
+    {
+      "provider": "Johnson & Johnson",
+      "url": "https://www.careers.jnj.com/en/jobs/r-100789/aviation-maintenance-technician-summer-intern/",
+      "at": "2026-11-05T13:47:18.057675Z"
+    },
+    {
+      "provider": "OBAP",
+      "url": "https://obap.org/outreach-programs/scholarships/",
+      "at": "2026-11-05T13:47:18.057675Z"
+    },
+    {
+      "provider": "Mary E. Smith Foundation",
+      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
+      "at": "2026-11-05T13:47:18.057675Z"
+    },
+    {
+      "provider": "flyExclusive current roles",
+      "url": "https://flyexclusive.com/job-openings",
+      "at": "2026-11-05T13:47:18.057675Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-05T13:47:18.057675Z"
+    },
+    {
+      "provider": "British Airways",
+      "url": "https://careers.ba.com/apprentices",
+      "at": "2026-11-05T13:47:18.057675Z"
+    },
     {
       "provider": "Professional Aviation Maintenance Association",
       "url": "https://www.pama.org/scholarship.html",
@@ -148,36 +178,6 @@
       "provider": "West Star Aviation",
       "url": "https://weststaraviation.workgr8.com/jobs/1700/wsaa-apprentice",
       "at": "2026-11-03T19:31:39.224693Z"
-    },
-    {
-      "provider": "mikeroweWORKS",
-      "url": "https://mikeroweworks.org/scholarship/",
-      "at": "2026-11-03T19:31:39.224693Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-03T19:31:39.224693Z"
-    },
-    {
-      "provider": "C&L Aviation careers",
-      "url": "https://careers.cla.aero/",
-      "at": "2026-11-03T19:31:39.224693Z"
-    },
-    {
-      "provider": "Women in Chemicals",
-      "url": "https://www.womeninchemicals.com/scholarship",
-      "at": "2026-11-03T13:48:47.586680Z"
-    },
-    {
-      "provider": "AMVETS scholarships",
-      "url": "https://www.amvets.org/scholarships",
-      "at": "2026-11-03T13:48:47.586680Z"
-    },
-    {
-      "provider": "TBX",
-      "url": "https://www.airworthy.com/scholarship",
-      "at": "2026-11-03T13:48:47.586680Z"
     }
   ],
   "discovered": [],
@@ -213,33 +213,8 @@
       "httpStatus": 429
     },
     {
-      "url": "https://obap.org/outreach-programs/scholarships/",
-      "provider": "OBAP",
-      "error": "Page too short to verify content"
-    },
-    {
-      "url": "https://raa.org/the-regional-airline-association-scholarship-foundation-now-accepting-applications-for-the-2026-scholarship/",
-      "provider": "Regional Airline Association scholarship source",
-      "error": "Page too short to verify content"
-    },
-    {
       "url": "https://standardaero.com/aboutus/careers/",
       "provider": "StandardAero careers / technical training",
-      "error": "Page too short to verify content"
-    },
-    {
-      "url": "https://thearafoundation.org/scholarships/",
-      "provider": "ARA Foundation · rental-industry trade scholarship source",
-      "error": "Page too short to verify content"
-    },
-    {
-      "url": "https://verticalavi.org/vertical-aviation-career-pathways/vai-scholarships/",
-      "provider": "Vertical Aviation International",
-      "error": "Page too short to verify content"
-    },
-    {
-      "url": "https://w3.ameriflight.com/ap-mechanics/",
-      "provider": "Ameriflight",
       "error": "Page too short to verify content"
     },
     {
@@ -261,6 +236,11 @@
       "httpStatus": 444
     },
     {
+      "url": "https://www.legion-aux.org/scholarships",
+      "provider": "American Legion Auxiliary · nontraditional student awards",
+      "error": "TimeoutError"
+    },
+    {
       "url": "https://www.ngpa.org/2026_scholarships",
       "provider": "NGPA",
       "error": "HTTP 403",
@@ -270,15 +250,10 @@
       "url": "https://www.share.cessna.com/en/careers/apprenticeships",
       "provider": "Textron Aviation",
       "error": "URLError"
-    },
-    {
-      "url": "https://www.timeforchangefoundation.org/services/",
-      "provider": "Time for Change · New Horizon scholarship eligibility check",
-      "error": "Page too short to verify content"
     }
   ],
   "maintenance": {
-    "visibleRecords": 150,
+    "visibleRecords": 160,
     "hiddenExpired": 3,
     "hiddenMissing": 0,
     "restoredThisRun": 0,
