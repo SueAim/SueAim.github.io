@@ -1,9 +1,49 @@
 {
-  "lastAttempt": "2026-11-06T13:20:05.838148Z",
+  "lastAttempt": "2026-11-06T19:27:03.187713Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
   "sourcesChecked": 167,
   "sourcesTotal": 179,
   "changes": [
+    {
+      "provider": "Zonta International",
+      "url": "https://www.zonta.org/Web/Programs/Education/Zonta_Young_Women_in_Leadership_Award.aspx",
+      "at": "2026-11-06T19:27:03.187713Z"
+    },
+    {
+      "provider": "Zonta International",
+      "url": "https://www.zonta.org/Web/Programs/Education/Zonta_Women_in_Business_Leadership_Award.aspx",
+      "at": "2026-11-06T19:27:03.187713Z"
+    },
+    {
+      "provider": "Rousseau & Ross, PLLC",
+      "url": "https://www.rousseaurosslaw.com/2027-women-redefining-entrepreneurship-scholarship/",
+      "at": "2026-11-06T19:27:03.187713Z"
+    },
+    {
+      "provider": "Military OneSource SpouseWorks · credential funding",
+      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
+      "at": "2026-11-06T19:27:03.187713Z"
+    },
+    {
+      "provider": "Vertical Aviation International",
+      "url": "https://verticalavi.org/vertical-aviation-career-pathways/vai-scholarships/",
+      "at": "2026-11-06T19:27:03.187713Z"
+    },
+    {
+      "provider": "Pioneer Military Credit",
+      "url": "https://pioneermilitarycredit.com/military-spouse-scholarship/",
+      "at": "2026-11-06T19:27:03.187713Z"
+    },
+    {
+      "provider": "Mary E. Smith Foundation",
+      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
+      "at": "2026-11-06T19:27:03.187713Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-06T19:27:03.187713Z"
+    },
     {
       "provider": "TBX",
       "url": "https://www.airworthy.com/scholarship",
@@ -137,46 +177,6 @@
     {
       "provider": "Zonta International",
       "url": "https://www.zonta.org/Web/Programs/Education/Zonta_Young_Women_in_Leadership_Award.aspx",
-      "at": "2026-11-04T19:48:26.197941Z"
-    },
-    {
-      "provider": "Zonta International",
-      "url": "https://www.zonta.org/Web/Programs/Education/Zonta_Women_in_Business_Leadership_Award.aspx",
-      "at": "2026-11-04T19:48:26.197941Z"
-    },
-    {
-      "provider": "P.E.O.",
-      "url": "https://www.peointernational.org/educational-support/program-for-continuing-education/eligibility-and-application-process/",
-      "at": "2026-11-04T19:48:26.197941Z"
-    },
-    {
-      "provider": "Professional Aviation Maintenance Association",
-      "url": "https://www.pama.org/scholarship.html",
-      "at": "2026-11-04T19:48:26.197941Z"
-    },
-    {
-      "provider": "West Star Aviation",
-      "url": "https://weststaraviation.workgr8.com/jobs/1700/wsaa-apprentice",
-      "at": "2026-11-04T19:48:26.197941Z"
-    },
-    {
-      "provider": "NBAA",
-      "url": "https://nbaa.org/professional-development/scholarships/william-m-fanning-maintenance-scholarship/",
-      "at": "2026-11-04T19:48:26.197941Z"
-    },
-    {
-      "provider": "NBAA",
-      "url": "https://nbaa.org/professional-development/scholarships/john-f-rahilly-memorial-scholarship-future-ap-technicians/",
-      "at": "2026-11-04T19:48:26.197941Z"
-    },
-    {
-      "provider": "NBAA",
-      "url": "https://nbaa.org/professional-development/scholarships/hank-hilsmann-memorial-scholarship/",
-      "at": "2026-11-04T19:48:26.197941Z"
-    },
-    {
-      "provider": "NBAA",
-      "url": "https://nbaa.org/professional-development/scholarships/amt-maintenance-scholarship/",
       "at": "2026-11-04T19:48:26.197941Z"
     }
   ],
