@@ -1,9 +1,44 @@
 {
-  "lastAttempt": "2026-11-06T00:58:15.860722Z",
+  "lastAttempt": "2026-11-06T13:20:05.838148Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 161,
-  "sourcesTotal": 172,
+  "sourcesChecked": 167,
+  "sourcesTotal": 179,
   "changes": [
+    {
+      "provider": "TBX",
+      "url": "https://www.airworthy.com/scholarship",
+      "at": "2026-11-06T13:20:05.838148Z"
+    },
+    {
+      "provider": "OBAP",
+      "url": "https://obap.org/outreach-programs/scholarships/",
+      "at": "2026-11-06T13:20:05.838148Z"
+    },
+    {
+      "provider": "Mary E. Smith Foundation",
+      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
+      "at": "2026-11-06T13:20:05.838148Z"
+    },
+    {
+      "provider": "flyExclusive current roles",
+      "url": "https://flyexclusive.com/job-openings",
+      "at": "2026-11-06T13:20:05.838148Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-06T13:20:05.838148Z"
+    },
+    {
+      "provider": "AWAM",
+      "url": "https://awam.org/content.aspx?club_id=975301&module_id=312596&page_id=22",
+      "at": "2026-11-06T13:20:05.838148Z"
+    },
+    {
+      "provider": "AEA regional avionics events",
+      "url": "https://aea.net/regionals/west/",
+      "at": "2026-11-06T13:20:05.838148Z"
+    },
     {
       "provider": "WTS New Jersey",
       "url": "https://www.wtsinternational.org/chapters/new-jersey/scholarships",
@@ -143,41 +178,6 @@
       "provider": "NBAA",
       "url": "https://nbaa.org/professional-development/scholarships/amt-maintenance-scholarship/",
       "at": "2026-11-04T19:48:26.197941Z"
-    },
-    {
-      "provider": "NBAA",
-      "url": "https://nbaa.org/professional-development/scholarships/",
-      "at": "2026-11-04T19:48:26.197941Z"
-    },
-    {
-      "provider": "Mary E. Smith Foundation",
-      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
-      "at": "2026-11-04T19:48:26.197941Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-04T19:48:26.197941Z"
-    },
-    {
-      "provider": "TurnToTrades Apprenticeship Foundation",
-      "url": "https://turntotrades.com/apply",
-      "at": "2026-11-04T13:11:31.309368Z"
-    },
-    {
-      "provider": "OBAP",
-      "url": "https://obap.org/outreach-programs/scholarships/",
-      "at": "2026-11-04T13:11:31.309368Z"
-    },
-    {
-      "provider": "Mary E. Smith Foundation",
-      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
-      "at": "2026-11-04T13:11:31.309368Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-04T13:11:31.309368Z"
     }
   ],
   "discovered": [],
@@ -218,6 +218,12 @@
       "error": "Page too short to verify content"
     },
     {
+      "url": "https://thewomensindustrynetwork.site-ym.com/page/Scholarship",
+      "provider": "Women’s Industry Network · collision repair scholarship",
+      "error": "HTTP 403",
+      "httpStatus": 403
+    },
+    {
       "url": "https://www.aauw.org/resources/programs/fellowships-grants/career-development-grants/",
       "provider": "AAUW",
       "error": "HTTP 403",
@@ -248,13 +254,27 @@
     }
   ],
   "maintenance": {
-    "visibleRecords": 160,
-    "hiddenExpired": 3,
+    "visibleRecords": 163,
+    "hiddenExpired": 5,
     "hiddenMissing": 0,
     "restoredThisRun": 0,
     "timezone": "America/New_York"
   },
   "lifecycle": [
+    {
+      "id": "lpa-aviation-maintenance-technician-scholarship",
+      "name": "Aviation Maintenance Technician Scholarship",
+      "action": "hidden",
+      "reason": "expired",
+      "at": "2026-11-06T13:20:05.838148Z"
+    },
+    {
+      "id": "lpa-aerospace-degree-advancement-scholarship",
+      "name": "Aerospace Degree Advancement Scholarship",
+      "action": "hidden",
+      "reason": "expired",
+      "at": "2026-11-06T13:20:05.838148Z"
+    },
     {
       "id": "tbx-aviation-maintenance-scholarship",
       "name": "Aviation Maintenance Scholarship",
