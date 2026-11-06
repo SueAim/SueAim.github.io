@@ -1,9 +1,39 @@
 {
-  "lastAttempt": "2026-11-05T19:59:21.293429Z",
+  "lastAttempt": "2026-11-06T00:58:15.860722Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 160,
+  "sourcesChecked": 161,
   "sourcesTotal": 172,
   "changes": [
+    {
+      "provider": "WTS New Jersey",
+      "url": "https://www.wtsinternational.org/chapters/new-jersey/scholarships",
+      "at": "2026-11-06T00:58:15.860722Z"
+    },
+    {
+      "provider": "AVMATS maintenance & component-shop careers",
+      "url": "https://www.avmats.com/careers/",
+      "at": "2026-11-06T00:58:15.860722Z"
+    },
+    {
+      "provider": "OBAP",
+      "url": "https://obap.org/outreach-programs/scholarships/",
+      "at": "2026-11-06T00:58:15.860722Z"
+    },
+    {
+      "provider": "Mary E. Smith Foundation",
+      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
+      "at": "2026-11-06T00:58:15.860722Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-06T00:58:15.860722Z"
+    },
+    {
+      "provider": "AWAM",
+      "url": "https://awam.org/content.aspx?club_id=975301&module_id=312596&page_id=22",
+      "at": "2026-11-06T00:58:15.860722Z"
+    },
     {
       "provider": "Zonta Trenton/Mercer · women returning to education",
       "url": "https://zontatrenton.org/what-we-do/scholarships-awards/",
@@ -148,36 +178,6 @@
       "provider": "United technician pathways",
       "url": "https://careers.united.com/us/en/united-pathways",
       "at": "2026-11-04T13:11:31.309368Z"
-    },
-    {
-      "provider": "WTS New Jersey",
-      "url": "https://www.wtsinternational.org/chapters/new-jersey/scholarships",
-      "at": "2026-11-04T00:38:36.273084Z"
-    },
-    {
-      "provider": "OBAP",
-      "url": "https://obap.org/outreach-programs/scholarships/",
-      "at": "2026-11-04T00:38:36.273084Z"
-    },
-    {
-      "provider": "Mary E. Smith Foundation",
-      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
-      "at": "2026-11-04T00:38:36.273084Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-04T00:38:36.273084Z"
-    },
-    {
-      "provider": "VFW",
-      "url": "https://www.vfw.org/scholarship",
-      "at": "2026-11-03T19:31:39.224693Z"
-    },
-    {
-      "provider": "Envoy preferred A&P-school partnerships",
-      "url": "https://www.envoyair.com/2025/12/03/envoy-announces-preferred-airframe-powerplant-school-partnerships/",
-      "at": "2026-11-03T19:31:39.224693Z"
     }
   ],
   "discovered": [],
@@ -222,11 +222,6 @@
       "provider": "AAUW",
       "error": "HTTP 403",
       "httpStatus": 403
-    },
-    {
-      "url": "https://www.aya.org/Maintenance-Scholarship",
-      "provider": "Grumman Owners and Pilots Association",
-      "error": "Page too short to verify content"
     },
     {
       "url": "https://www.capeair.com/careers/",
