@@ -1,9 +1,34 @@
 {
-  "lastAttempt": "2026-11-07T13:58:39.062245Z",
+  "lastAttempt": "2026-11-07T17:45:24.968557Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
   "sourcesChecked": 176,
   "sourcesTotal": 188,
   "changes": [
+    {
+      "provider": "Military OneSource SpouseWorks · credential funding",
+      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
+      "at": "2026-11-07T17:45:24.968557Z"
+    },
+    {
+      "provider": "National Military Family Association",
+      "url": "https://www.militaryfamily.org/state-of-the-military-family-programs/spouses-scholarships/military-spouse-scholarship-faqs/",
+      "at": "2026-11-07T17:45:24.968557Z"
+    },
+    {
+      "provider": "Mary E. Smith Foundation",
+      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
+      "at": "2026-11-07T17:45:24.968557Z"
+    },
+    {
+      "provider": "Lauren's Legacy Scholars Foundation",
+      "url": "https://laurenslegacyscholars.org/scholarship/",
+      "at": "2026-11-07T17:45:24.968557Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-07T17:45:24.968557Z"
+    },
     {
       "provider": "Military OneSource SpouseWorks · credential funding",
       "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
@@ -152,31 +177,6 @@
     {
       "provider": "WTS New Jersey",
       "url": "https://www.wtsinternational.org/chapters/new-jersey/scholarships",
-      "at": "2026-11-06T00:58:15.860722Z"
-    },
-    {
-      "provider": "AVMATS maintenance & component-shop careers",
-      "url": "https://www.avmats.com/careers/",
-      "at": "2026-11-06T00:58:15.860722Z"
-    },
-    {
-      "provider": "OBAP",
-      "url": "https://obap.org/outreach-programs/scholarships/",
-      "at": "2026-11-06T00:58:15.860722Z"
-    },
-    {
-      "provider": "Mary E. Smith Foundation",
-      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
-      "at": "2026-11-06T00:58:15.860722Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-06T00:58:15.860722Z"
-    },
-    {
-      "provider": "AWAM",
-      "url": "https://awam.org/content.aspx?club_id=975301&module_id=312596&page_id=22",
       "at": "2026-11-06T00:58:15.860722Z"
     }
   ],
