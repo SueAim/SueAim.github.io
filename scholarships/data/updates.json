@@ -1,9 +1,54 @@
 {
-  "lastAttempt": "2026-11-06T19:27:03.187713Z",
+  "lastAttempt": "2026-11-07T00:07:47.834519Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
   "sourcesChecked": 167,
   "sourcesTotal": 179,
   "changes": [
+    {
+      "provider": "WTS New Jersey",
+      "url": "https://www.wtsinternational.org/chapters/new-jersey/scholarships",
+      "at": "2026-11-07T00:07:47.834519Z"
+    },
+    {
+      "provider": "Military OneSource SpouseWorks · credential funding",
+      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
+      "at": "2026-11-07T00:07:47.834519Z"
+    },
+    {
+      "provider": "NBAA",
+      "url": "https://nbaa.org/professional-development/scholarships/william-m-fanning-maintenance-scholarship/",
+      "at": "2026-11-07T00:07:47.834519Z"
+    },
+    {
+      "provider": "NBAA",
+      "url": "https://nbaa.org/professional-development/scholarships/john-f-rahilly-memorial-scholarship-future-ap-technicians/",
+      "at": "2026-11-07T00:07:47.834519Z"
+    },
+    {
+      "provider": "NBAA",
+      "url": "https://nbaa.org/professional-development/scholarships/hank-hilsmann-memorial-scholarship/",
+      "at": "2026-11-07T00:07:47.834519Z"
+    },
+    {
+      "provider": "NBAA",
+      "url": "https://nbaa.org/professional-development/scholarships/amt-maintenance-scholarship/",
+      "at": "2026-11-07T00:07:47.834519Z"
+    },
+    {
+      "provider": "NBAA",
+      "url": "https://nbaa.org/professional-development/scholarships/",
+      "at": "2026-11-07T00:07:47.834519Z"
+    },
+    {
+      "provider": "mikeroweWORKS",
+      "url": "https://mikeroweworks.org/scholarship/",
+      "at": "2026-11-07T00:07:47.834519Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-07T00:07:47.834519Z"
+    },
     {
       "provider": "Zonta International",
       "url": "https://www.zonta.org/Web/Programs/Education/Zonta_Young_Women_in_Leadership_Award.aspx",
@@ -133,51 +178,6 @@
       "provider": "OBAP",
       "url": "https://obap.org/outreach-programs/scholarships/",
       "at": "2026-11-05T13:47:18.057675Z"
-    },
-    {
-      "provider": "Mary E. Smith Foundation",
-      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
-      "at": "2026-11-05T13:47:18.057675Z"
-    },
-    {
-      "provider": "flyExclusive current roles",
-      "url": "https://flyexclusive.com/job-openings",
-      "at": "2026-11-05T13:47:18.057675Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-05T13:47:18.057675Z"
-    },
-    {
-      "provider": "British Airways",
-      "url": "https://careers.ba.com/apprentices",
-      "at": "2026-11-05T13:47:18.057675Z"
-    },
-    {
-      "provider": "Professional Aviation Maintenance Association",
-      "url": "https://www.pama.org/scholarship.html",
-      "at": "2026-11-05T00:54:55.409607Z"
-    },
-    {
-      "provider": "Envoy preferred A&P-school partnerships",
-      "url": "https://www.envoyair.com/2025/12/03/envoy-announces-preferred-airframe-powerplant-school-partnerships/",
-      "at": "2026-11-05T00:54:55.409607Z"
-    },
-    {
-      "provider": "mikeroweWORKS",
-      "url": "https://mikeroweworks.org/scholarship/",
-      "at": "2026-11-05T00:54:55.409607Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-05T00:54:55.409607Z"
-    },
-    {
-      "provider": "Zonta International",
-      "url": "https://www.zonta.org/Web/Programs/Education/Zonta_Young_Women_in_Leadership_Award.aspx",
-      "at": "2026-11-04T19:48:26.197941Z"
     }
   ],
   "discovered": [],
