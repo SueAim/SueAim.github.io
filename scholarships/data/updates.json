@@ -1,9 +1,34 @@
 {
-  "lastAttempt": "2026-11-07T00:07:47.834519Z",
+  "lastAttempt": "2026-11-07T13:58:39.062245Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 167,
-  "sourcesTotal": 179,
+  "sourcesChecked": 176,
+  "sourcesTotal": 188,
   "changes": [
+    {
+      "provider": "Military OneSource SpouseWorks · credential funding",
+      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
+      "at": "2026-11-07T13:58:39.062245Z"
+    },
+    {
+      "provider": "OBAP",
+      "url": "https://obap.org/outreach-programs/scholarships/",
+      "at": "2026-11-07T13:58:39.062245Z"
+    },
+    {
+      "provider": "National Air Transportation Foundation",
+      "url": "https://nata.aero/national-air-transportation-foundation/scholarships/nata-business-scholarship/",
+      "at": "2026-11-07T13:58:39.062245Z"
+    },
+    {
+      "provider": "flyExclusive current roles",
+      "url": "https://flyexclusive.com/job-openings",
+      "at": "2026-11-07T13:58:39.062245Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-07T13:58:39.062245Z"
+    },
     {
       "provider": "WTS New Jersey",
       "url": "https://www.wtsinternational.org/chapters/new-jersey/scholarships",
@@ -153,31 +178,6 @@
       "provider": "AWAM",
       "url": "https://awam.org/content.aspx?club_id=975301&module_id=312596&page_id=22",
       "at": "2026-11-06T00:58:15.860722Z"
-    },
-    {
-      "provider": "Zonta Trenton/Mercer · women returning to education",
-      "url": "https://zontatrenton.org/what-we-do/scholarships-awards/",
-      "at": "2026-11-05T19:59:21.293429Z"
-    },
-    {
-      "provider": "Corvias Foundation",
-      "url": "https://corviasfoundation.org/scholarships",
-      "at": "2026-11-05T19:59:21.293429Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-05T19:59:21.293429Z"
-    },
-    {
-      "provider": "Johnson & Johnson",
-      "url": "https://www.careers.jnj.com/en/jobs/r-100789/aviation-maintenance-technician-summer-intern/",
-      "at": "2026-11-05T13:47:18.057675Z"
-    },
-    {
-      "provider": "OBAP",
-      "url": "https://obap.org/outreach-programs/scholarships/",
-      "at": "2026-11-05T13:47:18.057675Z"
     }
   ],
   "discovered": [],
@@ -254,7 +254,7 @@
     }
   ],
   "maintenance": {
-    "visibleRecords": 163,
+    "visibleRecords": 171,
     "hiddenExpired": 5,
     "hiddenMissing": 0,
     "restoredThisRun": 0,
