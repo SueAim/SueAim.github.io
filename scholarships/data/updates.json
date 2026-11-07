@@ -1,9 +1,29 @@
 {
-  "lastAttempt": "2026-11-07T17:45:24.968557Z",
+  "lastAttempt": "2026-11-07T23:39:17.113512Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
   "sourcesChecked": 176,
   "sourcesTotal": 188,
   "changes": [
+    {
+      "provider": "Military OneSource SpouseWorks · credential funding",
+      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
+      "at": "2026-11-07T23:39:17.113512Z"
+    },
+    {
+      "provider": "Pioneer Military Credit",
+      "url": "https://pioneermilitarycredit.com/military-spouse-scholarship/",
+      "at": "2026-11-07T23:39:17.113512Z"
+    },
+    {
+      "provider": "OBAP",
+      "url": "https://obap.org/outreach-programs/scholarships/",
+      "at": "2026-11-07T23:39:17.113512Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-07T23:39:17.113512Z"
+    },
     {
       "provider": "Military OneSource SpouseWorks · credential funding",
       "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
@@ -158,26 +178,6 @@
       "provider": "flyExclusive current roles",
       "url": "https://flyexclusive.com/job-openings",
       "at": "2026-11-06T13:20:05.838148Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-06T13:20:05.838148Z"
-    },
-    {
-      "provider": "AWAM",
-      "url": "https://awam.org/content.aspx?club_id=975301&module_id=312596&page_id=22",
-      "at": "2026-11-06T13:20:05.838148Z"
-    },
-    {
-      "provider": "AEA regional avionics events",
-      "url": "https://aea.net/regionals/west/",
-      "at": "2026-11-06T13:20:05.838148Z"
-    },
-    {
-      "provider": "WTS New Jersey",
-      "url": "https://www.wtsinternational.org/chapters/new-jersey/scholarships",
-      "at": "2026-11-06T00:58:15.860722Z"
     }
   ],
   "discovered": [],
