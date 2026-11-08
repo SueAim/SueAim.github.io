@@ -1,9 +1,29 @@
 {
-  "lastAttempt": "2026-11-08T13:13:31.101635Z",
+  "lastAttempt": "2026-11-08T17:56:56.954247Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
   "sourcesChecked": 186,
   "sourcesTotal": 199,
   "changes": [
+    {
+      "provider": "TOPDON Technology USA",
+      "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
+      "at": "2026-11-08T17:56:56.954247Z"
+    },
+    {
+      "provider": "Envoy Air · AIM maintenance partnership updates",
+      "url": "https://www.envoyair.com/2026/10/28/continuing-our-partnership-with-aim/",
+      "at": "2026-11-08T17:56:56.954247Z"
+    },
+    {
+      "provider": "Envoy preferred A&P-school partnerships",
+      "url": "https://www.envoyair.com/2025/12/03/envoy-announces-preferred-airframe-powerplant-school-partnerships/",
+      "at": "2026-11-08T17:56:56.954247Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-08T17:56:56.954247Z"
+    },
     {
       "provider": "Military OneSource SpouseWorks · credential funding",
       "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
@@ -157,26 +177,6 @@
     {
       "provider": "Zonta International",
       "url": "https://www.zonta.org/Web/Programs/Education/Zonta_Women_in_Business_Leadership_Award.aspx",
-      "at": "2026-11-06T19:27:03.187713Z"
-    },
-    {
-      "provider": "Rousseau & Ross, PLLC",
-      "url": "https://www.rousseaurosslaw.com/2027-women-redefining-entrepreneurship-scholarship/",
-      "at": "2026-11-06T19:27:03.187713Z"
-    },
-    {
-      "provider": "Military OneSource SpouseWorks · credential funding",
-      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
-      "at": "2026-11-06T19:27:03.187713Z"
-    },
-    {
-      "provider": "Vertical Aviation International",
-      "url": "https://verticalavi.org/vertical-aviation-career-pathways/vai-scholarships/",
-      "at": "2026-11-06T19:27:03.187713Z"
-    },
-    {
-      "provider": "Pioneer Military Credit",
-      "url": "https://pioneermilitarycredit.com/military-spouse-scholarship/",
       "at": "2026-11-06T19:27:03.187713Z"
     }
   ],
