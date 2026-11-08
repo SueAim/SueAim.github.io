@@ -1,9 +1,39 @@
 {
-  "lastAttempt": "2026-11-07T23:39:17.113512Z",
+  "lastAttempt": "2026-11-08T13:13:31.101635Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 176,
-  "sourcesTotal": 188,
+  "sourcesChecked": 186,
+  "sourcesTotal": 199,
   "changes": [
+    {
+      "provider": "Military OneSource SpouseWorks · credential funding",
+      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
+      "at": "2026-11-08T13:13:31.101635Z"
+    },
+    {
+      "provider": "National Military Family Association",
+      "url": "https://www.militaryfamily.org/state-of-the-military-family-programs/spouses-scholarships/military-spouse-scholarship-faqs/",
+      "at": "2026-11-08T13:13:31.101635Z"
+    },
+    {
+      "provider": "Scholarships360",
+      "url": "https://scholarships360.org/scholarships/search/making-waves-scholarship-for-women/",
+      "at": "2026-11-08T13:13:31.101635Z"
+    },
+    {
+      "provider": "OBAP",
+      "url": "https://obap.org/outreach-programs/scholarships/",
+      "at": "2026-11-08T13:13:31.101635Z"
+    },
+    {
+      "provider": "mikeroweWORKS",
+      "url": "https://mikeroweworks.org/scholarship/",
+      "at": "2026-11-08T13:13:31.101635Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-08T13:13:31.101635Z"
+    },
     {
       "provider": "Military OneSource SpouseWorks · credential funding",
       "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
@@ -148,36 +178,6 @@
       "provider": "Pioneer Military Credit",
       "url": "https://pioneermilitarycredit.com/military-spouse-scholarship/",
       "at": "2026-11-06T19:27:03.187713Z"
-    },
-    {
-      "provider": "Mary E. Smith Foundation",
-      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
-      "at": "2026-11-06T19:27:03.187713Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-06T19:27:03.187713Z"
-    },
-    {
-      "provider": "TBX",
-      "url": "https://www.airworthy.com/scholarship",
-      "at": "2026-11-06T13:20:05.838148Z"
-    },
-    {
-      "provider": "OBAP",
-      "url": "https://obap.org/outreach-programs/scholarships/",
-      "at": "2026-11-06T13:20:05.838148Z"
-    },
-    {
-      "provider": "Mary E. Smith Foundation",
-      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
-      "at": "2026-11-06T13:20:05.838148Z"
-    },
-    {
-      "provider": "flyExclusive current roles",
-      "url": "https://flyexclusive.com/job-openings",
-      "at": "2026-11-06T13:20:05.838148Z"
     }
   ],
   "discovered": [],
@@ -209,6 +209,12 @@
     {
       "url": "https://bold.org/scholarships/dave-russell-memorial-scholarship-for-skilled-trades/",
       "provider": "Russell Family / Bold.org",
+      "error": "HTTP 429",
+      "httpStatus": 429
+    },
+    {
+      "url": "https://bold.org/scholarships/track-to-the-trades/",
+      "provider": "SupplyHouse Foundation",
       "error": "HTTP 429",
       "httpStatus": 429
     },
@@ -254,7 +260,7 @@
     }
   ],
   "maintenance": {
-    "visibleRecords": 171,
+    "visibleRecords": 183,
     "hiddenExpired": 5,
     "hiddenMissing": 0,
     "restoredThisRun": 0,

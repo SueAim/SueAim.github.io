@@ -40,14 +40,14 @@
       "recurrenceNote": "Recurring provider program; current round is closed. Next dates and named awards require confirmation.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       },
       "monetaryAward": true
     },
@@ -88,14 +88,14 @@
       "recurrenceNote": "Recurring provider program; current round is closed. Next dates and named awards require confirmation.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       },
       "monetaryAward": true
     },
@@ -133,14 +133,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -179,14 +179,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -225,14 +225,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -269,14 +269,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": true,
         "hiddenReason": "expired",
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -314,14 +314,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       },
       "monetaryAward": true
     },
@@ -359,14 +359,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       },
       "monetaryAward": true
     },
@@ -404,14 +404,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -449,14 +449,14 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -494,14 +494,14 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -539,14 +539,14 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -584,14 +584,14 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -629,14 +629,14 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -674,14 +674,14 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -719,14 +719,14 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -764,14 +764,14 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -809,14 +809,14 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -854,14 +854,14 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -899,14 +899,14 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -944,14 +944,14 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -989,14 +989,14 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -1034,14 +1034,14 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -1079,14 +1079,14 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -1124,14 +1124,14 @@
       "recurrenceNote": "Provider describes annual scholarships; next dates and terms require confirmation.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -1171,14 +1171,14 @@
       "recurrenceNote": "Provider describes annual scholarships; next dates and terms require confirmation.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -1217,14 +1217,14 @@
       "recurrenceNote": "Provider describes annual scholarships; next dates and terms require confirmation.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -1263,14 +1263,14 @@
       "recurrenceNote": "Provider describes annual scholarships; next dates and terms require confirmation.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -1308,14 +1308,14 @@
       "recurrenceNote": "Provider describes annual scholarships; next dates and terms require confirmation.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -1353,14 +1353,14 @@
       "recurrenceNote": "Provider describes annual scholarships; next dates and terms require confirmation.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -1399,14 +1399,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": true,
         "hiddenReason": "expired",
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -1445,14 +1445,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": true,
         "hiddenReason": "expired",
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -1489,14 +1489,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       },
       "monetaryAward": true
     },
@@ -1534,14 +1534,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       },
       "monetaryAward": true
     },
@@ -1580,14 +1580,14 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -1625,14 +1625,14 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       },
       "monetaryAward": true,
       "references": [
@@ -1676,14 +1676,14 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       },
       "references": [
         "https://www.chooseaerospace.org/uploads/1/2/4/0/124020013/ca_flyer-scholarships27_100526_v1-web.pdf",
@@ -1725,14 +1725,14 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       },
       "references": [
         "https://www.chooseaerospace.org/uploads/1/2/4/0/124020013/ca_flyer-scholarships27_100526_v1-web.pdf",
@@ -1773,14 +1773,14 @@
       "recurring": true,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       },
       "monetaryAward": true,
       "references": [
@@ -1823,14 +1823,14 @@
       "recurrenceNote": "Choose Aerospace lists this provider under annual opportunities; current award roster must be confirmed.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -1868,14 +1868,14 @@
       "recurrenceNote": "Choose Aerospace lists this provider under annual opportunities; current award roster must be confirmed.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -1913,14 +1913,14 @@
       "recurrenceNote": "Choose Aerospace lists this provider under annual opportunities; current award roster must be confirmed.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -1958,14 +1958,14 @@
       "recurrenceNote": "Choose Aerospace lists this provider under annual opportunities; current award roster must be confirmed.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -2003,14 +2003,14 @@
       "recurrenceNote": "Choose Aerospace lists this provider under annual opportunities; current award roster must be confirmed.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -2048,14 +2048,14 @@
       "recurrenceNote": "Provider announces its next application season in summer 2027. Named award roster may change.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       },
       "monetaryAward": true
     },
@@ -2094,14 +2094,14 @@
       "recurrenceNote": "Provider announces its next application season in summer 2027. Named award roster may change.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       },
       "monetaryAward": true
     },
@@ -2140,14 +2140,14 @@
       "recurrenceNote": "Provider announces its next application season in summer 2027. Named award roster may change.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       },
       "monetaryAward": true
     },
@@ -2186,14 +2186,14 @@
       "recurrenceNote": "Provider announces its next application season in summer 2027. Named award roster may change.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       },
       "monetaryAward": true
     },
@@ -2232,14 +2232,14 @@
       "recurrenceNote": "Provider announces its next application season in summer 2027. Named award roster may change.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       },
       "monetaryAward": true
     },
@@ -2278,14 +2278,14 @@
       "recurrenceNote": "Provider announces its next application season in summer 2027. Named award roster may change.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       },
       "monetaryAward": true
     },
@@ -2324,14 +2324,14 @@
       "recurrenceNote": "Provider announces its next application season in summer 2027. Named award roster may change.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       },
       "monetaryAward": true
     },
@@ -2370,14 +2370,14 @@
       "recurrenceNote": "Provider announces its next application season in summer 2027. Named award roster may change.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       },
       "monetaryAward": true
     },
@@ -2416,14 +2416,14 @@
       "recurrenceNote": "Provider announces the 2027 program; exact application window TBA.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -2463,14 +2463,14 @@
       "recurrenceNote": "Recurring provider program; current round is closed. Next dates and named awards require confirmation.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -2507,14 +2507,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       },
       "monetaryAward": true
     },
@@ -2552,14 +2552,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -2596,14 +2596,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -2640,14 +2640,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -2685,14 +2685,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -2729,14 +2729,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       },
       "monetaryAward": true
     },
@@ -2774,14 +2774,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": true,
         "hiddenReason": "expired",
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       },
       "monetaryAward": true
     },
@@ -2822,14 +2822,14 @@
       "recurrenceNote": "Published annual February 1–March 31 window; verify each cycle.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -2867,14 +2867,14 @@
       "recurrenceNote": "Provider publishes two selection periods per year (May/October deadlines).",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -2914,14 +2914,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -2964,14 +2964,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -3013,14 +3013,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -3064,14 +3064,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -3113,14 +3113,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       },
       "monetaryAward": true
     },
@@ -3165,14 +3165,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -3216,14 +3216,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -3268,14 +3268,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -3313,14 +3313,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -3362,14 +3362,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       },
       "references": [
         "https://weststaraviation.workgr8.com/categories/1/wsaa/1/LINK"
@@ -3414,14 +3414,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -3463,14 +3463,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -3512,14 +3512,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -3557,14 +3557,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -3606,14 +3606,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -3653,14 +3653,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -3702,14 +3702,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": true,
         "hiddenReason": "expired",
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -3749,14 +3749,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -3794,14 +3794,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -3839,14 +3839,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -3889,14 +3889,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "unconfirmed",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
         "lastReached": null,
         "httpStatus": null
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -3936,14 +3936,14 @@
       "recurrenceNote": "Provider announces June 2027 applications; named 2026 awards are not guaranteed to repeat.",
       "sourceHealth": {
         "state": "unconfirmed",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
         "lastReached": null,
         "httpStatus": 403
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       },
       "monetaryAward": true
     },
@@ -3984,14 +3984,14 @@
       "recurrenceNote": "Provider announces June 2027 applications; named 2026 awards are not guaranteed to repeat.",
       "sourceHealth": {
         "state": "unconfirmed",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
         "lastReached": null,
         "httpStatus": 403
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       },
       "monetaryAward": true
     },
@@ -4032,14 +4032,14 @@
       "recurrenceNote": "Provider announces June 2027 applications; named 2026 awards are not guaranteed to repeat.",
       "sourceHealth": {
         "state": "unconfirmed",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
         "lastReached": null,
         "httpStatus": 403
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -4079,14 +4079,14 @@
       "recurrenceNote": "Provider announces June 2027 applications; named 2026 awards are not guaranteed to repeat.",
       "sourceHealth": {
         "state": "unconfirmed",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
         "lastReached": null,
         "httpStatus": 403
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -4124,14 +4124,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -4172,14 +4172,14 @@
       "recurrenceNote": "Provider announces a 2027 scholarship program; future roster and dates TBA.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -4220,14 +4220,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -4265,14 +4265,14 @@
       "recurrenceNote": "Recurring provider scholarship program; dates and named award availability are not rolled forward.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -4317,14 +4317,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -4368,14 +4368,14 @@
       "recurring": false,
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -4416,14 +4416,14 @@
       "recurrenceNote": "Provider announces June 2027 applications; named 2026 awards are not guaranteed to repeat.",
       "sourceHealth": {
         "state": "unconfirmed",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
         "lastReached": null,
         "httpStatus": 403
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -4468,14 +4468,14 @@
       "recurrenceNote": "Annual program; renewals require a separate application and continuing eligibility.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -4519,14 +4519,14 @@
       "recurrenceNote": "Monthly school-year selections; verify the current application and award schedule with the provider.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -4574,14 +4574,14 @@
       "note": "Cash award from JSfirm.com, toolbox from Snap-on, conference registration, up to three hotel nights and coach-airfare reimbursement. Nomination award, not a direct self-application. Recognition at the April 4–7, 2027 ATEC conference in Wichita; no job offer is promised.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -4624,14 +4624,14 @@
       "note": "One application matches eligible awards; two recommendations and required documents. Membership may cost money. Award funds use a prepaid expense card with eligible-use limits, not unrestricted cash. Named awards on the public page are past examples; amounts/availability vary. The Shafer example requires college/university enrollment, so confirm AIM certificate eligibility rather than assuming every award fits.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -4680,14 +4680,14 @@
       "recurrenceNote": "Academic-year program; current provider announces the spring application for December. Funding route and individual eligibility require review.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -4730,14 +4730,14 @@
       "recurrenceNote": "Provider describes spring and winter awards annually; verify each new application window.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -4781,14 +4781,14 @@
       "recurrenceNote": "Board describes twice-yearly selection; confirm the next cutoff rather than assuming dates.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -4831,14 +4831,14 @@
       "recurrenceNote": "Provider specifies an annual last-Friday-in-December deadline; recheck the live form.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -4883,14 +4883,14 @@
       "recurrenceNote": "Annual July 1–February 15 cycle; verify the latest member application.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -4935,14 +4935,14 @@
       "recurrenceNote": "Two stated cycles: September award (May 1–July 1) and January award (September 1–November 1).",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -4985,14 +4985,14 @@
       "recurrenceNote": "Published cycles: April 1–June 1 and October 1–November 15; timing may change.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -5037,14 +5037,14 @@
       "recurrenceNote": "Annual application; previous applicants can reapply under current terms.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -5091,14 +5091,14 @@
       "recurrenceNote": "Published application cycles are August 1–October 1 and January 1–March 1. Opening month is a next-cycle watch, not an open application.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -5141,14 +5141,14 @@
       "recurrenceNote": "Provider allows applicants and recipients to reapply in the next annual application window; new dates need confirmation.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -5189,14 +5189,14 @@
       "recurrenceNote": "2027 reopening is announced. Application cap may close the round before the published final date.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -5236,14 +5236,14 @@
       "recurrenceNote": "Donor page lists multiple rounds and encourages past applicants/winners to reapply. No next date has been assumed.",
       "sourceHealth": {
         "state": "unconfirmed",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
         "lastReached": null,
         "httpStatus": 429
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -5286,14 +5286,14 @@
       "recurrenceNote": "Annual program; official page explicitly asks visitors to watch for next year.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -5333,14 +5333,14 @@
       "recurrenceNote": "Provider states December 31 annually. Recheck actual form and next cycle before reopening.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -5383,14 +5383,14 @@
       "recurrenceNote": "Provider maintains a yearly scholarship/application page; next dates require confirmation.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -5432,14 +5432,14 @@
       "recurrenceNote": "Annual competition; do not infer next opening or deadline.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -5479,14 +5479,14 @@
       "recurrenceNote": "Provider calls this an annual scholarship and announces the 2027 application window.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -5530,14 +5530,14 @@
       "recurrenceNote": "Announced Fall 2027 opportunity; dates must be verified before promotion to open.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -5576,14 +5576,14 @@
       "recurrenceNote": "Provider expressly awards scholarships once each year; next application dates not announced.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -5622,14 +5622,14 @@
       "recurrenceNote": "Provider explicitly invites applicants for 2027; keep closed until applications are verified.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -5671,14 +5671,14 @@
       "recurrenceNote": "Provider displays 2025 and 2026 awards. Recheck for future applications; never roll dates forward.",
       "sourceHealth": {
         "state": "unconfirmed",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
         "lastReached": null,
         "httpStatus": 429
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -5720,14 +5720,14 @@
       "recurrenceNote": "Provider publishes an annual September 1–April 15 application period; 2027 availability is explicitly announced.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -5769,14 +5769,14 @@
       ],
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -5818,14 +5818,14 @@
       ],
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -5870,14 +5870,14 @@
       ],
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -5916,14 +5916,14 @@
       "recurrenceNote": "Provider explicitly asks applicants to check back in 2027. Historical awards do not establish current intake.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -5965,14 +5965,14 @@
       "note": "Free provider account and a maximum-250-word essay required. Selection considers essay quality and activity applying for other scholarships on the provider’s platform. Paid to the winner’s institution; confirm payment arrangements for your technical school.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -6013,14 +6013,14 @@
       "note": "Use the technical/trade/vocational application; one application per student. Enrollment proof, references, biography and essay required. Verify award amount and payment destination. Housing affiliation is mandatory; not a general award for every renter.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -6062,14 +6062,14 @@
       "note": "First cycle: up to three awards, funding permitting. Pays school/union/shop for tools, safety equipment, testing/certification or tuition. Enrollment verified before payment; statement must be in your own words. Not open before January 1.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -6107,14 +6107,14 @@
       "note": "Opens November 15 at midnight Eastern; closing date/amount pending. Currently incarcerated applicants and students completing their program in May/June 2027 are excluded. Transcript, two references, video, headshot and qualifying criminal-record documentation required. Paid to school.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -6155,14 +6155,14 @@
       "note": "Next round is Summer/Fall 2027; confirm its program-start rules. Published winter/spring start rule is January–June 2027, so an AIM program begun in 2026 does not meet it. No degree-program coursework, licensing exams or exam prep. Paid to grantee. AI assistance limited to supporting original work.",
       "sourceHealth": {
         "state": "unconfirmed",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
         "lastReached": null,
         "httpStatus": 403
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -6204,14 +6204,14 @@
       "note": "Both application and recommendations due February 12. Paid directly to recipients for non-tuition needs; potentially renewable up to five years. Prior-degree/credential eligibility must satisfy the application’s education rules; no blanket any-degree eligibility assumed.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -6252,14 +6252,14 @@
       "note": "Two awards; school-paid tuition/fees. Essays, references, transcript, photo/video and release requested. Application portal is live. Kept outside AIM-specific counts because its published program criteria do not establish A&P acceptance.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -6297,14 +6297,14 @@
       "note": "Provider accepts applications after June 1 for the following year. Confirm the next-cycle form and award details; no unannounced 2027 deadline assumed. Essay, references, transcript and attendance proof required; award received after semester attendance proof. Payment destination unconfirmed.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -6343,14 +6343,14 @@
       "recurrenceNote": "Documented 2025 and 2026 rounds; future dates need confirmation.",
       "sourceHealth": {
         "state": "unconfirmed",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
         "lastReached": null,
         "httpStatus": 429
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -6393,14 +6393,14 @@
       "note": "2027 application published; each local club sets its own intake/deadline. Not counted open until that intake is confirmed. One district application only; school/employer verification as applicable and two references. Essays must be applicant-written except translation assistance. Funds may be unrestricted awards; local awards vary.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -6442,14 +6442,14 @@
       "note": "2027 application available, but local club deadlines vary and some may already be closed. Confirm current intake before applying; not counted available now. International award is $5,000, not the older $10,000 amount on a local page. Funds unrestricted; school/employer verification and references as applicable.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -6492,14 +6492,14 @@
       "recurrenceNote": "Provider announces an annual program and explicit 2027 opening/closing dates.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -6543,14 +6543,14 @@
       "note": "Provider announces the shared 2027 application will reopen by late December 2026; no exact opening day, deadline or 2027 amount published. Named-award renewal and final 2027 terms must be rechecked when released. Selection considers GPA, service and other stated factors. Tuition/books/room-and-board support; foundation prefers payment to school, with some documented reimbursements paid to awardee. Shared Scholar's App account; not open today.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -6591,14 +6591,14 @@
       "note": "Tuition and fees paid directly to school. Current application instructions accept online or mailed submissions through March 15, 2027; page explains 'WINDOW CLOSED' as the future closing date. Essays, two references, transcript, video/photo and likeness release requested. Free registration for shared portal; named awards are not separate independent portals. Excluded from AIM counts.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -6639,14 +6639,14 @@
       "note": "Two $2,000 tool awards; foundation coordinates tool ordering with school/program director rather than paying unrestricted student cash. Applications accepted online or by mail through March 15, 2027. Essays, references, transcript, video/photo and release requested. Free shared application portal. Excluded from confirmed AIM results.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -6693,14 +6693,14 @@
       "note": "Provider says applications are year-round, processed monthly, with programs of any length. However, the registration page mixes a 2026–27 program-start question with a 2025–26 application year and 2023 income/$123,000 screening, while general 2027–28 terms use 2025 income/$134,000. Confirm the correct current CTE form and income year before sending information; not counted available now. Continuing students should also confirm eligible remaining expenses. CTE FAQ lists $2,500–$10,000 and reapplication for up to four paid awards. Payment goes to school. AIM NJ is a 21-month certificate; final school/program eligibility still applies. No job offer or work commitment.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -6744,14 +6744,14 @@
       "note": "2027 application live; all materials must be received January 21, 2027. Tuition, fees, books and school-documented room/board paid to school for the academic year beginning fall after award, not past expenses. Essay, recent academic reference plus second recommendation, transcript/enrollment and service evidence required. AI-generated prose prohibited. Maximum two awards across certificate/community-college/undergraduate categories. Excluded from confirmed AIM counts because the school-type wording conflicts. Named donor awards share one application; healthcare-only awards are not general mechanic awards.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -6792,14 +6792,14 @@
       "note": "Annual August 1 application cutoff has passed; next intake is not verified. Do not treat downloadable undated application as a newly open round. Amount differs for community/four-year college; this listing uses the trade-training maximum. Mailed application, cover statement, references, available transcripts and financial evidence required. Payment destination not established in reviewed public terms.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -6838,14 +6838,14 @@
       "note": "2027–28 application closed September 30, 2026 at 1 p.m. Eastern; March 2027 award notifications are not a new application period. Recurring program and reopening interest form retained; no next-cycle dates invented. Funds disbursed through Utah my529 savings accounts for tuition/tuition-related fees; not unrestricted student cash. Partner career resources do not guarantee an internship or job.",
       "sourceHealth": {
         "state": "unconfirmed",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
         "lastReached": null,
         "httpStatus": 403
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -6887,14 +6887,14 @@
       "recurrenceNote": "Named annual contest; the displayed current round has been verified. Recheck official rules before assuming a later cycle.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -6936,14 +6936,14 @@
       "recurrenceNote": "Named annual contest; the displayed current round has been verified. Recheck official rules before assuming a later cycle.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -6985,14 +6985,14 @@
       "recurrenceNote": "Named annual contest; the displayed current round has been verified. Recheck official rules before assuming a later cycle.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -7034,14 +7034,14 @@
       "recurrenceNote": "Named annual contest; the displayed current round has been verified. Recheck official rules before assuming a later cycle.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -7083,14 +7083,14 @@
       "recurrenceNote": "Named annual contest; the displayed current round has been verified. Recheck official rules before assuming a later cycle.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -7132,14 +7132,14 @@
       "recurrenceNote": "Named annual contest; the displayed current round has been verified. Recheck official rules before assuming a later cycle.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -7181,14 +7181,14 @@
       "recurrenceNote": "Named annual contest; the displayed current round has been verified. Recheck official rules before assuming a later cycle.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -7232,14 +7232,14 @@
       "recurrenceNote": "Annual education fund; verify next-cycle application terms rather than carrying forward dates.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -7281,14 +7281,14 @@
       "recurrenceNote": "Sponsor announces two application periods per year beginning with spring 2027. Next dates not announced; keep closed until reopening verified.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -7329,14 +7329,14 @@
       "note": "Rolling application. Provides funding after proof of enrollment. Amount and payment recipient are unpublished. Returning recipients must document completion of the prior funded program or year. Application requires a publicity photo, reference, transcript and essay.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -7375,14 +7375,14 @@
       "note": "Canadian sponsor. Deadline 7 p.m. MST as stated. Apply on the sponsor page with a response of up to 500 words. The single award can cover tuition, fees, tools, certification and other approved costs. Payment route is unpublished. Review the sponsor’s publicity terms.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -7425,14 +7425,14 @@
       "note": "Deadline 11:55 p.m. Eastern. Certificate/job-training applicants need completion and grade documents. Requires instructor and recent/current employer references. The award check goes to the student but is payable to the institution or apprenticeship company. The provider does not specify a separate free-tool package.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -7476,14 +7476,14 @@
       "note": "Monthly awards during the September–June school year. Essay or video and a reference required. Provider application requires Google sign-in. Funds may offset tuition, apprenticeship equipment or related costs. Payment destination is unpublished.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -7524,14 +7524,14 @@
       "note": "Full tuition for Bell’s 505 B2 avionics course, $1,600 toward travel and lodging, and VERTICON registration for the recipient and a guest. Other travel costs may remain. Deadline 11:59 p.m. Eastern. Apply through VAI’s linked member portal.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -7572,14 +7572,14 @@
       "note": "AEA covers transportation and hotel and provides full convention registration for Savannah, Georgia, March 23–26, 2027. Employer covers remaining costs. No tuition payment or student cash specified. Use the separate PDF application, due February 1.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -7622,14 +7622,14 @@
       "note": "The 2026 round closed May 12. No new statewide round verified. Local NJ Elks lodge endorsement required. Payment route unpublished. The Red Bank lodge’s separate award dates do not establish a statewide reopening.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -7672,14 +7672,14 @@
       "note": "Last round closed June 30, 2026. Requires successful paid steel-sector placement through FAME USA or approved equivalent before scholarship funding. Commuting or relocation may be necessary. Scholarship payment recipient and placement wages unpublished. Next dates unconfirmed.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -7723,14 +7723,14 @@
       "note": "The branch says it will post the 2027 application in February. Exact date, deadline, amount and payment route are pending.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -7769,14 +7769,14 @@
       "note": "April 30–July 9, 2027 announced. Amount and payment route unpublished. This employee-family trade award is separate from Corvias military scholarships with installation requirements.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -7825,14 +7825,14 @@
       "note": "Apply once each scholarship year, October through September. Checks normally go to the school or program. Documented professional expenses such as exam fees may be reimbursed within the scholarship year. Tuition reimbursement is excluded. Award amounts depend on donor and need. Awardees provide a photo and thank-you letter.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -7876,14 +7876,14 @@
       "note": "Paid directly to the school after enrollment confirmation. Up to two years subject to funding, first come first served, after other aid. Apply through NJFAMS by December 1 for fall or June 1 for spring, and meet the separate FAFSA or NJ Alternative Aid deadline. Check the official program list for fields such as building maintenance, electrical trades, HVAC and welding.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -7927,14 +7927,14 @@
       "note": "Grant applications open February 16 and close April 16, 2027. Needs-based award uses FAFSA Student Aid Index and costs. Paid to the school for tuition, books and lodging. The sponsor separately offers loans, including the enlisted-to-officer route.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -7974,14 +7974,14 @@
       "note": "January 1, 2027 opening announced. The sponsor page still gives its 2026 closing date, so the 2027 deadline needs confirmation. Scholarship paid directly to the school. Student membership is optional. Employee loan forgiveness is separate.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -8022,14 +8022,14 @@
       "note": "The Spring 2027 entry form is open through December 31, 2026. Award paid directly to the recipient. One entry per session. Winners grant publicity permission. No prior-degree restriction is stated in the detailed rules.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -8071,14 +8071,14 @@
       "note": "November 10, 2026 deadline. Use the shared SKILLED Nation application. Paid to the school or training center and must be used within a year of acceptance. The sponsor’s optional career community is separate from selection and employment.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -8120,14 +8120,14 @@
       "note": "Applications reviewed as received until funds are spent, with December 31 listed as the cutoff. The shared SKILLED Nation application matches eligible awards. Paid to the school for approved costs, which can include tools. Use within a year of acceptance.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -8170,14 +8170,14 @@
       "note": "Sponsor says applications are accepted year-round. The old Path to Pro portal confirms the move to SKILLED Nation and shows the $2,500 award. Apply through the new shared portal. Scholarship is paid first to the school or training program.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -8218,14 +8218,14 @@
       "note": "Due February 15, 2027 at 11:59 p.m. Central. Application includes a video. Funds go to the school’s financial aid department for eligible costs, including tuition, fees, books or room and board. A selection interview may be required.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -8267,14 +8267,14 @@
       "note": "Current application cycle closes November 30, 2026. Awards are selected as funds remain. The institution receives payment for eligible tuition, fees, books, supplies or course equipment.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -8316,14 +8316,14 @@
       "note": "Apply through the shared Hourglass portal or by mail by March 15, 2027. Tuition and fees paid directly to the school. Essays, references, transcript and likeness release required. Enrollment must be verified before funding.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -8365,14 +8365,14 @@
       "note": "Due March 15, 2027 through the shared Hourglass portal or by mail. Paid to the school for tuition and fees. Selection considers need, academic record and community or extracurricular involvement. Enrollment verification and a likeness release are required.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -8416,14 +8416,14 @@
       "note": "Due March 15, 2027. Paid to the college at up to $3,750 per remaining semester, subject to continued enrollment and GPA 2.0. No retroactive costs. Award agreement required. Geotab employees, affiliates and agents are excluded, while immediate family of employees can apply.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -8461,7 +8461,18 @@
       "org": "SupplyHouse Foundation",
       "url": "https://bold.org/scholarships/track-to-the-trades/",
       "requirements": "U.S. legal resident currently attending trade school or a high-school senior entering trade school in plumbing, HVAC, electrical or a closely related field. SupplyHouse also describes relevant apprentices and early-career tradespeople, while the application lists the school-stage criteria. Confirm the appropriate route if those differ for you. No completed degree is required in the published terms. NJ applicants in the listed fields may apply. AIM NJ’s A&P certificate fit is unconfirmed.",
-      "note": "Thirty awards. Apply through the sponsor’s Bold.org form. Funds can help with tuition, tools or certification costs. The published terms do not identify the payee or promise a separate tool kit."
+      "note": "Thirty awards. Apply through the sponsor’s Bold.org form. Funds can help with tuition, tools or certification costs. The published terms do not identify the payee or promise a separate tool kit.",
+      "sourceHealth": {
+        "state": "unconfirmed",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": null,
+        "httpStatus": 429
+      },
+      "maintenance": {
+        "hidden": false,
+        "hiddenReason": null,
+        "evaluatedOn": "2026-11-08"
+      }
     },
     {
       "value": 2000,
@@ -8499,7 +8510,18 @@
       "org": "NATE: The Communications Infrastructure Contractors Association",
       "url": "https://natehome.com/2026/10/30/investing-in-education-inspiring-success-women-of-nate-launches-2027-scholarship/",
       "requirements": "Women entering or advancing in communications infrastructure or tower construction, service or maintenance. Technical school, continuing education and university degree routes are listed. The launch terms do not specify an already-earned degree, prior-degree exclusion, state restriction or membership requirement. Check the 2027 form for documentation and any nomination rule. AIM NJ aircraft maintenance alone does not establish the telecommunications field requirement.",
-      "note": "Two $2,000 awards. The sponsor opened the 2027 application in October. Complete all materials by January 15. The public announcement does not specify the payee."
+      "note": "Two $2,000 awards. The sponsor opened the 2027 application in October. Complete all materials by January 15. The public announcement does not specify the payee.",
+      "sourceHealth": {
+        "state": "ok",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
+        "httpStatus": 200
+      },
+      "maintenance": {
+        "hidden": false,
+        "hiddenReason": null,
+        "evaluatedOn": "2026-11-08"
+      }
     },
     {
       "value": 12000,
@@ -8541,7 +8563,18 @@
         "tools"
       ],
       "requirements": "U.S. citizen or lawful permanent resident, 18 by the start of coursework, GPA 2.5+, good standing and financial need. Accredited automotive technology associate, certificate or equivalent technician program. Accepted or enrolled applicants qualify by award stage. Under-18 applicants need guardian consent. No completed degree or prior-degree exclusion is listed. NJ automotive students can apply. AIM NJ aviation maintenance is a separate field.",
-      "note": "One application per student, due 11:59 p.m. Eastern. Early Start: $3,000 tuition + $2,000 tools. In Progress: two awards of $5,000 tuition + $5,000 tools. Almost There (graduating within 12 months): $6,000 tuition + $6,000 tools. July 2027 distribution of funds and tools goes through schools for the 2027–28 school year."
+      "note": "One application per student, due 11:59 p.m. Eastern. Early Start: $3,000 tuition + $2,000 tools. In Progress: two awards of $5,000 tuition + $5,000 tools. Almost There (graduating within 12 months): $6,000 tuition + $6,000 tools. July 2027 distribution of funds and tools goes through schools for the 2027–28 school year.",
+      "sourceHealth": {
+        "state": "ok",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
+        "httpStatus": 200
+      },
+      "maintenance": {
+        "hidden": false,
+        "hiddenReason": null,
+        "evaluatedOn": "2026-11-08"
+      }
     },
     {
       "value": null,
@@ -8579,7 +8612,18 @@
       "org": "University of the Aftermarket Foundation",
       "url": "https://automotivescholarships.com/",
       "requirements": "Full-time student at an accredited U.S. college or university or an ASE/NATEF-certified postsecondary automotive, heavy-duty or collision repair school, or a high-school senior planning full-time attendance. The certified trade-school route does not require a completed degree. Donor criteria may vary. NJ applicants in the specified pathways may apply. AIM NJ’s aircraft maintenance certificate does not establish automotive-school eligibility.",
-      "note": "The 2027 shared application is open. One application is considered for UAF and qualifying donor awards. Amount and payee depend on the award. The sponsor’s prior-cycle totals are aggregate figures."
+      "note": "The 2027 shared application is open. One application is considered for UAF and qualifying donor awards. Amount and payee depend on the award. The sponsor’s prior-cycle totals are aggregate figures.",
+      "sourceHealth": {
+        "state": "ok",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
+        "httpStatus": 200
+      },
+      "maintenance": {
+        "hidden": false,
+        "hiddenReason": null,
+        "evaluatedOn": "2026-11-08"
+      }
     },
     {
       "value": null,
@@ -8622,7 +8666,18 @@
         "tools"
       ],
       "requirements": "Female high-school senior accepted into, or postsecondary student currently in, an accredited college program, with a career plan in the auto care industry and GPA 2.5+. The shared portal also lists ASE/NATEF-certified schools. Confirm that the sponsor accepts your specific NJ school if it is a standalone trade school. The sponsor lists no completed degree or prior-degree bar. AIM NJ aviation maintenance alone does not meet the career requirement.",
-      "note": "Uses the same 2027 Aftermarket Foundation application. Sponsor awards include scholarships and tool kits through industry partners. Confirm current individual award amounts, payee and tool allocation. Published past totals are not per-student awards."
+      "note": "Uses the same 2027 Aftermarket Foundation application. Sponsor awards include scholarships and tool kits through industry partners. Confirm current individual award amounts, payee and tool allocation. Published past totals are not per-student awards.",
+      "sourceHealth": {
+        "state": "ok",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
+        "httpStatus": 200
+      },
+      "maintenance": {
+        "hidden": false,
+        "hiddenReason": null,
+        "evaluatedOn": "2026-11-08"
+      }
     },
     {
       "value": null,
@@ -8662,7 +8717,18 @@
       ],
       "opensMonth": "2027-01",
       "requirements": "Current postsecondary collision-repair students, applicants beginning postsecondary collision study in the relevant summer or fall, and high-school seniors entering collision training or employment. Individual donor rules vary. No completed college degree is required for the program. Eligible NJ collision students can apply. AIM NJ’s A&P certificate is outside the published field.",
-      "note": "The provider announces reopening in January 2027. Exact day, deadline, individual amounts and payees await the application. One application considers applicants for eligible scholarship and tool awards."
+      "note": "The provider announces reopening in January 2027. Exact day, deadline, individual amounts and payees await the application. One application considers applicants for eligible scholarship and tool awards.",
+      "sourceHealth": {
+        "state": "ok",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
+        "httpStatus": 200
+      },
+      "maintenance": {
+        "hidden": false,
+        "hiddenReason": null,
+        "evaluatedOn": "2026-11-08"
+      }
     },
     {
       "value": null,
@@ -8704,7 +8770,18 @@
       ],
       "opensMonth": "2027-01",
       "requirements": "Women pursuing automotive collision repair through eligible collision education. The administrator’s shared intake includes high-school and postsecondary pathways. The next WIN application should confirm exact school, enrollment, prior-degree and tool conditions. NJ collision students are in the U.S. scope. AIM NJ A&P alone does not meet the collision-repair requirement.",
-      "note": "Sponsor and application administrator announce January 2027 reopening. No exact day, closing date, amount or payee is published for this round. Scholarship and tool support are described. Use the shared CREF application once it reopens."
+      "note": "Sponsor and application administrator announce January 2027 reopening. No exact day, closing date, amount or payee is published for this round. Scholarship and tool support are described. Use the shared CREF application once it reopens.",
+      "sourceHealth": {
+        "state": "ok",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
+        "httpStatus": 200
+      },
+      "maintenance": {
+        "hidden": false,
+        "hiddenReason": null,
+        "evaluatedOn": "2026-11-08"
+      }
     },
     {
       "value": null,
@@ -8746,7 +8823,18 @@
       ],
       "opensMonth": "2027-01",
       "requirements": "Postsecondary collision-repair student currently or recently serving in the military, or high-school senior or postsecondary collision student with an immediate family member currently serving or who has served. Veteran applicants are also invited to the general scholarship and tool competition. No completed degree is required in the posted terms. NJ collision students may qualify. AIM NJ A&P is outside the collision-repair field.",
-      "note": "Part of the shared CREF application scheduled to reopen in January 2027. Next-round amounts, payee, exact dates and 3M award availability should be rechecked when the application opens. This is the collision-repair award, separate from the 3M SKILLED Trades Scholarship."
+      "note": "Part of the shared CREF application scheduled to reopen in January 2027. Next-round amounts, payee, exact dates and 3M award availability should be rechecked when the application opens. This is the collision-repair award, separate from the 3M SKILLED Trades Scholarship.",
+      "sourceHealth": {
+        "state": "ok",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
+        "httpStatus": 200
+      },
+      "maintenance": {
+        "hidden": false,
+        "hiddenReason": null,
+        "evaluatedOn": "2026-11-08"
+      }
     },
     {
       "value": null,
@@ -8789,7 +8877,18 @@
       ],
       "workLocation": "Sponsoring Nucor mill and Tuscaloosa, Alabama",
       "requirements": "High-school diploma or GED and 18 by September 1 of the entering year. Apply first to Shelton State Community College, then to a sponsoring Nucor division. College placement GPA and testing rules apply. The program requires full-time study toward an Electrical Technology AAS plus employer training, with some postings specifying 27 months. No prior college degree is required. NJ residents can apply for posted out-of-state placements. This does not fund current AIM NJ enrollment.",
-      "note": "Hourly wages are employment pay. The package covers tuition, textbooks, Tuscaloosa housing and eligible travel reimbursement. Relocation is required. A post-program interview may be required and a three-year sponsoring-division commitment applies if hired. Placement postings control the conditions."
+      "note": "Hourly wages are employment pay. The package covers tuition, textbooks, Tuscaloosa housing and eligible travel reimbursement. Relocation is required. A post-program interview may be required and a three-year sponsoring-division commitment applies if hired. Placement postings control the conditions.",
+      "sourceHealth": {
+        "state": "ok",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
+        "httpStatus": 200
+      },
+      "maintenance": {
+        "hidden": false,
+        "hiddenReason": null,
+        "evaluatedOn": "2026-11-08"
+      }
     },
     {
       "value": null,
@@ -8825,7 +8924,18 @@
       "url": "https://www.phccfoundation.org/scholarship-program/",
       "opensMonth": "2027-01",
       "requirements": "Legal U.S. resident in an eligible route. Applicants may qualify through a PHCC-approved plumbing or HVACR apprenticeship or eligible online course while working full-time for a licensed PHCC-member contractor. A full-time certificate or degree at an accredited two-year community college, technical college or trade school in an approved plumbing, HVACR, mechanical construction or related major is another route. Canadian citizens have a separate apprenticeship route. No prior completed degree is required in the listed technical routes. NJ field-eligible students may apply. AIM NJ aviation maintenance is outside the approved field.",
-      "note": "The sponsor announces January 2027 reopening with all materials due May 1. Individual 2027 award amounts, sponsor-specific criteria and payment instructions should be checked when the application opens."
+      "note": "The sponsor announces January 2027 reopening with all materials due May 1. Individual 2027 award amounts, sponsor-specific criteria and payment instructions should be checked when the application opens.",
+      "sourceHealth": {
+        "state": "ok",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
+        "httpStatus": 200
+      },
+      "maintenance": {
+        "hidden": false,
+        "hiddenReason": null,
+        "evaluatedOn": "2026-11-08"
+      }
     },
     {
       "value": null,
@@ -8867,7 +8977,18 @@
       "url": "https://www.jcfsnj.org/scholarships",
       "opensMonth": "2026-12",
       "requirements": "Jewish high-school student residing in Burlington, Camden or Gloucester County, NJ, who is an orphan, in foster care or being raised in a single-parent household. Accepted or planning to enroll in college or non-college vocational or technical education. No college degree is required. This is a high-school-entry award. Check the new application for the intended school and the 2027 enrollment rules.",
-      "note": "The shared application is scheduled to reopen by late December 2026. No exact day, deadline or 2027 amount is published. The foundation prefers paying the school, with some awards eligible for documented reimbursement. Apply using the shared Scholar’s App portal after it reopens."
+      "note": "The shared application is scheduled to reopen by late December 2026. No exact day, deadline or 2027 amount is published. The foundation prefers paying the school, with some awards eligible for documented reimbursement. Apply using the shared Scholar’s App portal after it reopens.",
+      "sourceHealth": {
+        "state": "ok",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
+        "httpStatus": 200
+      },
+      "maintenance": {
+        "hidden": false,
+        "hiddenReason": null,
+        "evaluatedOn": "2026-11-08"
+      }
     },
     {
       "value": 750,
@@ -8907,7 +9028,18 @@
       "org": "Coast Guard Mutual Assistance",
       "url": "https://mycgma.org/programs/seg/",
       "requirements": "Eligible Coast Guard Mutual Assistance member applying for self, spouse or dependent child under 23. A multi-course vocational or technical program approved by VA or the Department of Education can qualify without a current degree. College degree and other routes are separate. Confirm AIM NJ’s specific 21-month A&P certificate with CGMA under this approval rule. The published vocational route does not list a prior-degree exclusion.",
-      "note": "The 2026 cycle closed September 30. No 2027 dates announced. Reimburses documented eligible fees, books, supplies or equipment. Tuition and separate licensing or certification courses are excluded. Household cap $750, or $1,500 for dual military households with $750 per student. Check the current covered-cost rules before relying on any particular expense."
+      "note": "The 2026 cycle closed September 30. No 2027 dates announced. Reimburses documented eligible fees, books, supplies or equipment. Tuition and separate licensing or certification courses are excluded. Household cap $750, or $1,500 for dual military households with $750 per student. Check the current covered-cost rules before relying on any particular expense.",
+      "sourceHealth": {
+        "state": "ok",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
+        "httpStatus": 200
+      },
+      "maintenance": {
+        "hidden": false,
+        "hiddenReason": null,
+        "evaluatedOn": "2026-11-08"
+      }
     }
   ],
   "resources": [
@@ -8917,14 +9049,14 @@
       "note": "Ask your campus to confirm enrollment, aid coordination and matching.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -8933,14 +9065,14 @@
       "note": "Additional maintenance funding leads from ATEC’s partner organization.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -8949,14 +9081,14 @@
       "note": "Community resource. March 2027 next window; no current A&P-specific award verified. Membership does not establish an Asian-only restriction.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -8965,14 +9097,14 @@
       "note": "Current award administration points to AMC/TechForce; avoid duplicate applications.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -8981,14 +9113,14 @@
       "note": "Construction-related programs/approved schools only. Not verified for AIM A&P; do not assume any trade school qualifies.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -8997,14 +9129,14 @@
       "note": "Not-for-profit school requirement; not presented as an AIM certificate match. Age and other conditions apply.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9013,14 +9145,14 @@
       "note": "Veteran funding lead; verify current window and whether your specific certificate school is accepted.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9029,14 +9161,14 @@
       "note": "Ask your campus about Republic cadets, United technician pathways and American interviews. A partnership logo is not proof every campus/student qualifies.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9045,14 +9177,14 @@
       "note": "2027 online maintenance series announced. Previous free training welcomed students; verify this event’s registration cost, dates and scope. Not an A&P license or paid role.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9061,14 +9193,14 @@
       "note": "Student tool discounts at approved schools; purchases still cost money. This is not a free-tool scholarship.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9077,14 +9209,14 @@
       "note": "2026 closed. Current criteria name aviation-management/pilot degree programs; an AIM maintenance certificate match is not verified, despite historical A&P recipients.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9093,14 +9225,14 @@
       "note": "Historical company announcement; current award round, amount and campus eligibility require confirmation. Not presented as open NJ funding.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9109,14 +9241,14 @@
       "note": "Employer training lead. Verify current academy roles, pay and location; not an open student scholarship.",
       "sourceHealth": {
         "state": "unconfirmed",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
         "lastReached": null,
         "httpStatus": null
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9125,14 +9257,14 @@
       "note": "Employee tuition-reimbursement/training benefits depend on hiring and policy; no transferable student award verified.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9141,14 +9273,14 @@
       "note": "Regional airline recruiting resource. No current pre-A&P scholarship or paid-student offer verified in this review.",
       "sourceHealth": {
         "state": "unconfirmed",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
         "lastReached": null,
         "httpStatus": 403
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9157,14 +9289,14 @@
       "note": "Smaller MRO/parts employer; inspect role-specific credentials. Past apprentice success is not proof of an open civilian intake.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9173,14 +9305,14 @@
       "note": "Family-owned MRO/parts/engine business. Current technical roles have certificate/experience conditions; no student scholarship verified.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9189,14 +9321,14 @@
       "note": "Charter/MRO jobs, including some roles with A&P preferred. Ordinary job listings are not scholarship-linked placement.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9205,14 +9337,14 @@
       "note": "Dale Hurst travel scholarship is for instructors, not ordinary students. Check AWAM for future student textbook/course awards; current round closed.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9221,14 +9353,14 @@
       "note": "School recruiting partnership; no universal job guarantee or NJ student-cash award inferred.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9237,14 +9369,14 @@
       "note": "Structures apprentice and technical-course resource. Confirm current student intake, pay and employer requirements.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9253,14 +9385,14 @@
       "note": "Check partner-school pathways and actual openings. Delta states it does not offer an A&P licensing program itself.",
       "sourceHealth": {
         "state": "unconfirmed",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
         "lastReached": null,
         "httpStatus": 444
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9269,14 +9401,14 @@
       "note": "Current entry programs and vacancies must be checked; older Calibrate announcements are not treated as a live cohort.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9285,14 +9417,14 @@
       "note": "Three $25,000 aviation/hospitality awards; provider says check January 2027. Eligible-institution and certificate-program fit need confirmation. Separate SkillPointe maintenance award ended in 2023; neither establishes a job guarantee.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9301,14 +9433,14 @@
       "note": "The Oct 21–22, 2026 Las Vegas event has ended. Career Fair, scholarship guidance and Collegiate Connect are useful sources for future opportunities; attendance was not a job or award guarantee.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9317,14 +9449,14 @@
       "note": "Avionics/electronics training and exhibitor leads. Oct 29–30, 2026 West Regional is in Reno, not Las Vegas. Registration/course attendance is not a paid-training scholarship.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9333,14 +9465,14 @@
       "note": "A&P/AME student scholarship source. 2026 recipients have been announced; no verified 2027 opening yet. Watch for the next actual application, not an old PDF.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9349,14 +9481,14 @@
       "note": "2026 deadline was May 1. College/university enrollment requirement needs separate confirmation for AIM certificate students; not an open AIM NJ match.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9365,14 +9497,14 @@
       "note": "Nationwide rolling trade-school scholarships. Current program materials focus on building/construction trades; acceptance of an AIM aircraft-maintenance certificate is not verified. Confirm before applying.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9381,14 +9513,14 @@
       "note": "General-trade sources include Home Depot, Ball, Schneider Electric, DEWALT, Ford and others. Each award has different trade, location and opening rules; an interest list is not an open scholarship. A&P eligibility needs individual confirmation.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9397,14 +9529,14 @@
       "note": "$2,500 school payment; women ages 16–28 as of Jan 2027, GPA 2.0 or GED. Published March 15, 2027 closing date. Broad skilled-trade criteria; AIM aircraft-maintenance acceptance needs confirmation before treating this as a match.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9413,14 +9545,14 @@
       "note": "2026 monthly school awards up to $2,000 for qualifying women 25+ whose studies were interrupted. Published regional/ACICS accreditation wording needs clarification for AIM. Sensitive supporting documentation may be requested by the provider; this site collects none.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9429,14 +9561,14 @@
       "note": "Verified nationwide reach; women age 18+, accredited trade/certificate study. Current cycle through November 15, 2026; see the directory listing for full conditions.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9445,14 +9577,14 @@
       "note": "Up to $5,000 for low-income mothers with minor children, including vocational education. Must advance beyond previously completed education level. A current open application window is not verified here; watch the next confirmed cycle.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9461,14 +9593,14 @@
       "note": "Membership and individual sponsor rules apply. Archived announcements do not establish a current open award.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9477,14 +9609,14 @@
       "note": "Primarily women pilots/student pilots who are members. Confirm current technical-training terms and membership prerequisites; not a general award for all A&P students.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9493,14 +9625,14 @@
       "note": "2027–28 applications announced to open January 1, 2027. Footwear employment/family conditions, GPA 2.5, FAFSA and first-degree/certification wording apply. Prior-degree and AIM certificate acceptance need clarification; not a confirmed open AIM award.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9509,14 +9641,14 @@
       "note": "2027–28 GI Bill-approved trade-school route announced November 1, 2026–February 1, 2027. Restricted to qualifying EOD dependents; verify full current age, relationship, school and payment conditions. Not open yet or a universal military award.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9525,14 +9657,14 @@
       "note": "Trade training is included, with Legion/service-family and returning-adult conditions. Current page says new application platform available soon; do not treat recurring March 1 deadline or previous form as proof of an open 2027 application.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9541,14 +9673,14 @@
       "note": "Military/family certificate scholarship lead; detailed Service to America page still gives January 29, 2021. Not confirmed open. CLT subsidy is employer-directed, not individual scholarship cash.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9557,14 +9689,14 @@
       "note": "Next application cycle announced for 2027; up to $5,000 and maintenance/avionics training described. Spartan attendance not required. NJ residence and AIM certificate fit need actual next-cycle rules before inclusion in confirmed counts.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9573,14 +9705,14 @@
       "note": "Airplane repair is listed; qualifying foster youth ages 17–25. Page says closed and has conflicting $10,000/$12,000 values and cycle text; verify actual next application before calling open.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9589,14 +9721,14 @@
       "note": "2027 applications open November 15, 2026. Current page explicitly accepts accredited one-to-four-year vocational/certificate programs; see the directory entry for women/girls affected by incarceration, citizenship, timing and documentation conditions.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9605,14 +9737,14 @@
       "note": "Separate skilled-trade fund describes $1,000 plus hard hat and annual March 31/October 1 deadlines. Actual aircraft-maintenance acceptance, payment and next-cycle application need confirmation; police-only fund is separate.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9621,14 +9753,14 @@
       "note": "Grace Brauninger award: $1,000 to qualifying Mercer County women 21+ in NJ degree/certificate study. Linked application still references 2022–23; confirm next intake. Separate international awards have different rules.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9637,14 +9769,14 @@
       "note": "Joanne Sherman e-learning deadline November 19, 2026; membership and fastener-industry employment conditions apply. Other tuition/Las Vegas travel award rounds shown are closed; watch actual next-cycle terms.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9653,14 +9785,14 @@
       "note": "Mildred Sorensen $1,000 vocational certificate/diploma route; qualifying membership/family and GPA 2.5 required. Annual March 1 wording links a 2024 form; confirm current cycle before calling open. Olga Christensen requires an associate degree or higher.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9669,14 +9801,14 @@
       "note": "2026 chapter round closed March 20; next round not announced. NJ residents or relatives of active PWC NJ members in architecture/engineering/construction degree or certificate study; all genders, with full-time trade students accepted. AIM maintenance fit unverified. National page has older women/STEM wording.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9685,14 +9817,14 @@
       "note": "Announced December 1, 2026–March 1, 2027; thirteen $2,000 trade awards, school-paid. Requires equipment-rental career and industry affiliation; AIM aviation-maintenance fit is not confirmed.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9701,14 +9833,14 @@
       "note": "January 2, 2027 deadline; women pursuing automotive/vehicular/mobility careers, North American citizenship and GPA 3.0. Requires college/university acceptance; AIM nondegree trade-school acceptance is unconfirmed. Not a confirmed AIM award.",
       "sourceHealth": {
         "state": "unconfirmed",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
         "lastReached": null,
         "httpStatus": 403
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9717,14 +9849,14 @@
       "note": "Current $1,000 school-paid scholarship due March 31, 2027; aircraft maintenance appears in supported career examples. Dedicated criteria/application have no stated state limit, while mission emphasizes Iowa. Confirm NJ eligibility before treating as an AIM match.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9733,14 +9865,14 @@
       "note": "Official 2026–27 women’s community-college/vocational application available; amount, deadline, NJ coverage and remote participation in required video/impact activities need confirmation. Not a confirmed NJ award.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9749,14 +9881,14 @@
       "note": "January 2027 opening announced for graduating high-school seniors, including those heading to U.S. vocational/technical school. Not a current adult AIM student award; next full rules and deadline must be rechecked.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9765,14 +9897,14 @@
       "note": "Two $2,000 awards for women entering or advancing in communications infrastructure or tower construction, service or maintenance. The 2027 application is open and due January 15. Technical school, continuing education and university degree routes are listed.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9781,14 +9913,14 @@
       "note": "Fall application due November 15, 2026. Accredited education required for U.S. service members, veterans or eligible military spouses/dependents. First awards $1,500 and returning-scholar awards $2,500. Confirm whether nondegree vocational enrollment is accepted and how funds are paid.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9797,14 +9929,14 @@
       "note": "NJ recent high school graduates and seniors pursuing boilermaker trades such as welding, fabrication or pipefitting. The page gives conflicting class-year wording. Confirm the current intake and dates through the provider.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9813,14 +9945,14 @@
       "note": "The sponsor and Collision Repair Education Foundation announce a January 2027 reopening. The shared CREF intake serves eligible women pursuing collision repair.",
       "sourceHealth": {
         "state": "unconfirmed",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
         "lastReached": null,
         "httpStatus": 403
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9829,14 +9961,14 @@
       "note": "Up to $4,000 for eligible military spouses pursuing approved credentials or associate study. Confirm school/program approval and current military eligibility before counting this as an AIM match.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9845,14 +9977,14 @@
       "note": "Envoy documented scholarship presentations at the Atlanta campus and earlier events at Kansas City and Chicago. Watch for any new published NJ application and eligibility terms.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
@@ -9861,30 +9993,63 @@
       "note": "Separate welding certificate, district and national routes, with named industry and women-in-welding donors. The provider’s portal matches award-specific school and credential requirements.",
       "sourceHealth": {
         "state": "ok",
-        "checkedAt": "2026-11-07T23:39:17.113512Z",
-        "lastReached": "2026-11-07T23:39:17.113512Z",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
         "httpStatus": 200
       },
       "maintenance": {
         "hidden": false,
         "hiddenReason": null,
-        "evaluatedOn": "2026-11-07"
+        "evaluatedOn": "2026-11-08"
       }
     },
     {
       "name": "Women In Trucking Foundation · scholarship relaunch watch",
       "url": "https://www.womenintruckingfoundation.org/apply",
-      "note": "The sponsor canceled the fall 2026 cycle while reviewing eligibility and procedures. Its previous program covered eligible trucking training, including technical routes, with payment to the training institution. Check for a relaunch announcement and revised rules."
+      "note": "The sponsor canceled the fall 2026 cycle while reviewing eligibility and procedures. Its previous program covered eligible trucking training, including technical routes, with payment to the training institution. Check for a relaunch announcement and revised rules.",
+      "sourceHealth": {
+        "state": "ok",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
+        "httpStatus": 200
+      },
+      "maintenance": {
+        "hidden": false,
+        "hiddenReason": null,
+        "evaluatedOn": "2026-11-08"
+      }
     },
     {
       "name": "New Jersey One-Stop · workforce training funding",
       "url": "https://www.nj.gov/labor/myunemployment/jobseekers/training/",
-      "note": "Ask a One-Stop counselor about WIOA or NJ Opportunity Partnership training assistance before enrolling. Individual funding and eligibility depend on approval of the specific training program and the participant."
+      "note": "Ask a One-Stop counselor about WIOA or NJ Opportunity Partnership training assistance before enrolling. Individual funding and eligibility depend on approval of the specific training program and the participant.",
+      "sourceHealth": {
+        "state": "ok",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
+        "httpStatus": 200
+      },
+      "maintenance": {
+        "hidden": false,
+        "hiddenReason": null,
+        "evaluatedOn": "2026-11-08"
+      }
     },
     {
       "name": "P.E.O. STAR · high-school-entry scholarship source",
       "url": "https://www.peointernational.org/educational-support/star-scholarship/eligibility-and-application-process/",
-      "note": "For women in their final year of high school entering an accredited U.S. or Canadian postsecondary institution. Local chapter recommendation required. Check the sponsor’s chapter and applicant schedules."
+      "note": "For women in their final year of high school entering an accredited U.S. or Canadian postsecondary institution. Local chapter recommendation required. Check the sponsor’s chapter and applicant schedules.",
+      "sourceHealth": {
+        "state": "ok",
+        "checkedAt": "2026-11-08T13:13:31.101635Z",
+        "lastReached": "2026-11-08T13:13:31.101635Z",
+        "httpStatus": 200
+      },
+      "maintenance": {
+        "hidden": false,
+        "hiddenReason": null,
+        "evaluatedOn": "2026-11-08"
+      }
     }
   ],
   "notes": [
