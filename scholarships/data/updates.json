@@ -1,9 +1,29 @@
 {
-  "lastAttempt": "2026-11-08T17:56:56.954247Z",
+  "lastAttempt": "2026-11-08T23:45:38.389565Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
   "sourcesChecked": 186,
   "sourcesTotal": 199,
   "changes": [
+    {
+      "provider": "TOPDON Technology USA",
+      "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
+      "at": "2026-11-08T23:45:38.389565Z"
+    },
+    {
+      "provider": "Military OneSource SpouseWorks · credential funding",
+      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
+      "at": "2026-11-08T23:45:38.389565Z"
+    },
+    {
+      "provider": "Mary E. Smith Foundation",
+      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
+      "at": "2026-11-08T23:45:38.389565Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-08T23:45:38.389565Z"
+    },
     {
       "provider": "TOPDON Technology USA",
       "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
@@ -158,26 +178,6 @@
       "provider": "NBAA",
       "url": "https://nbaa.org/professional-development/scholarships/",
       "at": "2026-11-07T00:07:47.834519Z"
-    },
-    {
-      "provider": "mikeroweWORKS",
-      "url": "https://mikeroweworks.org/scholarship/",
-      "at": "2026-11-07T00:07:47.834519Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-07T00:07:47.834519Z"
-    },
-    {
-      "provider": "Zonta International",
-      "url": "https://www.zonta.org/Web/Programs/Education/Zonta_Young_Women_in_Leadership_Award.aspx",
-      "at": "2026-11-06T19:27:03.187713Z"
-    },
-    {
-      "provider": "Zonta International",
-      "url": "https://www.zonta.org/Web/Programs/Education/Zonta_Women_in_Business_Leadership_Award.aspx",
-      "at": "2026-11-06T19:27:03.187713Z"
     }
   ],
   "discovered": [],
