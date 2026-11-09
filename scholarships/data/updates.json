@@ -1,9 +1,39 @@
 {
-  "lastAttempt": "2026-11-08T23:45:38.389565Z",
+  "lastAttempt": "2026-11-09T14:09:32.451003Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 186,
-  "sourcesTotal": 199,
+  "sourcesChecked": 196,
+  "sourcesTotal": 210,
   "changes": [
+    {
+      "provider": "National Military Family Association",
+      "url": "https://www.militaryfamily.org/state-of-the-military-family-programs/spouses-scholarships/military-spouse-scholarship-faqs/",
+      "at": "2026-11-09T14:09:32.451003Z"
+    },
+    {
+      "provider": "Airborne MX training",
+      "url": "https://www.airbornemx.com/services/training",
+      "at": "2026-11-09T14:09:32.451003Z"
+    },
+    {
+      "provider": "Scholarships360",
+      "url": "https://scholarships360.org/scholarships/search/making-waves-scholarship-for-women/",
+      "at": "2026-11-09T14:09:32.451003Z"
+    },
+    {
+      "provider": "OBAP",
+      "url": "https://obap.org/outreach-programs/scholarships/",
+      "at": "2026-11-09T14:09:32.451003Z"
+    },
+    {
+      "provider": "mikeroweWORKS",
+      "url": "https://mikeroweworks.org/scholarship/",
+      "at": "2026-11-09T14:09:32.451003Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-09T14:09:32.451003Z"
+    },
     {
       "provider": "TOPDON Technology USA",
       "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
@@ -148,36 +178,6 @@
       "provider": "WTS New Jersey",
       "url": "https://www.wtsinternational.org/chapters/new-jersey/scholarships",
       "at": "2026-11-07T00:07:47.834519Z"
-    },
-    {
-      "provider": "Military OneSource SpouseWorks · credential funding",
-      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
-      "at": "2026-11-07T00:07:47.834519Z"
-    },
-    {
-      "provider": "NBAA",
-      "url": "https://nbaa.org/professional-development/scholarships/william-m-fanning-maintenance-scholarship/",
-      "at": "2026-11-07T00:07:47.834519Z"
-    },
-    {
-      "provider": "NBAA",
-      "url": "https://nbaa.org/professional-development/scholarships/john-f-rahilly-memorial-scholarship-future-ap-technicians/",
-      "at": "2026-11-07T00:07:47.834519Z"
-    },
-    {
-      "provider": "NBAA",
-      "url": "https://nbaa.org/professional-development/scholarships/hank-hilsmann-memorial-scholarship/",
-      "at": "2026-11-07T00:07:47.834519Z"
-    },
-    {
-      "provider": "NBAA",
-      "url": "https://nbaa.org/professional-development/scholarships/amt-maintenance-scholarship/",
-      "at": "2026-11-07T00:07:47.834519Z"
-    },
-    {
-      "provider": "NBAA",
-      "url": "https://nbaa.org/professional-development/scholarships/",
-      "at": "2026-11-07T00:07:47.834519Z"
     }
   ],
   "discovered": [],
@@ -248,6 +248,12 @@
       "httpStatus": 444
     },
     {
+      "url": "https://www.gofoodservice.com/scholarship",
+      "provider": "GoFoodservice",
+      "error": "HTTP 403",
+      "httpStatus": 403
+    },
+    {
       "url": "https://www.ngpa.org/2026_scholarships",
       "provider": "NGPA",
       "error": "HTTP 403",
@@ -260,7 +266,7 @@
     }
   ],
   "maintenance": {
-    "visibleRecords": 183,
+    "visibleRecords": 193,
     "hiddenExpired": 5,
     "hiddenMissing": 0,
     "restoredThisRun": 0,
