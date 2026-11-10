@@ -1,9 +1,59 @@
 {
-  "lastAttempt": "2026-11-09T22:24:28.935244Z",
+  "lastAttempt": "2026-11-10T13:58:06.203393Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 196,
-  "sourcesTotal": 210,
+  "sourcesChecked": 206,
+  "sourcesTotal": 220,
   "changes": [
+    {
+      "provider": "Professional Aviation Maintenance Association",
+      "url": "https://www.pama.org/scholarship.html",
+      "at": "2026-11-10T13:58:06.203393Z"
+    },
+    {
+      "provider": "Military OneSource SpouseWorks · credential funding",
+      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
+      "at": "2026-11-10T13:58:06.203393Z"
+    },
+    {
+      "provider": "National Military Family Association",
+      "url": "https://www.militaryfamily.org/state-of-the-military-family-programs/spouses-scholarships/military-spouse-scholarship-faqs/",
+      "at": "2026-11-10T13:58:06.203393Z"
+    },
+    {
+      "provider": "Pioneer Military Credit",
+      "url": "https://pioneermilitarycredit.com/military-spouse-scholarship/",
+      "at": "2026-11-10T13:58:06.203393Z"
+    },
+    {
+      "provider": "OBAP",
+      "url": "https://obap.org/outreach-programs/scholarships/",
+      "at": "2026-11-10T13:58:06.203393Z"
+    },
+    {
+      "provider": "flyExclusive current roles",
+      "url": "https://flyexclusive.com/job-openings",
+      "at": "2026-11-10T13:58:06.203393Z"
+    },
+    {
+      "provider": "Elliott Aviation careers",
+      "url": "https://elliottaviation.com/about-us/careers/",
+      "at": "2026-11-10T13:58:06.203393Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-10T13:58:06.203393Z"
+    },
+    {
+      "provider": "Republic Airways",
+      "url": "https://careers.rjet.com/pathways-and-programs/aircraft-maintenance-apprenticeships/",
+      "at": "2026-11-10T13:58:06.203393Z"
+    },
+    {
+      "provider": "Republic Airways / AIM",
+      "url": "https://careers.rjet.com/jobs/jr-004824/rjet-maintenance-cadet/",
+      "at": "2026-11-10T13:58:06.203393Z"
+    },
     {
       "provider": "TOPDON Technology USA",
       "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
@@ -128,56 +178,6 @@
       "provider": "United technician pathways",
       "url": "https://careers.united.com/us/en/united-pathways",
       "at": "2026-11-08T23:45:38.389565Z"
-    },
-    {
-      "provider": "TOPDON Technology USA",
-      "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
-      "at": "2026-11-08T17:56:56.954247Z"
-    },
-    {
-      "provider": "Envoy Air · AIM maintenance partnership updates",
-      "url": "https://www.envoyair.com/2026/10/28/continuing-our-partnership-with-aim/",
-      "at": "2026-11-08T17:56:56.954247Z"
-    },
-    {
-      "provider": "Envoy preferred A&P-school partnerships",
-      "url": "https://www.envoyair.com/2025/12/03/envoy-announces-preferred-airframe-powerplant-school-partnerships/",
-      "at": "2026-11-08T17:56:56.954247Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-08T17:56:56.954247Z"
-    },
-    {
-      "provider": "Military OneSource SpouseWorks · credential funding",
-      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
-      "at": "2026-11-08T13:13:31.101635Z"
-    },
-    {
-      "provider": "National Military Family Association",
-      "url": "https://www.militaryfamily.org/state-of-the-military-family-programs/spouses-scholarships/military-spouse-scholarship-faqs/",
-      "at": "2026-11-08T13:13:31.101635Z"
-    },
-    {
-      "provider": "Scholarships360",
-      "url": "https://scholarships360.org/scholarships/search/making-waves-scholarship-for-women/",
-      "at": "2026-11-08T13:13:31.101635Z"
-    },
-    {
-      "provider": "OBAP",
-      "url": "https://obap.org/outreach-programs/scholarships/",
-      "at": "2026-11-08T13:13:31.101635Z"
-    },
-    {
-      "provider": "mikeroweWORKS",
-      "url": "https://mikeroweworks.org/scholarship/",
-      "at": "2026-11-08T13:13:31.101635Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-08T13:13:31.101635Z"
     }
   ],
   "discovered": [],
@@ -266,7 +266,7 @@
     }
   ],
   "maintenance": {
-    "visibleRecords": 193,
+    "visibleRecords": 201,
     "hiddenExpired": 5,
     "hiddenMissing": 0,
     "restoredThisRun": 0,
