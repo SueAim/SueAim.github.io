@@ -1,9 +1,29 @@
 {
-  "lastAttempt": "2026-11-11T09:54:32.998716Z",
+  "lastAttempt": "2026-11-11T13:27:31.133629Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 205,
-  "sourcesTotal": 220,
+  "sourcesChecked": 215,
+  "sourcesTotal": 231,
   "changes": [
+    {
+      "provider": "Military OneSource SpouseWorks · credential funding",
+      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
+      "at": "2026-11-11T13:27:31.133629Z"
+    },
+    {
+      "provider": "Scholarships360",
+      "url": "https://scholarships360.org/scholarships/search/making-waves-scholarship-for-women/",
+      "at": "2026-11-11T13:27:31.133629Z"
+    },
+    {
+      "provider": "NLHA Education Fund",
+      "url": "https://hudnlha.com/education-fund/",
+      "at": "2026-11-11T13:27:31.133629Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-11T13:27:31.133629Z"
+    },
     {
       "provider": "TOPDON Technology USA",
       "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
@@ -158,30 +178,16 @@
       "provider": "TOPDON Technology USA",
       "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
       "at": "2026-11-09T22:24:28.935244Z"
-    },
-    {
-      "provider": "RACCA",
-      "url": "https://www.raccaonline.org/scholarship",
-      "at": "2026-11-09T22:24:28.935244Z"
-    },
-    {
-      "provider": "New Jersey One-Stop · workforce training funding",
-      "url": "https://www.nj.gov/labor/myunemployment/jobseekers/training/",
-      "at": "2026-11-09T22:24:28.935244Z"
-    },
-    {
-      "provider": "NJ Department of Education · adult technical programs",
-      "url": "https://www.nj.gov/education/cte/postsec/pcte/",
-      "at": "2026-11-09T22:24:28.935244Z"
-    },
-    {
-      "provider": "Envoy Air · AIM maintenance partnership updates",
-      "url": "https://www.envoyair.com/2026/10/28/continuing-our-partnership-with-aim/",
-      "at": "2026-11-09T22:24:28.935244Z"
     }
   ],
   "discovered": [],
   "failures": [
+    {
+      "url": "https://aopa-caa.secure-platform.com/site",
+      "provider": "AOPA / CAA · Preferred FBO Employee Scholarship",
+      "error": "HTTP 403",
+      "httpStatus": 403
+    },
     {
       "url": "https://awafoundation.org/How_to_Apply",
       "provider": "Automotive Women's Alliance Foundation · program eligibility check",
@@ -236,6 +242,11 @@
       "httpStatus": 403
     },
     {
+      "url": "https://www.atsmro.com/2024/10/17/ats-apprenticeship-program-hits-milestone/",
+      "provider": "Aviation Technical Services",
+      "error": "URLError"
+    },
+    {
       "url": "https://www.capeair.com/careers/",
       "provider": "Cape Air maintenance / TechOps careers",
       "error": "HTTP 403",
@@ -260,19 +271,13 @@
       "httpStatus": 403
     },
     {
-      "url": "https://www.pathtopro.com/foundation/",
-      "provider": "The Home Depot Foundation / SKILLED Nation",
-      "error": "HTTP 403",
-      "httpStatus": 403
-    },
-    {
       "url": "https://www.share.cessna.com/en/careers/apprenticeships",
       "provider": "Textron Aviation",
       "error": "URLError"
     }
   ],
   "maintenance": {
-    "visibleRecords": 201,
+    "visibleRecords": 210,
     "hiddenExpired": 5,
     "hiddenMissing": 0,
     "restoredThisRun": 0,
