@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "reviewed": "2026-11-10",
+  "reviewed": "2026-11-11",
   "scope": "New Jersey residents and students attending New Jersey schools; nationwide and international providers accepting NJ applicants",
   "records": [
     {
@@ -1194,7 +1194,7 @@
       "value": null,
       "status": "open",
       "deadline": "2027-01-10",
-      "opens": null,
+      "opens": "2026-10-06",
       "geo": "national",
       "states": [],
       "benefit": "training",
@@ -1205,12 +1205,12 @@
       "minAge": null,
       "maxAge": null,
       "stage": "student",
-      "requirements": "Current maintenance student or business-aviation professional; citizenship/residency rules, essay, résumé, recommendation and transcript/documentation. No A&P needed for student applicants; each course has prerequisites.",
+      "requirements": "Current accredited A&P or Part 147 students, working general aviation mechanics with A&P, or aviation military personnel transitioning to business aviation. Current AIM NJ Part 147 students can apply without a completed degree or A&P. Individual donated courses may have prerequisites.",
       "group": null,
       "ai": "unknown",
       "kind": "scholarship",
-      "note": "Donated courses, not wages or tuition cash. Options cover avionics/AET exams, engines and aircraft courses from providers including Collins, Garmin, Gogo, CAE, Dassault, FlightSafety, Rolls-Royce, Textron and Williams. Rank eligible courses; IA courses need prior qualifications. Scholarship winners may separately request AMT Travel Fund assistance; travel funding is not automatic.",
-      "reviewed": "2026-10-28",
+      "note": "Apply through NBAA Charities by January 10, 2027 at 11 p.m. Eastern. Rank the donated courses and supply an essay, résumé and recommendation. Full-time students submit enrollment evidence. This award pays for donated training, including maintenance, engines and avionics courses. Course prerequisites vary.",
+      "reviewed": "2026-11-11",
       "added": "2026-10-28",
       "provider": "association",
       "relocation": false,
@@ -1230,9 +1230,13 @@
         "evaluatedOn": "2026-11-11"
       },
       "eligibility": {
-        "citizenship": "The summary lists U.S. citizens and permanent residents, but the detailed text also mentions a student visa. Confirm the wording with NBAA if applying as a noncitizen.",
-        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
-      }
+        "citizenship": "NBAA’s current application lists U.S. citizens and permanent residents for the Part 147 student route. A visa alone is not confirmed as sufficient.",
+        "age": "No numerical age limit was stated in the public rules reviewed.",
+        "source": "https://nbaa.smapply.io/prog/2027-amt-maintenance-scholarship/"
+      },
+      "references": [
+        "https://nbaa.smapply.io/prog/2027-amt-maintenance-scholarship/"
+      ]
     },
     {
       "id": "nbaa-hank-hilsmann-memorial-scholarship",
@@ -5003,7 +5007,7 @@
       "group": null,
       "ai": "unknown",
       "kind": "scholarship",
-      "reviewed": "2026-11-09",
+      "reviewed": "2026-11-11",
       "added": "2026-10-28",
       "addedAt": "2026-10-28T16:13:52.760Z",
       "provider": "association",
@@ -5019,14 +5023,15 @@
       "url": "https://www.aopa.org/training-and-safety/students/aopa-flight-training-scholarships",
       "references": [
         "https://aopafoundation.secure-platform.com/site",
-        "https://aopa.org/news-and-media/all-news/2026/october/22/aopa-foundation-awards-record-number-of-scholarships"
+        "https://aopa.org/news-and-media/all-news/2026/october/22/aopa-foundation-awards-record-number-of-scholarships",
+        "https://www.aopa.org/training-and-safety/students/aopa-flight-training-scholarships/caa-preferred-fbo-employee-scholarship"
       ],
       "amount": "Varies · donor-funded maintenance awards",
       "value": null,
       "benefit": "unconfirmed",
       "deadline": "2026-12-31",
       "requirements": "Current AOPA membership and eligible residency, including U.S./NJ applicants. The open shared application includes maintenance pathways, with additional program and donor criteria. AOPA’s Carlsbad and Sonoma Jet Center example explicitly includes A&P study and requires full- or part-time employment at a U.S. FBO at application and award. AOPA does not state a completed degree requirement for that example.",
-      "note": "Fall intake closes December 31 at 11:59 p.m. Eastern. One shared application, two recommendations and required documents. Membership may cost money. Award funds use a prepaid expense card for eligible expenses. AOPA lists two $6,000 Carlsbad/Sonoma awards among past examples. Confirm current donor availability in the portal. The separate Shafer example requires college or university enrollment.",
+      "note": "Fall intake closes December 31 at 11:59 p.m. Eastern. One shared application, two recommendations and required documents. Membership may cost money. Award funds use a prepaid expense card for eligible expenses. AOPA lists two $6,000 Carlsbad/Sonoma awards among past examples. Confirm current donor availability in the portal. The separate Shafer example requires college or university enrollment. The $5,000 Edward B. Shafer award includes aircraft maintenance and gives preference to women, minorities and Midwest applicants. It requires current accredited university or college enrollment. Confirm AIM’s institution type with AOPA. The CAA Preferred FBO Employee Scholarship has its own application and employer criteria.",
       "sourceHealth": {
         "state": "ok",
         "checkedAt": "2026-11-11T09:54:32.998716Z",
@@ -10749,6 +10754,392 @@
         "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
         "age": "No numerical age limit confirmed. Check the current application."
       }
+    },
+    {
+      "id": "lmm-fund-spring-2027",
+      "name": "Lisa Michelle Memorial Fund Scholarship",
+      "org": "The Lisa Michelle Memorial Fund",
+      "url": "https://thelmmfund.org/scholarships/how-to-apply/",
+      "amount": "$250–$1,000",
+      "value": 1000,
+      "status": "open",
+      "deadline": "2026-11-30",
+      "opens": "2026-08-01",
+      "geo": "national",
+      "states": [],
+      "benefit": "school",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "requirements": "U.S. or Canadian citizen living in the U.S. or Canada. Trade-school, college and university students may apply in any major, including an eligible AIM NJ certificate. Full- or part-time enrollment and a 3.0 cumulative GPA are required. A listed close family member must have died due to substance abuse. No prior degree is required. Previous winners are excluded.",
+      "group": null,
+      "ai": "unknown",
+      "kind": "scholarship",
+      "note": "Apply personally using the sponsor’s form and email instructions by November 30, 2026. The current form requires written proof of the cause of death. The sponsor instructs applicants to redact Social Security numbers. Its announcement also lists loss of a child, which the application omits. Confirm that relationship with the fund before sending documents. Payments go to the school.",
+      "reviewed": "2026-11-11",
+      "added": "2026-11-11",
+      "provider": "foundation",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential",
+      "recurring": true,
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "U.S. or Canadian citizenship is required. A green card alone does not qualify.",
+        "age": "The form gives instructions for minors and lists no numerical age cutoff."
+      },
+      "minValue": 250,
+      "references": [
+        "https://thelmmfund.org/wp-content/uploads/2026/08/spring-2027-scholarship-application.pdf",
+        "https://thelmmfund.org/2026/08/01/now-accepting-spring-2027-scholarship-applications/"
+      ]
+    },
+    {
+      "id": "scholarships360-follow-your-own-path",
+      "name": "Follow Your Own Path Essay Scholarship",
+      "org": "Scholarships360",
+      "url": "https://scholarships360.org/scholarships/search/follow-your-own-path-essay-scholarship/",
+      "amount": "$1,000",
+      "value": 1000,
+      "status": "open",
+      "deadline": "2027-08-31",
+      "opens": "2026-10-08",
+      "geo": "national",
+      "states": [],
+      "benefit": "school",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "requirements": "Current students in technical, vocational or certificate programs can apply, including AIM NJ A&P certificate students who meet the individual rules. U.S. citizenship or permanent residence required. No specific major or completed degree is listed.",
+      "group": null,
+      "ai": "unknown",
+      "kind": "scholarship",
+      "note": "A free account on the sponsor’s platform is required. The sponsor evaluates a short essay, academic achievement, financial need and activity on its site. The sponsor describes school payment. Confirm disbursement details for a standalone trade school. The current cycle ends August 31, 2027.",
+      "reviewed": "2026-11-11",
+      "added": "2026-11-11",
+      "provider": "foundation",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential",
+      "recurring": false,
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "U.S. citizens and lawful permanent residents (green-card holders) may apply.",
+        "age": "No numerical age limit is listed for this award. Applicants under 18 need a parent or guardian to consent under the platform rules.",
+        "source": "https://scholarships360.org/scholarship-rules/"
+      },
+      "references": [
+        "https://scholarships360.org/scholarship-rules/"
+      ]
+    },
+    {
+      "id": "scholarships360-10000-no-essay",
+      "name": "Scholarships360 $10,000 No Essay Scholarship",
+      "org": "Scholarships360",
+      "url": "https://scholarships360.org/scholarships/search/10000-no-essay-scholarship/",
+      "amount": "$10,000",
+      "value": 10000,
+      "status": "rolling",
+      "deadline": "2027-06-30",
+      "opens": "2026-07-01",
+      "geo": "national",
+      "states": [],
+      "benefit": "school",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "requirements": "U.S. citizens or permanent residents in eligible technical or vocational study may apply, including AIM NJ certificate students who meet the sponsor’s rules. Adult learners and other students are eligible. No specific major or completed degree is listed.",
+      "group": null,
+      "ai": "unknown",
+      "kind": "scholarship",
+      "note": "The sponsor shows a November 30, 2026 monthly cutoff and June 30, 2027 as the final cycle deadline. This is one award. Platform participation influences selection and finalists may be interviewed. Depending on school requirements the check goes to the school in both the school’s and student’s names.",
+      "reviewed": "2026-11-11",
+      "added": "2026-11-11",
+      "provider": "foundation",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential",
+      "recurring": false,
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "U.S. citizens and lawful permanent residents (green-card holders) may apply.",
+        "age": "No numerical age limit is listed for this award. Applicants under 18 need a parent or guardian to consent under the platform rules.",
+        "source": "https://scholarships360.org/scholarship-rules/"
+      },
+      "references": [
+        "https://scholarships360.org/scholarship-rules/"
+      ]
+    },
+    {
+      "id": "green-beret-bennie-adkins",
+      "name": "Bennie Adkins Scholarship · vocational study",
+      "org": "Green Beret Foundation / Bennie Adkins Foundation",
+      "url": "https://greenberetfoundation.org/csmr-bennie-adkins-scholarship/",
+      "amount": "Amount varies / unpublished",
+      "value": null,
+      "status": "rolling",
+      "deadline": null,
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "school",
+      "gender": "all",
+      "community": [
+        "Military transition"
+      ],
+      "veteran": true,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "requirements": "U.S. Army Special Forces soldiers on active duty, separated within the last five years or retired within the last five years. Applicants must be accepted or enrolled at an accredited vocational institution, college or university. The rules list no specific major or completed degree. Accredited AIM NJ vocational study can fit the stated school category.",
+      "group": null,
+      "ai": "unknown",
+      "kind": "scholarship",
+      "note": "The provider takes applications year-round. Use the official form with service records, acceptance letter or transcript and a personal statement. Funding goes directly to the school for eligible education costs. No fixed amount or job placement is published.",
+      "reviewed": "2026-11-11",
+      "added": "2026-11-11",
+      "provider": "foundation",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential",
+      "recurring": true,
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "The published rules do not specify a separate U.S. citizenship or green-card requirement. Check the current application.",
+        "age": "No numerical age limit was stated in the public rules reviewed."
+      },
+      "references": [
+        "https://www.bennieadkinsfoundation.org/",
+        "https://greenberetfoundation.org/jedburghpodcast/150-supporting-green-berets-of-every-generation-green-beret-foundation-president-ceo-charlie-iacono/"
+      ]
+    },
+    {
+      "id": "army-emergency-relief-shinseki-spouse",
+      "name": "Patty Shinseki Army Spouse Scholarship",
+      "org": "Army Emergency Relief",
+      "url": "https://www.armyemergencyrelief.org/scholarships/spouse/",
+      "amount": "Varies with financial need",
+      "value": null,
+      "status": "rolling",
+      "deadline": null,
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "school",
+      "gender": "all",
+      "community": [
+        "Military family"
+      ],
+      "veteran": true,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "requirements": "Eligible DEERS-listed Army spouses and survivors, including specified Title 10 Guard/Reserve families. FAFSA financial need and GPA 2.0 minimum. Full- and part-time study at an accredited eligible institution. The sponsor overview allows first technical certifications, while the application guidelines emphasize a first undergraduate degree. Confirm AIM NJ’s standalone A&P certificate before relying on eligibility. Second bachelor’s degrees are case-by-case. Graduate study is excluded.",
+      "group": null,
+      "ai": "unknown",
+      "kind": "scholarship",
+      "note": "Apply year-round through the linked portal and consult the current term processing calendar. Funds go directly to the institution for eligible tuition, fees, books and supplies. The applicant cannot themselves be active duty, in the Guard or Reserves, or retired from a military branch. A spouse of a separated, nonretired Soldier does not qualify.",
+      "reviewed": "2026-11-11",
+      "added": "2026-11-11",
+      "provider": "foundation",
+      "relocation": false,
+      "career": "none",
+      "fit": "degree-check",
+      "recurring": true,
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "DEERS-dependent status and FAFSA documentation are required. The sponsor does not specify a separate citizenship or green-card rule in its public guidelines.",
+        "age": "No numerical age limit was stated in the public rules reviewed."
+      },
+      "references": [
+        "https://www.armyemergencyrelief.org/scholarships/",
+        "https://www.armyemergencyrelief.org/resource/2026-2027-mrs-patty-shinseki-spouse-scholarship-program/",
+        "https://aerhq.academicworks.com/"
+      ]
+    },
+    {
+      "id": "spouseworks-military-credential-scholarship",
+      "name": "SpouseWorks Scholarship · approved credentials",
+      "org": "Military OneSource",
+      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
+      "amount": "Up to $4,000 in tuition assistance",
+      "value": 4000,
+      "status": "rolling",
+      "deadline": null,
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "school",
+      "gender": "all",
+      "community": [
+        "Military family"
+      ],
+      "veteran": true,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "requirements": "Eligible military spouses across all ranks under qualifying active-duty or Title 10 Guard/Reserve rules. Funding supports approved licenses, certifications, associate degrees and certain continuing education. No completed degree is required. The school and education plan must qualify. AIM NJ campus and program approval are unconfirmed.",
+      "group": null,
+      "ai": "unknown",
+      "kind": "scholarship",
+      "note": "Use the official eligibility and approved-school portal before enrolling or incurring costs. The benefit is tuition assistance for an approved plan. Check the portal for service-branch and duty-status rules and current intake. No annual competition deadline is published.",
+      "reviewed": "2026-11-11",
+      "added": "2026-11-11",
+      "provider": "foundation",
+      "relocation": false,
+      "career": "none",
+      "fit": "other-program",
+      "recurring": true,
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "Eligibility is based on qualifying military spouse and duty status. The public overview does not specify a separate citizenship or green-card rule.",
+        "age": "No numerical age limit was stated in the public rules reviewed."
+      },
+      "references": [
+        "https://mycaa.militaryonesource.mil/mycaa/",
+        "https://www.militaryonesource.mil/resources/network/spouseworks/"
+      ]
+    },
+    {
+      "id": "afas-hap-arnold-education-grant",
+      "name": "Hap Arnold Education Grant · military family",
+      "org": "Air & Space Forces Aid Society",
+      "url": "https://afas.org/haparnoldgrant/",
+      "amount": "Varies with financial need",
+      "value": null,
+      "status": "upcoming",
+      "deadline": null,
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "unconfirmed",
+      "gender": "all",
+      "community": [
+        "Military family"
+      ],
+      "veteran": true,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "requirements": "Eligible children, spouses or surviving spouses of qualifying Air Force or Space Force members. High-school graduate, full-time undergraduate enrollment or acceptance for the award year, GPA 2.0 and federal-aid dependent status. The sponsor expressly includes accredited trade schools approved for federal student aid. Confirm the exact AIM NJ certificate and enrollment schedule. Graduate/professional students and applicants who are themselves veterans or military members are excluded.",
+      "group": null,
+      "ai": "unknown",
+      "kind": "grant",
+      "note": "The provider announces an early January 2027 opening for 2027–28. Exact dates, payment destination and award amounts are unconfirmed. FAFSA Student Aid Index affects the grant. The same application is a gateway for other AFAS opportunities, which have separate criteria.",
+      "reviewed": "2026-11-11",
+      "added": "2026-11-11",
+      "provider": "foundation",
+      "relocation": false,
+      "career": "none",
+      "fit": "other-program",
+      "recurring": true,
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "Federal aid dependent status and FAFSA documentation apply. The sponsor does not specify a separate citizenship or green-card rule in its public overview.",
+        "age": "Children must remain under 24 during the award year. The published cutoff applies to the child route."
+      },
+      "opensMonth": "2027-01"
+    },
+    {
+      "id": "piston-fund-automotive-2027",
+      "name": "Piston Fund Automotive Trades Scholarship",
+      "org": "The Piston Foundation",
+      "url": "https://pistonfoundation.org/programs/piston-fund-automotive-scholarship/",
+      "amount": "Up to $5,000",
+      "value": 5000,
+      "status": "upcoming",
+      "deadline": "2027-04-11",
+      "opens": "2027-01-01",
+      "geo": "national",
+      "states": [],
+      "benefit": "school",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "requirements": "Collector-car restoration or service career interest and financial need. Eligible accredited U.S. programs cover automotive or motorsports vehicle technology, automotive restoration or automotive engineering. The rules list bachelor’s, associate and vocational-technical credentials, including certificates. Confirm the sponsor’s two- or four-year wording for a shorter automotive program. AIM NJ aircraft maintenance is outside the listed fields.",
+      "group": null,
+      "ai": "unknown",
+      "kind": "scholarship",
+      "note": "The Fall 2027 application is scheduled for January 1 through April 11, 2027, closing at 11:59 p.m. Eastern. The announcement year on the provider page appears inconsistent, so check that separately. School payments arrive in two installments. Mentorship and a separate apprenticeship pathway are available through the foundation. A scholarship does not guarantee a position.",
+      "reviewed": "2026-11-11",
+      "added": "2026-11-11",
+      "provider": "foundation",
+      "relocation": false,
+      "career": "none",
+      "fit": "other-program",
+      "recurring": true,
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "U.S. citizens, permanent residents and international students with a visa allowing U.S. study may apply.",
+        "age": "No numerical age limit was stated in the public rules reviewed."
+      },
+      "references": [
+        "https://pistonfoundation.org/apply/",
+        "https://pistonfoundation.grantplatform.com/"
+      ]
+    },
+    {
+      "id": "nraef-restaurant-hospitality-scholarships",
+      "name": "NRAEF Restaurant and Hospitality Scholarships",
+      "org": "National Restaurant Association Educational Foundation",
+      "url": "https://chooserestaurants.org/programs/scholarships-grants/scholarships/",
+      "amount": "$2,500–$10,000",
+      "value": 10000,
+      "status": "upcoming",
+      "deadline": "2027-03-15",
+      "opens": "2027-01-15",
+      "geo": "national",
+      "states": [],
+      "benefit": "school",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "requirements": "Current part- or full-time study in an accredited postsecondary restaurant, foodservice or hospitality degree program. Prior undergraduate or graduate degree holders can apply if now pursuing a hospitality degree. No general certificate-only route is listed for this application. Some donor awards have narrower school, field or geography rules. AIM NJ’s A&P certificate is outside the degree and field rules.",
+      "group": null,
+      "ai": "unknown",
+      "kind": "scholarship",
+      "note": "The shared application opens January 15 and closes March 15, 2027. Funds go directly to the school in two installments. Separate industry certification, educator and event grants have their own requirements. Past recipients can reapply. Employees and family members of the national or a state restaurant association or the foundation are excluded.",
+      "reviewed": "2026-11-11",
+      "added": "2026-11-11",
+      "provider": "foundation",
+      "relocation": false,
+      "career": "none",
+      "fit": "degree-check",
+      "recurring": true,
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "The published rules do not specify a separate U.S. citizenship or green-card requirement. Check the current application.",
+        "age": "No numerical age limit was stated in the public rules reviewed."
+      },
+      "minValue": 2500,
+      "references": [
+        "https://opportunities.chooserestaurants.org/",
+        "https://chooserestaurants.org/programs/scholarships-grants/scholarships-grants-faqs/"
+      ]
     }
   ],
   "resources": [
@@ -11855,6 +12246,21 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-11"
       }
+    },
+    {
+      "name": "AOPA / CAA · Preferred FBO Employee Scholarship",
+      "url": "https://aopa-caa.secure-platform.com/site",
+      "note": "Separate application for eligible CAA Preferred FBO employees who are AOPA members. Up to 200 awards of $2,000 each for aviation education. Confirm the current cutoff directly in the dedicated portal."
+    },
+    {
+      "name": "Green Beret Foundation · Athena vocational grant",
+      "url": "https://greenberetfoundation.org/athena-scholarship-grant/",
+      "note": "The provider describes a year-round vocational grant for eligible Special Forces spouses. Access to the linked application could not be confirmed. The separate Athena Scholarship is anticipated to reopen in February 2027."
+    },
+    {
+      "name": "Beauty Changes Lives · vocational training scholarships",
+      "url": "https://beautychangeslives.org/scholarships-opportunities/",
+      "note": "Monitors named beauty and wellness training scholarships. The provider’s application portal currently has no open calls. Individual licensure, school and donor rules vary."
     }
   ],
   "notes": [
