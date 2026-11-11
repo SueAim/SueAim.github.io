@@ -1,9 +1,69 @@
 {
-  "lastAttempt": "2026-11-11T13:27:31.133629Z",
+  "lastAttempt": "2026-11-11T19:38:26.174658Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 215,
+  "sourcesChecked": 216,
   "sourcesTotal": 231,
   "changes": [
+    {
+      "provider": "TOPDON Technology USA",
+      "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
+      "at": "2026-11-11T19:38:26.174658Z"
+    },
+    {
+      "provider": "Student Movement Against Cancer · 2027 vocational-entry watch",
+      "url": "https://www.supportsmac.org/cfscholarship",
+      "at": "2026-11-11T19:38:26.174658Z"
+    },
+    {
+      "provider": "Military OneSource SpouseWorks · credential funding",
+      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
+      "at": "2026-11-11T19:38:26.174658Z"
+    },
+    {
+      "provider": "National Military Family Association",
+      "url": "https://www.militaryfamily.org/state-of-the-military-family-programs/spouses-scholarships/military-spouse-scholarship-faqs/",
+      "at": "2026-11-11T19:38:26.174658Z"
+    },
+    {
+      "provider": "American Welding Society Foundation",
+      "url": "https://www.aws.org/career-resources/students/scholarships/welder-training-scholarship/",
+      "at": "2026-11-11T19:38:26.174658Z"
+    },
+    {
+      "provider": "Schneider Electric / SKILLED Nation",
+      "url": "https://skilled-nation.org/partner/sescholarship",
+      "at": "2026-11-11T19:38:26.174658Z"
+    },
+    {
+      "provider": "SKILLED Nation · broader trade scholarship sponsors",
+      "url": "https://skilled-nation.org/apply/start",
+      "at": "2026-11-11T19:38:26.174658Z"
+    },
+    {
+      "provider": "OBAP",
+      "url": "https://obap.org/outreach-programs/scholarships/",
+      "at": "2026-11-11T19:38:26.174658Z"
+    },
+    {
+      "provider": "Nucor",
+      "url": "https://nucor.com/careers/",
+      "at": "2026-11-11T19:38:26.174658Z"
+    },
+    {
+      "provider": "National Air Transportation Foundation",
+      "url": "https://nata.aero/national-air-transportation-foundation/scholarships/nata-business-scholarship/",
+      "at": "2026-11-11T19:38:26.174658Z"
+    },
+    {
+      "provider": "Mary E. Smith Foundation",
+      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
+      "at": "2026-11-11T19:38:26.174658Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-11T19:38:26.174658Z"
+    },
     {
       "provider": "Military OneSource SpouseWorks · credential funding",
       "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
@@ -118,66 +178,6 @@
       "provider": "Mary E. Smith Foundation",
       "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
       "at": "2026-11-10T19:46:09.670902Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-10T19:46:09.670902Z"
-    },
-    {
-      "provider": "Professional Aviation Maintenance Association",
-      "url": "https://www.pama.org/scholarship.html",
-      "at": "2026-11-10T13:58:06.203393Z"
-    },
-    {
-      "provider": "Military OneSource SpouseWorks · credential funding",
-      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
-      "at": "2026-11-10T13:58:06.203393Z"
-    },
-    {
-      "provider": "National Military Family Association",
-      "url": "https://www.militaryfamily.org/state-of-the-military-family-programs/spouses-scholarships/military-spouse-scholarship-faqs/",
-      "at": "2026-11-10T13:58:06.203393Z"
-    },
-    {
-      "provider": "Pioneer Military Credit",
-      "url": "https://pioneermilitarycredit.com/military-spouse-scholarship/",
-      "at": "2026-11-10T13:58:06.203393Z"
-    },
-    {
-      "provider": "OBAP",
-      "url": "https://obap.org/outreach-programs/scholarships/",
-      "at": "2026-11-10T13:58:06.203393Z"
-    },
-    {
-      "provider": "flyExclusive current roles",
-      "url": "https://flyexclusive.com/job-openings",
-      "at": "2026-11-10T13:58:06.203393Z"
-    },
-    {
-      "provider": "Elliott Aviation careers",
-      "url": "https://elliottaviation.com/about-us/careers/",
-      "at": "2026-11-10T13:58:06.203393Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-10T13:58:06.203393Z"
-    },
-    {
-      "provider": "Republic Airways",
-      "url": "https://careers.rjet.com/pathways-and-programs/aircraft-maintenance-apprenticeships/",
-      "at": "2026-11-10T13:58:06.203393Z"
-    },
-    {
-      "provider": "Republic Airways / AIM",
-      "url": "https://careers.rjet.com/jobs/jr-004824/rjet-maintenance-cadet/",
-      "at": "2026-11-10T13:58:06.203393Z"
-    },
-    {
-      "provider": "TOPDON Technology USA",
-      "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
-      "at": "2026-11-09T22:24:28.935244Z"
     }
   ],
   "discovered": [],
@@ -240,11 +240,6 @@
       "provider": "AAUW",
       "error": "HTTP 403",
       "httpStatus": 403
-    },
-    {
-      "url": "https://www.atsmro.com/2024/10/17/ats-apprenticeship-program-hits-milestone/",
-      "provider": "Aviation Technical Services",
-      "error": "URLError"
     },
     {
       "url": "https://www.capeair.com/careers/",
