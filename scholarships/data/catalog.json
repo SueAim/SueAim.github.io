@@ -49,7 +49,11 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
       },
-      "monetaryAward": true
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "International students may apply under the chapter’s published rules. U.S. citizenship and a green card are optional. NJ residence or NJ school rules apply.",
+        "age": "No numerical age limit confirmed. Check the current application."
+      }
     },
     {
       "id": "wts-new-jersey-fred-berger-endowed-scholarship",
@@ -97,7 +101,11 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
       },
-      "monetaryAward": true
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "International students may apply under the chapter’s published rules. U.S. citizenship and a green card are optional. NJ residence or NJ school rules apply.",
+        "age": "No numerical age limit confirmed. Check the current application."
+      }
     },
     {
       "id": "aim-scholarship-match-program",
@@ -141,6 +149,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "AIM’s public page does not specify whether U.S. citizenship or permanent residence is required. Ask AIM NJ Financial Services.",
+        "age": "Ask AIM NJ Financial Services for the current age rules."
       }
     },
     {
@@ -187,6 +199,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "AIM’s public page does not specify whether U.S. citizenship or permanent residence is required. Ask AIM NJ Financial Services.",
+        "age": "Ask AIM NJ Financial Services for the current age rules."
       }
     },
     {
@@ -233,6 +249,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "AIM’s public page does not specify whether U.S. citizenship or permanent residence is required. Ask AIM NJ Financial Services.",
+        "age": "Ask AIM NJ Financial Services for the current age rules."
       }
     },
     {
@@ -277,6 +297,10 @@
         "hidden": true,
         "hiddenReason": "expired",
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -323,7 +347,11 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
       },
-      "monetaryAward": true
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "The sponsor lists Part 147 schools or foreign equivalents and routes applications through TechForce. Confirm which immigration statuses this award accepts in the award-specific application.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
+      }
     },
     {
       "id": "amc-fedex-frederick-w-smith-purple-promise-scholarship",
@@ -368,7 +396,11 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
       },
-      "monetaryAward": true
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "The sponsor lists Part 147 schools or foreign equivalents and routes applications through TechForce. Confirm which immigration statuses this award accepts in the award-specific application.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
+      }
     },
     {
       "id": "amc-jim-and-alice-rice-faa-test-fees-grant",
@@ -412,6 +444,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "The sponsor lists Part 147 schools or foreign equivalents and routes applications through TechForce. Confirm which immigration statuses this award accepts in the award-specific application.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -457,6 +493,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -502,6 +542,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -547,6 +591,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -592,6 +640,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -637,6 +689,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -682,6 +738,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -727,6 +787,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -772,6 +836,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -817,6 +885,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -862,6 +934,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -907,6 +983,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -952,6 +1032,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -997,6 +1081,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -1042,6 +1130,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -1087,6 +1179,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -1132,6 +1228,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "The summary lists U.S. citizens and permanent residents, but the detailed text also mentions a student visa. Confirm the wording with NBAA if applying as a noncitizen.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -1179,6 +1279,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizens and lawful permanent residents (green-card holders) may apply.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -1225,6 +1329,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizens and lawful permanent residents (green-card holders) may apply.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -1271,6 +1379,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "The applicant requirements explicitly list U.S. citizens and lawful permanent residents (green-card holders). An earlier sentence mentions U.S. citizens only. Confirm with NBAA if applying with a green card.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -1316,6 +1428,11 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizens may apply. The sponsor’s summary mentions permanent residents, but its detailed text names only U.S. citizens. Green-card holders should confirm with NBAA.",
+        "source": "https://nbaa.org/professional-development/scholarships/corporate-aircraft-association-scholarship-future-aviation-leaders/",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -1361,6 +1478,11 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizens may apply. The sponsor’s summary mentions permanent residents, but its detailed text names only U.S. citizens. Green-card holders should confirm with NBAA.",
+        "source": "https://nbaa.org/professional-development/scholarships/james-sullivan-aviation-scholarship/",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -1407,6 +1529,10 @@
         "hidden": true,
         "hiddenReason": "expired",
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "LPA requires eligible U.S. or U.S. territory training. The public program rules do not specify a citizenship or green-card requirement for this award.",
+        "age": "17 or older."
       }
     },
     {
@@ -1453,6 +1579,10 @@
         "hidden": true,
         "hiddenReason": "expired",
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "LPA requires eligible U.S. or U.S. territory training. The public program rules do not specify a citizenship or green-card requirement for this award.",
+        "age": "17 or older."
       }
     },
     {
@@ -1498,7 +1628,11 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
       },
-      "monetaryAward": true
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
+      }
     },
     {
       "id": "vertical-aviation-international-robinson-pete-riedl-amt-scholarship",
@@ -1543,7 +1677,11 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
       },
-      "monetaryAward": true
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
+      }
     },
     {
       "id": "eaa-post-secondary-scholarship-program",
@@ -1562,7 +1700,7 @@
       "community": [],
       "veteran": false,
       "parent": false,
-      "minAge": null,
+      "minAge": 16,
       "maxAge": null,
       "stage": "student",
       "requirements": "Aviation-related postsecondary study including A&P and technical schools. Provider matches one application to eligible awards.",
@@ -1588,6 +1726,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. or Canadian citizens and residents, including permanent residents, may apply. EAA also accepts eligible work or study status, such as a qualifying visa.",
+        "age": "Minimum age 16 under the EAA general program rules. Individual awards can require a higher age."
       }
     },
     {
@@ -1607,7 +1749,7 @@
       "community": [],
       "veteran": false,
       "parent": false,
-      "minAge": null,
+      "minAge": 17,
       "maxAge": null,
       "stage": "student",
       "requirements": "Planning to attend or enrolled in aviation technical training; ATEC-member schools may receive priority. NJ/Part 147 certificate students included; no previous A&P or college degree required in published criteria.",
@@ -1639,7 +1781,12 @@
         "https://www.chooseaerospace.org/uploads/1/2/4/0/124020013/ca_flyer-scholarships27_100526_v1-web.pdf",
         "https://skillednation.my.site.com/ScholarPortal/s/",
         "https://skilled-nation.org/apply/faqs"
-      ]
+      ],
+      "eligibility": {
+        "citizenship": "U.S. citizens, lawful permanent residents and applicants with other legal U.S. status may apply under SKILLED Nation’s general rules. Check the specific award for exceptions.",
+        "age": "17 or older when applying under the shared program rules. Check the specific award for exceptions.",
+        "source": "https://skilled-nation.org/skilled-nation-scholarship-program-rules"
+      }
     },
     {
       "id": "choose-aerospace-aviation-maintenance-apprentice-tool-box-award",
@@ -1658,7 +1805,7 @@
       "community": [],
       "veteran": false,
       "parent": false,
-      "minAge": null,
+      "minAge": 17,
       "maxAge": null,
       "stage": "student",
       "requirements": "Planning to attend or enrolled in aviation technical training; ATEC-member schools may receive priority. NJ/Part 147 certificate students included; no previous A&P or college degree required in published criteria.",
@@ -1688,7 +1835,12 @@
       "references": [
         "https://www.chooseaerospace.org/uploads/1/2/4/0/124020013/ca_flyer-scholarships27_100526_v1-web.pdf",
         "https://skillednation.my.site.com/ScholarPortal/s/"
-      ]
+      ],
+      "eligibility": {
+        "citizenship": "U.S. citizens, lawful permanent residents and applicants with other legal U.S. status may apply under SKILLED Nation’s general rules. Check the specific award for exceptions.",
+        "age": "17 or older when applying under the shared program rules. Check the specific award for exceptions.",
+        "source": "https://skilled-nation.org/skilled-nation-scholarship-program-rules"
+      }
     },
     {
       "id": "choose-aerospace-sonic-intermediate-aviation-tool-set-award",
@@ -1707,7 +1859,7 @@
       "community": [],
       "veteran": false,
       "parent": false,
-      "minAge": null,
+      "minAge": 17,
       "maxAge": null,
       "stage": "student",
       "requirements": "Planning to attend or enrolled in aviation technical training; ATEC-member schools may receive priority. NJ/Part 147 certificate students included; no previous A&P or college degree required in published criteria.",
@@ -1737,7 +1889,12 @@
       "references": [
         "https://www.chooseaerospace.org/uploads/1/2/4/0/124020013/ca_flyer-scholarships27_100526_v1-web.pdf",
         "https://skillednation.my.site.com/ScholarPortal/s/"
-      ]
+      ],
+      "eligibility": {
+        "citizenship": "U.S. citizens, lawful permanent residents and applicants with other legal U.S. status may apply under SKILLED Nation’s general rules. Check the specific award for exceptions.",
+        "age": "17 or older when applying under the shared program rules. Check the specific award for exceptions.",
+        "source": "https://skilled-nation.org/skilled-nation-scholarship-program-rules"
+      }
     },
     {
       "id": "grumman-owners-and-pilots-association-maintenance-technician-scholarship",
@@ -1786,7 +1943,11 @@
       "references": [
         "https://www.grummanpilots.org/Maintenance-Scholarship"
       ],
-      "recurrenceNote": "Provider states an annual July 1–September 30 window; verify the next cycle before preparing an application."
+      "recurrenceNote": "Provider states an annual July 1–September 30 window; verify the next cycle before preparing an application.",
+      "eligibility": {
+        "citizenship": "The sponsor accepts applicants worldwide. U.S. citizenship and a green card are optional.",
+        "age": "25 or younger."
+      }
     },
     {
       "id": "sheltair-avfuel-future-takes-flight-aviation-technicians",
@@ -1831,6 +1992,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -1876,6 +2041,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship required. A green card alone does not qualify.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -1921,6 +2090,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship required. A green card alone does not qualify.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -1966,6 +2139,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship required. A green card alone does not qualify.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -2011,6 +2188,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship required. A green card alone does not qualify.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -2057,7 +2238,12 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
       },
-      "monetaryAward": true
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "WAI permits non-U.S. citizens to apply, and the published description for this award lists no citizenship or green-card requirement.",
+        "age": "No age limit listed for this award in the last published WAI cycle.",
+        "source": "https://www.wai.org/faqs"
+      }
     },
     {
       "id": "women-in-aviation-international-american-airlines-aircraft-maintenance-technician-scholarship",
@@ -2103,7 +2289,11 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
       },
-      "monetaryAward": true
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "U.S. citizens and lawful permanent residents (green-card holders) may apply.",
+        "age": "No numerical age limit confirmed. Check the current application."
+      }
     },
     {
       "id": "women-in-aviation-international-boeing-maintenance-training-scholarship",
@@ -2149,7 +2339,12 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
       },
-      "monetaryAward": true
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "WAI permits non-U.S. citizens to apply, and the published description for this award lists no citizenship or green-card requirement.",
+        "age": "No age limit listed for this award in the last published WAI cycle.",
+        "source": "https://www.wai.org/faqs"
+      }
     },
     {
       "id": "women-in-aviation-international-evelyn-lockwood-greene-memorial-a-p-maintenance-scholarship",
@@ -2195,7 +2390,12 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
       },
-      "monetaryAward": true
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "WAI permits non-U.S. citizens to apply, and the published description for this award lists no citizenship or green-card requirement.",
+        "age": "No age limit listed for this award in the last published WAI cycle.",
+        "source": "https://www.wai.org/faqs"
+      }
     },
     {
       "id": "women-in-aviation-international-psa-airlines-maintenance-scholarship",
@@ -2241,7 +2441,12 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
       },
-      "monetaryAward": true
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "WAI permits non-U.S. citizens to apply, and the published description for this award lists no citizenship or green-card requirement.",
+        "age": "No age limit listed for this award in the last published WAI cycle.",
+        "source": "https://www.wai.org/faqs"
+      }
     },
     {
       "id": "women-in-aviation-international-vertical-aviation-wai-maintenance-technician-certificate-scholarship",
@@ -2287,7 +2492,12 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
       },
-      "monetaryAward": true
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "WAI permits non-U.S. citizens to apply, and the published description for this award lists no citizenship or green-card requirement.",
+        "age": "No age limit listed for this award in the last published WAI cycle.",
+        "source": "https://www.wai.org/faqs"
+      }
     },
     {
       "id": "women-in-aviation-international-elisha-hall-memorial-scholarship",
@@ -2333,7 +2543,12 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
       },
-      "monetaryAward": true
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "WAI permits non-U.S. citizens to apply, and the published description for this award lists no citizenship or green-card requirement.",
+        "age": "No age limit listed for this award in the last published WAI cycle.",
+        "source": "https://www.wai.org/faqs"
+      }
     },
     {
       "id": "women-in-aviation-international-janet-clark-memorial-scholarship",
@@ -2379,7 +2594,12 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
       },
-      "monetaryAward": true
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "WAI permits non-U.S. citizens to apply, and the published description for this award lists no citizenship or green-card requirement.",
+        "age": "No age limit listed for this award in the last published WAI cycle.",
+        "source": "https://www.wai.org/faqs"
+      }
     },
     {
       "id": "awam-scholarship-program",
@@ -2424,6 +2644,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "Varies by sponsor and award. Check the individual application for citizenship and permanent-residency rules.",
+        "age": "Varies by sponsor and award. Check the individual application."
       }
     },
     {
@@ -2471,6 +2695,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "Varies by sponsor and award. Check the individual application for citizenship and permanent-residency rules.",
+        "age": "Varies by sponsor and award. Check the individual application."
       }
     },
     {
@@ -2516,7 +2744,11 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
       },
-      "monetaryAward": true
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "U.S. citizens, lawful permanent residents (green-card holders) and applicants with approved DACA status may apply.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
+      }
     },
     {
       "id": "northrop-rice-foundation-faa-test-fees-program",
@@ -2560,6 +2792,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -2604,6 +2840,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -2648,6 +2888,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship required. A green card alone does not qualify.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -2693,6 +2937,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -2738,7 +2986,11 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
       },
-      "monetaryAward": true
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "U.S. or Canadian citizens and lawful permanent residents may apply.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
+      }
     },
     {
       "id": "mikeroweworks-work-ethic-scholarship-program",
@@ -2783,7 +3035,11 @@
         "hiddenReason": "expired",
         "evaluatedOn": "2026-11-10"
       },
-      "monetaryAward": true
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "U.S. citizenship required. A green card alone does not qualify.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
+      }
     },
     {
       "id": "folds-of-honor-higher-education-scholarship-military-families",
@@ -2830,6 +3086,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -2875,6 +3135,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "Sonic accepts non-U.S. citizens with appropriate work or school visas. U.S. citizenship is optional.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -2922,6 +3186,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -2972,6 +3240,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -3021,6 +3293,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -3072,6 +3348,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -3122,7 +3402,11 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
       },
-      "monetaryAward": true
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
+      }
     },
     {
       "value": 2000,
@@ -3173,6 +3457,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -3224,6 +3512,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -3276,6 +3568,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -3321,6 +3617,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. work authorization is required without employer sponsorship now or in the future. U.S. citizens and green-card holders can meet this rule.",
+        "age": "The posting mentions possible working-paper requirements for applicants under 18. No numerical cutoff is stated."
       }
     },
     {
@@ -3373,7 +3673,11 @@
       },
       "references": [
         "https://weststaraviation.workgr8.com/categories/1/wsaa/1/LINK"
-      ]
+      ],
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
+      }
     },
     {
       "value": null,
@@ -3422,6 +3726,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -3471,6 +3779,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -3520,6 +3832,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -3565,6 +3881,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -3614,6 +3934,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -3661,6 +3985,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -3710,6 +4038,10 @@
         "hidden": true,
         "hiddenReason": "expired",
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -3757,6 +4089,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -3802,6 +4138,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -3847,6 +4187,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -3897,6 +4241,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -3945,7 +4293,11 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
       },
-      "monetaryAward": true
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "The shared NGPA rules reviewed do not specify U.S. citizenship or permanent residence. Check the individual award and training location.",
+        "age": "18 or older."
+      }
     },
     {
       "value": 5000,
@@ -3993,7 +4345,11 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
       },
-      "monetaryAward": true
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "The shared NGPA rules reviewed do not specify U.S. citizenship or permanent residence. Check the individual award and training location.",
+        "age": "18 or older."
+      }
     },
     {
       "value": 5000,
@@ -4040,6 +4396,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "The shared NGPA rules reviewed do not specify U.S. citizenship or permanent residence. Check the individual award and training location.",
+        "age": "18 or older."
       }
     },
     {
@@ -4087,6 +4447,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "The shared NGPA rules reviewed do not specify U.S. citizenship or permanent residence. Check the individual award and training location.",
+        "age": "18 or older."
       }
     },
     {
@@ -4132,6 +4496,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -4180,6 +4548,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -4228,6 +4600,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. work eligibility is required. U.S. citizens and green-card holders can meet the work-eligibility rule.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -4273,6 +4649,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. or Canadian citizens and residents, including permanent residents, may apply. EAA also accepts eligible work or study status, such as a qualifying visa.",
+        "age": "19 or older."
       }
     },
     {
@@ -4325,6 +4705,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -4376,6 +4760,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -4424,6 +4812,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "The shared NGPA rules reviewed do not specify U.S. citizenship or permanent residence. Check the individual award and training location.",
+        "age": "18 or older."
       }
     },
     {
@@ -4476,6 +4868,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "Legal residence in one of the 50 states or D.C., or the sponsor’s active-duty military dependent exception. Green-card holders residing in an eligible location meet the residence rule.",
+        "age": "16–26 for new applicants by the application deadline. Renewals have no age limit."
       }
     },
     {
@@ -4527,6 +4923,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -4582,6 +4982,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -4633,6 +5037,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "AOPA requires residence in the U.S. including D.C., Canada, Guam, Puerto Rico or the U.S. Virgin Islands. Check any additional donor-specific rules.",
+        "age": "Varies by donor. Check the individual maintenance award."
       }
     },
     {
@@ -4689,6 +5097,11 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "The application requests the FAFSA or, when eligible, the NJ Alternative Financial Aid Application. Green-card holders can generally complete the FAFSA. Ask embrella which funding route applies.",
+        "age": "16–25 under the program flyer. Additional age-at-placement requirements vary by foster-care history.",
+        "source": "https://www.embrella.org/wp-content/uploads/2026/07/NJFC-Eligibility-Flyer-English-and-Spanish-2026-2.pdf"
       }
     },
     {
@@ -4739,6 +5152,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "Residence in the U.S. including D.C., Canada, Guam, Puerto Rico or the U.S. Virgin Islands. The sponsor does not specify a citizenship or green-card requirement.",
+        "age": "18 or older."
       }
     },
     {
@@ -4790,6 +5207,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. residents or U.S. military members serving overseas may apply. The public rules do not specify a citizenship or green-card requirement.",
+        "age": "All ages may apply to the main award. The separate Southern Arizona grant has its own age rule."
       }
     },
     {
@@ -4840,6 +5261,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "18 or older."
       }
     },
     {
@@ -4892,6 +5317,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "age": "21 or older by February 15, 2027.",
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor."
       }
     },
     {
@@ -4944,6 +5373,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "The sponsor requires eligible tribal enrollment or descent and completed FAFSA results. The public trade-school rules do not list a separate citizenship requirement.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -4994,6 +5427,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "18 or older."
       }
     },
     {
@@ -5046,6 +5483,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -5100,6 +5541,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizens and lawful permanent residents (green-card holders) may apply.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -5150,6 +5595,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship required. A green card alone does not qualify.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -5198,6 +5647,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "The prior application accepted U.S. or Canadian citizens and legal residents, including permanent residents. Confirm the 2027 terms.",
+        "age": "30 or older under the prior application. Confirm the age measurement date for 2027."
       }
     },
     {
@@ -5245,6 +5698,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -5295,6 +5752,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "The last round accepted U.S. or Canadian citizens, permanent residents and other eligible noncitizens legally residing in the U.S. or Canada.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -5342,6 +5803,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship required. A green card alone does not qualify.",
+        "age": "Under 40."
       }
     },
     {
@@ -5392,6 +5857,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and New Jersey residence required. A green card alone does not qualify.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -5441,6 +5910,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -5488,6 +5961,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -5539,6 +6016,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "age": "17–22 when applying.",
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor."
       }
     },
     {
@@ -5585,6 +6066,11 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "The last published rules required U.S. or Canadian citizenship. Permanent residence alone did not qualify. Confirm the next cycle’s rules.",
+        "age": "No numerical age limit confirmed. Check the current application.",
+        "source": "https://www.amfanational.org/images/pdf_docs/AMFA_Scholarship_flyer_2026.pdf"
       }
     },
     {
@@ -5631,6 +6117,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -5680,6 +6170,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -5729,6 +6223,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship required. A green card alone does not qualify.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -5778,6 +6276,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "Legal U.S. residence is required. Green-card holders residing in an eligible location meet this rule. Ask the sponsor which other statuses qualify.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -5827,6 +6329,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -5879,6 +6385,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. residence required. The public rules do not specify citizenship or green-card status.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -5925,6 +6435,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship required. A green card alone does not qualify.",
+        "age": "17–25 during the application period under the last published rules."
       }
     },
     {
@@ -5974,6 +6488,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizens and lawful permanent residents (green-card holders) may apply.",
+        "age": "No numerical age limit listed for this award. Applicants under 18 need parent or guardian consent under the platform rules."
       }
     },
     {
@@ -6022,6 +6540,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizens and lawful permanent residents (green-card holders) may apply.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -6071,6 +6593,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "The sponsor accepts applicants in the United States. The public application does not specify a citizenship or green-card rule.",
+        "age": "17 or older."
       }
     },
     {
@@ -6116,6 +6642,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship required. A green card alone does not qualify.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -6164,6 +6694,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizens, U.S. nationals and lawful permanent residents (green-card holders) may apply.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -6213,6 +6747,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizens and lawful permanent residents (green-card holders) may apply.",
+        "age": "35 or older."
       }
     },
     {
@@ -6261,6 +6799,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "The sponsor uses U.S. school or applicant criteria. The public rules do not specify whether citizenship or permanent residence is required.",
+        "age": "16–28 as of January 2027."
       }
     },
     {
@@ -6306,6 +6848,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -6352,6 +6898,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -6402,6 +6952,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "Live in a Zonta district or be a citizen of a Zonta country. U.S. citizenship is optional for applicants using the district-residence route.",
+        "age": "16–19 on April 1, 2027."
       }
     },
     {
@@ -6451,6 +7005,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "age": "18–35 at application.",
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor."
       }
     },
     {
@@ -6501,6 +7059,11 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "Last round required eligible U.S. vocational-school enrollment or acceptance. No citizenship or green-card requirement was stated. Confirm the 2027 terms.",
+        "age": "No numerical age limit in the last published rules. High-school senior, graduate or GED status required.",
+        "source": "https://thejessicombsfoundation.com/2026scholarship"
       }
     },
     {
@@ -6552,6 +7115,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -6600,6 +7167,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "The sponsor uses U.S. school or applicant criteria. The public rules do not specify whether citizenship or permanent residence is required.",
+        "age": "16–28 as of January 2027."
       }
     },
     {
@@ -6648,6 +7219,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "The sponsor uses U.S. school or applicant criteria. The public rules do not specify whether citizenship or permanent residence is required.",
+        "age": "16–28 as of January 2027."
       }
     },
     {
@@ -6702,6 +7277,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -6753,6 +7332,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -6801,6 +7384,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship required. A green card alone does not qualify.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -6847,6 +7434,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizens and lawful permanent residents (green-card holders) may apply.",
+        "age": "Diagnosed at age 25 or younger. That cap applies to age at diagnosis."
       }
     },
     {
@@ -6896,6 +7487,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "Legal U.S. residence is required. Green-card holders residing in an eligible location meet this rule. Ask the sponsor which other statuses qualify.",
+        "age": "14 or older when applying."
       }
     },
     {
@@ -6945,6 +7540,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "Legal U.S. residence is required. Green-card holders residing in an eligible location meet this rule. Ask the sponsor which other statuses qualify.",
+        "age": "14 or older when applying."
       }
     },
     {
@@ -6994,6 +7593,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "Legal U.S. residence is required. Green-card holders residing in an eligible location meet this rule. Ask the sponsor which other statuses qualify.",
+        "age": "Official contest rules say 13 or older when applying. The sponsor’s summary says 14 or older. If you are 13, confirm with Unigo."
       }
     },
     {
@@ -7043,6 +7646,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "Legal U.S. residence is required. Green-card holders residing in an eligible location meet this rule. Ask the sponsor which other statuses qualify.",
+        "age": "14 or older when applying."
       }
     },
     {
@@ -7092,6 +7699,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "Legal U.S. residence is required. Green-card holders residing in an eligible location meet this rule. Ask the sponsor which other statuses qualify.",
+        "age": "14 or older when applying."
       }
     },
     {
@@ -7141,6 +7752,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "Legal U.S. residence is required. Green-card holders residing in an eligible location meet this rule. Ask the sponsor which other statuses qualify.",
+        "age": "14 or older when applying."
       }
     },
     {
@@ -7190,6 +7805,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "Legal U.S. residence is required. Green-card holders residing in an eligible location meet this rule. Ask the sponsor which other statuses qualify.",
+        "age": "14 or older when applying."
       }
     },
     {
@@ -7241,6 +7860,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -7290,6 +7913,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -7338,6 +7965,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -7384,6 +8015,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. or Canadian citizens and lawful permanent residents may apply.",
+        "age": "18 or older when applying."
       }
     },
     {
@@ -7434,6 +8069,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -7485,6 +8124,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -7533,6 +8176,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -7581,6 +8228,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -7631,6 +8282,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship required. A green card alone does not qualify.",
+        "age": "Graduating high-school student or within four years of receiving a diploma or GED. This is an education-timing rule."
       }
     },
     {
@@ -7681,6 +8336,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship required. A green card alone does not qualify.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -7732,6 +8391,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "25 or older."
       }
     },
     {
@@ -7778,6 +8441,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -7834,6 +8501,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -7885,6 +8556,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizens and eligible noncitizens, including lawful permanent residents, may qualify. Applicants eligible to file the NJ Alternative Financial Aid Application also have a route.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -7936,6 +8611,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "age": "Children must be under 23 on September 30, 2027. The published age cutoff applies to the child route.",
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor."
       }
     },
     {
@@ -7983,6 +8662,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. or Canadian citizenship is required. Permanent residence alone does not qualify.",
+        "age": "High-school seniors qualify for the age or grade rule. Other applicants must be at least 18 when applying."
       }
     },
     {
@@ -8031,6 +8714,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "age": "18 or older by the closing date of the application session.",
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor."
       }
     },
     {
@@ -8044,7 +8731,7 @@
       "community": [],
       "veteran": false,
       "parent": false,
-      "minAge": null,
+      "minAge": 17,
       "maxAge": null,
       "stage": "student",
       "kind": "scholarship",
@@ -8080,6 +8767,11 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizens, lawful permanent residents and applicants with other legal U.S. status may apply under SKILLED Nation’s general rules. Check the specific award for exceptions.",
+        "age": "17 or older when applying under the shared program rules. Check the specific award for exceptions.",
+        "source": "https://skilled-nation.org/skilled-nation-scholarship-program-rules"
       }
     },
     {
@@ -8093,7 +8785,7 @@
       "community": [],
       "veteran": false,
       "parent": false,
-      "minAge": null,
+      "minAge": 17,
       "maxAge": null,
       "stage": "student",
       "kind": "scholarship",
@@ -8129,6 +8821,11 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizens, lawful permanent residents and applicants with other legal U.S. status may apply under SKILLED Nation’s general rules. Check the specific award for exceptions.",
+        "age": "17 or older when applying under the shared program rules. Check the specific award for exceptions.",
+        "source": "https://skilled-nation.org/skilled-nation-scholarship-program-rules"
       }
     },
     {
@@ -8142,7 +8839,7 @@
       "community": [],
       "veteran": false,
       "parent": false,
-      "minAge": null,
+      "minAge": 17,
       "maxAge": null,
       "stage": "student",
       "kind": "scholarship",
@@ -8179,6 +8876,11 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizens, lawful permanent residents and applicants with other legal U.S. status may apply under SKILLED Nation’s general rules. Check the specific award for exceptions.",
+        "age": "17 or older when applying under the shared program rules. Check the specific award for exceptions.",
+        "source": "https://skilled-nation.org/skilled-nation-scholarship-program-rules"
       }
     },
     {
@@ -8227,6 +8929,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. or Canadian citizens and lawful permanent residents may apply.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -8276,6 +8982,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -8325,6 +9035,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "The sponsor uses U.S. school or applicant criteria. The public rules do not specify whether citizenship or permanent residence is required.",
+        "age": "16 or older."
       }
     },
     {
@@ -8374,6 +9088,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "The sponsor uses U.S. school or applicant criteria. The public rules do not specify whether citizenship or permanent residence is required.",
+        "age": "16–28 as of January 2027."
       }
     },
     {
@@ -8425,6 +9143,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizens and lawful permanent residents (green-card holders) may apply.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -8473,6 +9195,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "Legal U.S. residence is required. Green-card holders residing in an eligible location meet this rule. Ask the sponsor which other statuses qualify.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -8522,6 +9248,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -8575,6 +9305,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizens and lawful permanent residents (green-card holders) may apply.",
+        "age": "18 by the start of coursework. Applicants under 18 at application need parent or guardian consent."
       }
     },
     {
@@ -8624,6 +9358,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -8678,6 +9416,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -8729,6 +9471,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -8782,6 +9528,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -8835,6 +9585,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -8889,6 +9643,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "age": "18 or older by September 1 of the year you enter.",
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor."
       }
     },
     {
@@ -8936,6 +9694,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "The sponsor accepts legal U.S. residents, including U.S. citizens and green-card holders. Eligible Canadian citizen apprentices have a separate route.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -8989,6 +9751,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -9040,6 +9806,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "age": "Dependent children must be under 23. The published child cutoff does not apply to the member or spouse routes.",
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor."
       }
     },
     {
@@ -9089,6 +9859,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -9137,6 +9911,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -9185,6 +9963,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -9234,6 +10016,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "The detailed application accepts U.S. citizens and lawful permanent residents (green-card holders). The general overview mentions U.S. citizens only. Green-card holders should confirm with Blessons.",
+        "age": "25 or older."
       }
     },
     {
@@ -9283,6 +10069,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -9331,6 +10121,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -9377,6 +10171,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. residence required. The public rules do not specify citizenship or green-card status.",
+        "age": "17 or older."
       }
     },
     {
@@ -9426,6 +10224,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -9472,6 +10274,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -9520,6 +10326,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -9568,6 +10378,11 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "Active CAP cadet membership is required. CAP says U.S. citizens and permanent residents with a green card can join. Other statuses require a waiver. Confirm any additional donor rules.",
+        "age": "17 or older by March 1, 2027, and at least a high-school senior when applying. Active cadet membership is required.",
+        "source": "https://www.gocivilairpatrol.com/join/youth-in-cadet-program/cadet-faqs/cadet-faq"
       }
     },
     {
@@ -9617,6 +10432,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     },
     {
@@ -9665,6 +10484,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "North American citizenship is required. The sponsor does not list permanent residence as an alternative.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -9714,6 +10537,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "18 or older."
       }
     },
     {
@@ -9760,6 +10587,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. residence required. The public rules do not specify citizenship or green-card status.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -9806,6 +10637,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
       }
     },
     {
@@ -9854,6 +10689,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizens, U.S. nationals and lawful permanent residents (green-card holders) may apply.",
+        "age": "Ages 18–26 and high-school seniors receive preference. The sponsor does not list that range as a mandatory cutoff."
       }
     },
     {
@@ -9905,6 +10744,10 @@
         "hidden": false,
         "hiddenReason": null,
         "evaluatedOn": "2026-11-10"
+      },
+      "eligibility": {
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "age": "No numerical age limit confirmed. Check the current application."
       }
     }
   ],

@@ -106,6 +106,13 @@ async function visit(profile){
  let visits=0;
  function check(f,limit=21){const total=catalog.records.filter(r=>expected(r,{...defaults,status:'active'})).length;assert.equal(document.title,'AIM NJ Scholarships Daily Update | '+total+' Open & Upcoming');assert.equal(get('siteTitleCount').textContent,'Daily Update · '+total+' Open & Upcoming');assert.equal(get('homeTitle').textContent,document.title);const rows=verify(f),rendered=[...get('cards').innerHTML.matchAll(/data-detail="([^"]+)"/g)].map(m=>m[1]);assert.deepEqual(rendered,ids(rows.slice(0,limit)),profile.name+JSON.stringify(f));assert.equal(get('resultsCount').textContent,rows.length+(rows.length===1?' opportunity':' opportunities'));assert.equal(get('loadMore').hidden,limit>=rows.length);assert.equal(get('resultEnd').textContent,rows.length?'Showing '+Math.min(limit,rows.length)+' of '+rows.length+' listings · Eligibility is not guaranteed.':'');visits++;}
  const f={...defaults};check(f);
+ for(const row of catalog.records.filter(r=>L.visible(r,today))){
+  const click={target:{closest:selector=>selector==='[data-detail]'?{dataset:{detail:row.id}}:null}};
+  for(const listener of events.get('click'))listener(click);
+  const detail=get('modalContent').innerHTML.split('<h3>Who should check this?</h3>')[1]?.split('<h3>Before you apply</h3>')[0];
+  assert(detail?.includes('<strong>Citizenship / green card</strong>'),row.id);
+  assert(detail.includes('<strong>Age requirements</strong>'),row.id);
+ }
  get('loadMore').fire('click');check(f,42);
  get('search').value='zzzz-no-award';f.search=get('search').value;get('search').fire('input');check(f);assert(get('cards').innerHTML.includes('data-reset'));
  get('search').value='';f.search='';get('search').fire('keydown',{key:'Enter'});check(f);assert.equal(get('filterDetails').open,false);
