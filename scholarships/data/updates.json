@@ -1,9 +1,49 @@
 {
-  "lastAttempt": "2026-11-10T19:46:09.670902Z",
+  "lastAttempt": "2026-11-11T00:40:57.585008Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 206,
+  "sourcesChecked": 205,
   "sourcesTotal": 220,
   "changes": [
+    {
+      "provider": "Independent Electrical Contractors Foundation",
+      "url": "https://www.iec-foundation.org/apply",
+      "at": "2026-11-11T00:40:57.585008Z"
+    },
+    {
+      "provider": "AWS Foundation · welding education awards",
+      "url": "https://www.aws.org/career-resources/students/scholarships/",
+      "at": "2026-11-11T00:40:57.585008Z"
+    },
+    {
+      "provider": "ADMA aviation scholarship",
+      "url": "https://www.adma.org/scholarship",
+      "at": "2026-11-11T00:40:57.585008Z"
+    },
+    {
+      "provider": "Scholarships360",
+      "url": "https://scholarships360.org/scholarships/search/making-waves-scholarship-for-women/",
+      "at": "2026-11-11T00:40:57.585008Z"
+    },
+    {
+      "provider": "Mary E. Smith Foundation",
+      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
+      "at": "2026-11-11T00:40:57.585008Z"
+    },
+    {
+      "provider": "Elliott Aviation careers",
+      "url": "https://elliottaviation.com/about-us/careers/",
+      "at": "2026-11-11T00:40:57.585008Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-11T00:40:57.585008Z"
+    },
+    {
+      "provider": "C&L Aviation careers",
+      "url": "https://careers.cla.aero/",
+      "at": "2026-11-11T00:40:57.585008Z"
+    },
     {
       "provider": "TOPDON Technology USA",
       "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
@@ -138,46 +178,6 @@
       "provider": "NBAA",
       "url": "https://nbaa.org/professional-development/scholarships/hank-hilsmann-memorial-scholarship/",
       "at": "2026-11-09T22:24:28.935244Z"
-    },
-    {
-      "provider": "NBAA",
-      "url": "https://nbaa.org/professional-development/scholarships/amt-maintenance-scholarship/",
-      "at": "2026-11-09T22:24:28.935244Z"
-    },
-    {
-      "provider": "NBAA",
-      "url": "https://nbaa.org/professional-development/scholarships/",
-      "at": "2026-11-09T22:24:28.935244Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-09T22:24:28.935244Z"
-    },
-    {
-      "provider": "National Military Family Association",
-      "url": "https://www.militaryfamily.org/state-of-the-military-family-programs/spouses-scholarships/military-spouse-scholarship-faqs/",
-      "at": "2026-11-09T14:09:32.451003Z"
-    },
-    {
-      "provider": "Airborne MX training",
-      "url": "https://www.airbornemx.com/services/training",
-      "at": "2026-11-09T14:09:32.451003Z"
-    },
-    {
-      "provider": "Scholarships360",
-      "url": "https://scholarships360.org/scholarships/search/making-waves-scholarship-for-women/",
-      "at": "2026-11-09T14:09:32.451003Z"
-    },
-    {
-      "provider": "OBAP",
-      "url": "https://obap.org/outreach-programs/scholarships/",
-      "at": "2026-11-09T14:09:32.451003Z"
-    },
-    {
-      "provider": "mikeroweWORKS",
-      "url": "https://mikeroweworks.org/scholarship/",
-      "at": "2026-11-09T14:09:32.451003Z"
     }
   ],
   "discovered": [],
@@ -246,6 +246,11 @@
       "provider": "Delta TechOps / TechU",
       "error": "HTTP 444",
       "httpStatus": 444
+    },
+    {
+      "url": "https://www.embrella.org/njfc-new-student-application/",
+      "provider": "embrella / New Jersey DCF",
+      "error": "TimeoutError"
     },
     {
       "url": "https://www.gofoodservice.com/scholarship",
