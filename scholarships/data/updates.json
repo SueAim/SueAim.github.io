@@ -1,9 +1,84 @@
 {
-  "lastAttempt": "2026-11-12T01:55:13.280843Z",
+  "lastAttempt": "2026-11-12T13:56:16.698009Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 216,
-  "sourcesTotal": 231,
+  "sourcesChecked": 226,
+  "sourcesTotal": 241,
   "changes": [
+    {
+      "provider": "TOPDON Technology USA",
+      "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
+      "at": "2026-11-12T13:56:16.698009Z"
+    },
+    {
+      "provider": "RACCA",
+      "url": "https://www.raccaonline.org/scholarship",
+      "at": "2026-11-12T13:56:16.698009Z"
+    },
+    {
+      "provider": "Military OneSource SpouseWorks · credential funding",
+      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
+      "at": "2026-11-12T13:56:16.698009Z"
+    },
+    {
+      "provider": "Johnson & Johnson",
+      "url": "https://www.careers.jnj.com/en/jobs/r-100789/aviation-maintenance-technician-summer-intern/",
+      "at": "2026-11-12T13:56:16.698009Z"
+    },
+    {
+      "provider": "American Welding Society Foundation",
+      "url": "https://www.aws.org/career-resources/students/scholarships/welder-training-scholarship/",
+      "at": "2026-11-12T13:56:16.698009Z"
+    },
+    {
+      "provider": "AWS Foundation · welding education awards",
+      "url": "https://www.aws.org/career-resources/students/scholarships/",
+      "at": "2026-11-12T13:56:16.698009Z"
+    },
+    {
+      "provider": "TurnToTrades Apprenticeship Foundation",
+      "url": "https://turntotrades.com/apply",
+      "at": "2026-11-12T13:56:16.698009Z"
+    },
+    {
+      "provider": "The Lisa Michelle Memorial Fund",
+      "url": "https://thelmmfund.org/scholarships/how-to-apply/",
+      "at": "2026-11-12T13:56:16.698009Z"
+    },
+    {
+      "provider": "Regional Airline Association scholarship source",
+      "url": "https://raa.org/the-regional-airline-association-scholarship-foundation-now-accepting-applications-for-the-2026-scholarship/",
+      "at": "2026-11-12T13:56:16.698009Z"
+    },
+    {
+      "provider": "OBAP",
+      "url": "https://obap.org/outreach-programs/scholarships/",
+      "at": "2026-11-12T13:56:16.698009Z"
+    },
+    {
+      "provider": "Mary E. Smith Foundation",
+      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
+      "at": "2026-11-12T13:56:16.698009Z"
+    },
+    {
+      "provider": "National Technical Honor Society · technical student scholarships",
+      "url": "https://kb.nths.org/article/scholarships",
+      "at": "2026-11-12T13:56:16.698009Z"
+    },
+    {
+      "provider": "flyExclusive current roles",
+      "url": "https://flyexclusive.com/job-openings",
+      "at": "2026-11-12T13:56:16.698009Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-12T13:56:16.698009Z"
+    },
+    {
+      "provider": "Bring Back the Trades",
+      "url": "https://bringbackthetrades.org/scholarship-application/",
+      "at": "2026-11-12T13:56:16.698009Z"
+    },
     {
       "provider": "Public Works Association of New Jersey",
       "url": "https://www.pwanj.com/scholarships/",
@@ -103,81 +178,6 @@
       "provider": "Mary E. Smith Foundation",
       "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
       "at": "2026-11-11T19:38:26.174658Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-11T19:38:26.174658Z"
-    },
-    {
-      "provider": "Military OneSource SpouseWorks · credential funding",
-      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
-      "at": "2026-11-11T13:27:31.133629Z"
-    },
-    {
-      "provider": "Scholarships360",
-      "url": "https://scholarships360.org/scholarships/search/making-waves-scholarship-for-women/",
-      "at": "2026-11-11T13:27:31.133629Z"
-    },
-    {
-      "provider": "NLHA Education Fund",
-      "url": "https://hudnlha.com/education-fund/",
-      "at": "2026-11-11T13:27:31.133629Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-11T13:27:31.133629Z"
-    },
-    {
-      "provider": "TOPDON Technology USA",
-      "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
-      "at": "2026-11-11T09:54:32.998716Z"
-    },
-    {
-      "provider": "Military OneSource SpouseWorks · credential funding",
-      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
-      "at": "2026-11-11T09:54:32.998716Z"
-    },
-    {
-      "provider": "AWS Foundation · welding education awards",
-      "url": "https://www.aws.org/career-resources/students/scholarships/",
-      "at": "2026-11-11T09:54:32.998716Z"
-    },
-    {
-      "provider": "OBAP",
-      "url": "https://obap.org/outreach-programs/scholarships/",
-      "at": "2026-11-11T09:54:32.998716Z"
-    },
-    {
-      "provider": "mikeroweWORKS",
-      "url": "https://mikeroweworks.org/scholarship/",
-      "at": "2026-11-11T09:54:32.998716Z"
-    },
-    {
-      "provider": "National Technical Honor Society · technical student scholarships",
-      "url": "https://kb.nths.org/article/scholarships",
-      "at": "2026-11-11T09:54:32.998716Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-11T09:54:32.998716Z"
-    },
-    {
-      "provider": "Independent Electrical Contractors Foundation",
-      "url": "https://www.iec-foundation.org/apply",
-      "at": "2026-11-11T00:40:57.585008Z"
-    },
-    {
-      "provider": "AWS Foundation · welding education awards",
-      "url": "https://www.aws.org/career-resources/students/scholarships/",
-      "at": "2026-11-11T00:40:57.585008Z"
-    },
-    {
-      "provider": "ADMA aviation scholarship",
-      "url": "https://www.adma.org/scholarship",
-      "at": "2026-11-11T00:40:57.585008Z"
     }
   ],
   "discovered": [],
@@ -272,7 +272,7 @@
     }
   ],
   "maintenance": {
-    "visibleRecords": 210,
+    "visibleRecords": 220,
     "hiddenExpired": 5,
     "hiddenMissing": 0,
     "restoredThisRun": 0,
