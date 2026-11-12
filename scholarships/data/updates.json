@@ -1,9 +1,84 @@
 {
-  "lastAttempt": "2026-11-12T13:56:16.698009Z",
+  "lastAttempt": "2026-11-12T19:57:24.110975Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 226,
+  "sourcesChecked": 221,
   "sourcesTotal": 241,
   "changes": [
+    {
+      "provider": "EAA Aviation Foundation",
+      "url": "https://www2.eaa.org/eaa/learn-to-fly/scholarships/post-secondary-scholarships",
+      "at": "2026-11-12T19:57:24.110975Z"
+    },
+    {
+      "provider": "New Jersey One-Stop · workforce training funding",
+      "url": "https://www.nj.gov/labor/myunemployment/jobseekers/training/",
+      "at": "2026-11-12T19:57:24.110975Z"
+    },
+    {
+      "provider": "Military OneSource SpouseWorks · credential funding",
+      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
+      "at": "2026-11-12T19:57:24.110975Z"
+    },
+    {
+      "provider": "National Military Family Association",
+      "url": "https://www.militaryfamily.org/state-of-the-military-family-programs/spouses-scholarships/military-spouse-scholarship-faqs/",
+      "at": "2026-11-12T19:57:24.110975Z"
+    },
+    {
+      "provider": "American Welding Society Foundation",
+      "url": "https://www.aws.org/career-resources/students/scholarships/national-scholarships/",
+      "at": "2026-11-12T19:57:24.110975Z"
+    },
+    {
+      "provider": "AWS Foundation · welding education awards",
+      "url": "https://www.aws.org/career-resources/students/scholarships/",
+      "at": "2026-11-12T19:57:24.110975Z"
+    },
+    {
+      "provider": "Aviation Technical Services",
+      "url": "https://www.atsmro.com/2024/10/17/ats-apprenticeship-program-hits-milestone/",
+      "at": "2026-11-12T19:57:24.110975Z"
+    },
+    {
+      "provider": "Ameriflight",
+      "url": "https://w3.ameriflight.com/ap-mechanics/",
+      "at": "2026-11-12T19:57:24.110975Z"
+    },
+    {
+      "provider": "The Lisa Michelle Memorial Fund",
+      "url": "https://thelmmfund.org/scholarships/how-to-apply/",
+      "at": "2026-11-12T19:57:24.110975Z"
+    },
+    {
+      "provider": "Scholarship America",
+      "url": "https://scholarshipamerica.org/scholarship/veteranscholarship/",
+      "at": "2026-11-12T19:57:24.110975Z"
+    },
+    {
+      "provider": "Scholarship America",
+      "url": "https://scholarshipamerica.org/scholarship/essentialvisionaries/",
+      "at": "2026-11-12T19:57:24.110975Z"
+    },
+    {
+      "provider": "Pioneer Military Credit",
+      "url": "https://pioneermilitarycredit.com/military-spouse-scholarship/",
+      "at": "2026-11-12T19:57:24.110975Z"
+    },
+    {
+      "provider": "National Technical Honor Society · technical student scholarships",
+      "url": "https://kb.nths.org/article/scholarships",
+      "at": "2026-11-12T19:57:24.110975Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-12T19:57:24.110975Z"
+    },
+    {
+      "provider": "C&L Aviation careers",
+      "url": "https://careers.cla.aero/",
+      "at": "2026-11-12T19:57:24.110975Z"
+    },
     {
       "provider": "TOPDON Technology USA",
       "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
@@ -103,81 +178,6 @@
       "provider": "Nucor",
       "url": "https://nucor.com/careers/",
       "at": "2026-11-12T01:55:13.280843Z"
-    },
-    {
-      "provider": "Mary E. Smith Foundation",
-      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
-      "at": "2026-11-12T01:55:13.280843Z"
-    },
-    {
-      "provider": "National Technical Honor Society · technical student scholarships",
-      "url": "https://kb.nths.org/article/scholarships",
-      "at": "2026-11-12T01:55:13.280843Z"
-    },
-    {
-      "provider": "Home Depot Path to Pro · check eligible trade",
-      "url": "https://corporate.homedepot.com/page/path-pro-scholarship-programs",
-      "at": "2026-11-12T01:55:13.280843Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-12T01:55:13.280843Z"
-    },
-    {
-      "provider": "TOPDON Technology USA",
-      "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
-      "at": "2026-11-11T19:38:26.174658Z"
-    },
-    {
-      "provider": "Student Movement Against Cancer · 2027 vocational-entry watch",
-      "url": "https://www.supportsmac.org/cfscholarship",
-      "at": "2026-11-11T19:38:26.174658Z"
-    },
-    {
-      "provider": "Military OneSource SpouseWorks · credential funding",
-      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
-      "at": "2026-11-11T19:38:26.174658Z"
-    },
-    {
-      "provider": "National Military Family Association",
-      "url": "https://www.militaryfamily.org/state-of-the-military-family-programs/spouses-scholarships/military-spouse-scholarship-faqs/",
-      "at": "2026-11-11T19:38:26.174658Z"
-    },
-    {
-      "provider": "American Welding Society Foundation",
-      "url": "https://www.aws.org/career-resources/students/scholarships/welder-training-scholarship/",
-      "at": "2026-11-11T19:38:26.174658Z"
-    },
-    {
-      "provider": "Schneider Electric / SKILLED Nation",
-      "url": "https://skilled-nation.org/partner/sescholarship",
-      "at": "2026-11-11T19:38:26.174658Z"
-    },
-    {
-      "provider": "SKILLED Nation · broader trade scholarship sponsors",
-      "url": "https://skilled-nation.org/apply/start",
-      "at": "2026-11-11T19:38:26.174658Z"
-    },
-    {
-      "provider": "OBAP",
-      "url": "https://obap.org/outreach-programs/scholarships/",
-      "at": "2026-11-11T19:38:26.174658Z"
-    },
-    {
-      "provider": "Nucor",
-      "url": "https://nucor.com/careers/",
-      "at": "2026-11-11T19:38:26.174658Z"
-    },
-    {
-      "provider": "National Air Transportation Foundation",
-      "url": "https://nata.aero/national-air-transportation-foundation/scholarships/nata-business-scholarship/",
-      "at": "2026-11-11T19:38:26.174658Z"
-    },
-    {
-      "provider": "Mary E. Smith Foundation",
-      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
-      "at": "2026-11-11T19:38:26.174658Z"
     }
   ],
   "discovered": [],
@@ -225,6 +225,11 @@
       "httpStatus": 429
     },
     {
+      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
+      "provider": "Mary E. Smith Foundation",
+      "error": "URLError"
+    },
+    {
       "url": "https://standardaero.com/aboutus/careers/",
       "provider": "StandardAero careers / technical training",
       "error": "Page too short to verify content"
@@ -248,10 +253,20 @@
       "httpStatus": 403
     },
     {
+      "url": "https://www.connexfoundation.org/scholarship-opportunities/",
+      "provider": "Connex Foundation",
+      "error": "URLError"
+    },
+    {
       "url": "https://www.delta.com/us/en/careers/techops-careers",
       "provider": "Delta TechOps / TechU",
       "error": "HTTP 444",
       "httpStatus": 444
+    },
+    {
+      "url": "https://www.galsfoundation.org/",
+      "provider": "GALS Scholarship Foundation",
+      "error": "URLError"
     },
     {
       "url": "https://www.gofoodservice.com/scholarship",
@@ -266,8 +281,19 @@
       "httpStatus": 403
     },
     {
+      "url": "https://www.pathtopro.com/foundation/",
+      "provider": "The Home Depot Foundation / SKILLED Nation",
+      "error": "HTTP 403",
+      "httpStatus": 403
+    },
+    {
       "url": "https://www.share.cessna.com/en/careers/apprenticeships",
       "provider": "Textron Aviation",
+      "error": "URLError"
+    },
+    {
+      "url": "https://www.wwrightfoundation.org/",
+      "provider": "W. Wright Foundation",
       "error": "URLError"
     }
   ],
