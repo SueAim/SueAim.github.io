@@ -1,9 +1,54 @@
 {
-  "lastAttempt": "2026-11-11T19:38:26.174658Z",
+  "lastAttempt": "2026-11-12T01:55:13.280843Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
   "sourcesChecked": 216,
   "sourcesTotal": 231,
   "changes": [
+    {
+      "provider": "Public Works Association of New Jersey",
+      "url": "https://www.pwanj.com/scholarships/",
+      "at": "2026-11-12T01:55:13.280843Z"
+    },
+    {
+      "provider": "Military OneSource SpouseWorks · credential funding",
+      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
+      "at": "2026-11-12T01:55:13.280843Z"
+    },
+    {
+      "provider": "American Welding Society Foundation",
+      "url": "https://www.aws.org/career-resources/students/scholarships/welder-training-scholarship/",
+      "at": "2026-11-12T01:55:13.280843Z"
+    },
+    {
+      "provider": "The Lisa Michelle Memorial Fund",
+      "url": "https://thelmmfund.org/scholarships/how-to-apply/",
+      "at": "2026-11-12T01:55:13.280843Z"
+    },
+    {
+      "provider": "Nucor",
+      "url": "https://nucor.com/careers/",
+      "at": "2026-11-12T01:55:13.280843Z"
+    },
+    {
+      "provider": "Mary E. Smith Foundation",
+      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
+      "at": "2026-11-12T01:55:13.280843Z"
+    },
+    {
+      "provider": "National Technical Honor Society · technical student scholarships",
+      "url": "https://kb.nths.org/article/scholarships",
+      "at": "2026-11-12T01:55:13.280843Z"
+    },
+    {
+      "provider": "Home Depot Path to Pro · check eligible trade",
+      "url": "https://corporate.homedepot.com/page/path-pro-scholarship-programs",
+      "at": "2026-11-12T01:55:13.280843Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-12T01:55:13.280843Z"
+    },
     {
       "provider": "TOPDON Technology USA",
       "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
@@ -133,51 +178,6 @@
       "provider": "ADMA aviation scholarship",
       "url": "https://www.adma.org/scholarship",
       "at": "2026-11-11T00:40:57.585008Z"
-    },
-    {
-      "provider": "Scholarships360",
-      "url": "https://scholarships360.org/scholarships/search/making-waves-scholarship-for-women/",
-      "at": "2026-11-11T00:40:57.585008Z"
-    },
-    {
-      "provider": "Mary E. Smith Foundation",
-      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
-      "at": "2026-11-11T00:40:57.585008Z"
-    },
-    {
-      "provider": "Elliott Aviation careers",
-      "url": "https://elliottaviation.com/about-us/careers/",
-      "at": "2026-11-11T00:40:57.585008Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-11T00:40:57.585008Z"
-    },
-    {
-      "provider": "C&L Aviation careers",
-      "url": "https://careers.cla.aero/",
-      "at": "2026-11-11T00:40:57.585008Z"
-    },
-    {
-      "provider": "TOPDON Technology USA",
-      "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
-      "at": "2026-11-10T19:46:09.670902Z"
-    },
-    {
-      "provider": "National Military Family Association",
-      "url": "https://www.militaryfamily.org/state-of-the-military-family-programs/spouses-scholarships/military-spouse-scholarship-faqs/",
-      "at": "2026-11-10T19:46:09.670902Z"
-    },
-    {
-      "provider": "OBAP",
-      "url": "https://obap.org/outreach-programs/scholarships/",
-      "at": "2026-11-10T19:46:09.670902Z"
-    },
-    {
-      "provider": "Mary E. Smith Foundation",
-      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
-      "at": "2026-11-10T19:46:09.670902Z"
     }
   ],
   "discovered": [],
