@@ -1,9 +1,89 @@
 {
-  "lastAttempt": "2026-11-13T13:31:27.123097Z",
+  "lastAttempt": "2026-11-13T19:45:06.729021Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
   "sourcesChecked": 236,
   "sourcesTotal": 252,
   "changes": [
+    {
+      "provider": "TOPDON Technology USA",
+      "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
+      "at": "2026-11-13T19:45:06.729021Z"
+    },
+    {
+      "provider": "Soroptimist",
+      "url": "https://www.soroptimist.org/our-work/live-your-dream-awards/apply-for-the-live-your-dream-awards.html",
+      "at": "2026-11-13T19:45:06.729021Z"
+    },
+    {
+      "provider": "Military OneSource SpouseWorks · credential funding",
+      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
+      "at": "2026-11-13T19:45:06.729021Z"
+    },
+    {
+      "provider": "Hard Head Veterans · skilled-trade scholarship source",
+      "url": "https://www.hardheadveterans.com/pages/ate-ballistic-helmet-scholarships",
+      "at": "2026-11-13T19:45:06.729021Z"
+    },
+    {
+      "provider": "Johnson & Johnson",
+      "url": "https://www.careers.jnj.com/en/jobs/r-100789/aviation-maintenance-technician-summer-intern/",
+      "at": "2026-11-13T19:45:06.729021Z"
+    },
+    {
+      "provider": "American Welding Society Foundation",
+      "url": "https://www.aws.org/career-resources/students/scholarships/welder-training-scholarship/",
+      "at": "2026-11-13T19:45:06.729021Z"
+    },
+    {
+      "provider": "AWS Foundation · welding education awards",
+      "url": "https://www.aws.org/career-resources/students/scholarships/",
+      "at": "2026-11-13T19:45:06.729021Z"
+    },
+    {
+      "provider": "The Lisa Michelle Memorial Fund",
+      "url": "https://thelmmfund.org/scholarships/how-to-apply/",
+      "at": "2026-11-13T19:45:06.729021Z"
+    },
+    {
+      "provider": "Scholarship America",
+      "url": "https://scholarshipamerica.org/scholarship/veteranscholarship/",
+      "at": "2026-11-13T19:45:06.729021Z"
+    },
+    {
+      "provider": "Scholarship America",
+      "url": "https://scholarshipamerica.org/scholarship/essentialvisionaries/",
+      "at": "2026-11-13T19:45:06.729021Z"
+    },
+    {
+      "provider": "Pioneer Military Credit",
+      "url": "https://pioneermilitarycredit.com/military-spouse-scholarship/",
+      "at": "2026-11-13T19:45:06.729021Z"
+    },
+    {
+      "provider": "OBAP",
+      "url": "https://obap.org/outreach-programs/scholarships/",
+      "at": "2026-11-13T19:45:06.729021Z"
+    },
+    {
+      "provider": "Mary E. Smith Foundation",
+      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
+      "at": "2026-11-13T19:45:06.729021Z"
+    },
+    {
+      "provider": "National Technical Honor Society · technical student scholarships",
+      "url": "https://kb.nths.org/article/scholarships",
+      "at": "2026-11-13T19:45:06.729021Z"
+    },
+    {
+      "provider": "Elliott Aviation careers",
+      "url": "https://elliottaviation.com/about-us/careers/",
+      "at": "2026-11-13T19:45:06.729021Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-13T19:45:06.729021Z"
+    },
     {
       "provider": "TOPDON Technology USA",
       "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
@@ -98,86 +178,6 @@
       "provider": "LPGA Amateur Golf Association / LPGA Foundation",
       "url": "https://lpgaamateurs.com/memberships/scholarship/",
       "at": "2026-11-13T01:06:53.958295Z"
-    },
-    {
-      "provider": "National Technical Honor Society · technical student scholarships",
-      "url": "https://kb.nths.org/article/scholarships",
-      "at": "2026-11-13T01:06:53.958295Z"
-    },
-    {
-      "provider": "flyExclusive current roles",
-      "url": "https://flyexclusive.com/job-openings",
-      "at": "2026-11-13T01:06:53.958295Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-13T01:06:53.958295Z"
-    },
-    {
-      "provider": "EAA Aviation Foundation",
-      "url": "https://www2.eaa.org/eaa/learn-to-fly/scholarships/post-secondary-scholarships",
-      "at": "2026-11-12T19:57:24.110975Z"
-    },
-    {
-      "provider": "New Jersey One-Stop · workforce training funding",
-      "url": "https://www.nj.gov/labor/myunemployment/jobseekers/training/",
-      "at": "2026-11-12T19:57:24.110975Z"
-    },
-    {
-      "provider": "Military OneSource SpouseWorks · credential funding",
-      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
-      "at": "2026-11-12T19:57:24.110975Z"
-    },
-    {
-      "provider": "National Military Family Association",
-      "url": "https://www.militaryfamily.org/state-of-the-military-family-programs/spouses-scholarships/military-spouse-scholarship-faqs/",
-      "at": "2026-11-12T19:57:24.110975Z"
-    },
-    {
-      "provider": "American Welding Society Foundation",
-      "url": "https://www.aws.org/career-resources/students/scholarships/national-scholarships/",
-      "at": "2026-11-12T19:57:24.110975Z"
-    },
-    {
-      "provider": "AWS Foundation · welding education awards",
-      "url": "https://www.aws.org/career-resources/students/scholarships/",
-      "at": "2026-11-12T19:57:24.110975Z"
-    },
-    {
-      "provider": "Aviation Technical Services",
-      "url": "https://www.atsmro.com/2024/10/17/ats-apprenticeship-program-hits-milestone/",
-      "at": "2026-11-12T19:57:24.110975Z"
-    },
-    {
-      "provider": "Ameriflight",
-      "url": "https://w3.ameriflight.com/ap-mechanics/",
-      "at": "2026-11-12T19:57:24.110975Z"
-    },
-    {
-      "provider": "The Lisa Michelle Memorial Fund",
-      "url": "https://thelmmfund.org/scholarships/how-to-apply/",
-      "at": "2026-11-12T19:57:24.110975Z"
-    },
-    {
-      "provider": "Scholarship America",
-      "url": "https://scholarshipamerica.org/scholarship/veteranscholarship/",
-      "at": "2026-11-12T19:57:24.110975Z"
-    },
-    {
-      "provider": "Scholarship America",
-      "url": "https://scholarshipamerica.org/scholarship/essentialvisionaries/",
-      "at": "2026-11-12T19:57:24.110975Z"
-    },
-    {
-      "provider": "Pioneer Military Credit",
-      "url": "https://pioneermilitarycredit.com/military-spouse-scholarship/",
-      "at": "2026-11-12T19:57:24.110975Z"
-    },
-    {
-      "provider": "National Technical Honor Society · technical student scholarships",
-      "url": "https://kb.nths.org/article/scholarships",
-      "at": "2026-11-12T19:57:24.110975Z"
     }
   ],
   "discovered": [],
