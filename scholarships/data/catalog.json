@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "reviewed": "2026-11-12",
+  "reviewed": "2026-11-13",
   "scope": "New Jersey residents and students attending New Jersey schools; nationwide and international providers accepting NJ applicants",
   "records": [
     {
@@ -3585,7 +3585,7 @@
     {
       "value": null,
       "status": "open",
-      "deadline": "2026-11-15",
+      "deadline": "2026-11-14",
       "opens": null,
       "geo": "national",
       "states": [],
@@ -3600,7 +3600,7 @@
       "group": null,
       "ai": "unknown",
       "kind": "program",
-      "reviewed": "2026-10-28",
+      "reviewed": "2026-11-13",
       "added": "2026-10-28",
       "provider": "employer",
       "relocation": false,
@@ -3610,8 +3610,8 @@
       "org": "Johnson & Johnson",
       "url": "https://www.careers.jnj.com/en/jobs/r-100789/aviation-maintenance-technician-summer-intern/",
       "amount": "$23.50–$52.50 / hour",
-      "requirements": "Completed freshman year at an accredited university in an aviation-maintenance-related degree; GPA 3.0, work authorization, driver license and commuting requirements. A&P preferred.",
-      "note": "Summer 2027 role; anticipated application close November 15, 2026, potentially earlier. Pay varies by degree/year. AIM certificate-only enrollment is not automatically eligible. Wages are not a scholarship.",
+      "requirements": "Completed freshman year at an accredited university and currently pursuing a degree in Aviation Maintenance Technologies or a related field. GPA 3.0, a driver’s license and on-site availability required. FAA A&P is preferred. The posting specifies a commute under one hour from Trenton and says paid housing is available. AIM NJ certificate-only enrollment and a prior degree alone do not satisfy the concurrent degree requirement.",
+      "note": "May–August 2027, on-site in Trenton. The employer’s page header says it anticipates closing November 14, while the body and Workday list November 15. Apply by the earlier posted date if the portal is accepting applications. The advertised rate is wages and varies by academic program and experience.",
       "workLocation": "Trenton, NJ · onsite; within one-hour commute",
       "fit": "degree-check",
       "recurring": false,
@@ -3629,7 +3629,10 @@
       "eligibility": {
         "citizenship": "U.S. work authorization is required without employer sponsorship now or in the future. U.S. citizens and green-card holders can meet this rule.",
         "age": "The posting mentions possible working-paper requirements for applicants under 18. No numerical cutoff is stated."
-      }
+      },
+      "references": [
+        "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Trenton-New-Jersey-United-States-of-America/Aviation-Maintenance-Technician-Summer-Intern_R-100789/apply"
+      ]
     },
     {
       "value": null,
@@ -4899,7 +4902,7 @@
       "relocation": false,
       "career": "none",
       "fit": "potential",
-      "reviewed": "2026-10-28",
+      "reviewed": "2026-11-13",
       "added": "2026-10-28",
       "addedAt": "2026-10-28T16:00:48.170Z",
       "recurring": true,
@@ -4909,7 +4912,8 @@
       "url": "https://bringbackthetrades.org/scholarship-application/",
       "references": [
         "https://bringbackthetrades.org/scholarships/",
-        "https://bringbackthetrades.org/scholarship-winners/"
+        "https://bringbackthetrades.org/scholarship-winners/",
+        "https://bringbackthetrades.org/trade/aviation-maintenance-technician/"
       ],
       "amount": "$1,500",
       "value": 1500,
@@ -4918,7 +4922,7 @@
       "deadline": null,
       "group": "bring-back-trades",
       "ai": "unknown",
-      "requirements": "Current postsecondary skilled-trades students across the United States, including New Jersey. You must owe money to your school. Aviation-maintenance students appear among past recipients; confirm your individual program.",
+      "requirements": "Current U.S. postsecondary skilled-trade students with eligible school costs. Confirm whether you must have an outstanding balance in the current application. The sponsor names Aviation Maintenance Technician as a trade and has funded an aviation-maintenance student. An aviation maintenance certificate program such as AIM NJ can fit the published field criteria. The sponsor’s public rules do not list a required college degree or prior-degree exclusion.",
       "note": "Monthly awards during the school year, paid directly to the student's school. Submit the provider's student scholarship form and personal explanation. The Google form may require Google sign-in. The separate tool-grant application is for schools/nonprofits, not individual students.",
       "recurrenceNote": "Monthly school-year selections; verify the current application and award schedule with the provider.",
       "sourceHealth": {
@@ -11788,6 +11792,389 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-12"
       }
+    },
+    {
+      "id": "corning-2027-aircraft-maintenance-internship",
+      "name": "Aviation Maintenance Technician Internship · confirm intake",
+      "org": "Corning",
+      "url": "https://corningjobs.corning.com/job/Big-Flats-Aviation-Maintenance-Technician-Intern-Summer-2027-NY-14814/1443511500/",
+      "amount": "$1,635–$3,185 biweekly",
+      "value": null,
+      "status": "verify",
+      "deadline": null,
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "internship",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "requirements": "Corning considers applicants actively pursuing an FAA Airframe or Powerplant mechanic certificate through an aviation maintenance program, including students in a program like AIM NJ’s. A certificate already earned is preferred. The posting lists no associate or bachelor’s degree requirement. Familiarity with tools, wiring diagrams and troubleshooting is expected.",
+      "group": null,
+      "ai": "unknown",
+      "kind": "program",
+      "note": "Summer 2027 in Big Flats, NY. The stated range is wages. Corning’s job search still lists requisition 79154, but its Apply now link redirects to the general careers page. Confirm whether applications are still being accepted. A deadline is unpublished.",
+      "reviewed": "2026-11-13",
+      "added": "2026-11-13",
+      "provider": "company",
+      "relocation": true,
+      "career": "none",
+      "fit": "potential",
+      "recurring": false,
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "U.S. work authorization without employer immigration sponsorship is required. U.S. citizens and green-card holders can meet that condition.",
+        "age": "No numerical age limit is published in the rules reviewed."
+      },
+      "workLocation": "Big Flats, NY · on site",
+      "references": [
+        "https://corningjobs.corning.com/search/?q=79154"
+      ]
+    },
+    {
+      "id": "marathon-aircraft-maintenance-internship-2027",
+      "name": "Aircraft Maintenance Technician Intern / Co-op · degree enrollment",
+      "org": "Marathon Petroleum",
+      "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Intern-Co-op---Aircraft-Maintenance-Technician--Fall-2027--_00023974",
+      "amount": "$20.31–$25.38 posted pay range",
+      "value": null,
+      "status": "open",
+      "deadline": null,
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "internship",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "requirements": "High-school diploma or equivalent and an Aviation Maintenance Technology, Aviation Maintenance Management or similar major. Part 147 A&P enrollment is preferred, but the employer requires concurrent degree-seeking enrollment throughout the internship. A four-year degree pathway is also available to already-certificated technicians. AIM NJ certificate-only study does not satisfy the stated degree condition.",
+      "group": null,
+      "ai": "unknown",
+      "kind": "program",
+      "note": "On-site role in Findlay, Ohio. Employer application is accepting candidates. The requisition title says Fall 2027, while the description gives May 10–August 6, 2027. Confirm the work term and pay unit before planning relocation. The range is wages and no closing date is published.",
+      "reviewed": "2026-11-13",
+      "added": "2026-11-13",
+      "provider": "company",
+      "relocation": true,
+      "career": "none",
+      "fit": "degree-check",
+      "recurring": false,
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "Indefinite full-time U.S. work authorization without sponsorship now or later is required. U.S. citizens and green-card holders can meet that condition.",
+        "age": "No numerical age limit is published in the rules reviewed."
+      },
+      "workLocation": "Findlay, OH · on site",
+      "references": [
+        "https://www.marathonpetroleum.com/Jobs/Campus-and-Emerging-Talent/"
+      ]
+    },
+    {
+      "id": "heatspring-women-in-the-trades-nabcep-2027",
+      "name": "Women in the Trades NABCEP Scholarship",
+      "org": "HeatSpring and Solar for Women",
+      "url": "https://blog.heatspring.com/announcing-the-women-in-the-trades-nabcep-scholarship/",
+      "amount": "Free training + $500 exam-fee reimbursement",
+      "value": 500,
+      "status": "verify",
+      "deadline": "2026-11-30",
+      "opens": "2026-11-02",
+      "geo": "national",
+      "states": [],
+      "benefit": "exam",
+      "gender": "women",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "requirements": "Women working as solar installers, electrical apprentices or onsite technicians with at least six months of trades experience by the application deadline. The award covers photovoltaic installation training and the NABCEP PVIP credential. No college degree or major is specified. It does not pay for AIM NJ aircraft maintenance training or FAA exams.",
+      "group": null,
+      "ai": "unknown",
+      "kind": "scholarship",
+      "note": "The sponsors announce a November 30, 2026 deadline at 5 p.m. Eastern. Selected applicants receive 58 hours of free preparation. Passing the PVIP exam by December 31, 2027 qualifies for reimbursement of the $125 application fee and $375 exam fee. The linked Google form could not be verified without access, so confirm intake on the sponsor page.",
+      "reviewed": "2026-11-13",
+      "added": "2026-11-13",
+      "provider": "company",
+      "relocation": false,
+      "career": "none",
+      "fit": "other-program",
+      "recurring": false,
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "The public rules do not specify whether U.S. citizenship or a green card is required. Confirm with the provider.",
+        "age": "NABCEP requires candidates to be at least 18 for the PVIP exam. The scholarship announcement gives no separate age cutoff.",
+        "source": "https://www.nabcep.org/wp-content/uploads/2025/01/Handbook-1-23-25-V2.pdf"
+      },
+      "benefits": [
+        "exam",
+        "training"
+      ],
+      "references": [
+        "https://www.nabcep.org/wp-content/uploads/2025/01/Handbook-1-23-25-V2.pdf",
+        "https://www.nabcep.org/certifications/board-eligible-pv-installation-professional/"
+      ]
+    },
+    {
+      "id": "nshss-makers-builders-award-2027",
+      "name": "Makers & Builders Award",
+      "org": "NSHSS Foundation",
+      "url": "https://www.nshss.org/scholarships/s/nshss-foundation-makers-and-builders-award/",
+      "amount": "$2,500",
+      "value": 2500,
+      "status": "open",
+      "deadline": "2027-04-05",
+      "opens": "2026-11-09",
+      "geo": "national",
+      "states": [],
+      "benefit": "unconfirmed",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "requirements": "High-school seniors graduating in 2027 with a 3.0 unweighted GPA who plan to enroll by August 2027 in an accredited, state-approved or industry-recognized skilled trade, vocational certificate, technical credential or registered apprenticeship. No current college degree or NSHSS membership is required. An incoming AIM NJ student can check this vocational route. Current adult AIM enrollment alone does not meet the senior requirement.",
+      "group": null,
+      "ai": "unknown",
+      "kind": "scholarship",
+      "note": "Four $2,500 awards. The application closes April 5, 2027 at 11:59 p.m. in the time zone labeled EST by the sponsor. It requires an essay, recommendations, a résumé and transcripts. The sponsor requires proof of enrollment before releasing funds and does not identify the payee.",
+      "reviewed": "2026-11-13",
+      "added": "2026-11-13",
+      "provider": "foundation",
+      "relocation": false,
+      "career": "none",
+      "fit": "other-program",
+      "recurring": false,
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "U.S. citizenship is not required. The sponsor publishes no green-card requirement and accepts eligible programs in the U.S. or abroad.",
+        "age": "The sponsor requires high-school senior status for the specified graduating class. No numerical age limit is published."
+      },
+      "references": [
+        "https://www.nshss.org/dashboard/student-resources/apply-for-scholarships/?id=286347"
+      ]
+    },
+    {
+      "id": "us-jci-senate-vocational-scholarship-2027",
+      "name": "U.S. JCI Senate Vocational Scholarship",
+      "org": "U.S. JCI Senate Foundation",
+      "url": "https://usjcisenate.org/scholarship-program",
+      "amount": "$1,000 or $1,500",
+      "value": 1500,
+      "status": "open",
+      "deadline": "2027-01-12",
+      "opens": null,
+      "geo": "state",
+      "states": [
+        "NJ"
+      ],
+      "benefit": "school",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "requirements": "Graduating 2027 U.S. high-school seniors with GPA 3.25 or higher who live in a participating state. New Jersey applicants have a designated state contact. Must begin full-time accredited U.S. trade or technical training in 2027. A certificate, diploma, license or associate degree route qualifies. Current AIM NJ enrollment alone does not satisfy the first-year-after-high-school rule.",
+      "group": null,
+      "ai": "unknown",
+      "kind": "scholarship",
+      "note": "Mail the vocational application and required materials to the contact listed for New Jersey. Applications must be postmarked by January 12, 2027. The sponsor makes the check out in the recipient’s name and pays it directly to the school for first-year tuition.",
+      "reviewed": "2026-11-13",
+      "added": "2026-11-13",
+      "provider": "foundation",
+      "relocation": false,
+      "career": "none",
+      "fit": "other-program",
+      "recurring": true,
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "U.S. citizenship is required. A green card alone does not meet the rule.",
+        "age": "The sponsor requires high-school senior status for the specified graduating class. No numerical age limit is published.",
+        "source": "https://content.myconnectsuite.com/api/documents/2bb9250b33c44e5fb556bc4b78bc7579.pdf"
+      },
+      "minValue": 1000,
+      "references": [
+        "https://content.myconnectsuite.com/api/documents/2bb9250b33c44e5fb556bc4b78bc7579.pdf"
+      ]
+    },
+    {
+      "id": "tia-maria-foundation-vocational-2027",
+      "name": "Tia Maria Scholarship · Elizabeth high-school seniors",
+      "org": "The Tia Maria Foundation",
+      "url": "https://scholarships360.org/scholarships/search/the-tia-maria-scholarship/",
+      "amount": "Award amount varies",
+      "value": null,
+      "status": "open",
+      "deadline": "2027-01-29",
+      "opens": "2026-10-01",
+      "geo": "state",
+      "states": [
+        "NJ"
+      ],
+      "benefit": "unconfirmed",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "requirements": "Elizabeth Public Schools seniors graduating in spring 2027 who plan to attend college or trade school. The sponsored application does not require a completed degree or specify a trade-school major. The school district confirms the trade-school route. Applicants must meet the Elizabeth high-school requirement even if they plan to attend AIM NJ.",
+      "group": null,
+      "ai": "prohibited",
+      "kind": "scholarship",
+      "note": "Apply by January 29, 2027. The sponsor advertises monetary support and mentoring. Payment destination is unpublished. The district flyer says winners are honored at the April 2, 2027 gala. The application prohibits AI use.",
+      "reviewed": "2026-11-13",
+      "added": "2026-11-13",
+      "provider": "foundation",
+      "relocation": false,
+      "career": "none",
+      "fit": "other-program",
+      "recurring": false,
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "The public rules do not specify whether U.S. citizenship or a green card is required. Confirm with the provider.",
+        "age": "The sponsor requires high-school senior status for the specified graduating class. No numerical age limit is published."
+      },
+      "references": [
+        "https://www.epsnj.org/departments/student-services/post-secondary-planning/enroll-college-trade-schools/financial-aid-scholarships"
+      ]
+    },
+    {
+      "id": "foresters-renew-adult-education-2026",
+      "name": "Foresters Renew Adult Education Reimbursement",
+      "org": "Foresters Financial",
+      "url": "https://www.foresters.com/en/member-benefits/foresters-renew",
+      "amount": "Up to $1,000",
+      "value": 1000,
+      "status": "open",
+      "deadline": "2026-12-31",
+      "opens": "2026-04-01",
+      "geo": "national",
+      "states": [],
+      "benefit": "reimbursement",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "requirements": "Eligible Foresters members over 18 enrolled in a qualifying college or university class, an online adult-education class, or a license recertification course. This is course-level support for adult education and career growth. The public page does not require a completed degree or specified major. Confirm whether AIM NJ’s in-person certificate classes and initial FAA licensing costs qualify.",
+      "group": null,
+      "ai": "unknown",
+      "kind": "scholarship",
+      "note": "Apply through MyForesters by December 31, 2026. Reimbursement can cover tuition, fees, books and required class tools. Complete eligible applications are considered in order, subject to availability. Full terms are in the member portal.",
+      "reviewed": "2026-11-13",
+      "added": "2026-11-13",
+      "provider": "company",
+      "relocation": false,
+      "career": "none",
+      "fit": "other-program",
+      "recurring": true,
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "The U.S. benefit site serves U.S. residents. Its public grant rules do not specify citizenship or green-card status. Confirm with Foresters.",
+        "age": "Foresters specifies over 18. Applicants who are 18 should verify eligibility in MyForesters. No upper age limit is published."
+      },
+      "references": [
+        "https://my.foresters.com/"
+      ]
+    },
+    {
+      "id": "foresters-competitive-scholarship-watch",
+      "name": "Foresters Competitive Scholarship · reopening watch",
+      "org": "Foresters Financial",
+      "url": "https://www.foresters.com/en/member-benefits/scholarships",
+      "amount": "Up to $2,000 in 2026 rules",
+      "value": 2000,
+      "status": "closed",
+      "deadline": "2026-04-30",
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "unconfirmed",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": 24,
+      "stage": "student",
+      "requirements": "The last cycle accepted qualifying Foresters members or eligible family members pursuing a first postsecondary credential at an accredited nonprofit school. New applicants needed at least two years of full-time undergraduate study, 3.2 GPA and 50 hours of service. Vocational schools can qualify under the prior rules. AIM NJ’s 21-month certificate does not establish the formal two-year duration or nonprofit condition.",
+      "group": null,
+      "ai": "unknown",
+      "kind": "scholarship",
+      "note": "The 2026 cycle closed April 30. The current banner advertises up to $2,500, while the dated 2026 guidelines specify up to $2,000 toward tuition and mandatory fees. The next application and its dates, amount and detailed school/payment rules still need confirmation.",
+      "reviewed": "2026-11-13",
+      "added": "2026-11-13",
+      "provider": "company",
+      "relocation": false,
+      "career": "none",
+      "fit": "other-program",
+      "recurring": true,
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "The prior rules allow eligible study in the U.S. or Canada and require qualifying Foresters membership. A U.S. citizenship or green-card rule was not found in the published guidelines.",
+        "age": "Applicants had to be 24 or younger throughout calendar year 2026. A separate age-18 rule applies to applicants qualifying through a juvenile policy. Verify next-cycle ages.",
+        "source": "https://www.foresters.com/-/media/foresters/documents/pdfs/us/scholarships/2026-27-competitive-scholarship-na-guidelines.pdf"
+      },
+      "references": [
+        "https://www.foresters.com/-/media/foresters/documents/pdfs/us/scholarships/2026-27-competitive-scholarship-na-guidelines.pdf"
+      ]
+    },
+    {
+      "id": "red-bank-elks-mark-molzon-vocational-2027",
+      "name": "Mark G. Molzon Vocational Scholarship",
+      "org": "Red Bank Elks Lodge #233",
+      "url": "https://www.redbankelks.org/about-5",
+      "amount": "$1,000 one time",
+      "value": 1000,
+      "status": "upcoming",
+      "deadline": "2027-05-15",
+      "opens": "2027-03-06",
+      "geo": "state",
+      "states": [
+        "NJ"
+      ],
+      "benefit": "unconfirmed",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "requirements": "New Jersey residents who are graduating high-school seniors and plan to attend a postsecondary vocational or technical certificate or credential program. A two-year community college is allowed for certificate study. The award excludes study toward an associate or bachelor’s degree. Incoming AIM NJ students can check certificate fit. Current AIM enrollment alone does not satisfy the high-school senior requirement.",
+      "group": null,
+      "ai": "unknown",
+      "kind": "scholarship",
+      "note": "The lodge page announces March 6 to May 15, 2027. Its linked local form is still labeled 2026, so check for the 2027 form when the window opens. Payment destination is unpublished. This local award has a separate application from the statewide NJ Elks award.",
+      "reviewed": "2026-11-13",
+      "added": "2026-11-13",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "other-program",
+      "recurring": true,
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "U.S. citizenship is required. A green card alone does not meet the rule.",
+        "age": "The sponsor requires high-school senior status for the specified graduating class. No numerical age limit is published."
+      }
     }
   ],
   "resources": [
@@ -12974,6 +13361,16 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-12"
       }
+    },
+    {
+      "name": "SKILLED Nation · Bies Family Automotive Scholarship",
+      "url": "https://skilled-nation.org/partner/biesscholarship",
+      "note": "The sponsor’s published rules require a Detroit-area automotive program. The shared Universal Application matches applicants by program and donor criteria."
+    },
+    {
+      "name": "Mensa Foundation · essay scholarship portal",
+      "url": "https://www.mensafoundation.org/what-we-do/scholarships/",
+      "note": "The 2027–28 cycle lists November 15, 2026 as its deadline. Check the individual award for program, enrollment and applicant requirements before relying on a trade-certificate match."
     }
   ],
   "notes": [
