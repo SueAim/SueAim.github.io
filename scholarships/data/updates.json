@@ -1,9 +1,69 @@
 {
-  "lastAttempt": "2026-11-13T01:06:53.958295Z",
+  "lastAttempt": "2026-11-13T13:31:27.123097Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 226,
-  "sourcesTotal": 241,
+  "sourcesChecked": 236,
+  "sourcesTotal": 252,
   "changes": [
+    {
+      "provider": "TOPDON Technology USA",
+      "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
+      "at": "2026-11-13T13:31:27.123097Z"
+    },
+    {
+      "provider": "Military OneSource SpouseWorks · credential funding",
+      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
+      "at": "2026-11-13T13:31:27.123097Z"
+    },
+    {
+      "provider": "American Welding Society Foundation",
+      "url": "https://www.aws.org/career-resources/students/scholarships/welder-training-scholarship/",
+      "at": "2026-11-13T13:31:27.123097Z"
+    },
+    {
+      "provider": "American Welding Society Foundation",
+      "url": "https://www.aws.org/career-resources/students/scholarships/national-scholarships/",
+      "at": "2026-11-13T13:31:27.123097Z"
+    },
+    {
+      "provider": "Scholarships360",
+      "url": "https://scholarships360.org/scholarships/search/follow-your-own-path-essay-scholarship/",
+      "at": "2026-11-13T13:31:27.123097Z"
+    },
+    {
+      "provider": "OBAP",
+      "url": "https://obap.org/outreach-programs/scholarships/",
+      "at": "2026-11-13T13:31:27.123097Z"
+    },
+    {
+      "provider": "Mary E. Smith Foundation",
+      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
+      "at": "2026-11-13T13:31:27.123097Z"
+    },
+    {
+      "provider": "National Technical Honor Society · technical student scholarships",
+      "url": "https://kb.nths.org/article/scholarships",
+      "at": "2026-11-13T13:31:27.123097Z"
+    },
+    {
+      "provider": "flyExclusive current roles",
+      "url": "https://flyexclusive.com/job-openings",
+      "at": "2026-11-13T13:31:27.123097Z"
+    },
+    {
+      "provider": "Duncan Aviation",
+      "url": "https://duncanaviation.workgr8.com/categories/7/internships/7/internships",
+      "at": "2026-11-13T13:31:27.123097Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-13T13:31:27.123097Z"
+    },
+    {
+      "provider": "Republic Airways",
+      "url": "https://careers.rjet.com/pathways-and-programs/aircraft-maintenance-apprenticeships/",
+      "at": "2026-11-13T13:31:27.123097Z"
+    },
     {
       "provider": "Military OneSource SpouseWorks · credential funding",
       "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
@@ -118,66 +178,6 @@
       "provider": "National Technical Honor Society · technical student scholarships",
       "url": "https://kb.nths.org/article/scholarships",
       "at": "2026-11-12T19:57:24.110975Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-12T19:57:24.110975Z"
-    },
-    {
-      "provider": "C&L Aviation careers",
-      "url": "https://careers.cla.aero/",
-      "at": "2026-11-12T19:57:24.110975Z"
-    },
-    {
-      "provider": "TOPDON Technology USA",
-      "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
-      "at": "2026-11-12T13:56:16.698009Z"
-    },
-    {
-      "provider": "RACCA",
-      "url": "https://www.raccaonline.org/scholarship",
-      "at": "2026-11-12T13:56:16.698009Z"
-    },
-    {
-      "provider": "Military OneSource SpouseWorks · credential funding",
-      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
-      "at": "2026-11-12T13:56:16.698009Z"
-    },
-    {
-      "provider": "Johnson & Johnson",
-      "url": "https://www.careers.jnj.com/en/jobs/r-100789/aviation-maintenance-technician-summer-intern/",
-      "at": "2026-11-12T13:56:16.698009Z"
-    },
-    {
-      "provider": "American Welding Society Foundation",
-      "url": "https://www.aws.org/career-resources/students/scholarships/welder-training-scholarship/",
-      "at": "2026-11-12T13:56:16.698009Z"
-    },
-    {
-      "provider": "AWS Foundation · welding education awards",
-      "url": "https://www.aws.org/career-resources/students/scholarships/",
-      "at": "2026-11-12T13:56:16.698009Z"
-    },
-    {
-      "provider": "TurnToTrades Apprenticeship Foundation",
-      "url": "https://turntotrades.com/apply",
-      "at": "2026-11-12T13:56:16.698009Z"
-    },
-    {
-      "provider": "The Lisa Michelle Memorial Fund",
-      "url": "https://thelmmfund.org/scholarships/how-to-apply/",
-      "at": "2026-11-12T13:56:16.698009Z"
-    },
-    {
-      "provider": "Regional Airline Association scholarship source",
-      "url": "https://raa.org/the-regional-airline-association-scholarship-foundation-now-accepting-applications-for-the-2026-scholarship/",
-      "at": "2026-11-12T13:56:16.698009Z"
-    },
-    {
-      "provider": "OBAP",
-      "url": "https://obap.org/outreach-programs/scholarships/",
-      "at": "2026-11-12T13:56:16.698009Z"
     }
   ],
   "discovered": [],
@@ -223,6 +223,11 @@
       "provider": "SupplyHouse Foundation",
       "error": "HTTP 429",
       "httpStatus": 429
+    },
+    {
+      "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Intern-Co-op---Aircraft-Maintenance-Technician--Fall-2027--_00023974",
+      "provider": "Marathon Petroleum",
+      "error": "Page too short to verify content"
     },
     {
       "url": "https://standardaero.com/aboutus/careers/",
@@ -272,7 +277,7 @@
     }
   ],
   "maintenance": {
-    "visibleRecords": 220,
+    "visibleRecords": 229,
     "hiddenExpired": 5,
     "hiddenMissing": 0,
     "restoredThisRun": 0,
