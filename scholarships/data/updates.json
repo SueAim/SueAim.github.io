@@ -1,9 +1,59 @@
 {
-  "lastAttempt": "2026-11-12T19:57:24.110975Z",
+  "lastAttempt": "2026-11-13T01:06:53.958295Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 221,
+  "sourcesChecked": 226,
   "sourcesTotal": 241,
   "changes": [
+    {
+      "provider": "Military OneSource SpouseWorks · credential funding",
+      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
+      "at": "2026-11-13T01:06:53.958295Z"
+    },
+    {
+      "provider": "SOAR Skills · technical and aviation-maintenance funding",
+      "url": "https://www.loarpllc.com/soar-skills-program/",
+      "at": "2026-11-13T01:06:53.958295Z"
+    },
+    {
+      "provider": "American Welding Society Foundation",
+      "url": "https://www.aws.org/career-resources/students/scholarships/national-scholarships/",
+      "at": "2026-11-13T01:06:53.958295Z"
+    },
+    {
+      "provider": "The Lisa Michelle Memorial Fund",
+      "url": "https://thelmmfund.org/scholarships/how-to-apply/",
+      "at": "2026-11-13T01:06:53.958295Z"
+    },
+    {
+      "provider": "Scholarships360",
+      "url": "https://scholarships360.org/scholarships/search/follow-your-own-path-essay-scholarship/",
+      "at": "2026-11-13T01:06:53.958295Z"
+    },
+    {
+      "provider": "Mary E. Smith Foundation",
+      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
+      "at": "2026-11-13T01:06:53.958295Z"
+    },
+    {
+      "provider": "LPGA Amateur Golf Association / LPGA Foundation",
+      "url": "https://lpgaamateurs.com/memberships/scholarship/",
+      "at": "2026-11-13T01:06:53.958295Z"
+    },
+    {
+      "provider": "National Technical Honor Society · technical student scholarships",
+      "url": "https://kb.nths.org/article/scholarships",
+      "at": "2026-11-13T01:06:53.958295Z"
+    },
+    {
+      "provider": "flyExclusive current roles",
+      "url": "https://flyexclusive.com/job-openings",
+      "at": "2026-11-13T01:06:53.958295Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-13T01:06:53.958295Z"
+    },
     {
       "provider": "EAA Aviation Foundation",
       "url": "https://www2.eaa.org/eaa/learn-to-fly/scholarships/post-secondary-scholarships",
@@ -128,56 +178,6 @@
       "provider": "OBAP",
       "url": "https://obap.org/outreach-programs/scholarships/",
       "at": "2026-11-12T13:56:16.698009Z"
-    },
-    {
-      "provider": "Mary E. Smith Foundation",
-      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
-      "at": "2026-11-12T13:56:16.698009Z"
-    },
-    {
-      "provider": "National Technical Honor Society · technical student scholarships",
-      "url": "https://kb.nths.org/article/scholarships",
-      "at": "2026-11-12T13:56:16.698009Z"
-    },
-    {
-      "provider": "flyExclusive current roles",
-      "url": "https://flyexclusive.com/job-openings",
-      "at": "2026-11-12T13:56:16.698009Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-12T13:56:16.698009Z"
-    },
-    {
-      "provider": "Bring Back the Trades",
-      "url": "https://bringbackthetrades.org/scholarship-application/",
-      "at": "2026-11-12T13:56:16.698009Z"
-    },
-    {
-      "provider": "Public Works Association of New Jersey",
-      "url": "https://www.pwanj.com/scholarships/",
-      "at": "2026-11-12T01:55:13.280843Z"
-    },
-    {
-      "provider": "Military OneSource SpouseWorks · credential funding",
-      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
-      "at": "2026-11-12T01:55:13.280843Z"
-    },
-    {
-      "provider": "American Welding Society Foundation",
-      "url": "https://www.aws.org/career-resources/students/scholarships/welder-training-scholarship/",
-      "at": "2026-11-12T01:55:13.280843Z"
-    },
-    {
-      "provider": "The Lisa Michelle Memorial Fund",
-      "url": "https://thelmmfund.org/scholarships/how-to-apply/",
-      "at": "2026-11-12T01:55:13.280843Z"
-    },
-    {
-      "provider": "Nucor",
-      "url": "https://nucor.com/careers/",
-      "at": "2026-11-12T01:55:13.280843Z"
     }
   ],
   "discovered": [],
@@ -225,11 +225,6 @@
       "httpStatus": 429
     },
     {
-      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
-      "provider": "Mary E. Smith Foundation",
-      "error": "URLError"
-    },
-    {
       "url": "https://standardaero.com/aboutus/careers/",
       "provider": "StandardAero careers / technical training",
       "error": "Page too short to verify content"
@@ -253,20 +248,10 @@
       "httpStatus": 403
     },
     {
-      "url": "https://www.connexfoundation.org/scholarship-opportunities/",
-      "provider": "Connex Foundation",
-      "error": "URLError"
-    },
-    {
       "url": "https://www.delta.com/us/en/careers/techops-careers",
       "provider": "Delta TechOps / TechU",
       "error": "HTTP 444",
       "httpStatus": 444
-    },
-    {
-      "url": "https://www.galsfoundation.org/",
-      "provider": "GALS Scholarship Foundation",
-      "error": "URLError"
     },
     {
       "url": "https://www.gofoodservice.com/scholarship",
@@ -281,19 +266,8 @@
       "httpStatus": 403
     },
     {
-      "url": "https://www.pathtopro.com/foundation/",
-      "provider": "The Home Depot Foundation / SKILLED Nation",
-      "error": "HTTP 403",
-      "httpStatus": 403
-    },
-    {
       "url": "https://www.share.cessna.com/en/careers/apprenticeships",
       "provider": "Textron Aviation",
-      "error": "URLError"
-    },
-    {
-      "url": "https://www.wwrightfoundation.org/",
-      "provider": "W. Wright Foundation",
       "error": "URLError"
     }
   ],
