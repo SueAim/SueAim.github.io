@@ -1,9 +1,29 @@
 {
-  "lastAttempt": "2026-11-14T13:35:13.833561Z",
+  "lastAttempt": "2026-11-14T18:07:51.684474Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 252,
+  "sourcesChecked": 248,
   "sourcesTotal": 268,
   "changes": [
+    {
+      "provider": "National Military Family Association",
+      "url": "https://www.militaryfamily.org/state-of-the-military-family-programs/spouses-scholarships/military-spouse-scholarship-faqs/",
+      "at": "2026-11-14T18:07:51.684474Z"
+    },
+    {
+      "provider": "OBAP",
+      "url": "https://obap.org/outreach-programs/scholarships/",
+      "at": "2026-11-14T18:07:51.684474Z"
+    },
+    {
+      "provider": "Mary E. Smith Foundation",
+      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
+      "at": "2026-11-14T18:07:51.684474Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-14T18:07:51.684474Z"
+    },
     {
       "provider": "Military OneSource SpouseWorks · credential funding",
       "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
@@ -158,26 +178,6 @@
       "provider": "Elliott Aviation careers",
       "url": "https://elliottaviation.com/about-us/careers/",
       "at": "2026-11-13T19:45:06.729021Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-13T19:45:06.729021Z"
-    },
-    {
-      "provider": "TOPDON Technology USA",
-      "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
-      "at": "2026-11-13T13:31:27.123097Z"
-    },
-    {
-      "provider": "Military OneSource SpouseWorks · credential funding",
-      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
-      "at": "2026-11-13T13:31:27.123097Z"
-    },
-    {
-      "provider": "American Welding Society Foundation",
-      "url": "https://www.aws.org/career-resources/students/scholarships/welder-training-scholarship/",
-      "at": "2026-11-13T13:31:27.123097Z"
     }
   ],
   "discovered": [],
@@ -225,6 +225,11 @@
       "httpStatus": 429
     },
     {
+      "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Intern-Co-op---Aircraft-Maintenance-Technician--Fall-2027--_00023974",
+      "provider": "Marathon Petroleum",
+      "error": "Page too short to verify content"
+    },
+    {
       "url": "https://standardaero.com/aboutus/careers/",
       "provider": "StandardAero careers / technical training",
       "error": "Page too short to verify content"
@@ -240,6 +245,11 @@
       "provider": "AAUW",
       "error": "HTTP 403",
       "httpStatus": 403
+    },
+    {
+      "url": "https://www.aya.org/Maintenance-Scholarship",
+      "provider": "Grumman Owners and Pilots Association",
+      "error": "TimeoutError"
     },
     {
       "url": "https://www.capeair.com/careers/",
@@ -266,6 +276,11 @@
       "httpStatus": 403
     },
     {
+      "url": "https://www.njelks.org/index.php?Itemid=62&id=43&option=com_content&view=category",
+      "provider": "New Jersey State Elks Association",
+      "error": "TimeoutError"
+    },
+    {
       "url": "https://www.share.cessna.com/en/careers/apprenticeships",
       "provider": "Textron Aviation",
       "error": "URLError"
@@ -274,6 +289,11 @@
       "url": "https://www.vanmeterinc.com/company/community/spark-your-success-scholarship",
       "provider": "Van Meter Inc.",
       "error": "Page too short to verify content"
+    },
+    {
+      "url": "https://www.widnewjersey.org/Professional-Development-Boost-Grant",
+      "provider": "Women in Development – New Jersey",
+      "error": "TimeoutError"
     }
   ],
   "maintenance": {
