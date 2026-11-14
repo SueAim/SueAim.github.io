@@ -1,9 +1,44 @@
 {
-  "lastAttempt": "2026-11-13T19:45:06.729021Z",
+  "lastAttempt": "2026-11-14T00:54:16.983255Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 236,
+  "sourcesChecked": 235,
   "sourcesTotal": 252,
   "changes": [
+    {
+      "provider": "Military OneSource SpouseWorks · credential funding",
+      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
+      "at": "2026-11-14T00:54:16.983255Z"
+    },
+    {
+      "provider": "SparkForce, The FMA Foundation",
+      "url": "https://www.fmamfg.org/foundation/scholarships",
+      "at": "2026-11-14T00:54:16.983255Z"
+    },
+    {
+      "provider": "Scholarships360",
+      "url": "https://scholarships360.org/scholarships/search/follow-your-own-path-essay-scholarship/",
+      "at": "2026-11-14T00:54:16.983255Z"
+    },
+    {
+      "provider": "Scholarships360",
+      "url": "https://scholarships360.org/scholarships/search/10000-no-essay-scholarship/",
+      "at": "2026-11-14T00:54:16.983255Z"
+    },
+    {
+      "provider": "Mary E. Smith Foundation",
+      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
+      "at": "2026-11-14T00:54:16.983255Z"
+    },
+    {
+      "provider": "National Technical Honor Society · technical student scholarships",
+      "url": "https://kb.nths.org/article/scholarships",
+      "at": "2026-11-14T00:54:16.983255Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-14T00:54:16.983255Z"
+    },
     {
       "provider": "TOPDON Technology USA",
       "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
@@ -143,41 +178,6 @@
       "provider": "Republic Airways",
       "url": "https://careers.rjet.com/pathways-and-programs/aircraft-maintenance-apprenticeships/",
       "at": "2026-11-13T13:31:27.123097Z"
-    },
-    {
-      "provider": "Military OneSource SpouseWorks · credential funding",
-      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
-      "at": "2026-11-13T01:06:53.958295Z"
-    },
-    {
-      "provider": "SOAR Skills · technical and aviation-maintenance funding",
-      "url": "https://www.loarpllc.com/soar-skills-program/",
-      "at": "2026-11-13T01:06:53.958295Z"
-    },
-    {
-      "provider": "American Welding Society Foundation",
-      "url": "https://www.aws.org/career-resources/students/scholarships/national-scholarships/",
-      "at": "2026-11-13T01:06:53.958295Z"
-    },
-    {
-      "provider": "The Lisa Michelle Memorial Fund",
-      "url": "https://thelmmfund.org/scholarships/how-to-apply/",
-      "at": "2026-11-13T01:06:53.958295Z"
-    },
-    {
-      "provider": "Scholarships360",
-      "url": "https://scholarships360.org/scholarships/search/follow-your-own-path-essay-scholarship/",
-      "at": "2026-11-13T01:06:53.958295Z"
-    },
-    {
-      "provider": "Mary E. Smith Foundation",
-      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
-      "at": "2026-11-13T01:06:53.958295Z"
-    },
-    {
-      "provider": "LPGA Amateur Golf Association / LPGA Foundation",
-      "url": "https://lpgaamateurs.com/memberships/scholarship/",
-      "at": "2026-11-13T01:06:53.958295Z"
     }
   ],
   "discovered": [],
@@ -227,7 +227,8 @@
     {
       "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Intern-Co-op---Aircraft-Maintenance-Technician--Fall-2027--_00023974",
       "provider": "Marathon Petroleum",
-      "error": "Page too short to verify content"
+      "error": "HTTP 521",
+      "httpStatus": 521
     },
     {
       "url": "https://standardaero.com/aboutus/careers/",
@@ -274,6 +275,11 @@
       "url": "https://www.share.cessna.com/en/careers/apprenticeships",
       "provider": "Textron Aviation",
       "error": "URLError"
+    },
+    {
+      "url": "https://www.snapon.com/Industrial-Education/Snapon-Program.htm",
+      "provider": "Snap-on Student Excellence Program",
+      "error": "TimeoutError"
     }
   ],
   "maintenance": {
