@@ -1,9 +1,69 @@
 {
-  "lastAttempt": "2026-11-14T18:07:51.684474Z",
+  "lastAttempt": "2026-11-14T23:56:51.638696Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 248,
+  "sourcesChecked": 251,
   "sourcesTotal": 268,
   "changes": [
+    {
+      "provider": "Travers Tool · metalworking tools scholarships",
+      "url": "https://www.travers.com/scholarship",
+      "at": "2026-11-14T23:56:51.638696Z"
+    },
+    {
+      "provider": "TOPDON Technology USA",
+      "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
+      "at": "2026-11-14T23:56:51.638696Z"
+    },
+    {
+      "provider": "Military OneSource SpouseWorks · credential funding",
+      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
+      "at": "2026-11-14T23:56:51.638696Z"
+    },
+    {
+      "provider": "Hard Head Veterans · skilled-trade scholarship source",
+      "url": "https://www.hardheadveterans.com/pages/ate-ballistic-helmet-scholarships",
+      "at": "2026-11-14T23:56:51.638696Z"
+    },
+    {
+      "provider": "American Welding Society Foundation",
+      "url": "https://www.aws.org/career-resources/students/scholarships/national-scholarships/",
+      "at": "2026-11-14T23:56:51.638696Z"
+    },
+    {
+      "provider": "AWS Foundation · welding education awards",
+      "url": "https://www.aws.org/career-resources/students/scholarships/",
+      "at": "2026-11-14T23:56:51.638696Z"
+    },
+    {
+      "provider": "Pioneer Military Credit",
+      "url": "https://pioneermilitarycredit.com/military-spouse-scholarship/",
+      "at": "2026-11-14T23:56:51.638696Z"
+    },
+    {
+      "provider": "Nucor",
+      "url": "https://nucor.com/careers/",
+      "at": "2026-11-14T23:56:51.638696Z"
+    },
+    {
+      "provider": "Mary E. Smith Foundation",
+      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
+      "at": "2026-11-14T23:56:51.638696Z"
+    },
+    {
+      "provider": "FEAM Aero / Epic Flight Academy",
+      "url": "https://epicflightacademy.com/flight-school-faq/how-does-the-feam-program-work/",
+      "at": "2026-11-14T23:56:51.638696Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-14T23:56:51.638696Z"
+    },
+    {
+      "provider": "Beauty Changes Lives · vocational training scholarships",
+      "url": "https://beautychangeslives.org/scholarships-opportunities/",
+      "at": "2026-11-14T23:56:51.638696Z"
+    },
     {
       "provider": "National Military Family Association",
       "url": "https://www.militaryfamily.org/state-of-the-military-family-programs/spouses-scholarships/military-spouse-scholarship-faqs/",
@@ -118,66 +178,6 @@
       "provider": "Military OneSource SpouseWorks · credential funding",
       "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
       "at": "2026-11-13T19:45:06.729021Z"
-    },
-    {
-      "provider": "Hard Head Veterans · skilled-trade scholarship source",
-      "url": "https://www.hardheadveterans.com/pages/ate-ballistic-helmet-scholarships",
-      "at": "2026-11-13T19:45:06.729021Z"
-    },
-    {
-      "provider": "Johnson & Johnson",
-      "url": "https://www.careers.jnj.com/en/jobs/r-100789/aviation-maintenance-technician-summer-intern/",
-      "at": "2026-11-13T19:45:06.729021Z"
-    },
-    {
-      "provider": "American Welding Society Foundation",
-      "url": "https://www.aws.org/career-resources/students/scholarships/welder-training-scholarship/",
-      "at": "2026-11-13T19:45:06.729021Z"
-    },
-    {
-      "provider": "AWS Foundation · welding education awards",
-      "url": "https://www.aws.org/career-resources/students/scholarships/",
-      "at": "2026-11-13T19:45:06.729021Z"
-    },
-    {
-      "provider": "The Lisa Michelle Memorial Fund",
-      "url": "https://thelmmfund.org/scholarships/how-to-apply/",
-      "at": "2026-11-13T19:45:06.729021Z"
-    },
-    {
-      "provider": "Scholarship America",
-      "url": "https://scholarshipamerica.org/scholarship/veteranscholarship/",
-      "at": "2026-11-13T19:45:06.729021Z"
-    },
-    {
-      "provider": "Scholarship America",
-      "url": "https://scholarshipamerica.org/scholarship/essentialvisionaries/",
-      "at": "2026-11-13T19:45:06.729021Z"
-    },
-    {
-      "provider": "Pioneer Military Credit",
-      "url": "https://pioneermilitarycredit.com/military-spouse-scholarship/",
-      "at": "2026-11-13T19:45:06.729021Z"
-    },
-    {
-      "provider": "OBAP",
-      "url": "https://obap.org/outreach-programs/scholarships/",
-      "at": "2026-11-13T19:45:06.729021Z"
-    },
-    {
-      "provider": "Mary E. Smith Foundation",
-      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
-      "at": "2026-11-13T19:45:06.729021Z"
-    },
-    {
-      "provider": "National Technical Honor Society · technical student scholarships",
-      "url": "https://kb.nths.org/article/scholarships",
-      "at": "2026-11-13T19:45:06.729021Z"
-    },
-    {
-      "provider": "Elliott Aviation careers",
-      "url": "https://elliottaviation.com/about-us/careers/",
-      "at": "2026-11-13T19:45:06.729021Z"
     }
   ],
   "discovered": [],
@@ -247,11 +247,6 @@
       "httpStatus": 403
     },
     {
-      "url": "https://www.aya.org/Maintenance-Scholarship",
-      "provider": "Grumman Owners and Pilots Association",
-      "error": "TimeoutError"
-    },
-    {
       "url": "https://www.capeair.com/careers/",
       "provider": "Cape Air maintenance / TechOps careers",
       "error": "HTTP 403",
@@ -276,11 +271,6 @@
       "httpStatus": 403
     },
     {
-      "url": "https://www.njelks.org/index.php?Itemid=62&id=43&option=com_content&view=category",
-      "provider": "New Jersey State Elks Association",
-      "error": "TimeoutError"
-    },
-    {
       "url": "https://www.share.cessna.com/en/careers/apprenticeships",
       "provider": "Textron Aviation",
       "error": "URLError"
@@ -289,11 +279,6 @@
       "url": "https://www.vanmeterinc.com/company/community/spark-your-success-scholarship",
       "provider": "Van Meter Inc.",
       "error": "Page too short to verify content"
-    },
-    {
-      "url": "https://www.widnewjersey.org/Professional-Development-Boost-Grant",
-      "provider": "Women in Development – New Jersey",
-      "error": "TimeoutError"
     }
   ],
   "maintenance": {
