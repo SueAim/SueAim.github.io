@@ -1,9 +1,64 @@
 {
-  "lastAttempt": "2026-11-15T13:40:08.026906Z",
+  "lastAttempt": "2026-11-15T18:54:18.669986Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 258,
+  "sourcesChecked": 259,
   "sourcesTotal": 277,
   "changes": [
+    {
+      "provider": "STEP and JRO Foundation · boilermaker trades source",
+      "url": "https://www.stepnj.org/the-justin-owens-scholarship",
+      "at": "2026-11-15T18:54:18.669986Z"
+    },
+    {
+      "provider": "NAHB Professional Women in Building Council / National Housing Endowment",
+      "url": "https://www.nahb.org/nahb-community/councils/professional-women-in-building-council/pwb-nhe-scholarships",
+      "at": "2026-11-15T18:54:18.669986Z"
+    },
+    {
+      "provider": "Military OneSource SpouseWorks · credential funding",
+      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
+      "at": "2026-11-15T18:54:18.669986Z"
+    },
+    {
+      "provider": "National Military Family Association",
+      "url": "https://www.militaryfamily.org/state-of-the-military-family-programs/spouses-scholarships/military-spouse-scholarship-faqs/",
+      "at": "2026-11-15T18:54:18.669986Z"
+    },
+    {
+      "provider": "Hard Head Veterans · skilled-trade scholarship source",
+      "url": "https://www.hardheadveterans.com/pages/ate-ballistic-helmet-scholarships",
+      "at": "2026-11-15T18:54:18.669986Z"
+    },
+    {
+      "provider": "American Welding Society Foundation",
+      "url": "https://www.aws.org/career-resources/students/scholarships/welder-training-scholarship/",
+      "at": "2026-11-15T18:54:18.669986Z"
+    },
+    {
+      "provider": "American Welding Society Foundation",
+      "url": "https://www.aws.org/career-resources/students/scholarships/national-scholarships/",
+      "at": "2026-11-15T18:54:18.669986Z"
+    },
+    {
+      "provider": "AWS Foundation · welding education awards",
+      "url": "https://www.aws.org/career-resources/students/scholarships/",
+      "at": "2026-11-15T18:54:18.669986Z"
+    },
+    {
+      "provider": "Perry Second Chances · November 2026 reopening lead",
+      "url": "https://theperryscholarship.org/scholarship/",
+      "at": "2026-11-15T18:54:18.669986Z"
+    },
+    {
+      "provider": "OBAP",
+      "url": "https://obap.org/outreach-programs/scholarships/",
+      "at": "2026-11-15T18:54:18.669986Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-15T18:54:18.669986Z"
+    },
     {
       "provider": "NAHB Professional Women in Building Council / National Housing Endowment",
       "url": "https://www.nahb.org/nahb-community/councils/professional-women-in-building-council/pwb-nhe-scholarships",
@@ -123,61 +178,6 @@
       "provider": "AWS Foundation · welding education awards",
       "url": "https://www.aws.org/career-resources/students/scholarships/",
       "at": "2026-11-14T23:56:51.638696Z"
-    },
-    {
-      "provider": "Pioneer Military Credit",
-      "url": "https://pioneermilitarycredit.com/military-spouse-scholarship/",
-      "at": "2026-11-14T23:56:51.638696Z"
-    },
-    {
-      "provider": "Nucor",
-      "url": "https://nucor.com/careers/",
-      "at": "2026-11-14T23:56:51.638696Z"
-    },
-    {
-      "provider": "Mary E. Smith Foundation",
-      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
-      "at": "2026-11-14T23:56:51.638696Z"
-    },
-    {
-      "provider": "FEAM Aero / Epic Flight Academy",
-      "url": "https://epicflightacademy.com/flight-school-faq/how-does-the-feam-program-work/",
-      "at": "2026-11-14T23:56:51.638696Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-14T23:56:51.638696Z"
-    },
-    {
-      "provider": "Beauty Changes Lives · vocational training scholarships",
-      "url": "https://beautychangeslives.org/scholarships-opportunities/",
-      "at": "2026-11-14T23:56:51.638696Z"
-    },
-    {
-      "provider": "National Military Family Association",
-      "url": "https://www.militaryfamily.org/state-of-the-military-family-programs/spouses-scholarships/military-spouse-scholarship-faqs/",
-      "at": "2026-11-14T18:07:51.684474Z"
-    },
-    {
-      "provider": "OBAP",
-      "url": "https://obap.org/outreach-programs/scholarships/",
-      "at": "2026-11-14T18:07:51.684474Z"
-    },
-    {
-      "provider": "Mary E. Smith Foundation",
-      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
-      "at": "2026-11-14T18:07:51.684474Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-14T18:07:51.684474Z"
-    },
-    {
-      "provider": "Military OneSource SpouseWorks · credential funding",
-      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
-      "at": "2026-11-14T13:35:13.833561Z"
     }
   ],
   "discovered": [],
@@ -285,11 +285,6 @@
       "url": "https://www.vanmeterinc.com/company/community/spark-your-success-scholarship",
       "provider": "Van Meter Inc.",
       "error": "Page too short to verify content"
-    },
-    {
-      "url": "https://www.wca-intl.org/category/scholarships/",
-      "provider": "Women in Corporate Aviation · scholarship programs",
-      "error": "URLError"
     }
   ],
   "maintenance": {
