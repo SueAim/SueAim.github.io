@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "reviewed": "2026-11-17",
+  "reviewed": "2026-11-18",
   "scope": "New Jersey residents and students attending New Jersey schools; nationwide and international providers accepting NJ applicants",
   "records": [
     {
@@ -8708,13 +8708,13 @@
       "parent": false,
       "minAge": 18,
       "maxAge": null,
-      "stage": "check",
+      "stage": "student",
       "kind": "scholarship",
       "provider": "employer",
       "relocation": false,
       "career": "none",
-      "fit": "degree-check",
-      "reviewed": "2026-11-06",
+      "fit": "potential",
+      "reviewed": "2026-11-18",
       "added": "2026-11-06",
       "recurring": true,
       "group": null,
@@ -8727,8 +8727,8 @@
       "name": "Pioneer Homefront Scholars Military Spouse Scholarship",
       "org": "Pioneer Military Credit",
       "url": "https://pioneermilitarycredit.com/military-spouse-scholarship/",
-      "requirements": "Age 18+ and spouse of an active-duty, Guard, Reserve, career-retired or medically retired military member. The detailed eligibility rules accept accredited vocational certificates or diplomas and associate through doctoral degrees, but the FAQ says advanced degree. Confirm current AIM NJ certificate eligibility with the sponsor. Past winners, sponsor employees/contractors and their immediate families are excluded.",
-      "note": "The Spring 2027 entry form is open through December 31, 2026. Award paid directly to the recipient. One entry per session. Winners grant publicity permission. No prior-degree restriction is stated in the detailed rules.",
+      "requirements": "Age 18+ by the session deadline; legally married spouse of an active-duty, National Guard/Reserve, career-retired or medically retired military member. Education: enrolled or accepted by selection time at an accredited college, university or technical/vocational school in an associate, bachelor, graduate or technical/vocational CERTIFICATE/DIPLOMA program. No previously completed degree is required; no prior-degree exclusion is published. AIM NJ certificate students may check this route subject to these individual rules. Past winners, sponsor employees/contractors and their immediate families are excluded.",
+      "note": "Spring 2027 entries close December 31, 2026. $1,000 paid directly to the recipient; one entry per session. Winners grant publicity permission. The heading, formal eligibility and live application Certificate/Diploma Program option explicitly accept vocational study. The shorter FAQ still says advanced degree and points readers to the full eligibility above.",
       "sourceHealth": {
         "state": "ok",
         "checkedAt": "2026-11-17T20:58:33.024785Z",
@@ -8742,7 +8742,8 @@
       },
       "eligibility": {
         "age": "18 or older by the closing date of the application session.",
-        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor."
+        "citizenship": "U.S. citizenship and green-card eligibility are unconfirmed. Check the current application or ask the sponsor.",
+        "source": "https://pioneermilitarycredit.com/military-spouse-scholarship/"
       }
     },
     {
@@ -14698,6 +14699,189 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-17"
       }
+    },
+    {
+      "id": "wings-over-america-navy-family-2027",
+      "name": "Wings Over America Navy Aviation Family Scholarships",
+      "org": "Wings Over America Scholarship Foundation",
+      "url": "https://woasf.org/scholarships",
+      "amount": "$5,000; administered awards vary",
+      "value": 5000,
+      "status": "open",
+      "deadline": "2027-02-01",
+      "opens": "2026-10-01",
+      "geo": "national",
+      "states": [],
+      "benefit": "unconfirmed",
+      "gender": "all",
+      "community": [
+        "Military family"
+      ],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "requirements": "Spouse, unmarried child or unmarried grandchild of qualifying U.S. Navy aviation personnel. Standard sponsor rule: eight years of qualifying active-duty/activated-reserve Navy aviation service; flight school does not count. Active-duty deaths in Navy aviation and certain command-specific administered awards have exceptions. Children and grandchildren must be age 23 or younger in the application year and study full-time (at least 12 credits per semester); spouses may study full- or part-time (at least 6 credits). Education: accredited trade/technical certification programs and college degrees are accepted. No completed college degree or prior-degree exclusion is stated. AIM NJ certificate students must document the required enrollment load and sponsor relationship.",
+      "group": "wings-over-america-shared",
+      "ai": "unknown",
+      "kind": "scholarship",
+      "note": "Pre-qualification is open: submit by February 1, 2027 at 5 p.m. Eastern; approved applicants must finish the scholarship application by March 1, 2027 at 5 p.m. Eastern. Tuition and mandatory fees only; the public page does not specify the payee. One shared application can match eligible administered awards; amounts and sponsor rules differ. No NJ exclusion is stated.",
+      "reviewed": "2026-11-18",
+      "added": "2026-11-18",
+      "provider": "foundation",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential",
+      "recurring": true,
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "The public rules do not specify whether U.S. citizenship or a green card is required. Confirm with the sponsor.",
+        "age": "Children and grandchildren: unmarried and no older than 23 in the application year. No numerical age limit is published for spouses.",
+        "source": "https://woasf.org/scholarships"
+      },
+      "references": [
+        "https://apply.mykaleidoscope.com/program/WingsOverAmericaPreQualification2627"
+      ]
+    },
+    {
+      "id": "apiqwtc-certificate-degree-scholarship-2027",
+      "name": "APIQWTC Certificate and Degree Scholarship",
+      "org": "Asian Pacific Islander Queer Women & Transgender Community",
+      "url": "https://apiqwtc.org/call-for-applications-2027-apiqwtc-scholarship/",
+      "amount": "$3,500 per recipient",
+      "value": 3500,
+      "status": "open",
+      "deadline": "2027-02-01",
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "unconfirmed",
+      "gender": "all",
+      "community": [
+        "Asian community"
+      ],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "requirements": "Asian/Pacific Islander lesbian, bisexual or queer women, or Asian/Pacific Islander transgender or nonbinary individuals. Past recipients of either APIQWTC award are ineligible. Full- and part-time students and returning learners may apply. A San Francisco Bay Area connection is not required. Education: current or prospective Summer/Fall 2027 enrollment in a tuition-based certificate, associate, bachelor or graduate program at a U.S. NONPROFIT institution. No previously completed degree is required; no prior-degree exclusion is published. The nonprofit-school requirement excludes AIM NJ from confirmed matches.",
+      "group": "apiqwtc-shared",
+      "ai": "unknown",
+      "kind": "scholarship",
+      "note": "Two awards; applications and recommendation letters due February 1, 2027 at 11:59 p.m. Pacific. Payment destination is not published. Shares an application with the Terri Higa award; the FAQ permits applying for both when eligible. Certificate study is accepted, but nonprofit institution status remains mandatory.",
+      "reviewed": "2026-11-18",
+      "added": "2026-11-18",
+      "provider": "foundation",
+      "relocation": false,
+      "career": "none",
+      "fit": "other-program",
+      "recurring": true,
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "International students are eligible if living in the U.S. when applying and attending a U.S. institution; successful international applicants must document a valid student visa. U.S. citizenship or a green card is not required under that route.",
+        "age": "No numerical age limit is stated in the public rules reviewed.",
+        "source": "https://apiqwtc.org/call-for-applications-2027-apiqwtc-scholarship/"
+      },
+      "ethnicity": [
+        "Asian community"
+      ],
+      "references": [
+        "https://docs.google.com/document/d/1fAAJ2_q4duHuB-xz7605QVVir6I35QxJNkShE3-v4gk/view",
+        "https://forms.gle/erqDNMtorPKQtyLU6"
+      ]
+    },
+    {
+      "id": "apiqwtc-terri-higa-technical-associate-2027",
+      "name": "Terri Higa Memorial Technical / Trade Scholarship",
+      "org": "Asian Pacific Islander Queer Women & Transgender Community",
+      "url": "https://apiqwtc.org/call-for-applications-2027-terri-higa-memorial-scholarship/",
+      "amount": "$3,500",
+      "value": 3500,
+      "status": "open",
+      "deadline": "2027-02-01",
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "unconfirmed",
+      "gender": "all",
+      "community": [
+        "Asian community"
+      ],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "requirements": "Asian/Pacific Islander lesbian, bisexual or queer women, or Asian/Pacific Islander transgender or nonbinary individuals. Past recipients of either APIQWTC award are ineligible. Full- and part-time students and returning learners may apply. A San Francisco Bay Area connection is not required. Education: pursuing an Associate of Science (AS) or Associate of Arts (AA) in a technical or trade career at an accredited U.S. NONPROFIT institution. Examples include automotive technology/collision repair, carpentry and allied health. A previously earned degree does not substitute for current eligible AS/AA study. No prior-degree exclusion is published. AIM NJ nondegree certificate study does not meet the degree and nonprofit-school rules.",
+      "group": "apiqwtc-shared",
+      "ai": "unknown",
+      "kind": "scholarship",
+      "note": "One award; due February 1, 2027 at 11:59 p.m. Pacific. Payment destination is not published. Requires a short video, references and transcript. Shared application with APIQWTC; eligible applicants may apply for both without counting this portal twice.",
+      "reviewed": "2026-11-18",
+      "added": "2026-11-18",
+      "provider": "foundation",
+      "relocation": false,
+      "career": "none",
+      "fit": "degree-check",
+      "recurring": true,
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "International students are eligible if living in the U.S. when applying and attending a U.S. institution; successful international applicants must document a valid student visa. U.S. citizenship or a green card is not required under that route.",
+        "age": "No numerical age limit is stated in the public rules reviewed.",
+        "source": "https://apiqwtc.org/call-for-applications-2027-terri-higa-memorial-scholarship/"
+      },
+      "ethnicity": [
+        "Asian community"
+      ],
+      "references": [
+        "https://docs.google.com/document/d/1fAAJ2_q4duHuB-xz7605QVVir6I35QxJNkShE3-v4gk/view",
+        "https://forms.gle/erqDNMtorPKQtyLU6"
+      ]
+    },
+    {
+      "id": "apia-scholars-undergraduate-2027-28",
+      "name": "APIA Scholars Undergraduate Scholarships",
+      "org": "APIA Scholars",
+      "url": "https://apiascholars.org/scholarships/",
+      "amount": "$2,500 one-time to $20,000 over multiple years",
+      "value": 20000,
+      "status": "open",
+      "deadline": "2027-01-15",
+      "opens": "2026-11-15",
+      "geo": "national",
+      "states": [],
+      "benefit": "school",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "requirements": "Demonstrated high financial need. Education: full- or part-time DEGREE-SEEKING associate or bachelor enrollment at a U.S. accredited college/university in Fall 2027. Certificate-only vocational enrollment is not eligible. No prior bachelor or higher degree; an associate graduate pursuing a first bachelor may apply. Returning/adult students are welcome. All ethnicities and national origins may apply if the citizenship rule is met; being first-generation is not required.",
+      "group": "apia-scholars-shared",
+      "ai": "unknown",
+      "kind": "scholarship",
+      "note": "Open November 15, 2026 through January 15, 2027 at 11:59 p.m. Eastern. Paid directly to the college/university for cost of attendance. Amount and renewal depend on the matched award; $20,000 is a multi-year total. Existing recipients already funded for 2027–28 cannot apply again. AIM NJ certificate enrollment alone does not qualify.",
+      "reviewed": "2026-11-18",
+      "added": "2026-11-18",
+      "provider": "foundation",
+      "relocation": false,
+      "career": "none",
+      "fit": "degree-check",
+      "recurring": true,
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "U.S. citizens, U.S. nationals and lawful permanent residents qualify; citizens of the Republic of the Marshall Islands, Federated States of Micronesia and Republic of Palau also qualify. Other international students are ineligible.",
+        "age": "The FAQ welcomes students of all ages, including returning adult students; no numerical age limit is stated.",
+        "source": "https://apiascholars.org/scholarships/"
+      },
+      "minValue": 2500,
+      "references": [
+        "https://apiascholars.org/scholarships/application-support/faq/"
+      ]
     }
   ],
   "resources": [
