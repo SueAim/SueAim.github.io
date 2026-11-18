@@ -1,9 +1,129 @@
 {
-  "lastAttempt": "2026-11-18T13:27:44.035215Z",
+  "lastAttempt": "2026-11-18T20:35:34.727529Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 287,
+  "sourcesChecked": 285,
   "sourcesTotal": 306,
   "changes": [
+    {
+      "provider": "EAA Aviation Foundation",
+      "url": "https://www2.eaa.org/eaa/learn-to-fly/scholarships/post-secondary-scholarships",
+      "at": "2026-11-18T20:35:34.727529Z"
+    },
+    {
+      "provider": "TOPDON Technology USA",
+      "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
+      "at": "2026-11-18T20:35:34.727529Z"
+    },
+    {
+      "provider": "NSHSS Foundation",
+      "url": "https://www.nshss.org/scholarships/s/nshss-foundation-makers-and-builders-award/",
+      "at": "2026-11-18T20:35:34.727529Z"
+    },
+    {
+      "provider": "National Military Family Association",
+      "url": "https://www.militaryfamily.org/state-of-the-military-family-programs/spouses-scholarships/military-spouse-scholarship-faqs/",
+      "at": "2026-11-18T20:35:34.727529Z"
+    },
+    {
+      "provider": "Hard Head Veterans · skilled-trade scholarship source",
+      "url": "https://www.hardheadveterans.com/pages/ate-ballistic-helmet-scholarships",
+      "at": "2026-11-18T20:35:34.727529Z"
+    },
+    {
+      "provider": "Envoy Air · AIM maintenance partnership updates",
+      "url": "https://www.envoyair.com/2026/10/28/continuing-our-partnership-with-aim/",
+      "at": "2026-11-18T20:35:34.727529Z"
+    },
+    {
+      "provider": "Envoy preferred A&P-school partnerships",
+      "url": "https://www.envoyair.com/2025/12/03/envoy-announces-preferred-airframe-powerplant-school-partnerships/",
+      "at": "2026-11-18T20:35:34.727529Z"
+    },
+    {
+      "provider": "EAA",
+      "url": "https://www.eaa.org/eaa/learn-to-fly/scholarships/post-secondary-scholarships",
+      "at": "2026-11-18T20:35:34.727529Z"
+    },
+    {
+      "provider": "Disabled American Veterans",
+      "url": "https://www.dav.org/get-involved/volunteer/dav-scholarships/",
+      "at": "2026-11-18T20:35:34.727529Z"
+    },
+    {
+      "provider": "Danish Sisterhood · vocational certificate funding",
+      "url": "https://www.danishsisterhood.org/scholarshipsandgrants",
+      "at": "2026-11-18T20:35:34.727529Z"
+    },
+    {
+      "provider": "American Welding Society Foundation",
+      "url": "https://www.aws.org/career-resources/students/scholarships/welder-training-scholarship/",
+      "at": "2026-11-18T20:35:34.727529Z"
+    },
+    {
+      "provider": "American Welding Society Foundation",
+      "url": "https://www.aws.org/career-resources/students/scholarships/national-scholarships/",
+      "at": "2026-11-18T20:35:34.727529Z"
+    },
+    {
+      "provider": "The Lisa Michelle Memorial Fund",
+      "url": "https://thelmmfund.org/scholarships/how-to-apply/",
+      "at": "2026-11-18T20:35:34.727529Z"
+    },
+    {
+      "provider": "The Tia Maria Foundation",
+      "url": "https://scholarships360.org/scholarships/search/the-tia-maria-scholarship/",
+      "at": "2026-11-18T20:35:34.727529Z"
+    },
+    {
+      "provider": "Pioneer Military Credit",
+      "url": "https://pioneermilitarycredit.com/military-spouse-scholarship/",
+      "at": "2026-11-18T20:35:34.727529Z"
+    },
+    {
+      "provider": "OBAP",
+      "url": "https://obap.org/outreach-programs/scholarships/",
+      "at": "2026-11-18T20:35:34.727529Z"
+    },
+    {
+      "provider": "Foster Love BrandSource · closed trade scholarship source",
+      "url": "https://fosterlove.com/brandsource-scholars/",
+      "at": "2026-11-18T20:35:34.727529Z"
+    },
+    {
+      "provider": "Foster Love / Milligan Family Foundation",
+      "url": "https://fosterlove.com/american-industries-scholarship/",
+      "at": "2026-11-18T20:35:34.727529Z"
+    },
+    {
+      "provider": "Coast Guard Foundation",
+      "url": "https://coastguardfoundation.org/relief/honoring-fallen-heroes",
+      "at": "2026-11-18T20:35:34.727529Z"
+    },
+    {
+      "provider": "Coast Guard Foundation",
+      "url": "https://coastguardfoundation.org/news/apply-now-grants-for-enlisted-coast-guard-members-to-support-education-professional-training",
+      "at": "2026-11-18T20:35:34.727529Z"
+    },
+    {
+      "provider": "Coast Guard Foundation",
+      "url": "https://coastguardfoundation.org/news/apply-now-coast-guard-spouse-grants-for-education-training",
+      "at": "2026-11-18T20:35:34.727529Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-18T20:35:34.727529Z"
+    },
+    {
+      "provider": "Beauty Changes Lives · vocational training scholarships",
+      "url": "https://beautychangeslives.org/scholarships-opportunities/",
+      "at": "2026-11-18T20:35:34.727529Z"
+    },
+    {
+      "provider": "Beauty Changes Lives / Borboleta",
+      "url": "https://beautychangeslives.org/offer/borboleta-pro-path-esthetics-scholarship/",
+      "at": "2026-11-18T20:35:34.727529Z"
+    },
     {
       "provider": "WTS New Jersey",
       "url": "https://www.wtsinternational.org/chapters/new-jersey/scholarships",
@@ -58,126 +178,6 @@
       "provider": "OBAP",
       "url": "https://obap.org/outreach-programs/scholarships/",
       "at": "2026-11-18T13:27:44.035215Z"
-    },
-    {
-      "provider": "The Ninety-Nines · technical training scholarship source",
-      "url": "https://ninety-nines.org/scholarships/",
-      "at": "2026-11-18T13:27:44.035215Z"
-    },
-    {
-      "provider": "National Technical Honor Society · technical student scholarships",
-      "url": "https://kb.nths.org/article/scholarships",
-      "at": "2026-11-18T13:27:44.035215Z"
-    },
-    {
-      "provider": "flyExclusive current roles",
-      "url": "https://flyexclusive.com/job-openings",
-      "at": "2026-11-18T13:27:44.035215Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-18T13:27:44.035215Z"
-    },
-    {
-      "provider": "WTS New Jersey",
-      "url": "https://www.wtsinternational.org/chapters/new-jersey/scholarships",
-      "at": "2026-11-17T20:58:33.024785Z"
-    },
-    {
-      "provider": "WTS Foundation · women in transportation scholarships",
-      "url": "https://www.wtsinternational.org/about/wts-scholarships",
-      "at": "2026-11-17T20:58:33.024785Z"
-    },
-    {
-      "provider": "NSHSS Foundation",
-      "url": "https://www.nshss.org/scholarships/s/nshss-foundation-makers-and-builders-award/",
-      "at": "2026-11-17T20:58:33.024785Z"
-    },
-    {
-      "provider": "New Jersey Retirees’ Education Association",
-      "url": "https://www.njea.org/njrea-scholarships/",
-      "at": "2026-11-17T20:58:33.024785Z"
-    },
-    {
-      "provider": "NAHB Professional Women in Building Council / National Housing Endowment",
-      "url": "https://www.nahb.org/nahb-community/councils/professional-women-in-building-council/pwb-nhe-scholarships",
-      "at": "2026-11-17T20:58:33.024785Z"
-    },
-    {
-      "provider": "Military OneSource SpouseWorks · credential funding",
-      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
-      "at": "2026-11-17T20:58:33.024785Z"
-    },
-    {
-      "provider": "Jewish Community Foundation of Southern New Jersey",
-      "url": "https://www.jcfsnj.org/scholarships",
-      "at": "2026-11-17T20:58:33.024785Z"
-    },
-    {
-      "provider": "Envoy Air · AIM maintenance partnership updates",
-      "url": "https://www.envoyair.com/2026/10/28/continuing-our-partnership-with-aim/",
-      "at": "2026-11-17T20:58:33.024785Z"
-    },
-    {
-      "provider": "Envoy preferred A&P-school partnerships",
-      "url": "https://www.envoyair.com/2025/12/03/envoy-announces-preferred-airframe-powerplant-school-partnerships/",
-      "at": "2026-11-17T20:58:33.024785Z"
-    },
-    {
-      "provider": "Citadel Completions",
-      "url": "https://www.citadelcompletions.com/careers/",
-      "at": "2026-11-17T20:58:33.024785Z"
-    },
-    {
-      "provider": "AMFA National Scholarships · next-cycle watch",
-      "url": "https://www.amfanational.org/index.cfm?page=AMFA20Scholarships&zone=/unionactive/view_page.cfm",
-      "at": "2026-11-17T20:58:33.024785Z"
-    },
-    {
-      "provider": "Aircraft Mechanics Fraternal Association",
-      "url": "https://www.amfanational.org/index.cfm?page=AMFA20Scholarships&zone=%2Funionactive%2Fview_page.cfm",
-      "at": "2026-11-17T20:58:33.024785Z"
-    },
-    {
-      "provider": "The CIRI Foundation",
-      "url": "https://thecirifoundation.org/scholarships/",
-      "at": "2026-11-17T20:58:33.024785Z"
-    },
-    {
-      "provider": "Regional Airline Association scholarship source",
-      "url": "https://raa.org/the-regional-airline-association-scholarship-foundation-now-accepting-applications-for-the-2026-scholarship/",
-      "at": "2026-11-17T20:58:33.024785Z"
-    },
-    {
-      "provider": "Pioneer Military Credit",
-      "url": "https://pioneermilitarycredit.com/military-spouse-scholarship/",
-      "at": "2026-11-17T20:58:33.024785Z"
-    },
-    {
-      "provider": "OBAP",
-      "url": "https://obap.org/outreach-programs/scholarships/",
-      "at": "2026-11-17T20:58:33.024785Z"
-    },
-    {
-      "provider": "Madison Area AAUW",
-      "url": "https://madisonareaaauw.org/",
-      "at": "2026-11-17T20:58:33.024785Z"
-    },
-    {
-      "provider": "Horatio Alger Career & Technical Education",
-      "url": "https://horatioalger.org/career-technical-education-scholarships/",
-      "at": "2026-11-17T20:58:33.024785Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-17T20:58:33.024785Z"
-    },
-    {
-      "provider": "C&L Aviation careers",
-      "url": "https://careers.cla.aero/",
-      "at": "2026-11-17T20:58:33.024785Z"
     }
   ],
   "discovered": [],
@@ -187,6 +187,16 @@
       "provider": "AOPA / CAA · Preferred FBO Employee Scholarship",
       "error": "HTTP 403",
       "httpStatus": 403
+    },
+    {
+      "url": "https://apiqwtc.org/call-for-applications-2027-apiqwtc-scholarship/",
+      "provider": "Asian Pacific Islander Queer Women & Transgender Community",
+      "error": "TimeoutError"
+    },
+    {
+      "url": "https://apiqwtc.org/call-for-applications-2027-terri-higa-memorial-scholarship/",
+      "provider": "Asian Pacific Islander Queer Women & Transgender Community",
+      "error": "TimeoutError"
     },
     {
       "url": "https://awafoundation.org/How_to_Apply",
