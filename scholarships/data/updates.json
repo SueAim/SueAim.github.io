@@ -1,9 +1,94 @@
 {
-  "lastAttempt": "2026-11-18T20:35:34.727529Z",
+  "lastAttempt": "2026-11-19T13:54:54.142930Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 285,
-  "sourcesTotal": 306,
+  "sourcesChecked": 292,
+  "sourcesTotal": 312,
   "changes": [
+    {
+      "provider": "TOPDON Technology USA",
+      "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
+      "at": "2026-11-19T13:54:54.142930Z"
+    },
+    {
+      "provider": "NAHB Professional Women in Building Council / National Housing Endowment",
+      "url": "https://www.nahb.org/nahb-community/councils/professional-women-in-building-council/pwb-nhe-scholarships",
+      "at": "2026-11-19T13:54:54.142930Z"
+    },
+    {
+      "provider": "Military OneSource SpouseWorks · credential funding",
+      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
+      "at": "2026-11-19T13:54:54.142930Z"
+    },
+    {
+      "provider": "National FFA Organization",
+      "url": "https://www.ffa.org/participate/grants-and-scholarships/scholarships/",
+      "at": "2026-11-19T13:54:54.142930Z"
+    },
+    {
+      "provider": "Energy Job Shop",
+      "url": "https://www.energyjobshop.com/scholarship/",
+      "at": "2026-11-19T13:54:54.142930Z"
+    },
+    {
+      "provider": "American Welding Society Foundation",
+      "url": "https://www.aws.org/career-resources/students/scholarships/welder-training-scholarship/",
+      "at": "2026-11-19T13:54:54.142930Z"
+    },
+    {
+      "provider": "American Welding Society Foundation",
+      "url": "https://www.aws.org/career-resources/students/scholarships/national-scholarships/",
+      "at": "2026-11-19T13:54:54.142930Z"
+    },
+    {
+      "provider": "TBX",
+      "url": "https://www.airworthy.com/scholarship",
+      "at": "2026-11-19T13:54:54.142930Z"
+    },
+    {
+      "provider": "Envoy Air",
+      "url": "https://us-envoyair.icims.com/jobs/13086/college-intern---aircraft-maintenance/job?in_iframe=1",
+      "at": "2026-11-19T13:54:54.142930Z"
+    },
+    {
+      "provider": "The Lisa Michelle Memorial Fund",
+      "url": "https://thelmmfund.org/scholarships/how-to-apply/",
+      "at": "2026-11-19T13:54:54.142930Z"
+    },
+    {
+      "provider": "Pioneer Military Credit",
+      "url": "https://pioneermilitarycredit.com/military-spouse-scholarship/",
+      "at": "2026-11-19T13:54:54.142930Z"
+    },
+    {
+      "provider": "OBAP",
+      "url": "https://obap.org/outreach-programs/scholarships/",
+      "at": "2026-11-19T13:54:54.142930Z"
+    },
+    {
+      "provider": "Mary E. Smith Foundation",
+      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
+      "at": "2026-11-19T13:54:54.142930Z"
+    },
+    {
+      "provider": "National Technical Honor Society · technical student scholarships",
+      "url": "https://kb.nths.org/article/scholarships",
+      "at": "2026-11-19T13:54:54.142930Z"
+    },
+    {
+      "provider": "flyExclusive current roles",
+      "url": "https://flyexclusive.com/job-openings",
+      "at": "2026-11-19T13:54:54.142930Z"
+    },
+    {
+      "provider": "Elliott Aviation careers",
+      "url": "https://elliottaviation.com/about-us/careers/",
+      "at": "2026-11-19T13:54:54.142930Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-19T13:54:54.142930Z"
+    },
     {
       "provider": "EAA Aviation Foundation",
       "url": "https://www2.eaa.org/eaa/learn-to-fly/scholarships/post-secondary-scholarships",
@@ -93,91 +178,6 @@
       "provider": "Foster Love / Milligan Family Foundation",
       "url": "https://fosterlove.com/american-industries-scholarship/",
       "at": "2026-11-18T20:35:34.727529Z"
-    },
-    {
-      "provider": "Coast Guard Foundation",
-      "url": "https://coastguardfoundation.org/relief/honoring-fallen-heroes",
-      "at": "2026-11-18T20:35:34.727529Z"
-    },
-    {
-      "provider": "Coast Guard Foundation",
-      "url": "https://coastguardfoundation.org/news/apply-now-grants-for-enlisted-coast-guard-members-to-support-education-professional-training",
-      "at": "2026-11-18T20:35:34.727529Z"
-    },
-    {
-      "provider": "Coast Guard Foundation",
-      "url": "https://coastguardfoundation.org/news/apply-now-coast-guard-spouse-grants-for-education-training",
-      "at": "2026-11-18T20:35:34.727529Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-18T20:35:34.727529Z"
-    },
-    {
-      "provider": "Beauty Changes Lives · vocational training scholarships",
-      "url": "https://beautychangeslives.org/scholarships-opportunities/",
-      "at": "2026-11-18T20:35:34.727529Z"
-    },
-    {
-      "provider": "Beauty Changes Lives / Borboleta",
-      "url": "https://beautychangeslives.org/offer/borboleta-pro-path-esthetics-scholarship/",
-      "at": "2026-11-18T20:35:34.727529Z"
-    },
-    {
-      "provider": "WTS New Jersey",
-      "url": "https://www.wtsinternational.org/chapters/new-jersey/scholarships",
-      "at": "2026-11-18T13:27:44.035215Z"
-    },
-    {
-      "provider": "WTS Foundation · women in transportation scholarships",
-      "url": "https://www.wtsinternational.org/about/wts-scholarships",
-      "at": "2026-11-18T13:27:44.035215Z"
-    },
-    {
-      "provider": "TOPDON Technology USA",
-      "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
-      "at": "2026-11-18T13:27:44.035215Z"
-    },
-    {
-      "provider": "NAHB Professional Women in Building Council / National Housing Endowment",
-      "url": "https://www.nahb.org/nahb-community/councils/professional-women-in-building-council/pwb-nhe-scholarships",
-      "at": "2026-11-18T13:27:44.035215Z"
-    },
-    {
-      "provider": "Military OneSource SpouseWorks · credential funding",
-      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
-      "at": "2026-11-18T13:27:44.035215Z"
-    },
-    {
-      "provider": "American Welding Society Foundation",
-      "url": "https://www.aws.org/career-resources/students/scholarships/welder-training-scholarship/",
-      "at": "2026-11-18T13:27:44.035215Z"
-    },
-    {
-      "provider": "American Welding Society Foundation",
-      "url": "https://www.aws.org/career-resources/students/scholarships/national-scholarships/",
-      "at": "2026-11-18T13:27:44.035215Z"
-    },
-    {
-      "provider": "AVMATS maintenance & component-shop careers",
-      "url": "https://www.avmats.com/careers/",
-      "at": "2026-11-18T13:27:44.035215Z"
-    },
-    {
-      "provider": "The Lisa Michelle Memorial Fund",
-      "url": "https://thelmmfund.org/scholarships/how-to-apply/",
-      "at": "2026-11-18T13:27:44.035215Z"
-    },
-    {
-      "provider": "The Tia Maria Foundation",
-      "url": "https://scholarships360.org/scholarships/search/the-tia-maria-scholarship/",
-      "at": "2026-11-18T13:27:44.035215Z"
-    },
-    {
-      "provider": "OBAP",
-      "url": "https://obap.org/outreach-programs/scholarships/",
-      "at": "2026-11-18T13:27:44.035215Z"
     }
   ],
   "discovered": [],
@@ -187,16 +187,6 @@
       "provider": "AOPA / CAA · Preferred FBO Employee Scholarship",
       "error": "HTTP 403",
       "httpStatus": 403
-    },
-    {
-      "url": "https://apiqwtc.org/call-for-applications-2027-apiqwtc-scholarship/",
-      "provider": "Asian Pacific Islander Queer Women & Transgender Community",
-      "error": "TimeoutError"
-    },
-    {
-      "url": "https://apiqwtc.org/call-for-applications-2027-terri-higa-memorial-scholarship/",
-      "provider": "Asian Pacific Islander Queer Women & Transgender Community",
-      "error": "TimeoutError"
     },
     {
       "url": "https://awafoundation.org/How_to_Apply",
@@ -275,6 +265,12 @@
       "httpStatus": 444
     },
     {
+      "url": "https://www.embrella.org/njfc-new-student-application/",
+      "provider": "embrella / New Jersey DCF",
+      "error": "HTTP 500",
+      "httpStatus": 500
+    },
+    {
       "url": "https://www.firsttechfed.com/discover/scholarships",
       "provider": "First Tech | DCU",
       "error": "TimeoutError"
@@ -303,7 +299,7 @@
     }
   ],
   "maintenance": {
-    "visibleRecords": 275,
+    "visibleRecords": 279,
     "hiddenExpired": 7,
     "hiddenMissing": 1,
     "restoredThisRun": 0,
