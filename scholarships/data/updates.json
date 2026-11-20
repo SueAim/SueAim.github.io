@@ -1,9 +1,74 @@
 {
-  "lastAttempt": "2026-11-19T20:40:37.772772Z",
+  "lastAttempt": "2026-11-20T13:41:45.623061Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 293,
-  "sourcesTotal": 312,
+  "sourcesChecked": 296,
+  "sourcesTotal": 317,
   "changes": [
+    {
+      "provider": "Public Works Association of New Jersey",
+      "url": "https://www.pwanj.com/scholarships/",
+      "at": "2026-11-20T13:41:45.623061Z"
+    },
+    {
+      "provider": "Military OneSource SpouseWorks · credential funding",
+      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
+      "at": "2026-11-20T13:41:45.623061Z"
+    },
+    {
+      "provider": "Council of College and Military Educators",
+      "url": "https://www.ccmeonline.org/scholarships",
+      "at": "2026-11-20T13:41:45.623061Z"
+    },
+    {
+      "provider": "American Welding Society Foundation",
+      "url": "https://www.aws.org/career-resources/students/scholarships/national-scholarships/",
+      "at": "2026-11-20T13:41:45.623061Z"
+    },
+    {
+      "provider": "AWS Foundation · welding education awards",
+      "url": "https://www.aws.org/career-resources/students/scholarships/",
+      "at": "2026-11-20T13:41:45.623061Z"
+    },
+    {
+      "provider": "The Lisa Michelle Memorial Fund",
+      "url": "https://thelmmfund.org/scholarships/how-to-apply/",
+      "at": "2026-11-20T13:41:45.623061Z"
+    },
+    {
+      "provider": "Regional Airline Association scholarship source",
+      "url": "https://raa.org/the-regional-airline-association-scholarship-foundation-now-accepting-applications-for-the-2026-scholarship/",
+      "at": "2026-11-20T13:41:45.623061Z"
+    },
+    {
+      "provider": "Pioneer Military Credit",
+      "url": "https://pioneermilitarycredit.com/military-spouse-scholarship/",
+      "at": "2026-11-20T13:41:45.623061Z"
+    },
+    {
+      "provider": "OBAP",
+      "url": "https://obap.org/outreach-programs/scholarships/",
+      "at": "2026-11-20T13:41:45.623061Z"
+    },
+    {
+      "provider": "National Technical Honor Society · technical student scholarships",
+      "url": "https://kb.nths.org/article/scholarships",
+      "at": "2026-11-20T13:41:45.623061Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-20T13:41:45.623061Z"
+    },
+    {
+      "provider": "British Airways",
+      "url": "https://careers.ba.com/apprentices",
+      "at": "2026-11-20T13:41:45.623061Z"
+    },
+    {
+      "provider": "APIA Scholars",
+      "url": "https://apiascholars.org/scholarships/",
+      "at": "2026-11-20T13:41:45.623061Z"
+    },
     {
       "provider": "TOPDON Technology USA",
       "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
@@ -113,71 +178,6 @@
       "provider": "Beauty Changes Lives · vocational training scholarships",
       "url": "https://beautychangeslives.org/scholarships-opportunities/",
       "at": "2026-11-19T20:40:37.772772Z"
-    },
-    {
-      "provider": "Aero Engine Solutions",
-      "url": "https://aeroenginesolutions.com/",
-      "at": "2026-11-19T20:40:37.772772Z"
-    },
-    {
-      "provider": "TOPDON Technology USA",
-      "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
-      "at": "2026-11-19T13:54:54.142930Z"
-    },
-    {
-      "provider": "NAHB Professional Women in Building Council / National Housing Endowment",
-      "url": "https://www.nahb.org/nahb-community/councils/professional-women-in-building-council/pwb-nhe-scholarships",
-      "at": "2026-11-19T13:54:54.142930Z"
-    },
-    {
-      "provider": "Military OneSource SpouseWorks · credential funding",
-      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
-      "at": "2026-11-19T13:54:54.142930Z"
-    },
-    {
-      "provider": "National FFA Organization",
-      "url": "https://www.ffa.org/participate/grants-and-scholarships/scholarships/",
-      "at": "2026-11-19T13:54:54.142930Z"
-    },
-    {
-      "provider": "Energy Job Shop",
-      "url": "https://www.energyjobshop.com/scholarship/",
-      "at": "2026-11-19T13:54:54.142930Z"
-    },
-    {
-      "provider": "American Welding Society Foundation",
-      "url": "https://www.aws.org/career-resources/students/scholarships/welder-training-scholarship/",
-      "at": "2026-11-19T13:54:54.142930Z"
-    },
-    {
-      "provider": "American Welding Society Foundation",
-      "url": "https://www.aws.org/career-resources/students/scholarships/national-scholarships/",
-      "at": "2026-11-19T13:54:54.142930Z"
-    },
-    {
-      "provider": "TBX",
-      "url": "https://www.airworthy.com/scholarship",
-      "at": "2026-11-19T13:54:54.142930Z"
-    },
-    {
-      "provider": "Envoy Air",
-      "url": "https://us-envoyair.icims.com/jobs/13086/college-intern---aircraft-maintenance/job?in_iframe=1",
-      "at": "2026-11-19T13:54:54.142930Z"
-    },
-    {
-      "provider": "The Lisa Michelle Memorial Fund",
-      "url": "https://thelmmfund.org/scholarships/how-to-apply/",
-      "at": "2026-11-19T13:54:54.142930Z"
-    },
-    {
-      "provider": "Pioneer Military Credit",
-      "url": "https://pioneermilitarycredit.com/military-spouse-scholarship/",
-      "at": "2026-11-19T13:54:54.142930Z"
-    },
-    {
-      "provider": "OBAP",
-      "url": "https://obap.org/outreach-programs/scholarships/",
-      "at": "2026-11-19T13:54:54.142930Z"
     }
   ],
   "discovered": [],
@@ -265,6 +265,11 @@
       "httpStatus": 444
     },
     {
+      "url": "https://www.eaa.org/eaa/learn-to-fly/scholarships/post-secondary-scholarships",
+      "provider": "EAA",
+      "error": "URLError"
+    },
+    {
       "url": "https://www.firsttechfed.com/discover/scholarships",
       "provider": "First Tech | DCU",
       "error": "TimeoutError"
@@ -290,10 +295,15 @@
       "url": "https://www.vanmeterinc.com/company/community/spark-your-success-scholarship",
       "provider": "Van Meter Inc.",
       "error": "Page too short to verify content"
+    },
+    {
+      "url": "https://www2.eaa.org/eaa/learn-to-fly/scholarships/post-secondary-scholarships",
+      "provider": "EAA Aviation Foundation",
+      "error": "URLError"
     }
   ],
   "maintenance": {
-    "visibleRecords": 279,
+    "visibleRecords": 282,
     "hiddenExpired": 7,
     "hiddenMissing": 1,
     "restoredThisRun": 0,
