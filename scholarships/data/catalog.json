@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-20",
   "scope": "New Jersey residents and students attending New Jersey schools; nationwide and international providers accepting NJ applicants",
   "records": [
     {
@@ -15130,6 +15130,131 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-19"
       }
+    },
+    {
+      "id": "blue-umbrella-waterproofing-foundations-2027",
+      "name": "Blue Umbrella Waterproofing & Foundations Scholarship",
+      "org": "Blue Umbrella Waterproofing & Foundations",
+      "url": "https://www.blueumbrellawaterproofing.com/scholarship/",
+      "amount": "$500 per recipient",
+      "value": 500,
+      "status": "open",
+      "deadline": "2027-06-15",
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "unconfirmed",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": 16,
+      "maxAge": null,
+      "stage": "student",
+      "requirements": "U.S. students age 16+ with Fall 2027 enrollment at an accredited college, university or vocational/trade school in an approved field. Fields include building technology/services, electrical, engineering technology, manufacturing, HVAC, plumbing, renewable energy, business/accounting/finance, design and related named fields. Education: degree or certificate study is accepted; no completed college degree or prior-degree exclusion is published. AIM NJ aircraft-maintenance study is not specifically listed and needs field confirmation.",
+      "group": null,
+      "ai": "unknown",
+      "kind": "scholarship",
+      "note": "Three $500 awards, not $1,500 per student. Due June 15, 2027; results announced August 15. Requires enrollment proof, a short essay and a 1–3 minute video posted to the applicant’s social media. Winner grants content-publication permission. Award mailed by check; exact payee is not identified. The main rule specifies Fall 2027, but a high-school enrollment exception still says Fall 2026; applicants using that exception should confirm it.",
+      "reviewed": "2026-11-20",
+      "added": "2026-11-20",
+      "provider": "employer",
+      "relocation": false,
+      "career": "none",
+      "fit": "other-program",
+      "recurring": true,
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "The sponsor says U.S. students but does not define a U.S. citizenship or green-card requirement. Confirm the accepted immigration/residency statuses.",
+        "age": "16 or older under the published eligibility rules.",
+        "source": "https://www.blueumbrellawaterproofing.com/scholarship/"
+      }
+    },
+    {
+      "id": "fmfcu-john-unangst-memorial-2027",
+      "name": "John D. Unangst Memorial Scholarship",
+      "org": "Franklin Mint Federal Credit Union Foundation",
+      "url": "https://fmfcufoundation.org/awards/",
+      "amount": "$4,500",
+      "value": 4500,
+      "status": "open",
+      "deadline": "2027-01-15",
+      "opens": null,
+      "geo": "state",
+      "states": [
+        "NJ",
+        "PA",
+        "DE"
+      ],
+      "benefit": "unconfirmed",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "requirements": "Graduating high school seniors planning full-time study at an accredited two-/four-year college, university, trade, technical or business school. NJ residence must be in CAMDEN, GLOUCESTER or SALEM County; eligible PA counties are Delaware, Chester, Montgomery, Philadelphia and Bucks; eligible DE county is New Castle. Education: trade/technical study is accepted without a published associate-degree requirement or named major. No completed college degree is required; other prior-degree rules are not published. Current AIM enrollment alone does not satisfy graduating-senior status. Sponsor/affiliate employees, volunteers and immediate family are excluded.",
+      "group": null,
+      "ai": "prohibited",
+      "kind": "scholarship",
+      "note": "Four $4,500 awards for qualified tuition expenses. Apply by January 15, 2027 at 11:59 p.m. Eastern. Recipients MUST attend the April 15, 2027 celebration in Drexel Hill, Pennsylvania to accept in person. Application requires transcript and original essay; AI-generated content is prohibited. Payment destination is not specified. Eligible students may apply for both this award and Delco Hi-Q but receive only one.",
+      "reviewed": "2026-11-20",
+      "added": "2026-11-20",
+      "provider": "foundation",
+      "relocation": false,
+      "career": "none",
+      "fit": "other-program",
+      "recurring": true,
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "The public rules do not specify whether U.S. citizenship or a green card is required. Confirm with the sponsor.",
+        "age": "No numerical age limit is stated in the public rules reviewed.",
+        "source": "https://fmfcufoundation.org/awards/"
+      },
+      "references": [
+        "https://app.ui3.smarterselect.com/programs/111863-Franklin-Mint-Federal-Credit-Union-Foundation",
+        "https://fmfcufoundation.org/2026/10/02/fmfcu-foundation-scholarship-applications-now-open-2/"
+      ]
+    },
+    {
+      "id": "wffc-flavor-fragrance-she-works-2027",
+      "name": "WFFC Flavor, Fragrance and She Works Scholarships",
+      "org": "Women in Flavor & Fragrance Commerce",
+      "url": "https://wffc.org/membership/scholarships/",
+      "amount": "$5,000 per named scholarship",
+      "value": 5000,
+      "status": "open",
+      "deadline": "2026-12-01",
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "unconfirmed",
+      "gender": "women",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "requirements": "Women legally resident in the United States/DC, enrolled or accepted at an accredited postsecondary institution in a program specifically related to the FLAVOR OR FRAGRANCE INDUSTRY. Named fields include chemistry, biology, engineering, business, marketing, nutrition, food science, microbiology and cosmetics/fragrance marketing. The She Works route additionally requires employment in that industry while earning the relevant degree or CERTIFICATE. No previously completed degree or prior-degree exclusion is published. General aircraft-maintenance/AIM study is not confirmed for this industry-specific funding.",
+      "group": "wffc-scholarships-shared",
+      "ai": "unknown",
+      "kind": "scholarship",
+      "note": "The Rita Flynn Memorial Fragrance, Flavor and She Works awards share one official application, with a scholarship-selection field; do not count this as three independent applications. Open through December 1, 2026 at 11:59 p.m.; sponsor does not state a time zone. Requires transcript, recommendation and written responses. Award payee is unpublished. Certificate study is explicit for the employed She Works route; other program-level questions require provider confirmation.",
+      "reviewed": "2026-11-20",
+      "added": "2026-11-20",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "other-program",
+      "recurring": true,
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "Legal U.S./District of Columbia residence is required. The sponsor does not define whether that includes temporary visa holders or requires U.S. citizenship/permanent residence; confirm the accepted status.",
+        "age": "No numerical age limit is stated in the public rules reviewed.",
+        "source": "https://wffc.org/membership/scholarships/"
+      }
     }
   ],
   "resources": [
@@ -16444,6 +16569,16 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-19"
       }
+    },
+    {
+      "name": "OCA Joe and Loanne Chiu Vocational Scholarship",
+      "url": "https://www.ocanational.org/joe-and-loanne-chiu-vocational-scholarship",
+      "note": "First-generation incoming vocational students; current umbrella announcement gives January 31, 2027, but the award page still shows May 22, 2026 and the linked application renders without a form. Confirm a working current application before applying."
+    },
+    {
+      "name": "Family Resource Network NJ disability scholarships",
+      "url": "https://www.familyresourcenetwork.org/education-training/scholarship-opportunities/",
+      "note": "NJ graduating seniors; autism and epilepsy awards accept vocational education. Current page mixes April 16, 2027 details with a 2027-closed notice and older 2026 material. Confirm current intake; no open status inferred."
     }
   ],
   "notes": [
