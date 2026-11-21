@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "reviewed": "2026-11-20",
+  "reviewed": "2026-11-21",
   "scope": "New Jersey residents and students attending New Jersey schools; nationwide and international providers accepting NJ applicants",
   "records": [
     {
@@ -2971,7 +2971,7 @@
       "opens": null,
       "geo": "national",
       "states": [],
-      "benefit": "unconfirmed",
+      "benefit": "cash",
       "gender": "women",
       "community": [],
       "veteran": false,
@@ -2979,12 +2979,12 @@
       "minAge": null,
       "maxAge": null,
       "stage": "student",
-      "requirements": "Chapter sponsorship; U.S./Canadian citizen or permanent resident; 24-month adult study interruption; within 18 months of finishing; no master’s degree or above.",
+      "requirements": "Women sponsored by a local P.E.O. chapter; U.S./Canadian citizen or permanent resident, living and studying in the U.S./Canada. Education: currently enrolled in an accredited certificate or degree program at an accredited institution, already begun if longer than one term, and within 18 consecutive months of finishing. No particular prior degree or major is required; prior MASTER’S OR HIGHER degree holders, post-master certificate and doctoral students are excluded. Must have had at least 24 consecutive months as a nonstudent in adult life. Program must lead to employment/advancement. Prerequisites and immediate continuation beyond the funded program are ineligible.",
       "group": null,
       "ai": "unknown",
       "kind": "scholarship",
-      "note": "Need-based grant; restricted education expenses. Payment route not verified; do not treat as unrestricted cash.",
-      "reviewed": "2026-10-28",
+      "note": "One-time need-based grant up to $4,000. August 2026 policies verify direct deposit to the recipient; a check in her name goes through the sponsoring chapter if no bank account or for Canadian recipients. Cash is RESTRICTED to approved education costs, including tuition, tools, testing/graduation fees, study-related childcare and local transportation; not general living expenses, loans or debt. Chapter recommendation must arrive 4–10 weeks before the funded term. Applicant then has 30 days after the invitation to submit. The sponsorship-interest form is not the grant application.",
+      "reviewed": "2026-11-21",
       "added": "2026-10-28",
       "provider": "association",
       "relocation": false,
@@ -3005,8 +3005,13 @@
       "monetaryAward": true,
       "eligibility": {
         "citizenship": "U.S. or Canadian citizens and lawful permanent residents may apply.",
-        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age."
-      }
+        "age": "No numerical age limit verified in the public rules checked. Ask the sponsor if your eligibility depends on age.",
+        "source": "https://storage.googleapis.com/peo-portal-static/1b494768bc6b4da6b8c023c0d1765a42/57877e0299a847af99cff0b1d1ed7097/PCEPolicyGuidelinesandProcedures_202608_Final.pdf"
+      },
+      "references": [
+        "https://storage.googleapis.com/peo-portal-static/1b494768bc6b4da6b8c023c0d1765a42/57877e0299a847af99cff0b1d1ed7097/PCEPolicyGuidelinesandProcedures_202608_Final.pdf",
+        "https://www.peointernational.org/resource/pce-policies-and-procedures/"
+      ]
     },
     {
       "id": "mikeroweworks-work-ethic-scholarship-program",
@@ -15288,6 +15293,94 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-20"
       }
+    },
+    {
+      "id": "delta-zeta-continuing-education-certification-grant",
+      "name": "Delta Zeta Continuing Education and Certification Grant",
+      "org": "Delta Zeta Foundation",
+      "url": "https://www.deltazeta.org/foundation/your-gifts-at-work/scholarships/",
+      "amount": "Up to 75% of program costs; $1,000 lifetime maximum",
+      "value": 1000,
+      "status": "rolling",
+      "deadline": null,
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "reimbursement",
+      "gender": "women",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "requirements": "Initiated Delta Zeta members in good standing who have COMPLETED nondegree professional-development training, certification, licensure or an exam. The sponsor describes this as an alumnae grant for career advancement, career change or return to work. Education: traditional degree-program expenses are outside this grant; no specific previously earned degree or major is required in the published grant rules. Prior degree holders are not excluded. Apply within 90 days AFTER completion, with proof of completion and a current resume. AIM NJ tuition and FAA-specific licensing costs are not expressly confirmed; check the proposed training or exam before relying on this funding.",
+      "group": null,
+      "ai": "unknown",
+      "kind": "grant",
+      "note": "Year-round applications; quarterly cutoffs December 31, March 31, June 30 and September 30 for the following month’s review. The 90-day completion limit also applies. Multiple awards may total no more than $1,000 over a member’s lifetime. Recipients receive instructions for a grant check. Uses MyDeltaZeta/SmarterSelect access; approval is competitive. No job or interview is guaranteed.",
+      "reviewed": "2026-11-21",
+      "added": "2026-11-21",
+      "provider": "foundation",
+      "relocation": false,
+      "career": "none",
+      "fit": "other-program",
+      "recurring": true,
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "The public rules do not specify whether U.S. citizenship or a green card is required. Confirm with the sponsor.",
+        "age": "No numerical age limit is stated in the public rules reviewed.",
+        "source": "https://www.deltazeta.org/foundation/your-gifts-at-work/scholarships/"
+      },
+      "references": [
+        "https://www.deltazeta.org/wp-content/uploads/2026/10/Continuing-Education-and-Certification-Grant-2026-FAQ.pdf",
+        "https://www.deltazeta.org/blog/new-delta-zeta-foundation-support-for-lifelong-learners/",
+        "https://app.smarterselect.com/programs/102609-Delta-Zeta-Sorority"
+      ]
+    },
+    {
+      "id": "pacim-polanie-legacy-vocational-watch",
+      "name": "PACIM Polanie Legacy Scholarship — reopening watch",
+      "org": "Polish American Cultural Institute of Minnesota",
+      "url": "https://pacim.org/polanie-scholarship/",
+      "amount": "Up to $2,000 in the closed 2026 cycle",
+      "value": 2000,
+      "status": "closed",
+      "deadline": "2026-08-15",
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "unconfirmed",
+      "gender": "all",
+      "community": [
+        "Polish heritage"
+      ],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "requirements": "Students of Polish descent enrolled or admitted to a postsecondary institution by September 1 under the published cycle rules. Technical and vocational schools are expressly eligible; no completed college degree, specific major or prior-degree exclusion is stated. Minnesota/Wisconsin residents and PACIM members receive PREFERENCE, not an exclusive residence rule. NJ applicants can check this route. Recipients are expected to volunteer at one PACIM event, either in person or REMOTELY.",
+      "group": null,
+      "ai": "unknown",
+      "kind": "scholarship",
+      "note": "2026 round closed August 15, 2026 after an extension from July 31; recipients are announced. No 2027 opening or deadline is verified. Annual reapplication is allowed. Requires GPA documentation, program/cost description, personal statement, essay and two recommendations. Payment destination is unpublished. Do not use third-party projected July 31, 2027 dates as confirmed.",
+      "reviewed": "2026-11-21",
+      "added": "2026-11-21",
+      "provider": "foundation",
+      "relocation": false,
+      "career": "none",
+      "fit": "potential",
+      "recurring": true,
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "The public rules do not specify whether U.S. citizenship or a green card is required. Confirm with the sponsor.",
+        "age": "No numerical age limit is stated in the public rules reviewed.",
+        "source": "https://pacim.org/polanie-scholarship/"
+      },
+      "references": [
+        "https://pacim.org/scholarships/"
+      ]
     }
   ],
   "resources": [
@@ -16634,6 +16727,11 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-20"
       }
+    },
+    {
+      "name": "Royal Neighbors Beneficial Member Scholarships — separate from LIFT",
+      "url": "https://www.royalneighbors.org/membership/scholarships/",
+      "note": "Published 2027 round closes January 4; beneficial membership and trade/vocational DEGREE rules apply. Confirm NJ program availability, certificate eligibility and the current family-exclusion wording. Do not purchase insurance to qualify."
     }
   ],
   "notes": [
