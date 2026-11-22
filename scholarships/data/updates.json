@@ -1,9 +1,54 @@
 {
-  "lastAttempt": "2026-11-22T13:33:51.017454Z",
+  "lastAttempt": "2026-11-22T19:43:58.642011Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 311,
+  "sourcesChecked": 310,
   "sourcesTotal": 330,
   "changes": [
+    {
+      "provider": "NAHB Professional Women in Building Council / National Housing Endowment",
+      "url": "https://www.nahb.org/nahb-community/councils/professional-women-in-building-council/pwb-nhe-scholarships",
+      "at": "2026-11-22T19:43:58.642011Z"
+    },
+    {
+      "provider": "Hard Head Veterans · skilled-trade scholarship source",
+      "url": "https://www.hardheadveterans.com/pages/ate-ballistic-helmet-scholarships",
+      "at": "2026-11-22T19:43:58.642011Z"
+    },
+    {
+      "provider": "Family Resource Network NJ disability scholarships",
+      "url": "https://www.familyresourcenetwork.org/education-training/scholarship-opportunities/",
+      "at": "2026-11-22T19:43:58.642011Z"
+    },
+    {
+      "provider": "Women in Flavor & Fragrance Commerce",
+      "url": "https://wffc.org/membership/scholarships/",
+      "at": "2026-11-22T19:43:58.642011Z"
+    },
+    {
+      "provider": "The Lisa Michelle Memorial Fund",
+      "url": "https://thelmmfund.org/scholarships/how-to-apply/",
+      "at": "2026-11-22T19:43:58.642011Z"
+    },
+    {
+      "provider": "Pioneer Military Credit",
+      "url": "https://pioneermilitarycredit.com/military-spouse-scholarship/",
+      "at": "2026-11-22T19:43:58.642011Z"
+    },
+    {
+      "provider": "National Technical Honor Society · technical student scholarships",
+      "url": "https://kb.nths.org/article/scholarships",
+      "at": "2026-11-22T19:43:58.642011Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-22T19:43:58.642011Z"
+    },
+    {
+      "provider": "Beauty Changes Lives · vocational training scholarships",
+      "url": "https://beautychangeslives.org/scholarships-opportunities/",
+      "at": "2026-11-22T19:43:58.642011Z"
+    },
     {
       "provider": "Military OneSource SpouseWorks · credential funding",
       "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
@@ -133,61 +178,10 @@
       "provider": "TOPDON Technology USA",
       "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
       "at": "2026-11-21T19:19:33.308417Z"
-    },
-    {
-      "provider": "Ronald Reagan Presidential Foundation and Institute / GE Aerospace",
-      "url": "https://www.reaganfoundation.org/education/workforce-readiness-scholarship",
-      "at": "2026-11-21T19:19:33.308417Z"
-    },
-    {
-      "provider": "NAHB Professional Women in Building Council / National Housing Endowment",
-      "url": "https://www.nahb.org/nahb-community/councils/professional-women-in-building-council/pwb-nhe-scholarships",
-      "at": "2026-11-21T19:19:33.308417Z"
-    },
-    {
-      "provider": "Military OneSource SpouseWorks · credential funding",
-      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
-      "at": "2026-11-21T19:19:33.308417Z"
-    },
-    {
-      "provider": "National Military Family Association",
-      "url": "https://www.militaryfamily.org/state-of-the-military-family-programs/spouses-scholarships/military-spouse-scholarship-faqs/",
-      "at": "2026-11-21T19:19:33.308417Z"
-    },
-    {
-      "provider": "Disabled American Veterans · New Jersey",
-      "url": "https://www.davnj.org/scholarships/",
-      "at": "2026-11-21T19:19:33.308417Z"
-    },
-    {
-      "provider": "American Welding Society Foundation",
-      "url": "https://www.aws.org/career-resources/students/scholarships/welder-training-scholarship/",
-      "at": "2026-11-21T19:19:33.308417Z"
-    },
-    {
-      "provider": "American Welding Society Foundation",
-      "url": "https://www.aws.org/career-resources/students/scholarships/national-scholarships/",
-      "at": "2026-11-21T19:19:33.308417Z"
-    },
-    {
-      "provider": "AWS Foundation · welding education awards",
-      "url": "https://www.aws.org/career-resources/students/scholarships/",
-      "at": "2026-11-21T19:19:33.308417Z"
-    },
-    {
-      "provider": "Women in Flavor & Fragrance Commerce",
-      "url": "https://wffc.org/membership/scholarships/",
-      "at": "2026-11-21T19:19:33.308417Z"
     }
   ],
   "discovered": [],
   "failures": [
-    {
-      "url": "https://aopa-caa.secure-platform.com/site",
-      "provider": "AOPA / CAA · Preferred FBO Employee Scholarship",
-      "error": "HTTP 403",
-      "httpStatus": 403
-    },
     {
       "url": "https://awafoundation.org/How_to_Apply",
       "provider": "Automotive Women's Alliance Foundation · program eligibility check",
@@ -227,8 +221,12 @@
     {
       "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Intern-Co-op---Aircraft-Maintenance-Technician--Fall-2027--_00023974",
       "provider": "Marathon Petroleum",
-      "error": "HTTP 429",
-      "httpStatus": 429
+      "error": "Page too short to verify content"
+    },
+    {
+      "url": "https://secondactfoundation.org/get-help/",
+      "provider": "The Second Act Foundation",
+      "error": "URLError"
     },
     {
       "url": "https://standardaero.com/aboutus/careers/",
@@ -274,6 +272,11 @@
       "provider": "GoFoodservice",
       "error": "HTTP 403",
       "httpStatus": 403
+    },
+    {
+      "url": "https://www.militaryfamily.org/state-of-the-military-family-programs/spouses-scholarships/military-spouse-scholarship-faqs/",
+      "provider": "National Military Family Association",
+      "error": "URLError"
     },
     {
       "url": "https://www.ngpa.org/2026_scholarships",
