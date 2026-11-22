@@ -1,9 +1,74 @@
 {
-  "lastAttempt": "2026-11-22T00:22:03.213244Z",
+  "lastAttempt": "2026-11-22T13:33:51.017454Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 300,
-  "sourcesTotal": 320,
+  "sourcesChecked": 311,
+  "sourcesTotal": 330,
   "changes": [
+    {
+      "provider": "Military OneSource SpouseWorks · credential funding",
+      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
+      "at": "2026-11-22T13:33:51.017454Z"
+    },
+    {
+      "provider": "National Military Family Association",
+      "url": "https://www.militaryfamily.org/state-of-the-military-family-programs/spouses-scholarships/military-spouse-scholarship-faqs/",
+      "at": "2026-11-22T13:33:51.017454Z"
+    },
+    {
+      "provider": "Blue Umbrella Waterproofing & Foundations",
+      "url": "https://www.blueumbrellawaterproofing.com/scholarship/",
+      "at": "2026-11-22T13:33:51.017454Z"
+    },
+    {
+      "provider": "American Welding Society Foundation",
+      "url": "https://www.aws.org/career-resources/students/scholarships/national-scholarships/",
+      "at": "2026-11-22T13:33:51.017454Z"
+    },
+    {
+      "provider": "AWS Foundation · welding education awards",
+      "url": "https://www.aws.org/career-resources/students/scholarships/",
+      "at": "2026-11-22T13:33:51.017454Z"
+    },
+    {
+      "provider": "Women in Flavor & Fragrance Commerce",
+      "url": "https://wffc.org/membership/scholarships/",
+      "at": "2026-11-22T13:33:51.017454Z"
+    },
+    {
+      "provider": "Scholarships360",
+      "url": "https://scholarships360.org/scholarships/search/follow-your-own-path-essay-scholarship/",
+      "at": "2026-11-22T13:33:51.017454Z"
+    },
+    {
+      "provider": "OBAP",
+      "url": "https://obap.org/outreach-programs/scholarships/",
+      "at": "2026-11-22T13:33:51.017454Z"
+    },
+    {
+      "provider": "mikeroweWORKS",
+      "url": "https://mikeroweworks.org/scholarship/",
+      "at": "2026-11-22T13:33:51.017454Z"
+    },
+    {
+      "provider": "Mary E. Smith Foundation",
+      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
+      "at": "2026-11-22T13:33:51.017454Z"
+    },
+    {
+      "provider": "flyExclusive current roles",
+      "url": "https://flyexclusive.com/job-openings",
+      "at": "2026-11-22T13:33:51.017454Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-22T13:33:51.017454Z"
+    },
+    {
+      "provider": "Beauty Changes Lives · vocational training scholarships",
+      "url": "https://beautychangeslives.org/scholarships-opportunities/",
+      "at": "2026-11-22T13:33:51.017454Z"
+    },
     {
       "provider": "TOPDON Technology USA",
       "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
@@ -113,71 +178,6 @@
       "provider": "Women in Flavor & Fragrance Commerce",
       "url": "https://wffc.org/membership/scholarships/",
       "at": "2026-11-21T19:19:33.308417Z"
-    },
-    {
-      "provider": "Pioneer Military Credit",
-      "url": "https://pioneermilitarycredit.com/military-spouse-scholarship/",
-      "at": "2026-11-21T19:19:33.308417Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-21T19:19:33.308417Z"
-    },
-    {
-      "provider": "Travers Tool · metalworking tools scholarships",
-      "url": "https://www.travers.com/scholarship",
-      "at": "2026-11-21T13:57:30.180169Z"
-    },
-    {
-      "provider": "Ronald Reagan Presidential Foundation and Institute / GE Aerospace",
-      "url": "https://www.reaganfoundation.org/education/workforce-readiness-scholarship",
-      "at": "2026-11-21T13:57:30.180169Z"
-    },
-    {
-      "provider": "NAHB Professional Women in Building Council / National Housing Endowment",
-      "url": "https://www.nahb.org/nahb-community/councils/professional-women-in-building-council/pwb-nhe-scholarships",
-      "at": "2026-11-21T13:57:30.180169Z"
-    },
-    {
-      "provider": "Military OneSource SpouseWorks · credential funding",
-      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
-      "at": "2026-11-21T13:57:30.180169Z"
-    },
-    {
-      "provider": "Mensa Foundation · essay scholarship portal",
-      "url": "https://www.mensafoundation.org/what-we-do/scholarships/",
-      "at": "2026-11-21T13:57:30.180169Z"
-    },
-    {
-      "provider": "American Welding Society Foundation",
-      "url": "https://www.aws.org/career-resources/students/scholarships/welder-training-scholarship/",
-      "at": "2026-11-21T13:57:30.180169Z"
-    },
-    {
-      "provider": "American Welding Society Foundation",
-      "url": "https://www.aws.org/career-resources/students/scholarships/national-scholarships/",
-      "at": "2026-11-21T13:57:30.180169Z"
-    },
-    {
-      "provider": "AWS Foundation · welding education awards",
-      "url": "https://www.aws.org/career-resources/students/scholarships/",
-      "at": "2026-11-21T13:57:30.180169Z"
-    },
-    {
-      "provider": "Pioneer Military Credit",
-      "url": "https://pioneermilitarycredit.com/military-spouse-scholarship/",
-      "at": "2026-11-21T13:57:30.180169Z"
-    },
-    {
-      "provider": "NBAA",
-      "url": "https://nbaa.org/professional-development/scholarships/william-m-fanning-maintenance-scholarship/",
-      "at": "2026-11-21T13:57:30.180169Z"
-    },
-    {
-      "provider": "NBAA",
-      "url": "https://nbaa.org/professional-development/scholarships/john-f-rahilly-memorial-scholarship-future-ap-technicians/",
-      "at": "2026-11-21T13:57:30.180169Z"
     }
   ],
   "discovered": [],
@@ -234,11 +234,6 @@
       "url": "https://standardaero.com/aboutus/careers/",
       "provider": "StandardAero careers / technical training",
       "error": "Page too short to verify content"
-    },
-    {
-      "url": "https://theperryscholarship.org/scholarship/",
-      "provider": "Perry Second Chances · November 2026 reopening lead",
-      "error": "URLError"
     },
     {
       "url": "https://thewomensindustrynetwork.site-ym.com/page/Scholarship",
@@ -298,7 +293,7 @@
     }
   ],
   "maintenance": {
-    "visibleRecords": 284,
+    "visibleRecords": 291,
     "hiddenExpired": 7,
     "hiddenMissing": 1,
     "restoredThisRun": 0,
