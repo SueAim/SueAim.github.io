@@ -1,9 +1,69 @@
 {
-  "lastAttempt": "2026-11-21T19:19:33.308417Z",
+  "lastAttempt": "2026-11-22T00:22:03.213244Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 297,
+  "sourcesChecked": 300,
   "sourcesTotal": 320,
   "changes": [
+    {
+      "provider": "TOPDON Technology USA",
+      "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
+      "at": "2026-11-22T00:22:03.213244Z"
+    },
+    {
+      "provider": "NAHB Professional Women in Building Council / National Housing Endowment",
+      "url": "https://www.nahb.org/nahb-community/councils/professional-women-in-building-council/pwb-nhe-scholarships",
+      "at": "2026-11-22T00:22:03.213244Z"
+    },
+    {
+      "provider": "Military OneSource SpouseWorks · credential funding",
+      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
+      "at": "2026-11-22T00:22:03.213244Z"
+    },
+    {
+      "provider": "SOAR Skills · technical and aviation-maintenance funding",
+      "url": "https://www.loarpllc.com/soar-skills-program/",
+      "at": "2026-11-22T00:22:03.213244Z"
+    },
+    {
+      "provider": "American Welding Society Foundation",
+      "url": "https://www.aws.org/career-resources/students/scholarships/national-scholarships/",
+      "at": "2026-11-22T00:22:03.213244Z"
+    },
+    {
+      "provider": "AWS Foundation · welding education awards",
+      "url": "https://www.aws.org/career-resources/students/scholarships/",
+      "at": "2026-11-22T00:22:03.213244Z"
+    },
+    {
+      "provider": "The Lisa Michelle Memorial Fund",
+      "url": "https://thelmmfund.org/scholarships/how-to-apply/",
+      "at": "2026-11-22T00:22:03.213244Z"
+    },
+    {
+      "provider": "Pioneer Military Credit",
+      "url": "https://pioneermilitarycredit.com/military-spouse-scholarship/",
+      "at": "2026-11-22T00:22:03.213244Z"
+    },
+    {
+      "provider": "OBAP",
+      "url": "https://obap.org/outreach-programs/scholarships/",
+      "at": "2026-11-22T00:22:03.213244Z"
+    },
+    {
+      "provider": "Mary E. Smith Foundation",
+      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
+      "at": "2026-11-22T00:22:03.213244Z"
+    },
+    {
+      "provider": "National Technical Honor Society · technical student scholarships",
+      "url": "https://kb.nths.org/article/scholarships",
+      "at": "2026-11-22T00:22:03.213244Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-22T00:22:03.213244Z"
+    },
     {
       "provider": "TOPDON Technology USA",
       "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
@@ -118,66 +178,6 @@
       "provider": "NBAA",
       "url": "https://nbaa.org/professional-development/scholarships/john-f-rahilly-memorial-scholarship-future-ap-technicians/",
       "at": "2026-11-21T13:57:30.180169Z"
-    },
-    {
-      "provider": "NBAA",
-      "url": "https://nbaa.org/professional-development/scholarships/amt-maintenance-scholarship/",
-      "at": "2026-11-21T13:57:30.180169Z"
-    },
-    {
-      "provider": "NBAA",
-      "url": "https://nbaa.org/professional-development/scholarships/",
-      "at": "2026-11-21T13:57:30.180169Z"
-    },
-    {
-      "provider": "Mary E. Smith Foundation",
-      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
-      "at": "2026-11-21T13:57:30.180169Z"
-    },
-    {
-      "provider": "National Technical Honor Society · technical student scholarships",
-      "url": "https://kb.nths.org/article/scholarships",
-      "at": "2026-11-21T13:57:30.180169Z"
-    },
-    {
-      "provider": "flyExclusive current roles",
-      "url": "https://flyexclusive.com/job-openings",
-      "at": "2026-11-21T13:57:30.180169Z"
-    },
-    {
-      "provider": "Elliott Aviation careers",
-      "url": "https://elliottaviation.com/about-us/careers/",
-      "at": "2026-11-21T13:57:30.180169Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-21T13:57:30.180169Z"
-    },
-    {
-      "provider": "TOPDON Technology USA",
-      "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
-      "at": "2026-11-20T20:24:50.645591Z"
-    },
-    {
-      "provider": "Precision Metalforming Association Educational Foundation",
-      "url": "https://www.pma.org/pma-foundation/educational-scholarships/",
-      "at": "2026-11-20T20:24:50.645591Z"
-    },
-    {
-      "provider": "North Atlantic States Regional Council of Carpenters",
-      "url": "https://www.nasrcc.org/scholarship/",
-      "at": "2026-11-20T20:24:50.645591Z"
-    },
-    {
-      "provider": "NAHB Professional Women in Building Council / National Housing Endowment",
-      "url": "https://www.nahb.org/nahb-community/councils/professional-women-in-building-council/pwb-nhe-scholarships",
-      "at": "2026-11-20T20:24:50.645591Z"
-    },
-    {
-      "provider": "Military OneSource SpouseWorks · credential funding",
-      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
-      "at": "2026-11-20T20:24:50.645591Z"
     }
   ],
   "discovered": [],
@@ -225,11 +225,6 @@
       "httpStatus": 429
     },
     {
-      "url": "https://feam.aero/feam-aero-partners-with-aviation-institute-of-maintenance/",
-      "provider": "FEAM / AIM Charlotte scholarship partnership",
-      "error": "TimeoutError"
-    },
-    {
       "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Intern-Co-op---Aircraft-Maintenance-Technician--Fall-2027--_00023974",
       "provider": "Marathon Petroleum",
       "error": "HTTP 429",
@@ -258,11 +253,6 @@
       "httpStatus": 403
     },
     {
-      "url": "https://www.broomfieldfoundation.org/grants-scholarships/scholarships/spartan-scholarship",
-      "provider": "Broomfield Aviation Scholarship Fund · 2027 watch",
-      "error": "URLError"
-    },
-    {
       "url": "https://www.capeair.com/careers/",
       "provider": "Cape Air maintenance / TechOps careers",
       "error": "Page too short to verify content"
@@ -272,11 +262,6 @@
       "provider": "Johnson & Johnson",
       "error": "HTTP 404",
       "httpStatus": 404
-    },
-    {
-      "url": "https://www.danishsisterhood.org/scholarshipsandgrants",
-      "provider": "Danish Sisterhood · vocational certificate funding",
-      "error": "URLError"
     },
     {
       "url": "https://www.delta.com/us/en/careers/techops-careers",
