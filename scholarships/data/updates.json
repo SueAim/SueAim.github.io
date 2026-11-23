@@ -1,9 +1,49 @@
 {
-  "lastAttempt": "2026-11-22T19:43:58.642011Z",
+  "lastAttempt": "2026-11-23T00:56:05.768675Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 310,
+  "sourcesChecked": 306,
   "sourcesTotal": 330,
   "changes": [
+    {
+      "provider": "TOPDON Technology USA",
+      "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
+      "at": "2026-11-23T00:56:05.768675Z"
+    },
+    {
+      "provider": "Military OneSource SpouseWorks · credential funding",
+      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
+      "at": "2026-11-23T00:56:05.768675Z"
+    },
+    {
+      "provider": "National Military Family Association",
+      "url": "https://www.militaryfamily.org/state-of-the-military-family-programs/spouses-scholarships/military-spouse-scholarship-faqs/",
+      "at": "2026-11-23T00:56:05.768675Z"
+    },
+    {
+      "provider": "American Welding Society Foundation",
+      "url": "https://www.aws.org/career-resources/students/scholarships/welder-training-scholarship/",
+      "at": "2026-11-23T00:56:05.768675Z"
+    },
+    {
+      "provider": "Scholarships360",
+      "url": "https://scholarships360.org/scholarships/search/follow-your-own-path-essay-scholarship/",
+      "at": "2026-11-23T00:56:05.768675Z"
+    },
+    {
+      "provider": "Pioneer Military Credit",
+      "url": "https://pioneermilitarycredit.com/military-spouse-scholarship/",
+      "at": "2026-11-23T00:56:05.768675Z"
+    },
+    {
+      "provider": "OBAP",
+      "url": "https://obap.org/outreach-programs/scholarships/",
+      "at": "2026-11-23T00:56:05.768675Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-23T00:56:05.768675Z"
+    },
     {
       "provider": "NAHB Professional Women in Building Council / National Housing Endowment",
       "url": "https://www.nahb.org/nahb-community/councils/professional-women-in-building-council/pwb-nhe-scholarships",
@@ -138,50 +178,16 @@
       "provider": "American Welding Society Foundation",
       "url": "https://www.aws.org/career-resources/students/scholarships/national-scholarships/",
       "at": "2026-11-22T00:22:03.213244Z"
-    },
-    {
-      "provider": "AWS Foundation · welding education awards",
-      "url": "https://www.aws.org/career-resources/students/scholarships/",
-      "at": "2026-11-22T00:22:03.213244Z"
-    },
-    {
-      "provider": "The Lisa Michelle Memorial Fund",
-      "url": "https://thelmmfund.org/scholarships/how-to-apply/",
-      "at": "2026-11-22T00:22:03.213244Z"
-    },
-    {
-      "provider": "Pioneer Military Credit",
-      "url": "https://pioneermilitarycredit.com/military-spouse-scholarship/",
-      "at": "2026-11-22T00:22:03.213244Z"
-    },
-    {
-      "provider": "OBAP",
-      "url": "https://obap.org/outreach-programs/scholarships/",
-      "at": "2026-11-22T00:22:03.213244Z"
-    },
-    {
-      "provider": "Mary E. Smith Foundation",
-      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
-      "at": "2026-11-22T00:22:03.213244Z"
-    },
-    {
-      "provider": "National Technical Honor Society · technical student scholarships",
-      "url": "https://kb.nths.org/article/scholarships",
-      "at": "2026-11-22T00:22:03.213244Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-22T00:22:03.213244Z"
-    },
-    {
-      "provider": "TOPDON Technology USA",
-      "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
-      "at": "2026-11-21T19:19:33.308417Z"
     }
   ],
   "discovered": [],
   "failures": [
+    {
+      "url": "https://aopa-caa.secure-platform.com/site",
+      "provider": "AOPA / CAA · Preferred FBO Employee Scholarship",
+      "error": "HTTP 403",
+      "httpStatus": 403
+    },
     {
       "url": "https://awafoundation.org/How_to_Apply",
       "provider": "Automotive Women's Alliance Foundation · program eligibility check",
@@ -219,13 +225,19 @@
       "httpStatus": 429
     },
     {
-      "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Intern-Co-op---Aircraft-Maintenance-Technician--Fall-2027--_00023974",
-      "provider": "Marathon Petroleum",
-      "error": "Page too short to verify content"
+      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
+      "provider": "Mary E. Smith Foundation",
+      "error": "URLError"
     },
     {
-      "url": "https://secondactfoundation.org/get-help/",
-      "provider": "The Second Act Foundation",
+      "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Intern-Co-op---Aircraft-Maintenance-Technician--Fall-2027--_00023974",
+      "provider": "Marathon Petroleum",
+      "error": "HTTP 429",
+      "httpStatus": 429
+    },
+    {
+      "url": "https://pacim.org/polanie-scholarship/",
+      "provider": "Polish American Cultural Institute of Minnesota",
       "error": "URLError"
     },
     {
@@ -257,6 +269,11 @@
       "httpStatus": 404
     },
     {
+      "url": "https://www.connexfoundation.org/scholarship-opportunities/",
+      "provider": "Connex Foundation",
+      "error": "URLError"
+    },
+    {
       "url": "https://www.delta.com/us/en/careers/techops-careers",
       "provider": "Delta TechOps / TechU",
       "error": "HTTP 444",
@@ -268,15 +285,15 @@
       "error": "TimeoutError"
     },
     {
+      "url": "https://www.galsfoundation.org/",
+      "provider": "GALS Scholarship Foundation",
+      "error": "URLError"
+    },
+    {
       "url": "https://www.gofoodservice.com/scholarship",
       "provider": "GoFoodservice",
       "error": "HTTP 403",
       "httpStatus": 403
-    },
-    {
-      "url": "https://www.militaryfamily.org/state-of-the-military-family-programs/spouses-scholarships/military-spouse-scholarship-faqs/",
-      "provider": "National Military Family Association",
-      "error": "URLError"
     },
     {
       "url": "https://www.ngpa.org/2026_scholarships",
@@ -293,6 +310,11 @@
       "url": "https://www.vanmeterinc.com/company/community/spark-your-success-scholarship",
       "provider": "Van Meter Inc.",
       "error": "Page too short to verify content"
+    },
+    {
+      "url": "https://www.wwrightfoundation.org/",
+      "provider": "W. Wright Foundation",
+      "error": "URLError"
     }
   ],
   "maintenance": {
