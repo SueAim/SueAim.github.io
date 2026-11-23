@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "reviewed": "2026-11-22",
+  "reviewed": "2026-11-23",
   "scope": "New Jersey residents and students attending New Jersey schools; nationwide and international providers accepting NJ applicants",
   "records": [
     {
@@ -15784,6 +15784,50 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-22"
       }
+    },
+    {
+      "id": "worthy-women-professional-studies-2027",
+      "name": "Worthy Women’s Professional Studies Scholarship",
+      "org": "Worthy, Inc.",
+      "url": "https://www.worthy.com/about/scholarship/",
+      "amount": "Three awards: $2,500, $1,500 and $1,000",
+      "value": 2500,
+      "status": "open",
+      "deadline": "2027-04-01",
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "unconfirmed",
+      "gender": "women",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": 30,
+      "maxAge": null,
+      "stage": "check",
+      "requirements": "Women age 30 or older who are permanent residents of the United States and currently enrolled in a continuing education professional studies program. NJ residence is within the published U.S. scope. Education: no specific previously completed degree, required major or prior-degree exclusion is published. The form asks about accredited-college enrollment, major and degree level; it does not expressly confirm nondegree Part 147 certificates. Confirm that AIM NJ’s 21-month program satisfies professional-studies enrollment before relying on this award.",
+      "group": null,
+      "ai": "prohibited",
+      "kind": "scholarship",
+      "note": "Current 2026–27 application explicitly says OPEN; due April 1, 2027. Opening is announced only as November 2026, with no exact day. Winners announced June 2027. Submit a 300–500-word personal essay on self-investment and what the continued-education credential enables next. ANY AI use is strictly prohibited. Sponsor retains rights to submitted content. Payment destination is unpublished. Main page and form introduction say 30 or older, while one form condition says over 30; confirm if exactly age 30. Kept outside confirmed AIM counts pending program confirmation.",
+      "reviewed": "2026-11-23",
+      "added": "2026-11-23",
+      "provider": "employer",
+      "relocation": false,
+      "career": "none",
+      "fit": "degree-check",
+      "recurring": true,
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "Published rules require permanent residence in the United States. Green-card holders residing in the U.S. meet that stated residency condition; other statuses need sponsor clarification.",
+        "age": "Main page and form introduction say age 30 or older; a form condition says over 30. Confirm eligibility if exactly 30.",
+        "source": "https://www.worthy.com/about/scholarship/"
+      },
+      "opensMonth": "2026-11",
+      "minValue": 1000,
+      "references": [
+        "https://form.jotform.com/263215146697160"
+      ]
     }
   ],
   "resources": [
