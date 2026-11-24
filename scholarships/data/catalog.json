@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "reviewed": "2026-11-23",
+  "reviewed": "2026-11-24",
   "scope": "New Jersey residents and students attending New Jersey schools; nationwide and international providers accepting NJ applicants",
   "records": [
     {
@@ -8775,14 +8775,14 @@
       "relocation": false,
       "career": "none",
       "fit": "other-program",
-      "reviewed": "2026-11-07",
+      "reviewed": "2026-11-24",
       "added": "2026-11-07",
       "recurring": true,
       "group": "skilled-nation-universal",
       "ai": "unknown",
       "opens": null,
       "deadline": "2026-11-10",
-      "status": "open",
+      "status": "closed",
       "references": [
         "https://skilled-nation.org/apply/start",
         "https://skilled-nation.org/apply/faqs"
@@ -8792,7 +8792,7 @@
       "org": "Schneider Electric / SKILLED Nation",
       "url": "https://skilled-nation.org/partner/sescholarship",
       "requirements": "Currently enrolled in an approved U.S. trades program, with training ending at least six weeks after the deadline, and pursuing an energy technology career. Eligible examples include facilities maintenance, electrical systems, HVAC, building automation and energy management. No completed degree is specified and current graduate study is excluded under the shared rules. Employees, spouses and dependents are excluded. AIM NJ aircraft maintenance alone is not confirmed.",
-      "note": "November 10, 2026 deadline. Use the shared SKILLED Nation application. Paid to the school or training center and must be used within a year of acceptance. The sponsor’s optional career community is separate from selection and employment.",
+      "note": "CLOSED: November 10, 2026 deadline. The current sponsor page links to an INTEREST LIST, not an open application; no next-round dates are announced. Uses the shared SKILLED Nation application when open. Paid to the school or training center and must be used within a year of acceptance. The sponsor’s optional career community is separate from selection and does not guarantee employment.",
       "sourceHealth": {
         "state": "ok",
         "checkedAt": "2026-11-23T23:56:26.896885Z",
@@ -15839,6 +15839,94 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-23"
       }
+    },
+    {
+      "id": "svc-foundation-industry-scholarship-2027",
+      "name": "SVC Foundation Industry Scholarship",
+      "org": "Society of Vacuum Coaters Foundation",
+      "url": "https://www.svcfoundation.org/industry-scholarship-details-2/",
+      "amount": "Generally $2,500; individual awards may vary",
+      "value": 2500,
+      "status": "open",
+      "deadline": "2027-01-22",
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "reimbursement",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "check",
+      "requirements": "For people already working in vacuum coating technology, including industry operators. No state restriction is published; qualifying NJ workers may apply. Education: supports further classes, books, fees and relevant conference travel. No specific previously completed degree or major is required in the application. The sponsor expressly says this is NOT intended for current students; current AIM NJ certificate enrollment is not an accepted student-funding route under these terms. At least one employer recommendation is required, preferably from a supervisor or HR.",
+      "group": null,
+      "ai": "unknown",
+      "kind": "scholarship",
+      "note": "Current industry application deadline: January 22, 2027. Complete the downloadable form, personal statement, educational/employment history, financial-need explanation and itemized expenses. Awards go to the employer’s HR department AFTER expenses are verified, rather than directly to the applicant or school. No scholarship-linked job, interview or relocation benefit is promised. Kept in Other school / program, outside confirmed AIM counts. The foundation makes annual awards, but the next cycle is not yet announced.",
+      "reviewed": "2026-11-24",
+      "added": "2026-11-24",
+      "provider": "foundation",
+      "relocation": false,
+      "career": "none",
+      "fit": "other-program",
+      "recurring": true,
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "No U.S.-citizenship or green-card requirement is stated in the published rules. The foundation’s awarding policy also discusses non-U.S. students; the industry form accepts country addresses.",
+        "age": "No numerical age limit is stated in the public rules reviewed.",
+        "source": "https://www.svcfoundation.org/industry-scholarship-details-2/"
+      },
+      "references": [
+        "https://www.svcfoundation.org/wp-content/uploads/2026/07/TECHNICAL-SCHOLARSHIP-FORM_2027.pdf",
+        "https://www.svcfoundation.org/scholarships/"
+      ]
+    },
+    {
+      "id": "svc-foundation-academic-scholarships",
+      "name": "SVC Foundation Academic Scholarships",
+      "org": "Society of Vacuum Coaters Foundation",
+      "url": "https://www.svcfoundation.org/academic-scholarship-details-2026/",
+      "amount": "Generally $1,000–$5,000; awards may vary",
+      "value": 5000,
+      "status": "closed",
+      "deadline": "2026-10-16",
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "unconfirmed",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "requirements": "Full-time students during the award semesters at an accredited technical, vocational, two-year, undergraduate or graduate institution, studying a field related to VACUUM COATING TECHNOLOGY. NJ students are not excluded by the published geographic rules; non-U.S. students are addressed in the foundation’s awarding policy. Education: technical/vocational study is explicitly eligible, with preference for engineering, physics, materials science and related vacuum-coating fields. No previously completed degree or prior-degree exclusion is published. AIM NJ’s 21-month certificate alone does not establish the required subject fit; aviation maintenance is not expressly named.",
+      "group": null,
+      "ai": "unknown",
+      "kind": "scholarship",
+      "note": "CLOSED: October 16, 2026 deadline. Annual scholarship family retained for reopening checks; no 2027 application window is announced. Permitted uses include tuition, books, fees, school/research expenses and relevant conference travel. Payment recipient is not specified in the public terms reviewed. Multiple donor funds use the shared academic application; they are not separate applications here. Other school / program; excluded from available-now and confirmed AIM counts.",
+      "reviewed": "2026-11-24",
+      "added": "2026-11-24",
+      "provider": "foundation",
+      "relocation": false,
+      "career": "none",
+      "fit": "other-program",
+      "recurring": true,
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "No U.S.-citizenship or green-card requirement is stated in the published rules. The foundation’s awarding policy also discusses non-U.S. students; the industry form accepts country addresses.",
+        "age": "No numerical age limit is stated in the public rules reviewed.",
+        "source": "https://www.svcfoundation.org/academic-scholarship-details-2026/"
+      },
+      "minValue": 1000,
+      "references": [
+        "https://www.svcfoundation.org/scholarships/",
+        "https://www.svcfoundation.org/wp-content/uploads/2020/12/SVCFScholarshipAwardPolicyFinalDec2020.pdf",
+        "https://forms.gle/b3EeRdSnu1obNAFL9"
+      ]
     }
   ],
   "resources": [
@@ -17249,6 +17337,21 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-23"
       }
+    },
+    {
+      "name": "SVC Foundation — vacuum-coating education awards",
+      "url": "https://www.svcfoundation.org/scholarships/",
+      "note": "Academic technical/vocational scholarships closed October 16, 2026; the separate industry-worker award is due January 22, 2027 and is not intended for current students. Vacuum-coating subject or employment conditions apply; general aircraft maintenance is not automatically eligible."
+    },
+    {
+      "name": "WISE — women working in roll-to-roll converting",
+      "url": "https://www.rolltoroll.org/wise-scholarship",
+      "note": "Association for Roll-to-Roll Converters / SVC Foundation program pays down student debt for women working in roll-to-roll converting. A current intake, deadline, award amount and full eligibility terms were not verified. Not an available-now scholarship or confirmed AIM match."
+    },
+    {
+      "name": "National Women in Roofing — NEWS professional-development scholarship",
+      "url": "https://www.nationalwomeninroofing.org/news-scholarship",
+      "note": "The 2027 event award CLOSED October 31, 2026. Current women members working as or for roofing contractors and attending NWIR Days for the first time could receive registration, capped hotel and airfare support. Nashville attendance February 28–March 1, 2027 and employer/time-off and reporting conditions apply. No next round announced; not general AIM tuition funding."
     }
   ],
   "notes": [
