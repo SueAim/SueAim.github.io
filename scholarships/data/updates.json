@@ -1,9 +1,99 @@
 {
-  "lastAttempt": "2026-11-24T13:16:45.197582Z",
+  "lastAttempt": "2026-11-24T22:29:24.411390Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 311,
+  "sourcesChecked": 314,
   "sourcesTotal": 336,
   "changes": [
+    {
+      "provider": "Travers Tool · metalworking tools scholarships",
+      "url": "https://www.travers.com/scholarship",
+      "at": "2026-11-24T22:29:24.411390Z"
+    },
+    {
+      "provider": "NSHSS Foundation",
+      "url": "https://www.nshss.org/scholarships/s/nshss-foundation-makers-and-builders-award/",
+      "at": "2026-11-24T22:29:24.411390Z"
+    },
+    {
+      "provider": "NAHB Professional Women in Building Council / National Housing Endowment",
+      "url": "https://www.nahb.org/nahb-community/councils/professional-women-in-building-council/pwb-nhe-scholarships",
+      "at": "2026-11-24T22:29:24.411390Z"
+    },
+    {
+      "provider": "National Military Family Association",
+      "url": "https://www.militaryfamily.org/state-of-the-military-family-programs/spouses-scholarships/military-spouse-scholarship-faqs/",
+      "at": "2026-11-24T22:29:24.411390Z"
+    },
+    {
+      "provider": "HumaneVMA",
+      "url": "https://www.humanevma.org/index.php?Itemid=93&catid=23:students&id=1372:humanevma-compassionate-care-scholarships-for-veterinary-technician-students&option=com_content&view=article",
+      "at": "2026-11-24T22:29:24.411390Z"
+    },
+    {
+      "provider": "Family Resource Network NJ disability scholarships",
+      "url": "https://www.familyresourcenetwork.org/education-training/scholarship-opportunities/",
+      "at": "2026-11-24T22:29:24.411390Z"
+    },
+    {
+      "provider": "Envoy Air · AIM maintenance partnership updates",
+      "url": "https://www.envoyair.com/2026/10/28/continuing-our-partnership-with-aim/",
+      "at": "2026-11-24T22:29:24.411390Z"
+    },
+    {
+      "provider": "Envoy preferred A&P-school partnerships",
+      "url": "https://www.envoyair.com/2025/12/03/envoy-announces-preferred-airframe-powerplant-school-partnerships/",
+      "at": "2026-11-24T22:29:24.411390Z"
+    },
+    {
+      "provider": "American Welding Society Foundation",
+      "url": "https://www.aws.org/career-resources/students/scholarships/welder-training-scholarship/",
+      "at": "2026-11-24T22:29:24.411390Z"
+    },
+    {
+      "provider": "AIST Foundation",
+      "url": "https://www.aist.org/Students-Faculty/Scholarships/Trade-School-Scholarship-Program",
+      "at": "2026-11-24T22:29:24.411390Z"
+    },
+    {
+      "provider": "AAR",
+      "url": "https://www.aarcorp.com/en/careers/students/",
+      "at": "2026-11-24T22:29:24.411390Z"
+    },
+    {
+      "provider": "Wings Over America Scholarship Foundation",
+      "url": "https://woasf.org/scholarships",
+      "at": "2026-11-24T22:29:24.411390Z"
+    },
+    {
+      "provider": "Women in Flavor & Fragrance Commerce",
+      "url": "https://wffc.org/membership/scholarships/",
+      "at": "2026-11-24T22:29:24.411390Z"
+    },
+    {
+      "provider": "The Lisa Michelle Memorial Fund",
+      "url": "https://thelmmfund.org/scholarships/how-to-apply/",
+      "at": "2026-11-24T22:29:24.411390Z"
+    },
+    {
+      "provider": "International Brotherhood of Teamsters",
+      "url": "https://teamster.org/scholarships/",
+      "at": "2026-11-24T22:29:24.411390Z"
+    },
+    {
+      "provider": "OBAP",
+      "url": "https://obap.org/outreach-programs/scholarships/",
+      "at": "2026-11-24T22:29:24.411390Z"
+    },
+    {
+      "provider": "Coast Guard Foundation",
+      "url": "https://coastguardfoundation.org/news/apply-now-coast-guard-spouse-grants-for-education-training",
+      "at": "2026-11-24T22:29:24.411390Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-24T22:29:24.411390Z"
+    },
     {
       "provider": "Travers Tool · metalworking tools scholarships",
       "url": "https://www.travers.com/scholarship",
@@ -88,96 +178,6 @@
       "provider": "Beauty Changes Lives · vocational training scholarships",
       "url": "https://beautychangeslives.org/scholarships-opportunities/",
       "at": "2026-11-24T13:16:45.197582Z"
-    },
-    {
-      "provider": "WTS New Jersey",
-      "url": "https://www.wtsinternational.org/chapters/new-jersey/scholarships",
-      "at": "2026-11-23T23:56:26.896885Z"
-    },
-    {
-      "provider": "TOPDON Technology USA",
-      "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
-      "at": "2026-11-23T23:56:26.896885Z"
-    },
-    {
-      "provider": "NAHB Professional Women in Building Council / National Housing Endowment",
-      "url": "https://www.nahb.org/nahb-community/councils/professional-women-in-building-council/pwb-nhe-scholarships",
-      "at": "2026-11-23T23:56:26.896885Z"
-    },
-    {
-      "provider": "Military OneSource SpouseWorks · credential funding",
-      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
-      "at": "2026-11-23T23:56:26.896885Z"
-    },
-    {
-      "provider": "National Military Family Association",
-      "url": "https://www.militaryfamily.org/state-of-the-military-family-programs/spouses-scholarships/military-spouse-scholarship-faqs/",
-      "at": "2026-11-23T23:56:26.896885Z"
-    },
-    {
-      "provider": "Mensa Foundation · essay scholarship portal",
-      "url": "https://www.mensafoundation.org/what-we-do/scholarships/",
-      "at": "2026-11-23T23:56:26.896885Z"
-    },
-    {
-      "provider": "Marine Corps Scholarship Foundation",
-      "url": "https://www.mcsf.org/cte-financial-aid-faq/",
-      "at": "2026-11-23T23:56:26.896885Z"
-    },
-    {
-      "provider": "Civil Air Patrol",
-      "url": "https://www.gocivilairpatrol.com/programs/cadets/cadetinvest/scholarships",
-      "at": "2026-11-23T23:56:26.896885Z"
-    },
-    {
-      "provider": "Family Resource Network NJ disability scholarships",
-      "url": "https://www.familyresourcenetwork.org/education-training/scholarship-opportunities/",
-      "at": "2026-11-23T23:56:26.896885Z"
-    },
-    {
-      "provider": "Disabled American Veterans · New Jersey",
-      "url": "https://www.davnj.org/scholarships/",
-      "at": "2026-11-23T23:56:26.896885Z"
-    },
-    {
-      "provider": "American Welding Society Foundation",
-      "url": "https://www.aws.org/career-resources/students/scholarships/welder-training-scholarship/",
-      "at": "2026-11-23T23:56:26.896885Z"
-    },
-    {
-      "provider": "Women in Flavor & Fragrance Commerce",
-      "url": "https://wffc.org/membership/scholarships/",
-      "at": "2026-11-23T23:56:26.896885Z"
-    },
-    {
-      "provider": "The Lisa Michelle Memorial Fund",
-      "url": "https://thelmmfund.org/scholarships/how-to-apply/",
-      "at": "2026-11-23T23:56:26.896885Z"
-    },
-    {
-      "provider": "JAN-PRO / Scholarship America",
-      "url": "https://scholarshipamerica.org/scholarship/yourfamilyfirst/",
-      "at": "2026-11-23T23:56:26.896885Z"
-    },
-    {
-      "provider": "Scholarship America",
-      "url": "https://scholarshipamerica.org/scholarship/veteranscholarship/",
-      "at": "2026-11-23T23:56:26.896885Z"
-    },
-    {
-      "provider": "Sempra / Scholarship America",
-      "url": "https://scholarshipamerica.org/scholarship/sempra/",
-      "at": "2026-11-23T23:56:26.896885Z"
-    },
-    {
-      "provider": "Modern Woodmen of America / Scholarship America",
-      "url": "https://scholarshipamerica.org/scholarship/modernwoodmenhs/",
-      "at": "2026-11-23T23:56:26.896885Z"
-    },
-    {
-      "provider": "Modern Woodmen of America / Scholarship America",
-      "url": "https://scholarshipamerica.org/scholarship/modernwoodmen21/",
-      "at": "2026-11-23T23:56:26.896885Z"
     }
   ],
   "discovered": [],
@@ -225,20 +225,9 @@
       "httpStatus": 429
     },
     {
-      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
-      "provider": "Mary E. Smith Foundation",
-      "error": "URLError"
-    },
-    {
       "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Intern-Co-op---Aircraft-Maintenance-Technician--Fall-2027--_00023974",
       "provider": "Marathon Petroleum",
-      "error": "HTTP 429",
-      "httpStatus": 429
-    },
-    {
-      "url": "https://pacim.org/polanie-scholarship/",
-      "provider": "Polish American Cultural Institute of Minnesota",
-      "error": "URLError"
+      "error": "Page too short to verify content"
     },
     {
       "url": "https://standardaero.com/aboutus/careers/",
@@ -250,6 +239,12 @@
       "provider": "Women’s Industry Network · collision repair scholarship",
       "error": "HTTP 403",
       "httpStatus": 403
+    },
+    {
+      "url": "https://wandaalstonfoundation.org/scholarship",
+      "provider": "Wanda Alston Foundation / Tagg emergency education aid",
+      "error": "HTTP 404",
+      "httpStatus": 404
     },
     {
       "url": "https://www.aauw.org/resources/programs/fellowships-grants/career-development-grants/",
@@ -269,11 +264,6 @@
       "httpStatus": 404
     },
     {
-      "url": "https://www.connexfoundation.org/scholarship-opportunities/",
-      "provider": "Connex Foundation",
-      "error": "URLError"
-    },
-    {
       "url": "https://www.delta.com/us/en/careers/techops-careers",
       "provider": "Delta TechOps / TechU",
       "error": "HTTP 444",
@@ -285,13 +275,14 @@
       "error": "TimeoutError"
     },
     {
-      "url": "https://www.galsfoundation.org/",
-      "provider": "GALS Scholarship Foundation",
-      "error": "URLError"
-    },
-    {
       "url": "https://www.gofoodservice.com/scholarship",
       "provider": "GoFoodservice",
+      "error": "HTTP 403",
+      "httpStatus": 403
+    },
+    {
+      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
+      "provider": "Military OneSource SpouseWorks · credential funding",
       "error": "HTTP 403",
       "httpStatus": 403
     },
@@ -315,11 +306,6 @@
       "url": "https://www.vanmeterinc.com/company/community/spark-your-success-scholarship",
       "provider": "Van Meter Inc.",
       "error": "Page too short to verify content"
-    },
-    {
-      "url": "https://www.wwrightfoundation.org/",
-      "provider": "W. Wright Foundation",
-      "error": "URLError"
     }
   ],
   "maintenance": {
@@ -330,6 +316,13 @@
     "timezone": "America/New_York"
   },
   "lifecycle": [
+    {
+      "id": null,
+      "name": "Wanda Alston Foundation / Tagg emergency education aid",
+      "action": "hidden",
+      "reason": "source-missing",
+      "at": "2026-11-24T22:29:24.411390Z"
+    },
     {
       "id": "humanevma-veterinary-technician-compassionate-care-2026",
       "name": "Compassionate Care Scholarship · veterinary technician",
