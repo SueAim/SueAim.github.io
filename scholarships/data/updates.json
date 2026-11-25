@@ -1,9 +1,99 @@
 {
-  "lastAttempt": "2026-11-24T22:29:24.411390Z",
+  "lastAttempt": "2026-11-25T13:49:47.681873Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 314,
-  "sourcesTotal": 336,
+  "sourcesChecked": 317,
+  "sourcesTotal": 338,
   "changes": [
+    {
+      "provider": "Travers Tool · metalworking tools scholarships",
+      "url": "https://www.travers.com/scholarship",
+      "at": "2026-11-25T13:49:47.681873Z"
+    },
+    {
+      "provider": "TOPDON Technology USA",
+      "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
+      "at": "2026-11-25T13:49:47.681873Z"
+    },
+    {
+      "provider": "NAHB Professional Women in Building Council / National Housing Endowment",
+      "url": "https://www.nahb.org/nahb-community/councils/professional-women-in-building-council/pwb-nhe-scholarships",
+      "at": "2026-11-25T13:49:47.681873Z"
+    },
+    {
+      "provider": "Military OneSource SpouseWorks · credential funding",
+      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
+      "at": "2026-11-25T13:49:47.681873Z"
+    },
+    {
+      "provider": "Family Resource Network NJ disability scholarships",
+      "url": "https://www.familyresourcenetwork.org/education-training/scholarship-opportunities/",
+      "at": "2026-11-25T13:49:47.681873Z"
+    },
+    {
+      "provider": "American Welding Society Foundation",
+      "url": "https://www.aws.org/career-resources/students/scholarships/welder-training-scholarship/",
+      "at": "2026-11-25T13:49:47.681873Z"
+    },
+    {
+      "provider": "AMFA National Scholarships · next-cycle watch",
+      "url": "https://www.amfanational.org/index.cfm?page=AMFA20Scholarships&zone=/unionactive/view_page.cfm",
+      "at": "2026-11-25T13:49:47.681873Z"
+    },
+    {
+      "provider": "Aircraft Mechanics Fraternal Association",
+      "url": "https://www.amfanational.org/index.cfm?page=AMFA20Scholarships&zone=%2Funionactive%2Fview_page.cfm",
+      "at": "2026-11-25T13:49:47.681873Z"
+    },
+    {
+      "provider": "AAR",
+      "url": "https://www.aarcorp.com/en/careers/students/",
+      "at": "2026-11-25T13:49:47.681873Z"
+    },
+    {
+      "provider": "Women in Flavor & Fragrance Commerce",
+      "url": "https://wffc.org/membership/scholarships/",
+      "at": "2026-11-25T13:49:47.681873Z"
+    },
+    {
+      "provider": "The Lisa Michelle Memorial Fund",
+      "url": "https://thelmmfund.org/scholarships/how-to-apply/",
+      "at": "2026-11-25T13:49:47.681873Z"
+    },
+    {
+      "provider": "NPCA Foundation",
+      "url": "https://precast.org/foundation/students-programs/scholarships/",
+      "at": "2026-11-25T13:49:47.681873Z"
+    },
+    {
+      "provider": "OBAP",
+      "url": "https://obap.org/outreach-programs/scholarships/",
+      "at": "2026-11-25T13:49:47.681873Z"
+    },
+    {
+      "provider": "National Technical Honor Society · technical student scholarships",
+      "url": "https://kb.nths.org/article/scholarships",
+      "at": "2026-11-25T13:49:47.681873Z"
+    },
+    {
+      "provider": "flyExclusive current roles",
+      "url": "https://flyexclusive.com/job-openings",
+      "at": "2026-11-25T13:49:47.681873Z"
+    },
+    {
+      "provider": "Elliott Aviation careers",
+      "url": "https://elliottaviation.com/about-us/careers/",
+      "at": "2026-11-25T13:49:47.681873Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-25T13:49:47.681873Z"
+    },
+    {
+      "provider": "Beauty Changes Lives · vocational training scholarships",
+      "url": "https://beautychangeslives.org/scholarships-opportunities/",
+      "at": "2026-11-25T13:49:47.681873Z"
+    },
     {
       "provider": "Travers Tool · metalworking tools scholarships",
       "url": "https://www.travers.com/scholarship",
@@ -88,96 +178,6 @@
       "provider": "Coast Guard Foundation",
       "url": "https://coastguardfoundation.org/news/apply-now-coast-guard-spouse-grants-for-education-training",
       "at": "2026-11-24T22:29:24.411390Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-24T22:29:24.411390Z"
-    },
-    {
-      "provider": "Travers Tool · metalworking tools scholarships",
-      "url": "https://www.travers.com/scholarship",
-      "at": "2026-11-24T13:16:45.197582Z"
-    },
-    {
-      "provider": "TOPDON Technology USA",
-      "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
-      "at": "2026-11-24T13:16:45.197582Z"
-    },
-    {
-      "provider": "Military OneSource SpouseWorks · credential funding",
-      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
-      "at": "2026-11-24T13:16:45.197582Z"
-    },
-    {
-      "provider": "American Welding Society Foundation",
-      "url": "https://www.aws.org/career-resources/students/scholarships/welder-training-scholarship/",
-      "at": "2026-11-24T13:16:45.197582Z"
-    },
-    {
-      "provider": "American Welding Society Foundation",
-      "url": "https://www.aws.org/career-resources/students/scholarships/national-scholarships/",
-      "at": "2026-11-24T13:16:45.197582Z"
-    },
-    {
-      "provider": "AWS Foundation · welding education awards",
-      "url": "https://www.aws.org/career-resources/students/scholarships/",
-      "at": "2026-11-24T13:16:45.197582Z"
-    },
-    {
-      "provider": "Women in Flavor & Fragrance Commerce",
-      "url": "https://wffc.org/membership/scholarships/",
-      "at": "2026-11-24T13:16:45.197582Z"
-    },
-    {
-      "provider": "The Lisa Michelle Memorial Fund",
-      "url": "https://thelmmfund.org/scholarships/how-to-apply/",
-      "at": "2026-11-24T13:16:45.197582Z"
-    },
-    {
-      "provider": "OBAP",
-      "url": "https://obap.org/outreach-programs/scholarships/",
-      "at": "2026-11-24T13:16:45.197582Z"
-    },
-    {
-      "provider": "Madison Area AAUW",
-      "url": "https://madisonareaaauw.org/",
-      "at": "2026-11-24T13:16:45.197582Z"
-    },
-    {
-      "provider": "National Technical Honor Society · technical student scholarships",
-      "url": "https://kb.nths.org/article/scholarships",
-      "at": "2026-11-24T13:16:45.197582Z"
-    },
-    {
-      "provider": "flyExclusive current roles",
-      "url": "https://flyexclusive.com/job-openings",
-      "at": "2026-11-24T13:16:45.197582Z"
-    },
-    {
-      "provider": "Corning",
-      "url": "https://corningjobs.corning.com/job/Big-Flats-Aviation-Maintenance-Technician-Intern-Summer-2027-NY-14814/1443511500/",
-      "at": "2026-11-24T13:16:45.197582Z"
-    },
-    {
-      "provider": "Coast Guard Foundation",
-      "url": "https://coastguardfoundation.org/relief/honoring-fallen-heroes",
-      "at": "2026-11-24T13:16:45.197582Z"
-    },
-    {
-      "provider": "Coast Guard Foundation",
-      "url": "https://coastguardfoundation.org/news/apply-now-grants-for-enlisted-coast-guard-members-to-support-education-professional-training",
-      "at": "2026-11-24T13:16:45.197582Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-24T13:16:45.197582Z"
-    },
-    {
-      "provider": "Beauty Changes Lives · vocational training scholarships",
-      "url": "https://beautychangeslives.org/scholarships-opportunities/",
-      "at": "2026-11-24T13:16:45.197582Z"
     }
   ],
   "discovered": [],
@@ -281,12 +281,6 @@
       "httpStatus": 403
     },
     {
-      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
-      "provider": "Military OneSource SpouseWorks · credential funding",
-      "error": "HTTP 403",
-      "httpStatus": 403
-    },
-    {
       "url": "https://www.ngpa.org/2026_scholarships",
       "provider": "NGPA",
       "error": "HTTP 403",
@@ -309,7 +303,7 @@
     }
   ],
   "maintenance": {
-    "visibleRecords": 293,
+    "visibleRecords": 294,
     "hiddenExpired": 8,
     "hiddenMissing": 1,
     "restoredThisRun": 0,
