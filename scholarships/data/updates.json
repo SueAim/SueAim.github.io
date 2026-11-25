@@ -1,9 +1,79 @@
 {
-  "lastAttempt": "2026-11-25T13:49:47.681873Z",
+  "lastAttempt": "2026-11-25T21:45:06.676080Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 317,
+  "sourcesChecked": 313,
   "sourcesTotal": 338,
   "changes": [
+    {
+      "provider": "TOPDON Technology USA",
+      "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
+      "at": "2026-11-25T21:45:06.676080Z"
+    },
+    {
+      "provider": "Ronald Reagan Presidential Foundation and Institute / GE Aerospace",
+      "url": "https://www.reaganfoundation.org/education/workforce-readiness-scholarship",
+      "at": "2026-11-25T21:45:06.676080Z"
+    },
+    {
+      "provider": "NAHB Professional Women in Building Council / National Housing Endowment",
+      "url": "https://www.nahb.org/nahb-community/councils/professional-women-in-building-council/pwb-nhe-scholarships",
+      "at": "2026-11-25T21:45:06.676080Z"
+    },
+    {
+      "provider": "National Military Family Association",
+      "url": "https://www.militaryfamily.org/state-of-the-military-family-programs/spouses-scholarships/military-spouse-scholarship-faqs/",
+      "at": "2026-11-25T21:45:06.676080Z"
+    },
+    {
+      "provider": "Energy Job Shop",
+      "url": "https://www.energyjobshop.com/scholarship/",
+      "at": "2026-11-25T21:45:06.676080Z"
+    },
+    {
+      "provider": "Women in Flavor & Fragrance Commerce",
+      "url": "https://wffc.org/membership/scholarships/",
+      "at": "2026-11-25T21:45:06.676080Z"
+    },
+    {
+      "provider": "The Lisa Michelle Memorial Fund",
+      "url": "https://thelmmfund.org/scholarships/how-to-apply/",
+      "at": "2026-11-25T21:45:06.676080Z"
+    },
+    {
+      "provider": "Milliman / Scholarship America",
+      "url": "https://scholarshipamerica.org/scholarship/milliman-opportunity-us/",
+      "at": "2026-11-25T21:45:06.676080Z"
+    },
+    {
+      "provider": "Pioneer Military Credit",
+      "url": "https://pioneermilitarycredit.com/military-spouse-scholarship/",
+      "at": "2026-11-25T21:45:06.676080Z"
+    },
+    {
+      "provider": "OBAP",
+      "url": "https://obap.org/outreach-programs/scholarships/",
+      "at": "2026-11-25T21:45:06.676080Z"
+    },
+    {
+      "provider": "National Technical Honor Society · technical student scholarships",
+      "url": "https://kb.nths.org/article/scholarships",
+      "at": "2026-11-25T21:45:06.676080Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-25T21:45:06.676080Z"
+    },
+    {
+      "provider": "C&L Aviation careers",
+      "url": "https://careers.cla.aero/",
+      "at": "2026-11-25T21:45:06.676080Z"
+    },
+    {
+      "provider": "Beauty Changes Lives · vocational training scholarships",
+      "url": "https://beautychangeslives.org/scholarships-opportunities/",
+      "at": "2026-11-25T21:45:06.676080Z"
+    },
     {
       "provider": "Travers Tool · metalworking tools scholarships",
       "url": "https://www.travers.com/scholarship",
@@ -108,76 +178,6 @@
       "provider": "NAHB Professional Women in Building Council / National Housing Endowment",
       "url": "https://www.nahb.org/nahb-community/councils/professional-women-in-building-council/pwb-nhe-scholarships",
       "at": "2026-11-24T22:29:24.411390Z"
-    },
-    {
-      "provider": "National Military Family Association",
-      "url": "https://www.militaryfamily.org/state-of-the-military-family-programs/spouses-scholarships/military-spouse-scholarship-faqs/",
-      "at": "2026-11-24T22:29:24.411390Z"
-    },
-    {
-      "provider": "HumaneVMA",
-      "url": "https://www.humanevma.org/index.php?Itemid=93&catid=23:students&id=1372:humanevma-compassionate-care-scholarships-for-veterinary-technician-students&option=com_content&view=article",
-      "at": "2026-11-24T22:29:24.411390Z"
-    },
-    {
-      "provider": "Family Resource Network NJ disability scholarships",
-      "url": "https://www.familyresourcenetwork.org/education-training/scholarship-opportunities/",
-      "at": "2026-11-24T22:29:24.411390Z"
-    },
-    {
-      "provider": "Envoy Air · AIM maintenance partnership updates",
-      "url": "https://www.envoyair.com/2026/10/28/continuing-our-partnership-with-aim/",
-      "at": "2026-11-24T22:29:24.411390Z"
-    },
-    {
-      "provider": "Envoy preferred A&P-school partnerships",
-      "url": "https://www.envoyair.com/2025/12/03/envoy-announces-preferred-airframe-powerplant-school-partnerships/",
-      "at": "2026-11-24T22:29:24.411390Z"
-    },
-    {
-      "provider": "American Welding Society Foundation",
-      "url": "https://www.aws.org/career-resources/students/scholarships/welder-training-scholarship/",
-      "at": "2026-11-24T22:29:24.411390Z"
-    },
-    {
-      "provider": "AIST Foundation",
-      "url": "https://www.aist.org/Students-Faculty/Scholarships/Trade-School-Scholarship-Program",
-      "at": "2026-11-24T22:29:24.411390Z"
-    },
-    {
-      "provider": "AAR",
-      "url": "https://www.aarcorp.com/en/careers/students/",
-      "at": "2026-11-24T22:29:24.411390Z"
-    },
-    {
-      "provider": "Wings Over America Scholarship Foundation",
-      "url": "https://woasf.org/scholarships",
-      "at": "2026-11-24T22:29:24.411390Z"
-    },
-    {
-      "provider": "Women in Flavor & Fragrance Commerce",
-      "url": "https://wffc.org/membership/scholarships/",
-      "at": "2026-11-24T22:29:24.411390Z"
-    },
-    {
-      "provider": "The Lisa Michelle Memorial Fund",
-      "url": "https://thelmmfund.org/scholarships/how-to-apply/",
-      "at": "2026-11-24T22:29:24.411390Z"
-    },
-    {
-      "provider": "International Brotherhood of Teamsters",
-      "url": "https://teamster.org/scholarships/",
-      "at": "2026-11-24T22:29:24.411390Z"
-    },
-    {
-      "provider": "OBAP",
-      "url": "https://obap.org/outreach-programs/scholarships/",
-      "at": "2026-11-24T22:29:24.411390Z"
-    },
-    {
-      "provider": "Coast Guard Foundation",
-      "url": "https://coastguardfoundation.org/news/apply-now-coast-guard-spouse-grants-for-education-training",
-      "at": "2026-11-24T22:29:24.411390Z"
     }
   ],
   "discovered": [],
@@ -187,6 +187,18 @@
       "provider": "AOPA / CAA · Preferred FBO Employee Scholarship",
       "error": "HTTP 403",
       "httpStatus": 403
+    },
+    {
+      "url": "https://apiqwtc.org/call-for-applications-2027-apiqwtc-scholarship/",
+      "provider": "Asian Pacific Islander Queer Women & Transgender Community",
+      "error": "HTTP 500",
+      "httpStatus": 500
+    },
+    {
+      "url": "https://apiqwtc.org/call-for-applications-2027-terri-higa-memorial-scholarship/",
+      "provider": "Asian Pacific Islander Queer Women & Transgender Community",
+      "error": "HTTP 500",
+      "httpStatus": 500
     },
     {
       "url": "https://awafoundation.org/How_to_Apply",
@@ -230,6 +242,12 @@
       "error": "Page too short to verify content"
     },
     {
+      "url": "https://psaairlines.com/maintenance-military-transition-program/",
+      "provider": "PSA Airlines",
+      "error": "HTTP 403",
+      "httpStatus": 403
+    },
+    {
       "url": "https://standardaero.com/aboutus/careers/",
       "provider": "StandardAero careers / technical training",
       "error": "Page too short to verify content"
@@ -262,6 +280,11 @@
       "provider": "Johnson & Johnson",
       "error": "HTTP 404",
       "httpStatus": 404
+    },
+    {
+      "url": "https://www.commuteair.com/careers/maintenance/",
+      "provider": "CommuteAir",
+      "error": "TimeoutError"
     },
     {
       "url": "https://www.delta.com/us/en/careers/techops-careers",
