@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "reviewed": "2026-11-24",
+  "reviewed": "2026-11-25",
   "scope": "New Jersey residents and students attending New Jersey schools; nationwide and international providers accepting NJ applicants",
   "records": [
     {
@@ -15949,6 +15949,49 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-24"
       }
+    },
+    {
+      "id": "apwu-vocational-scholarship-2027",
+      "name": "APWU Vocational Scholarship",
+      "org": "American Postal Workers Union, AFL-CIO",
+      "url": "https://apwu.org/scholarship-programs/",
+      "amount": "Up to $3,000 for up to three years of study",
+      "value": 3000,
+      "status": "open",
+      "deadline": "2027-05-31",
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "school",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "check",
+      "requirements": "HIGH-SCHOOL SENIORS ONLY: child or grandchild, including stepchild or legally adopted child, of a qualifying active, retired or deceased APWU member in good standing. NJ is explicitly included in the regional rules. Excludes national officers’ children/grandchildren, sponsors who are postal managers, and other postal unions. Education: accredited community-college, vocational-school or vocational-program study; eligible training lasts nine months to three years. No previously completed college degree is required. Specific major and prior-degree exclusions are not otherwise published. This is not a current AIM-student award.",
+      "group": null,
+      "ai": "unknown",
+      "kind": "scholarship",
+      "note": "Received by May 31, 2027, per the current application and download labels; the overview still contains an older 2026 date. Five regional recipients; school-paid tuition, room/board, books or fees. Maintain B grades, Pass, or instructor/counselor evaluation with annual reporting. Submit application, transcript, assessment and a 350–500-word researched essay with citations. Apply for either Vocational or Hallbeck, not both. Changing institutions/programs requires notice; a sponsor becoming a postal manager ends support. Other school / program, outside confirmed AIM counts. Use the official form; mailed packets must use USPS. The brochure also permits email submission.",
+      "reviewed": "2026-11-25",
+      "added": "2026-11-25",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "other-program",
+      "recurring": true,
+      "monetaryAward": true,
+      "references": [
+        "https://www.apwu.org/wp-content/uploads/2026/08/2027-Application-VOCATIONAL.pdf",
+        "https://apwu.org/wp-content/uploads/2026/08/2027-Scholarship-Brochure.pdf"
+      ],
+      "eligibility": {
+        "citizenship": "No U.S.-citizenship or green-card requirement is stated in the published application.",
+        "age": "High-school senior status is mandatory; no numerical age limit is published.",
+        "source": "https://www.apwu.org/wp-content/uploads/2026/08/2027-Application-VOCATIONAL.pdf"
+      }
     }
   ],
   "resources": [
@@ -17407,6 +17450,11 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-24"
       }
+    },
+    {
+      "name": "Orr Smith / Greater Pike — first responders and their children",
+      "url": "https://greaterpike.org/news/orr-smith-foundation-establishes-scholarship-fund-for-first-responders-and-their-families-at-greater-pike/",
+      "note": "Announced applications beginning April 2027 for first responders and their children residing in Sussex County, NJ, Pike County, PA or Orange County, NY. Trade certifications, vocational training and continuing education are included. Individual award amount, payment route, deadline and full program rules are not yet published; the $50,000 figure is the overall fund, not an individual award. Not open today or a confirmed AIM match."
     }
   ],
   "notes": [
