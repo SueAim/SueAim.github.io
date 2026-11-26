@@ -1,9 +1,49 @@
 {
-  "lastAttempt": "2026-11-26T13:08:44.516538Z",
+  "lastAttempt": "2026-11-26T21:36:56.748035Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 317,
+  "sourcesChecked": 318,
   "sourcesTotal": 340,
   "changes": [
+    {
+      "provider": "Military OneSource SpouseWorks · credential funding",
+      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
+      "at": "2026-11-26T21:36:56.748035Z"
+    },
+    {
+      "provider": "American Welding Society Foundation",
+      "url": "https://www.aws.org/career-resources/students/scholarships/national-scholarships/",
+      "at": "2026-11-26T21:36:56.748035Z"
+    },
+    {
+      "provider": "Women in Flavor & Fragrance Commerce",
+      "url": "https://wffc.org/membership/scholarships/",
+      "at": "2026-11-26T21:36:56.748035Z"
+    },
+    {
+      "provider": "The Lisa Michelle Memorial Fund",
+      "url": "https://thelmmfund.org/scholarships/how-to-apply/",
+      "at": "2026-11-26T21:36:56.748035Z"
+    },
+    {
+      "provider": "Pioneer Military Credit",
+      "url": "https://pioneermilitarycredit.com/military-spouse-scholarship/",
+      "at": "2026-11-26T21:36:56.748035Z"
+    },
+    {
+      "provider": "OBAP",
+      "url": "https://obap.org/outreach-programs/scholarships/",
+      "at": "2026-11-26T21:36:56.748035Z"
+    },
+    {
+      "provider": "National Technical Honor Society · technical student scholarships",
+      "url": "https://kb.nths.org/article/scholarships",
+      "at": "2026-11-26T21:36:56.748035Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-26T21:36:56.748035Z"
+    },
     {
       "provider": "TOPDON Technology USA",
       "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
@@ -138,46 +178,6 @@
       "provider": "C&L Aviation careers",
       "url": "https://careers.cla.aero/",
       "at": "2026-11-25T21:45:06.676080Z"
-    },
-    {
-      "provider": "Beauty Changes Lives · vocational training scholarships",
-      "url": "https://beautychangeslives.org/scholarships-opportunities/",
-      "at": "2026-11-25T21:45:06.676080Z"
-    },
-    {
-      "provider": "Travers Tool · metalworking tools scholarships",
-      "url": "https://www.travers.com/scholarship",
-      "at": "2026-11-25T13:49:47.681873Z"
-    },
-    {
-      "provider": "TOPDON Technology USA",
-      "url": "https://www.topdon.us/pages/techs-of-tomorrow-scholarship",
-      "at": "2026-11-25T13:49:47.681873Z"
-    },
-    {
-      "provider": "NAHB Professional Women in Building Council / National Housing Endowment",
-      "url": "https://www.nahb.org/nahb-community/councils/professional-women-in-building-council/pwb-nhe-scholarships",
-      "at": "2026-11-25T13:49:47.681873Z"
-    },
-    {
-      "provider": "Military OneSource SpouseWorks · credential funding",
-      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
-      "at": "2026-11-25T13:49:47.681873Z"
-    },
-    {
-      "provider": "Family Resource Network NJ disability scholarships",
-      "url": "https://www.familyresourcenetwork.org/education-training/scholarship-opportunities/",
-      "at": "2026-11-25T13:49:47.681873Z"
-    },
-    {
-      "provider": "American Welding Society Foundation",
-      "url": "https://www.aws.org/career-resources/students/scholarships/welder-training-scholarship/",
-      "at": "2026-11-25T13:49:47.681873Z"
-    },
-    {
-      "provider": "AMFA National Scholarships · next-cycle watch",
-      "url": "https://www.amfanational.org/index.cfm?page=AMFA20Scholarships&zone=/unionactive/view_page.cfm",
-      "at": "2026-11-25T13:49:47.681873Z"
     }
   ],
   "discovered": [],
@@ -244,8 +244,8 @@
     {
       "url": "https://usjcisenate.org/scholarship-program",
       "provider": "U.S. JCI Senate Foundation",
-      "error": "HTTP 500",
-      "httpStatus": 500
+      "error": "HTTP 503",
+      "httpStatus": 503
     },
     {
       "url": "https://wandaalstonfoundation.org/scholarship",
@@ -290,12 +290,6 @@
     {
       "url": "https://www.ngpa.org/2026_scholarships",
       "provider": "NGPA",
-      "error": "HTTP 403",
-      "httpStatus": 403
-    },
-    {
-      "url": "https://www.pathtopro.com/foundation/",
-      "provider": "The Home Depot Foundation / SKILLED Nation",
       "error": "HTTP 403",
       "httpStatus": 403
     },
