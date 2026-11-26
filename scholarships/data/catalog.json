@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "reviewed": "2026-11-25",
+  "reviewed": "2026-11-26",
   "scope": "New Jersey residents and students attending New Jersey schools; nationwide and international providers accepting NJ applicants",
   "records": [
     {
@@ -16003,6 +16003,45 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-25"
       }
+    },
+    {
+      "id": "wrise-grid-renewable-energy-fellowship",
+      "name": "WRISE / GRID Renewable Energy Fellowship",
+      "org": "Women of Renewable Industries and Sustainable Energy / GRID Alternatives",
+      "url": "https://wrisenergy.org/fellowship-honors/renewable-energy-fellowships/",
+      "amount": "Conference registration, travel, lodging and onsite expense card; value unpublished",
+      "value": null,
+      "status": "closed",
+      "deadline": "2026-07-10",
+      "opens": "2026-06-22",
+      "geo": "national",
+      "states": [],
+      "benefit": "training",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": 18,
+      "maxAge": null,
+      "stage": "student",
+      "requirements": "Age 18+, located in the United States during the fellowship, including NJ. All genders welcome. Education: current student or recent graduate of a college, university or technical CERTIFICATE program, including graduate and installer training. No specific previously earned degree is required. Must not yet work in the industry and must plan a U.S. renewable-energy career; solar interest particularly relevant. Current GRID SolarCorps Fellows excluded. AIM NJ aviation-maintenance study alone does not establish clean-energy career fit.",
+      "group": null,
+      "ai": "unknown",
+      "kind": "program",
+      "note": "CLOSED July 10, 2026; no next-cycle dates announced. RE+ Las Vegas attendance November 16–19, 2026 and virtual preparation/debrief required. Registration, travel and lodging covered upfront; expense card for meals/local transportation. No wages or guaranteed job. Application: resume, transcript, recommendation and essay up to 750 words; financial need considered. Other school / program, outside confirmed AIM counts.",
+      "reviewed": "2026-11-26",
+      "added": "2026-11-26",
+      "provider": "association",
+      "relocation": false,
+      "career": "none",
+      "fit": "other-program",
+      "recurring": true,
+      "monetaryAward": true,
+      "eligibility": {
+        "citizenship": "U.S. location required; citizenship/green-card restriction not published.",
+        "age": "18 or older.",
+        "source": "https://wrisenergy.org/fellowship-honors/renewable-energy-fellowships/"
+      }
     }
   ],
   "resources": [
@@ -17477,6 +17516,11 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-25"
       }
+    },
+    {
+      "name": "Purdue / HSPA — sterile-processing correspondence scholarships",
+      "url": "https://myhspa.org/resources/purdue-university-scholarship/",
+      "note": "Sponsor page announces applications through February 26, 2027 for employed sterile-processing technicians or managers/supervisors: free noncredit course registration and materials, not cash. Its linked form still says February 26, 2026; confirm the current form/deadline before applying. Supervisor reference and employment verification required. Not AIM aircraft-maintenance funding or a confirmed available-now match."
     }
   ],
   "notes": [
