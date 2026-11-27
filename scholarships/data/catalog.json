@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "reviewed": "2026-11-26",
+  "reviewed": "2026-11-27",
   "scope": "New Jersey residents and students attending New Jersey schools; nationwide and international providers accepting NJ applicants",
   "records": [
     {
@@ -16053,6 +16053,179 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-26"
       }
+    },
+    {
+      "id": "asnt-charles-hellier-iii-2027",
+      "name": "Charles Hellier III Scholarship",
+      "org": "ASNT Foundation",
+      "url": "https://foundation.asnt.org/funding/ndt-scholarships/charles-hellier-iii-scholarship",
+      "amount": "$10,000",
+      "value": 10000,
+      "status": "open",
+      "deadline": "2027-01-31",
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "cash",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "requirements": "No state exclusion is published; NJ applicants must satisfy the NDT education conditions. Education: enrolled or seeking enrollment in nondestructive testing training at an accredited school or technical training organization. No previously completed degree is required by the detail page. The overview instead describes an NDT associate/certificate program; confirm standalone-course eligibility. AIM NJ’s general 21-month A&P certificate is not expressly approved as NDT training.",
+      "group": "asnt-foundation-scholarships",
+      "ai": "unknown",
+      "kind": "scholarship",
+      "note": "Due January 31, 2027. Original essay up to 500 words, instructor recommendation, course/provider description and start/end months required; completion report follows training. Shared ASNT application portal requires account sign-in; additional logged-in conditions were not reviewed. Up to one award annually, paid to the individual. Sponsor states July 1 payment without clearly identifying the award year; confirm timing. Outside confirmed AIM counts.",
+      "reviewed": "2026-11-27",
+      "added": "2026-11-27",
+      "provider": "foundation",
+      "relocation": false,
+      "career": "none",
+      "fit": "other-program",
+      "recurring": true,
+      "monetaryAward": true,
+      "references": [
+        "https://foundation.asnt.org/funding/ndt-scholarships",
+        "https://asntfoundation.secure-platform.com/site/organizations/main/submissions/details/3676"
+      ],
+      "eligibility": {
+        "citizenship": "No U.S.-citizenship or green-card requirement is stated in the public award terms. Confirm any additional portal conditions.",
+        "age": "No numerical age limit is published.",
+        "source": "https://foundation.asnt.org/funding/ndt-scholarships/charles-hellier-iii-scholarship"
+      }
+    },
+    {
+      "id": "asnt-james-j-treat-2027",
+      "name": "James J. Treat Scholarship",
+      "org": "ASNT Foundation",
+      "url": "https://foundation.asnt.org/funding/ndt-scholarships/james-j-treat-scholarship",
+      "amount": "$10,000",
+      "value": 10000,
+      "status": "open",
+      "deadline": "2027-01-31",
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "cash",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "requirements": "No state exclusion is published; NJ applicants must satisfy the NDT education conditions. Education: UNDERGRADUATE students enrolled in NDT education courses at an accredited college or university. No previously earned degree is specified; a past degree does not replace current qualifying enrollment. The overview describes continuing professional training, but detailed college/university enrollment conditions control pending confirmation. AIM NJ nondegree trade-school enrollment is not expressly accepted.",
+      "group": "asnt-foundation-scholarships",
+      "ai": "unknown",
+      "kind": "scholarship",
+      "note": "Due January 31, 2027. Original essay up to 500 words, instructor recommendation, course/provider description and start/end months required; completion report follows training. Shared ASNT application portal requires account sign-in; additional logged-in conditions were not reviewed. Up to one cash award annually, paid to the individual. Sponsor states July 1 payment without clearly identifying the award year. Outside confirmed AIM counts.",
+      "reviewed": "2026-11-27",
+      "added": "2026-11-27",
+      "provider": "foundation",
+      "relocation": false,
+      "career": "none",
+      "fit": "degree-check",
+      "recurring": true,
+      "monetaryAward": true,
+      "references": [
+        "https://foundation.asnt.org/funding/ndt-scholarships",
+        "https://asntfoundation.secure-platform.com/site/organizations/main/submissions/details/3676"
+      ],
+      "eligibility": {
+        "citizenship": "No U.S.-citizenship or green-card requirement is stated in the public award terms. Confirm any additional portal conditions.",
+        "age": "No numerical age limit is published.",
+        "source": "https://foundation.asnt.org/funding/ndt-scholarships/james-j-treat-scholarship"
+      }
+    },
+    {
+      "id": "asnt-robert-b-oliver-2027",
+      "name": "Robert B. Oliver Scholarship",
+      "org": "ASNT Foundation",
+      "url": "https://foundation.asnt.org/funding/ndt-scholarships/robert-b-oliver-scholarship",
+      "amount": "$2,500",
+      "value": 2500,
+      "status": "open",
+      "deadline": "2027-01-31",
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "unconfirmed",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "requirements": "No state exclusion is published; NJ applicants must satisfy the NDT education conditions. Education: officially enrolled in an ASSOCIATE DEGREE OR CERTIFICATE program that includes NDT studies. No previously completed degree is required and no prior-degree exclusion is published. Confirm whether AIM NJ’s specific NDT coursework within its 21-month A&P certificate meets this condition; general aircraft-maintenance enrollment alone is not verified approval.",
+      "group": "asnt-foundation-scholarships",
+      "ai": "unknown",
+      "kind": "scholarship",
+      "note": "Due January 31, 2027. Original essay up to 500 words, instructor recommendation, course/provider description and start/end months required; completion report follows training. Shared ASNT application portal requires account sign-in; additional logged-in conditions were not reviewed. Up to three $2,500 awards annually. Payment destination and disbursement date are unpublished on this award page. Kept outside confirmed AIM counts.",
+      "reviewed": "2026-11-27",
+      "added": "2026-11-27",
+      "provider": "foundation",
+      "relocation": false,
+      "career": "none",
+      "fit": "other-program",
+      "recurring": true,
+      "monetaryAward": true,
+      "references": [
+        "https://foundation.asnt.org/funding/ndt-scholarships",
+        "https://asntfoundation.secure-platform.com/site/organizations/main/submissions/details/3676"
+      ],
+      "eligibility": {
+        "citizenship": "No U.S.-citizenship or green-card requirement is stated in the public award terms. Confirm any additional portal conditions.",
+        "age": "No numerical age limit is published.",
+        "source": "https://foundation.asnt.org/funding/ndt-scholarships/robert-b-oliver-scholarship"
+      }
+    },
+    {
+      "id": "offroadxperts-mechanics-scholarship-2027",
+      "name": "OffroadXperts.com Mechanics Scholarship",
+      "org": "Offroad Xperts LLC",
+      "url": "https://offroadxperts.com/pages/the-offroadxperts-mechanics-scholarship",
+      "amount": "$500",
+      "value": 500,
+      "status": "open",
+      "deadline": "2027-02-13",
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "tools",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": 14,
+      "maxAge": null,
+      "stage": "student",
+      "requirements": "High-school vocational, trade/technical-school or associate-degree students pursuing mechanics, vehicle repair or fabrication. Sponsor lists automotive, diesel, welding/metal fabrication and powertrain programs. Accredited U.S. school required; no NJ exclusion is published. Education: trade study is accepted without a previously earned degree; no prior-degree exclusion is published. Aircraft maintenance is not named by the sponsor, so AIM NJ acceptance requires confirmation. Bold requires age 14+ and parent/guardian consent under 18.",
+      "group": null,
+      "ai": "unknown",
+      "kind": "scholarship",
+      "note": "One award; due February 13, 2027, winner March 13. Sponsor specifies tools, PPE or ASE exams rather than general tuition. Bold normally pays the school, but arranges qualified non-tuition expenses with the winner; confirm this award’s exact route. Submit 300–400 words or a public video (sponsor says 2 minutes; portal says 2–3). Automated/scripted or plagiarized applications prohibited. No guaranteed job. Outside confirmed AIM counts.",
+      "reviewed": "2026-11-27",
+      "added": "2026-11-27",
+      "provider": "parts",
+      "relocation": false,
+      "career": "none",
+      "fit": "other-program",
+      "recurring": false,
+      "monetaryAward": true,
+      "references": [
+        "https://bold.org/scholarships/offroadxperts-com-mechanics-scholarship/",
+        "https://bold.org/scholarship-rules/",
+        "https://bold.org/terms-of-use/"
+      ],
+      "eligibility": {
+        "citizenship": "No U.S.-citizenship or green-card requirement is stated; U.S. accredited institution required under Bold rules.",
+        "age": "Bold requires age 14 or older; parent/guardian consent under 18.",
+        "source": "https://bold.org/terms-of-use/"
+      }
     }
   ],
   "resources": [
@@ -17543,6 +17716,11 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-26"
       }
+    },
+    {
+      "name": "ASNT Foundation — NDT scholarships",
+      "url": "https://foundation.asnt.org/funding/ndt-scholarships",
+      "note": "Named NDT training, certificate and undergraduate awards close January 31, 2027. Detailed eligibility differs from some overview descriptions. Engineering award requires current engineering-program enrollment; a past degree alone is insufficient. Shared account-based application portal; verify current individual terms. AIM general A&P study is not automatic NDT award approval."
     }
   ],
   "notes": [
