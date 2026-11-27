@@ -1,9 +1,59 @@
 {
-  "lastAttempt": "2026-11-26T21:36:56.748035Z",
+  "lastAttempt": "2026-11-27T13:53:30.891907Z",
   "lastSuccessful": "2026-10-28T13:55:45.848501Z",
-  "sourcesChecked": 318,
-  "sourcesTotal": 340,
+  "sourcesChecked": 321,
+  "sourcesTotal": 345,
   "changes": [
+    {
+      "provider": "Military OneSource SpouseWorks · credential funding",
+      "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
+      "at": "2026-11-27T13:53:30.891907Z"
+    },
+    {
+      "provider": "American Welding Society Foundation",
+      "url": "https://www.aws.org/career-resources/students/scholarships/national-scholarships/",
+      "at": "2026-11-27T13:53:30.891907Z"
+    },
+    {
+      "provider": "Women in Flavor & Fragrance Commerce",
+      "url": "https://wffc.org/membership/scholarships/",
+      "at": "2026-11-27T13:53:30.891907Z"
+    },
+    {
+      "provider": "The Lisa Michelle Memorial Fund",
+      "url": "https://thelmmfund.org/scholarships/how-to-apply/",
+      "at": "2026-11-27T13:53:30.891907Z"
+    },
+    {
+      "provider": "Scholarships360",
+      "url": "https://scholarships360.org/scholarships/search/making-waves-scholarship-for-women/",
+      "at": "2026-11-27T13:53:30.891907Z"
+    },
+    {
+      "provider": "OBAP",
+      "url": "https://obap.org/outreach-programs/scholarships/",
+      "at": "2026-11-27T13:53:30.891907Z"
+    },
+    {
+      "provider": "mikeroweWORKS",
+      "url": "https://mikeroweworks.org/scholarship/",
+      "at": "2026-11-27T13:53:30.891907Z"
+    },
+    {
+      "provider": "Mary E. Smith Foundation",
+      "url": "https://maryesmithfoundation.org/2027-scholarship-application-timeframe/",
+      "at": "2026-11-27T13:53:30.891907Z"
+    },
+    {
+      "provider": "Elliott Aviation careers",
+      "url": "https://elliottaviation.com/about-us/careers/",
+      "at": "2026-11-27T13:53:30.891907Z"
+    },
+    {
+      "provider": "United technician pathways",
+      "url": "https://careers.united.com/us/en/united-pathways",
+      "at": "2026-11-27T13:53:30.891907Z"
+    },
     {
       "provider": "Military OneSource SpouseWorks · credential funding",
       "url": "https://www.militaryonesource.mil/benefits/spouseworks-scholarship/",
@@ -128,56 +178,6 @@
       "provider": "NAHB Professional Women in Building Council / National Housing Endowment",
       "url": "https://www.nahb.org/nahb-community/councils/professional-women-in-building-council/pwb-nhe-scholarships",
       "at": "2026-11-25T21:45:06.676080Z"
-    },
-    {
-      "provider": "National Military Family Association",
-      "url": "https://www.militaryfamily.org/state-of-the-military-family-programs/spouses-scholarships/military-spouse-scholarship-faqs/",
-      "at": "2026-11-25T21:45:06.676080Z"
-    },
-    {
-      "provider": "Energy Job Shop",
-      "url": "https://www.energyjobshop.com/scholarship/",
-      "at": "2026-11-25T21:45:06.676080Z"
-    },
-    {
-      "provider": "Women in Flavor & Fragrance Commerce",
-      "url": "https://wffc.org/membership/scholarships/",
-      "at": "2026-11-25T21:45:06.676080Z"
-    },
-    {
-      "provider": "The Lisa Michelle Memorial Fund",
-      "url": "https://thelmmfund.org/scholarships/how-to-apply/",
-      "at": "2026-11-25T21:45:06.676080Z"
-    },
-    {
-      "provider": "Milliman / Scholarship America",
-      "url": "https://scholarshipamerica.org/scholarship/milliman-opportunity-us/",
-      "at": "2026-11-25T21:45:06.676080Z"
-    },
-    {
-      "provider": "Pioneer Military Credit",
-      "url": "https://pioneermilitarycredit.com/military-spouse-scholarship/",
-      "at": "2026-11-25T21:45:06.676080Z"
-    },
-    {
-      "provider": "OBAP",
-      "url": "https://obap.org/outreach-programs/scholarships/",
-      "at": "2026-11-25T21:45:06.676080Z"
-    },
-    {
-      "provider": "National Technical Honor Society · technical student scholarships",
-      "url": "https://kb.nths.org/article/scholarships",
-      "at": "2026-11-25T21:45:06.676080Z"
-    },
-    {
-      "provider": "United technician pathways",
-      "url": "https://careers.united.com/us/en/united-pathways",
-      "at": "2026-11-25T21:45:06.676080Z"
-    },
-    {
-      "provider": "C&L Aviation careers",
-      "url": "https://careers.cla.aero/",
-      "at": "2026-11-25T21:45:06.676080Z"
     }
   ],
   "discovered": [],
@@ -229,6 +229,11 @@
       "provider": "Marathon Petroleum",
       "error": "HTTP 429",
       "httpStatus": 429
+    },
+    {
+      "url": "https://scholarships.smeef.org/applications/",
+      "provider": "SME Education Foundation",
+      "error": "TimeoutError"
     },
     {
       "url": "https://standardaero.com/aboutus/careers/",
@@ -294,6 +299,12 @@
       "httpStatus": 403
     },
     {
+      "url": "https://www.pathtopro.com/foundation/",
+      "provider": "The Home Depot Foundation / SKILLED Nation",
+      "error": "HTTP 403",
+      "httpStatus": 403
+    },
+    {
       "url": "https://www.rolltoroll.org/wise-scholarship",
       "provider": "WISE — women working in roll-to-roll converting",
       "error": "Page too short to verify content"
@@ -310,7 +321,7 @@
     }
   ],
   "maintenance": {
-    "visibleRecords": 295,
+    "visibleRecords": 299,
     "hiddenExpired": 8,
     "hiddenMissing": 1,
     "restoredThisRun": 0,
