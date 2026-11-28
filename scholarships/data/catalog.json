@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "reviewed": "2026-11-27",
+  "reviewed": "2026-11-28",
   "scope": "New Jersey residents and students attending New Jersey schools; nationwide and international providers accepting NJ applicants",
   "records": [
     {
@@ -16270,6 +16270,182 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-27"
       }
+    },
+    {
+      "id": "stateline-fairbanks-morse-defense-dependent-watch",
+      "name": "Fairbanks Morse Defense Dependent Scholarship · reopening watch",
+      "org": "Stateline Community Foundation",
+      "url": "https://statelinecf.org/scholarship/fairbanks-morse-defense-dependent-scholarship/",
+      "amount": "Amount not published",
+      "value": 0,
+      "status": "closed",
+      "deadline": null,
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "school",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "requirements": "Biological, step or adopted dependent child of a FULL-TIME Fairbanks Morse Defense employee. Foundation explicitly provides a separate application for applicants outside the Stateline Area, including otherwise eligible NJ applicants. Education: planning FULL-TIME first-year/freshman attendance at a TWO- OR FOUR-YEAR technical school, college or university in the upcoming school year. This describes the institution, not an explicit 24-month enrollment rule or an associate-degree guarantee. No required major or previously completed degree is published. AIM NJ’s 21-month nondegree certificate and school classification require provider confirmation; existing enrollment alone does not establish first-year eligibility.",
+      "group": null,
+      "ai": "unknown",
+      "kind": "scholarship",
+      "note": "Reopening watch, not a confirmed open round. Foundation publishes an annual December 1–February 15 window, also shown on its October 2026 flyer and portal. The next individual application terms/year have not been verified; no cycle deadline is assigned here. Foundation describes payment to the accredited institution after required award documentation. Individual amount is unpublished. Academic record, extracurricular activities and community involvement are considered. Use the dedicated Fairbanks Morse Defense Dependent Application if outside the Stateline Area. Outside confirmed AIM counts.",
+      "reviewed": "2026-11-28",
+      "added": "2026-11-28",
+      "provider": "foundation",
+      "relocation": false,
+      "career": "none",
+      "fit": "degree-check",
+      "recurring": true,
+      "monetaryAward": true,
+      "references": [
+        "https://statelinecf.org/scholarships-info/",
+        "https://www.grantinterface.com/Home/Logon?urlkey=statelinecf",
+        "https://statelinecf.org/wp-content/uploads/2026/10/2026-scholarship-flyer.pdf"
+      ],
+      "eligibility": {
+        "citizenship": "No citizenship or immigration-status condition is published on the award page; confirm current application terms.",
+        "age": "No numerical age limit is published; education and applicant-stage conditions apply.",
+        "source": "https://statelinecf.org/scholarship/fairbanks-morse-defense-dependent-scholarship/"
+      }
+    },
+    {
+      "id": "stateline-michael-g-finnegan-watch",
+      "name": "Michael G. Finnegan Scholarship · reopening watch",
+      "org": "Stateline Community Foundation",
+      "url": "https://statelinecf.org/scholarship/michael-g-finnegan-scholarship/",
+      "amount": "Amount not published",
+      "value": 0,
+      "status": "closed",
+      "deadline": null,
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "school",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "requirements": "HIGH-SCHOOL SENIOR who has lived in an affordable-housing property for at least TWO YEARS and will attend an accredited college, technical school or university in the fall of high-school graduation. Foundation explicitly accepts out-of-area applicants through a separate application, so NJ is not excluded. Education: accredited technical-school attendance is accepted; no specific degree level, major or previously earned degree is required by the public criteria. Exact AIM NJ certificate approval and qualifying housing documentation should be confirmed in the current application. This is not a general award for students already beyond the high-school-senior stage.",
+      "group": null,
+      "ai": "unknown",
+      "kind": "scholarship",
+      "note": "Reopening watch, not a confirmed open round. Foundation publishes an annual December 1–February 15 window, also shown on its October 2026 flyer and portal. The next individual application terms/year have not been verified; no cycle deadline is assigned here. Foundation describes payment to the accredited institution after required award documentation. Individual amount is unpublished. Created by the Related Affordable Foundation and the Finnegan family. Use the dedicated Michael G. Finnegan Application if outside the Stateline Area. No employer relationship is stated in the public criteria. Outside confirmed current AIM counts.",
+      "reviewed": "2026-11-28",
+      "added": "2026-11-28",
+      "provider": "foundation",
+      "relocation": false,
+      "career": "none",
+      "fit": "other-program",
+      "recurring": true,
+      "monetaryAward": true,
+      "references": [
+        "https://statelinecf.org/scholarships-info/",
+        "https://www.grantinterface.com/Home/Logon?urlkey=statelinecf",
+        "https://statelinecf.org/wp-content/uploads/2026/10/2026-scholarship-flyer.pdf"
+      ],
+      "eligibility": {
+        "citizenship": "No citizenship or immigration-status condition is published on the award page; confirm current application terms.",
+        "age": "No numerical age limit is published; education and applicant-stage conditions apply.",
+        "source": "https://statelinecf.org/scholarship/michael-g-finnegan-scholarship/"
+      }
+    },
+    {
+      "id": "stateline-noah-morris-memorial-watch",
+      "name": "Noah Morris Memorial Scholarship · reopening watch",
+      "org": "Stateline Community Foundation",
+      "url": "https://statelinecf.org/scholarship/noah-morris-memorial-scholarship/",
+      "amount": "Amount not published",
+      "value": 0,
+      "status": "closed",
+      "deadline": null,
+      "opens": null,
+      "geo": "national",
+      "states": [],
+      "benefit": "school",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "requirements": "Young person who has EXHIBITED SWINE and is a member of Team Purebred or NJSA. Education: pursuing an AGRICULTURE DEGREE while attending a technical school, junior college or community college; exact degree level is not specified. No previously completed degree requirement or prior-degree exclusion is published. Foundation explicitly provides a separate application for out-of-area applicants, including otherwise eligible NJ residents. AIM NJ aircraft-maintenance certificate enrollment does not satisfy the stated agriculture-degree requirement.",
+      "group": null,
+      "ai": "unknown",
+      "kind": "scholarship",
+      "note": "Reopening watch, not a confirmed open round. Foundation publishes an annual December 1–February 15 window, also shown on its October 2026 flyer and portal. The next individual application terms/year have not been verified; no cycle deadline is assigned here. Foundation describes payment to the accredited institution after required award documentation. Individual amount is unpublished. Use the dedicated Noah Morris Memorial Application if outside the Stateline Area. No job benefit is promised. Outside confirmed AIM counts.",
+      "reviewed": "2026-11-28",
+      "added": "2026-11-28",
+      "provider": "foundation",
+      "relocation": false,
+      "career": "none",
+      "fit": "degree-check",
+      "recurring": true,
+      "monetaryAward": true,
+      "references": [
+        "https://statelinecf.org/scholarships-info/",
+        "https://www.grantinterface.com/Home/Logon?urlkey=statelinecf",
+        "https://statelinecf.org/wp-content/uploads/2026/10/2026-scholarship-flyer.pdf"
+      ],
+      "eligibility": {
+        "citizenship": "No citizenship or immigration-status condition is published on the award page; confirm current application terms.",
+        "age": "No numerical age limit is published; education and applicant-stage conditions apply.",
+        "source": "https://statelinecf.org/scholarship/noah-morris-memorial-scholarship/"
+      }
+    },
+    {
+      "id": "asme-community-technical-associate-scholarships-2027",
+      "name": "ASME Community College / Technical / Associate Scholarships · 2027–28",
+      "org": "ASME Foundation",
+      "url": "https://www.asme.org/asme-programs/students-and-faculty/scholarships/community-college-2-year-associates",
+      "amount": "Varies by matched scholarship",
+      "value": 0,
+      "status": "upcoming",
+      "deadline": "2027-02-13",
+      "opens": "2026-12-01",
+      "geo": "national",
+      "states": [],
+      "benefit": "school",
+      "gender": "all",
+      "community": [],
+      "veteran": false,
+      "parent": false,
+      "minAge": null,
+      "maxAge": null,
+      "stage": "student",
+      "requirements": "Current ASME student member in good standing pursuing MECHANICAL ENGINEERING, MECHANICAL ENGINEERING TECHNOLOGY or general engineering with a mechanical emphasis/closely related discipline at a community college, two-year technical college or associate-degree program. Applications may begin in the first semester of the second year for the following academic year. U.S. students may attend part-time. Minimum 2.5 college GPA with at least one semester transcript; related majors need at least 25% of semester credits in mechanical-engineering, engineering-technology or engineering-AS departments. The U.S. eligibility section requires regional accreditation or ABET; confirm any national-only accreditation against the broader wording elsewhere on the page. Education: qualifying CURRENT engineering-degree study is required, not merely a previously earned degree. Transfer applicants must plan a qualifying engineering program. AIM NJ’s 21-month A&P certificate is not verified as an eligible engineering degree or two-year institution.",
+      "group": "asme-universal-scholarships",
+      "ai": "unknown",
+      "kind": "scholarship",
+      "note": "Announced opening December 1, 2026 for 2027–28 study starting September 2027. Technical/associate page specifies February 13, 2027 application and February 19 recommendation deadlines; the separate four-year page lists February 15, so verify the correct track in the portal. One shared application matches named awards, including women-focused and general awards with additional criteria; individual amounts/GPA/financial-need rules vary. Domestic checks are school-payable, normally sent by September 1; no money to students. NJ applicants are not excluded by the U.S. school rules. Outside confirmed AIM counts.",
+      "reviewed": "2026-11-28",
+      "added": "2026-11-28",
+      "provider": "foundation",
+      "relocation": false,
+      "career": "none",
+      "fit": "degree-check",
+      "recurring": true,
+      "monetaryAward": true,
+      "references": [
+        "https://www.asme.org/asme-programs/students-and-faculty/scholarships",
+        "https://www.asme.org/asme-programs/students-and-faculty/scholarships/scholarships",
+        "https://www.asme.org/asme-programs/students-and-faculty/scholarships/4-year-baccalaureate-graduate-students"
+      ],
+      "eligibility": {
+        "citizenship": "U.S.-school rules and international-study rules differ; named scholarships can impose citizenship/geographic conditions. No blanket U.S.-citizenship requirement is stated for this track.",
+        "age": "No blanket numerical age limit is published; current education-stage conditions apply.",
+        "source": "https://www.asme.org/asme-programs/students-and-faculty/scholarships/community-college-2-year-associates"
+      }
     }
   ],
   "resources": [
@@ -17776,6 +17952,16 @@
         "hiddenReason": null,
         "evaluatedOn": "2026-11-27"
       }
+    },
+    {
+      "name": "Stateline Community Foundation — out-of-area scholarship routes",
+      "url": "https://statelinecf.org/scholarships-info/",
+      "note": "Separate out-of-area applications are explicitly available for Fairbanks Morse Defense dependents, Michael G. Finnegan affordable-housing high-school seniors and Noah Morris agriculture/swine-showing applicants. Other foundation awards generally serve the Stateline Area. Annual December 1–February 15 window is published; verify the next individual cycle before treating any watch as open. Amounts and additional application conditions need confirmation."
+    },
+    {
+      "name": "ASME — engineering and technical-degree scholarship applications",
+      "url": "https://www.asme.org/asme-programs/students-and-faculty/scholarships",
+      "note": "2027–28 application opening announced for December 1. Mechanical-engineering/technology degree and school-accreditation rules apply; technical/associate and four-year tracks publish different application deadlines. Shared application includes general and women-focused named awards. A previous degree does not replace required current engineering enrollment, and AIM A&P certificate approval is not established."
     }
   ],
   "notes": [
